@@ -5,9 +5,9 @@ import requests
 
 # 1. The list of crypto news feeds we want to listen to
 RSS_FEEDS = [
-    "https://cointelegraph.com/rss",
-    "https://www.coindesk.com/arc/outboundfeeds/rss/",
-    "https://decrypt.co/feed"
+    "[https://cointelegraph.com/rss](https://cointelegraph.com/rss)",
+    "[https://www.coindesk.com/arc/outboundfeeds/rss/](https://www.coindesk.com/arc/outboundfeeds/rss/)",
+    "[https://decrypt.co/feed](https://decrypt.co/feed)"
 ]
 
 def ask_gemini_ai(title, description):
@@ -17,15 +17,14 @@ def ask_gemini_ai(title, description):
         print("Missing Gemini API Key!")
         return None
 
-    # Secure endpoint URL configuration passing the password directly
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=){api_key}"
     headers = {'Content-Type': 'application/json'}
 
     prompt = (
         f"You are a crypto news editor. Analyze this headline and description:\n"
         f"Title: {title}\nDescription: {description}\n\n"
         f"Task:\n"
-        f"1. Rate the importance of this news from 1 to 10 (10 being market-changing like BTC hitting a new ATH).\n"
+        f"1. Rate the importance of this news from 1 to 10.\n"
         f"2. Summarize it clearly in exactly 2 sentences.\n"
         f"Respond ONLY in this exact JSON format, nothing else:\n"
         f'{{"importance": 8, "summary": "Your 2-sentence summary here"}}'
@@ -37,18 +36,14 @@ def ask_gemini_ai(title, description):
         response = requests.post(url, headers=headers, json=data, timeout=10)
         result = response.json()
         
-        # Safe log parsing to spot any active authentication locks
         if "candidates" not in result:
             print(f"Gemini API Error Response: {result}")
             return None
             
         raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
         
-        # Clean up any potential markdown wrapper code formatting if Gemini adds it
-        if raw_text.startswith("```json"):
-            raw_text = raw_text.replace("```json", "").replace("```", "").strip()
-        elif raw_text.startswith("```"):
-            raw_text = raw_text.replace("```", "").strip()
+        # REMOVE ANY MARKDOWN BLOCKS COMPLETELY
+        raw_text = raw_text.replace("```json", "").replace("```", "").strip()
             
         return json.loads(raw_text)
     except Exception as e:
@@ -63,24 +58,22 @@ def run_scraper():
         print(f"Checking feed: {feed_url}")
         try:
             feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:5]:  # Look at the top 5 freshest articles
+            for entry in feed.entries[:5]:
                 title = entry.get("title", "")
                 description = entry.get("summary", "")
                 link = entry.get("link", "")
                 published = entry.get("published", "Just now")
 
                 print(f"\nNew headline found: {title}")
-                print("Asking Gemini AI to evaluate...")
                 
                 ai_analysis = ask_gemini_ai(title, description)
                 
                 if ai_analysis and isinstance(ai_analysis, dict):
-                    importance = int(ai_analysis.get("importance", 1))
+                    importance = int(ai_analysis.get("importance", 5))
                     summary = ai_analysis.get("summary", "No summary provided.")
                     
                     print(f"-> Success! Importance Score: {importance}/10")
                     
-                    # Store everything matching our database layout
                     all_stories.append({
                         "title": title,
                         "link": link,
@@ -93,10 +86,9 @@ def run_scraper():
         except Exception as e:
             print(f"Error checking stream link {feed_url}: {e}")
 
-    # Keep all found stories and sort them so the most important ones are on top
-important_stories = sorted(all_stories, key=lambda x: x.get("importance", 0), reverse=True)[:10]
+    # Sort stories by highest importance score first and keep the top 10
+    important_stories = sorted(all_stories, key=lambda x: x.get("importance", 0), reverse=True)[:10]
 
-    # Write data straight to our local file layout
     with open("news.json", "w") as f:
         json.dump(important_stories, f, indent=4)
         
