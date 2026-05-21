@@ -93,9 +93,8 @@ def run_scraper():
         except Exception as e:
             print(f"Error checking stream link {feed_url}: {e}")
 
-    # Keep only important entries and sort by highest market weight
-    important_stories = [s for s in all_stories if s["importance"] >= 4]
-    important_stories = sorted(important_stories, key=lambda x: x["importance"], reverse=True)[:10]
+    # Keep all found stories and sort them so the most important ones are on top
+important_stories = sorted(all_stories, key=lambda x: x.get("importance", 0), reverse=True)[:10]
 
     # Write data straight to our local file layout
     with open("news.json", "w") as f:
