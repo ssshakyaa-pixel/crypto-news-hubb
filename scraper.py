@@ -18,12 +18,11 @@ def ask_gemini_ai(title, description):
         print("Missing Gemini API Key!")
         return None
 
-   url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-
-headers = {
-    'Content-Type': 'application/json',
-    'x-goog-api-key': api_key
-}
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+    headers = {
+        'Content-Type': 'application/json',
+        'x-goog-api-key': api_key
+    }
     
     # We instruct the AI exactly how to respond
     prompt = (
