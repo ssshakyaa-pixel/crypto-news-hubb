@@ -1,13 +1,14 @@
 import os
 import json
+import re
 import feedparser
 import requests
 
 # 1. The list of crypto news feeds we want to listen to
 RSS_FEEDS = [
-    "[https://cointelegraph.com/rss](https://cointelegraph.com/rss)",
-    "[https://www.coindesk.com/arc/outboundfeeds/rss/](https://www.coindesk.com/arc/outboundfeeds/rss/)",
-    "[https://decrypt.co/feed](https://decrypt.co/feed)"
+    "https://cointelegraph.com/rss",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://decrypt.co/feed"
 ]
 
 def ask_gemini_ai(title, description):
@@ -17,7 +18,7 @@ def ask_gemini_ai(title, description):
         print("Missing Gemini API Key!")
         return None
 
-    url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=){api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     headers = {'Content-Type': 'application/json'}
 
     prompt = (
@@ -42,10 +43,16 @@ def ask_gemini_ai(title, description):
             
         raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
         
-        # REMOVE ANY MARKDOWN BLOCKS COMPLETELY
-        raw_text = raw_text.replace("```json", "").replace("```", "").strip()
+        # SOURGICAL FIX: Use Regex to find the opening '{' and closing '}' 
+        # This completely ignores any extra conversational text or markdown blocks!
+        match = re.search(r'\{.*\}', raw_text, re.DOTALL)
+        if match:
+            clean_json_text = match.group(0)
+            return json.loads(clean_json_text)
+        else:
+            print(f"Could not find valid JSON block in raw text: {raw_text}")
+            return None
             
-        return json.loads(raw_text)
     except Exception as e:
         print(f"AI processing failed parsing layout: {e}")
         return None
