@@ -18,41 +18,36 @@ def ask_gemini_ai(title, description):
         print("Missing Gemini API Key!")
         return None
 
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-    headers = {
-        'Content-Type': 'application/json',
-        'x-goog-api-key': api_key
-    }
-    
-    # We instruct the AI exactly how to respond
+    # Bulletproof endpoint configuration for automated API keys
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    headers = {'Content-Type': 'application/json'}
+
     prompt = (
         f"You are a crypto news editor. Analyze this headline and description:\n"
         f"Title: {title}\nDescription: {description}\n\n"
         f"Task:\n"
-        f"1. Rate the importance of this news from 1 to 10 (10 being market-changing like BTC hitting a new all-time high).\n"
+        f"1. Rate the importance of this news from 1 to 10 (10 being market-changing like BTC hitting a new ATH).\n"
         f"2. Summarize it clearly in exactly 2 sentences.\n"
         f"Respond ONLY in this exact JSON format, nothing else:\n"
         f'{{"importance": 8, "summary": "Your 2-sentence summary here"}}'
     )
-    
+
     data = {"contents": [{"parts": [{"text": prompt}]}]}
-    
+
     try:
-        response = requests.post(url, headers=headers, json=data)
+        response = requests.post(url, headers=headers, json=data, timeout=10)
         result = response.json()
-        ai_text = result['contents'][0]['parts'][0]['text'].strip()
-        # Clean up any markdown code blocks the AI might mistakenly add
-        if ai_text.startswith("```"):
-            ai_text = ai_text.split("```")[1].replace("json", "").strip()
-        return json.loads(ai_text)
+        
+        # Security safety net to read error logs if key fails
+        if "candidates" not in result:
+            print(f"Gemini API Error Response: {result}")
+            return None
+            
+        raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
+        return json.loads(raw_text)
     except Exception as e:
         print(f"AI processing failed: {e}")
         return None
-
-def run_scraper():
-    print("Starting Crypto Hub News Robot...")
-    
-    # Load existing news if file exists
     if os.path.exists("news.json"):
         with open("news.json", "r") as f:
             try:
