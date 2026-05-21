@@ -11,63 +11,56 @@ RSS_FEEDS = [
 ]
 
 def ask_gemini_ai(title, description):
+    """Sends headline to Gemini using a clean, standard text request format."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Missing Gemini API Key!")
         return None
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
-    
-    # Force Gemini to return pure JSON that matches our exact schema structure
-    payload = {
-        "contents": [{
-            "parts": [{
-                "text": f"Analyze this crypto news item.\nTitle: {title}\nDescription: {description}"
-            }]
-        }],
-        "generationConfig": {
-            "responseMimeType": "application/json",
-            "responseSchema": {
-                "type": "OBJECT",
-                "properties": {
-                    "importance": {
-                        "type": "INTEGER",
-                        "description": "Rate the importance of this news from 1 to 10."
-                    },
-                    "summary": {
-                        "type": "STRING",
-                        "description": "A precise summary of the news in exactly two sentences."
-                    }
-                },
-                "required": ["importance", "summary"]
-            }
-        }
-    }
-
     headers = {'Content-Type': 'application/json'}
 
+    # We ask Gemini to give us clean text separated by a special divider symbol (||)
+    prompt = (
+        f"Analyze this crypto headline:\nTitle: {title}\nDescription: {description}\n\n"
+        f"Provide your response in exactly this format, with no markdown, no code blocks, and no extra text:\n"
+        f"Score || Summary\n\n"
+        f"Example:\n"
+        f"7 || Bitcoin breaks key resistance level and targets new highs."
+    )
+
+    payload = {
+        "contents": [{
+            "parts": [{"text": prompt}]
+        }]
+    }
+
     try:
-        response = requests.post(url, headers=headers, json=payload, timeout=12)
+        response = requests.post(url, headers=headers, json=payload, timeout=10)
         result = response.json()
         
-        if "error" in result:
-            print(f"Google API Error: {result['error'].get('message')}")
+        if "candidates" not in result:
             return None
             
-        # Because we enforced the schema, this text is guaranteed to be clean JSON
         raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
-        return json.loads(raw_text)
         
-    except Exception as e:
-        print(f"Skipped article due to network/parsing exception: {e}")
-        return None
+        # Split the text by our custom divider symbol
+        if "||" in raw_text:
+            parts = raw_text.split("||")
+            importance = int(parts[0].strip())
+            summary = parts[1].strip()
+            return {"importance": importance, "summary": summary}
+            
+    except Exception:
+        pass
+    return None
 
 def run_scraper():
-    print("Starting Crypto Hub News Robot...")
+    print("Starting Simplified Crypto Hub News Robot...")
     all_stories = []
 
     for feed_url in RSS_FEEDS:
-        print(f"\nChecking feed target: {feed_url}")
+        print(f"Checking feed: {feed_url}")
         try:
             feed = feedparser.parse(feed_url)
             # Process the top 3 freshest items from each source
@@ -77,38 +70,41 @@ def run_scraper():
                 link = entry.get("link", "")
                 published = entry.get("published", "Just now")
 
-                print(f"Processing headline: {title[:60]}...")
+                print(f"Processing: {title[:50]}...")
                 
                 ai_analysis = ask_gemini_ai(title, description)
                 
+                # If AI works, use it. If it fails, keep the story anyway using a default score!
                 if ai_analysis and isinstance(ai_analysis, dict):
-                    importance = int(ai_analysis.get("importance", 5))
-                    summary = ai_analysis.get("summary", "Market update processed.")
-                    print(f"-> SUCCESS! Importance: {importance}/10")
-                    
-                    all_stories.append({
-                        "title": title,
-                        "link": link,
-                        "time": published,
-                        "importance": importance,
-                        "summary": summary
-                    })
+                    importance = ai_analysis.get("importance", 5)
+                    summary = ai_analysis.get("summary", title)
+                    print(f"-> AI Parsed successfully! Score: {importance}")
                 else:
-                    print("-> Article skipped.")
+                    importance = 5
+                    summary = title
+                    print("-> AI skipped or limited, using fallback layout.")
+
+                all_stories.append({
+                    "title": title,
+                    "link": link,
+                    "time": published,
+                    "importance": int(importance),
+                    "summary": summary
+                })
                 
-                # A safe 3-second delay to protect your free tier API limit
-                time.sleep(3)
+                # Wait 2 seconds between requests to protect your rate limits
+                time.sleep(2)
                 
         except Exception as e:
-            print(f"Error reading feed {feed_url}: {e}")
+            print(f"Error checking stream: {e}")
 
-    # Sort stories so the highest importance items sit right at the top
-    final_list = sorted(all_stories, key=lambda x: x.get("importance", 0), reverse=True)[:10]
+    # Sort stories by highest importance score first
+    final_list = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:10]
 
     with open("news.json", "w") as f:
         json.dump(final_list, f, indent=4)
         
-    print(f"\nExecution finished! Saved {len(final_list)} entries directly into news.json.")
+    print(f"\nFinished! Saved {len(final_list)} entries directly into news.json.")
 
 if __name__ == "__main__":
     run_scraper()
