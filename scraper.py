@@ -2,9 +2,8 @@ import os
 import json
 import feedparser
 import requests
-from datetime import datetime
 
-# 1. List of Crypto News RSS Feeds to monitor
+# 1. The list of crypto news feeds we want to listen to
 RSS_FEEDS = [
     "https://cointelegraph.com/rss",
     "https://www.coindesk.com/arc/outboundfeeds/rss/",
@@ -18,7 +17,7 @@ def ask_gemini_ai(title, description):
         print("Missing Gemini API Key!")
         return None
 
-    # Bulletproof endpoint configuration for automated API keys
+    # Secure endpoint URL configuration passing the password directly
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     headers = {'Content-Type': 'application/json'}
 
@@ -38,71 +37,71 @@ def ask_gemini_ai(title, description):
         response = requests.post(url, headers=headers, json=data, timeout=10)
         result = response.json()
         
-        # Security safety net to read error logs if key fails
+        # Safe log parsing to spot any active authentication locks
         if "candidates" not in result:
             print(f"Gemini API Error Response: {result}")
             return None
             
         raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
+        
+        # Clean up any potential markdown wrapper code formatting if Gemini adds it
+        if raw_text.startswith("```json"):
+            raw_text = raw_text.replace("```json", "").replace("```", "").strip()
+        elif raw_text.startswith("```"):
+            raw_text = raw_text.replace("```", "").strip()
+            
         return json.loads(raw_text)
     except Exception as e:
-        print(f"AI processing failed: {e}")
+        print(f"AI processing failed parsing layout: {e}")
         return None
-    if os.path.exists("news.json"):
-        with open("news.json", "r") as f:
-            try:
-                all_news = json.load(f)
-            except:
-                all_news = []
-    else:
-        all_news = []
 
-    # Keep track of existing links to prevent duplicates
-    existing_links = {item['link'] for item in all_news}
-    new_stories = []
+def run_scraper():
+    print("Starting Crypto Hub News Robot...")
+    all_stories = []
 
-    # Read news feeds
-    for url in RSS_FEEDS:
-        print(f"Checking feed: {url}")
-        feed = feedparser.parse(url)
-        
-        # Look at the top 5 newest articles from each feed
-        for entry in feed.entries[:5]:
-            link = entry.get("link")
-            if link in existing_links:
-                continue # Skip if we already saved this article before
+    for feed_url in RSS_FEEDS:
+        print(f"Checking feed: {feed_url}")
+        try:
+            feed = feedparser.parse(feed_url)
+            for entry in feed.entries[:5]:  # Look at the top 5 freshest articles
+                title = entry.get("title", "")
+                description = entry.get("summary", "")
+                link = entry.get("link", "")
+                published = entry.get("published", "Just now")
+
+                print(f"\nNew headline found: {title}")
+                print("Asking Gemini AI to evaluate...")
                 
-            title = entry.get("title", "")
-            description = entry.get("summary", "")
-            
-            print(f"New headline found: {title}")
-            print("Asking Gemini AI to evaluate...")
-            
-            ai_analysis = ask_gemini_ai(title, description)
-            
-            if ai_analysis and isinstance(ai_analysis, dict):
-                # Only keep stories that are moderately to highly important (score 5 or higher)
-                if int(ai_analysis.get("importance", 0)) >= 5:
-                    story = {
+                ai_analysis = ask_gemini_ai(title, description)
+                
+                if ai_analysis and isinstance(ai_analysis, dict):
+                    importance = int(ai_analysis.get("importance", 1))
+                    summary = ai_analysis.get("summary", "No summary provided.")
+                    
+                    print(f"-> Success! Importance Score: {importance}/10")
+                    
+                    # Store everything matching our database layout
+                    all_stories.append({
                         "title": title,
                         "link": link,
-                        "summary": ai_analysis.get("summary", ""),
-                        "importance": ai_analysis.get("importance", 5),
-                        "time": datetime.now().strftime("%Y-%m-%d %H:%M")
-                    }
-                    new_stories.append(story)
-                    existing_links.add(link)
+                        "time": published,
+                        "importance": importance,
+                        "summary": summary
+                    })
+                else:
+                    print("-> Skipped item due to processing issue.")
+        except Exception as e:
+            print(f"Error checking stream link {feed_url}: {e}")
 
-    # Combine new stories with old stories
-    all_news = new_stories + all_news
-    
-    # Limit database to only keep the top 30 most recent stories
-    all_news = all_news[:30]
+    # Keep only important entries and sort by highest market weight
+    important_stories = [s for s in all_stories if s["importance"] >= 4]
+    important_stories = sorted(important_stories, key=lambda x: x["importance"], reverse=True)[:10]
 
-    # Save everything back to news.json
+    # Write data straight to our local file layout
     with open("news.json", "w") as f:
-        json.dump(all_news, indent=4, fp=f)
-    print(f"Success! Added {len(new_stories)} new important stories.")
+        json.dump(important_stories, f, indent=4)
+        
+    print(f"\nExecution finished! Saved {len(important_stories)} updates to database.")
 
 if __name__ == "__main__":
     run_scraper()
