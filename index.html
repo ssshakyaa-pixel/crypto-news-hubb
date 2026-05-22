@@ -3,115 +3,176 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crypto Hub News | Automated Real-Time Updates</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Crypto News - Live Market Terminal</title>
+    <!-- Tailwind CSS Engine -->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
-        /* Accent Colors Customization */
-        .bg-crypto-dark { background-color: #0d1117; }
-        .text-crypto-green { color: #10B981; }
-        .bg-crypto-green { background-color: #10B981; }
-        .text-crypto-yellow { color: #FBBF24; }
-        .border-crypto-yellow { border-color: #FBBF24; }
+        /* Custom styling matching the Green, Yellow, and White palette */
+        .brand-card {
+            background: linear-gradient(145deg, #0b1a13, #050d09);
+            border: 1px solid #14532d; /* Green Border */
+            transition: all 0.3s ease;
+        }
+        .brand-card:hover {
+            border-color: #facc15; /* Yellow highlight on hover */
+            box-shadow: 0 0 15px rgba(250, 204, 21, 0.15);
+            transform: translateY(-2px);
+        }
     </style>
 </head>
-<body class="bg-crypto-dark text-white font-sans min-h-screen">
+<body class="bg-[#020604] text-white min-h-screen font-sans">
 
-    <header class="border-b border-gray-800 bg-gray-900 sticky top-0 z-50">
-        <div class="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
-            <div class="flex items-center gap-2">
-                <div class="w-8 h-8 rounded-full bg-crypto-green flex items-center justify-center font-bold text-black text-xl">₿</div>
-                <h1 class="text-2xl font-black tracking-tight">
-                    CRYPTO <span class="text-crypto-yellow">HUB</span> <span class="text-crypto-green">NEWS</span>
-                </h1>
-            </div>
+    <!-- Brand Header Section -->
+    <header class="border-b border-green-900 bg-[#060f0b]/80 backdrop-blur sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 py-5 flex flex-col sm:flex-row justify-between items-center gap-4">
+            
+            <!-- Brand Identity -->
             <div class="flex items-center gap-3">
-                <span class="w-3 h-3 rounded-full bg-crypto-green animate-pulse"></span>
-                <p class="text-sm text-gray-400 font-medium">Automated AI AI-driven Updates</p>
+                <div class="bg-yellow-400 text-black px-3 py-1.5 rounded font-black tracking-tighter text-2xl shadow-md">
+                    CN
+                </div>
+                <div>
+                    <h1 class="text-2xl font-black tracking-tight text-white uppercase">
+                        Crypto <span class="text-yellow-400">News</span>
+                    </h1>
+                    <p class="text-xs text-green-400 font-mono tracking-widest">LIVE INTELLIGENCE MATRIX</p>
+                </div>
             </div>
+            
+            <!-- Navigation Filters -->
+            <div class="flex bg-[#020604] p-1 rounded border border-green-900 font-mono text-xs">
+                <button onclick="filterNews('all')" id="btn-all" class="px-4 py-2 rounded font-bold bg-green-600 text-white transition-all cursor-pointer">
+                    All News
+                </button>
+                <button onclick="filterNews('high')" id="btn-high" class="px-4 py-2 rounded font-bold text-green-400 hover:text-yellow-400 transition-all cursor-pointer">
+                    ⚡ High Importance
+                </button>
+            </div>
+
         </div>
     </header>
 
-    <main class="max-w-6xl mx-auto px-4 py-8">
+    <!-- Main Live Feed Container -->
+    <main class="max-w-6xl mx-auto px-4 py-10">
         
-        <div class="mb-10 p-6 rounded-2xl bg-gradient-to-r from-gray-900 to-black border border-gray-800">
-            <h2 class="text-xl sm:text-2xl font-bold text-white mb-2">Welcome to Crypto Hub News</h2>
-            <p class="text-gray-400 max-w-2xl text-sm sm:text-base">
-                Our automated system scans global feeds every 2 hours. Google Gemini AI filters out the noise, scores importance, and summarizes only the critical events moving the blockchain markets.
-            </p>
+        <!-- Animated System Loading Loader -->
+        <div id="loading" class="flex flex-col items-center justify-center py-20 gap-4">
+            <div class="w-8 h-8 border-4 border-yellow-400 border-t-transparent rounded-full animate-spin"></div>
+            <p class="text-xs text-green-500 font-mono uppercase tracking-wider">Syncing blockchain feeds...</p>
         </div>
 
-        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div id="loading-text" class="text-center py-10 col-span-full">
-                <p class="text-crypto-yellow text-lg animate-bounce">Loading latest market insights...</p>
-            </div>
+        <!-- Dynamic Content Feed Grid -->
+        <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6 hidden">
+            <!-- News items fill up right here -->
         </div>
+        
+        <!-- Empty Database State Fallback -->
+        <div id="empty-state" class="hidden text-center py-20 border border-dashed border-green-900 rounded-2xl">
+            <p class="text-yellow-400 font-mono text-sm">No high importance updates logged in this block period.</p>
+        </div>
+
     </main>
 
-    <footer class="border-t border-gray-800 bg-gray-900 mt-20 py-6 text-center text-sm text-gray-500">
-        <p>© 2026 Crypto Hub News. Fully automated layout. Powered by Gemini AI.</p>
+    <!-- Brand Footer -->
+    <footer class="border-t border-green-950 bg-[#030a06] text-center py-6 mt-20 text-xs text-green-600 font-mono uppercase tracking-wider">
+        &copy; 2026 <span class="text-white">Crypto</span> <span class="text-yellow-400">News</span> Terminal. Powered by Netlify continuous deployment.
     </footer>
 
+    <!-- Main System Core JavaScript Processing Engine -->
     <script>
-        // Fetch news data dynamically from news.json
-        async function fetchCryptoNews() {
+        let cachedStories = [];
+
+        async function fetchFeedMatrix() {
             try {
-                const response = await fetch('news.json');
-                const newsData = await response.json();
+                // Dynamically fetch updates without local cache interference
+                const response = await fetch('news.json?t=' + new Date().getTime());
+                cachedStories = await response.json();
                 
-                const container = document.getElementById('news-container');
-                const loadingText = document.getElementById('loading-text');
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('news-grid').classList.remove('hidden');
                 
-                // Remove loading message
-                if (loadingText) loadingText.remove();
-
-                if (newsData.length === 0) {
-                    container.innerHTML = `
-                        <div class="text-center py-10 col-span-full text-gray-400">
-                            No breaking news items cataloged yet. Check back following the next cycle sync!
-                        </div>`;
-                    return;
-                }
-
-                // Loop through stories and display them beautifully
-                newsData.forEach(story => {
-                    const card = document.createElement('div');
-                    card.className = "bg-gray-900 p-6 rounded-xl border border-gray-800 hover:border-crypto-green transition-all duration-300 flex flex-col justify-between shadow-lg";
-                    
-                    card.innerHTML = `
-                        <div>
-                            <div class="flex justify-between items-center mb-4">
-                                <span class="text-xs text-gray-400 font-mono">${story.time}</span>
-                                <span class="px-2 py-1 text-xs font-bold rounded bg-black text-crypto-yellow border border-crypto-yellow">
-                                    Impact: ${story.importance}/10
-                                </span>
-                            </div>
-                            <h3 class="text-lg font-bold text-white mb-3 hover:text-crypto-green transition-colors">
-                                <a href="${story.link}" target="_blank" rel="noopener noreferrer">${story.title}</a>
-                            </h3>
-                            <p class="text-gray-300 text-sm leading-relaxed mb-4">
-                                ${story.summary}
-                            </p>
-                        </div>
-                        <div class="pt-2">
-                            <a href="${story.link}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-xs font-semibold text-crypto-green hover:underline gap-1">
-                                Read full source article ➔
-                            </a>
-                        </div>
-                    `;
-                    container.appendChild(card);
-                });
-
+                renderFeed(cachedStories);
             } catch (error) {
-                console.error("Error loading news database file:", error);
-                document.getElementById('news-container').innerHTML = `
-                    <div class="text-center py-10 col-span-full text-red-400">
-                        Failed to connect with live news matrix. Please try reloading.
-                    </div>`;
+                console.error("System structural pipeline linking exception:", error);
+                document.getElementById('loading').innerHTML = `
+                    <p class="text-red-400 font-mono text-sm uppercase">Data Linkage Connection Interrupted.</p>
+                `;
             }
         }
 
-        // Initialize display
-        fetchCryptoNews();
+        function renderFeed(stories) {
+            const grid = document.getElementById('news-grid');
+            const empty = document.getElementById('empty-state');
+            grid.innerHTML = '';
+
+            if (stories.length === 0) {
+                grid.classList.add('hidden');
+                empty.classList.remove('hidden');
+                return;
+            } else {
+                grid.classList.remove('hidden');
+                empty.classList.add('hidden');
+            }
+
+            stories.forEach(story => {
+                // Determine layout badging colors based on internal data fields
+                let badgeStyles = "border-green-800 text-green-400 bg-green-950/30";
+                if(story.importance >= 7) {
+                    badgeStyles = "border-yellow-500 text-yellow-400 bg-yellow-400/10 font-black animate-pulse";
+                }
+
+                const cardHtml = `
+                    <article class="brand-card rounded-xl p-6 flex flex-col justify-between group">
+                        <div>
+                            <!-- Metadata Block Layout -->
+                            <div class="flex justify-between items-center gap-4 mb-4">
+                                <span class="text-xs font-mono text-green-500/70">${story.time}</span>
+                                <span class="text-xs font-mono border px-3 py-0.5 rounded font-medium ${badgeStyles}">
+                                    Impact: ${story.importance}/10
+                                </span>
+                            </div>
+                            
+                            <!-- Headline -->
+                            <h2 class="text-xl font-bold text-white group-hover:text-yellow-400 transition-colors line-clamp-2 mb-3">
+                                <a href="${story.link}" target="_blank" rel="noopener noreferrer">${story.title}</a>
+                            </h2>
+                            
+                            <!-- Automated Plain Summary Text -->
+                            <p class="text-sm text-slate-300 font-normal leading-relaxed line-clamp-3">
+                                ${story.summary}
+                            </p>
+                        </div>
+                        
+                        <!-- CTA Direct Redirection Link -->
+                        <div class="mt-6 pt-4 border-t border-green-950 flex justify-end">
+                            <a href="${story.link}" target="_blank" rel="noopener noreferrer" 
+                               class="text-xs font-mono font-bold text-green-400 hover:text-yellow-400 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
+                                ACCESS FEED ORIGINAL &rarr;
+                            </a>
+                        </div>
+                    </article>
+                `;
+                grid.innerHTML += cardHtml;
+            });
+        }
+
+        function filterNews(type) {
+            const btnAll = document.getElementById('btn-all');
+            const btnHigh = document.getElementById('btn-high');
+
+            if(type === 'all') {
+                btnAll.className = "px-4 py-2 rounded font-bold bg-green-600 text-white transition-all cursor-pointer";
+                btnHigh.className = "px-4 py-2 rounded font-bold text-green-400 hover:text-yellow-400 transition-all cursor-pointer";
+                renderFeed(cachedStories);
+            } else if(type === 'high') {
+                btnHigh.className = "px-4 py-2 rounded font-bold bg-green-600 text-white transition-all cursor-pointer";
+                btnAll.className = "px-4 py-2 rounded font-bold text-green-400 hover:text-yellow-400 transition-all cursor-pointer";
+                const filtered = cachedStories.filter(s => s.importance >= 6);
+                renderFeed(filtered);
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", fetchFeedMatrix);
     </script>
 </body>
 </html>
