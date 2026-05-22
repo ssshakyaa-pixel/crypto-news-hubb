@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import re
 import feedparser
 import requests
 
@@ -10,8 +11,21 @@ RSS_FEEDS = [
     "https://decrypt.co/feed"
 ]
 
+def clean_html(raw_html):
+    """Removes HTML tags, image tags, and messy code blocks from RSS feeds."""
+    if not raw_html:
+        return ""
+    # Remove script and style elements
+    clean = re.sub(r'<script.*?>.*?</script>', '', raw_html, flags=re.DOTALL)
+    clean = re.sub(r'<style.*?>.*?</style>', '', clean, flags=re.DOTALL)
+    # Remove all standard HTML tags
+    clean = re.sub(r'<[^>]+>', '', clean)
+    # Fix excess whitespace layout characters
+    clean = " ".join(clean.split())
+    return clean.strip()
+
 def ask_gemini_ai(title, description):
-    """Sends headline to Gemini to generate Score, Summary, and a Unique Briefing."""
+    """Sends clean data to Gemini and strictly extracts text fields."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return None
@@ -19,13 +33,20 @@ def ask_gemini_ai(title, description):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     headers = {'Content-Type': 'application/json'}
 
-    # Updated Prompt: Now explicitly asks for a 3-part response including the briefing
+    # Sanitize inputs before handing them to the AI engine
+    clean_title = clean_html(title)
+    clean_desc = clean_html(description)[:400] # Cap length to avoid token bloating
+
     prompt = (
-        f"Analyze this crypto headline:\nTitle: {title}\nDescription: {description}\n\n"
-        f"Provide your response in exactly this format, with no markdown, no code blocks, and no extra text:\n"
-        f"Score || Summary || Briefing\n\n"
-        f"Example:\n"
-        f"7 || Bitcoin breaks key resistance level. || This breakout was triggered by massive institutional buying pressure on major exchanges. Traders should watch the next resistance zone closely, as high volatility is expected over the next 4 hours."
+        f"Analyze this crypto asset news item:\n"
+        f"Headline: {clean_title}\n"
+        f"Context: {clean_desc}\n\n"
+        f"Write a professional, unique 2-3 sentence market briefing analyzing this news for traders.\n"
+        f"Do not mention any HTML tags. Do not use code blocks.\n"
+        f"Provide your response exactly like this template text format:\n"
+        f"SCORE: 7\n"
+        f"SUMMARY: Simple one sentence summary here.\n"
+        f"BRIEFING: Your multi-sentence market analysis briefing text goes here."
     )
 
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
@@ -36,52 +57,58 @@ def ask_gemini_ai(title, description):
         
         if "candidates" in result:
             raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
-            # Parse the 3 parts separated by "||"
-            if "||" in raw_text:
-                parts = raw_text.split("||")
-                if len(parts) >= 3:
-                    importance = int(parts[0].strip())
-                    summary = parts[1].strip()
-                    briefing = parts[2].strip()
-                    return {"importance": importance, "summary": summary, "briefing": briefing}
-    except Exception:
-        pass
+            
+            importance = 5
+            summary = clean_title
+            briefing = clean_desc
+
+            # Parse lines robustly using text search keys
+            for line in raw_text.split('\n'):
+                if line.upper().startswith("SCORE:"):
+                    try:
+                        importance = int(line.split(":", 1)[1].strip())
+                    except: pass
+                elif line.upper().startswith("SUMMARY:"):
+                    summary = line.split(":", 1)[1].strip()
+                elif line.upper().startswith("BRIEFING:"):
+                    briefing = line.split(":", 1)[1].strip()
+
+            return {"importance": importance, "summary": summary, "briefing": briefing}
+    except Exception as e:
+        print(f"Gemini processing node error: {e}")
     return None
 
 def run_scraper():
-    print("Starting Premium Crypto News Robot...")
+    print("Starting Sanitized Crypto News Terminal Robot...")
     all_stories = []
 
     for feed_url in RSS_FEEDS:
-        print(f"Checking feed target: {feed_url}")
+        print(f"Checking target stream: {feed_url}")
         try:
             feed = feedparser.parse(feed_url)
-            # Increased to take the top 5 items per feed instead of 3
             for entry in feed.entries[:5]:
                 title = entry.get("title", "")
                 description = entry.get("summary", "")
                 link = entry.get("link", "")
                 published = entry.get("published", "Just now")
 
-                print(f"Processing: {title[:50]}...")
+                print(f"Processing: {title[:40]}...")
                 
-                # Ask AI for the 3-part breakdown
                 ai_analysis = ask_gemini_ai(title, description)
                 
-                # Check if AI successfully returned the dictionary with the briefing
                 if ai_analysis and isinstance(ai_analysis, dict):
                     importance = ai_analysis.get("importance", 5)
-                    summary = ai_analysis.get("summary", title)
-                    briefing = ai_analysis.get("briefing", description)
-                    print(f"-> AI Success! Score: {importance}")
+                    summary = ai_analysis.get("summary", clean_html(title))
+                    briefing = ai_analysis.get("briefing", clean_html(description))
+                    print(f"-> Success! Generated Unique AI Briefing.")
                 else:
                     importance = 5
-                    summary = title 
-                    briefing = description  # Fallback to standard description
-                    print("-> AI skipped/limited. Applying database fallback safety.")
+                    summary = clean_html(title)
+                    briefing = clean_html(description)
+                    print("-> Fallback used. Feed description cleaned automatically.")
 
                 all_stories.append({
-                    "title": title,
+                    "title": clean_html(title),
                     "link": link,
                     "time": published,
                     "importance": int(importance),
@@ -89,22 +116,20 @@ def run_scraper():
                     "briefing": briefing
                 })
                 
-                # Wait 2 seconds to protect free API thresholds
                 time.sleep(2)
                 
         except Exception as e:
-            print(f"Error checking stream: {e}")
+            print(f"Stream error: {e}")
 
     if len(all_stories) == 0:
-        print("Warning: No stories found in RSS feeds at all.")
+        print("Empty array stream generated.")
     else:
-        # Sort stories by highest importance score first and keep the top 15
         all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:15]
 
     with open("news.json", "w") as f:
         json.dump(all_stories, f, indent=4)
         
-    print(f"\nFinished! Saved {len(all_stories)} entries directly into news.json.")
+    print(f"\nSaved {len(all_stories)} perfectly cleaned nodes into news.json.")
 
 if __name__ == "__main__":
     run_scraper()
