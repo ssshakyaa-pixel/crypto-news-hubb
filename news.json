@@ -1,24 +1,38 @@
 [
     {
-        "title": "Harvard dumps entire ETH position after just one quarter",
-        "link": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 21 May 2026 22:02:48 +0000",
+        "title": "Verus bridge exploiter returns $8.5M after bounty offer",
+        "link": "https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 22 May 2026 09:32:03 +0000",
         "importance": 5,
-        "summary": "Harvard dumps entire ETH position after just one quarter"
+        "summary": "Verus bridge exploiter returns $8.5M after bounty offer"
     },
     {
-        "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
-        "link": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 21 May 2026 20:48:52 +0000",
+        "title": "Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-record-90-day-uptrend-resembles-bull-market-rally-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 22 May 2026 08:12:28 +0000",
         "importance": 5,
-        "summary": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms"
+        "summary": "Bitcoin price record 90-day uptrend 'resembles bull market rally:' New analysis"
     },
     {
-        "title": "Chance of new Bitcoin lows \u2018extremely slim\u2019 as long-term holders\u2019 supply tops 15M BTC",
-        "link": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 21 May 2026 20:39:54 +0000",
+        "title": "Tokenized stocks risk liquidity and revenue fragmentation: Research",
+        "link": "https://cointelegraph.com/news/tokenized-stocks-risk-liquidity-and-revenue-fragmentation-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 22 May 2026 06:56:35 +0000",
         "importance": 5,
-        "summary": "Chance of new Bitcoin lows \u2018extremely slim\u2019 as long-term holders\u2019 supply tops 15M BTC"
+        "summary": "Tokenized stocks risk liquidity and revenue fragmentation: Research"
+    },
+    {
+        "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
+        "link": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
+        "time": "Fri, 22 May 2026 10:29:48 +0000",
+        "importance": 5,
+        "summary": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report"
+    },
+    {
+        "title": "Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode",
+        "link": "https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode",
+        "time": "Thu, 21 May 2026 23:00:04 +0000",
+        "importance": 5,
+        "summary": "Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode"
     },
     {
         "title": "Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'",
@@ -26,19 +40,5 @@
         "time": "Thu, 21 May 2026 22:08:36 +0000",
         "importance": 5,
         "summary": "Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'"
-    },
-    {
-        "title": "Spotify and Universal Launch AI Remix Tool for Fan-Made Covers",
-        "link": "https://decrypt.co/368710/spotify-universal-ai-remix-tool-fan-made-covers",
-        "time": "Thu, 21 May 2026 21:56:03 +0000",
-        "importance": 5,
-        "summary": "Spotify and Universal Launch AI Remix Tool for Fan-Made Covers"
-    },
-    {
-        "title": "DeepSeek Is Building Its Own Claude Code. Beijing Wants the Whole Stack",
-        "link": "https://decrypt.co/368689/deepseek-code-harness-claude-code-alternative-china-ai",
-        "time": "Thu, 21 May 2026 21:26:04 +0000",
-        "importance": 5,
-        "summary": "DeepSeek Is Building Its Own Claude Code. Beijing Wants the Whole Stack"
     }
 ]
