@@ -2,6 +2,7 @@ import os
 import json
 import time
 import re
+import random  # <-- Added to randomize Telegram images!
 import feedparser
 import requests
 
@@ -11,7 +12,6 @@ RSS_FEEDS = [
     "https://decrypt.co/feed"
 ]
 
-# Shared visual database asset line matching frontend structures
 IMAGE_LIBRARY = [
     "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80",
@@ -19,10 +19,8 @@ IMAGE_LIBRARY = [
 ]
 
 def clean_html(raw_html):
-    """Strips messy formatting strings to optimize text presentation."""
     if not raw_html:
         return ""
-    clean = re.sub(r'<script.*?>.*?</script>', '', raw_html, flags=re.DOTALL)
     clean = re.sub(r'<script.*?>.*?</script>', '', raw_html, flags=re.DOTALL)
     clean = re.sub(r'<style.*?>.*?</style>', '', clean, flags=re.DOTALL)
     clean = re.sub(r'<[^>]+>', '', clean)
@@ -30,7 +28,6 @@ def clean_html(raw_html):
     return clean.strip()
 
 def send_to_telegram_channel(title, briefing, image_url, importance):
-    """Pushes a stylized news block directly to your audience channel."""
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     
@@ -40,7 +37,6 @@ def send_to_telegram_channel(title, briefing, image_url, importance):
 
     url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
     
-    # Stylized layout using native Telegram HTML parsing capabilities
     caption = (
         f"<b>⚡️ {title.upper()}</b>\n\n"
         f"<b>Market Intelligence Briefing:</b>\n"
@@ -51,7 +47,7 @@ def send_to_telegram_channel(title, briefing, image_url, importance):
     payload = {
         "chat_id": chat_id,
         "photo": image_url,
-        "caption": caption[:1000],  # Keeps caption strictly under Telegram limits
+        "caption": caption[:1000],
         "parse_mode": "HTML"
     }
 
@@ -62,10 +58,9 @@ def send_to_telegram_channel(title, briefing, image_url, importance):
         else:
             print(f"-> Telegram Endpoint Alert: {response.text}")
     except Exception as e:
-        print(f"-> Telegram connection connection exception: {e}")
+        print(f"-> Telegram connection exception: {e}")
 
 def ask_gemini_ai(title, description):
-    """Dispatches raw nodes to the model for clean contextual processing."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return None
@@ -149,23 +144,25 @@ def run_scraper():
     if not all_stories:
         return
 
-    # Sort stories by highest analytical weight score first
+    # Sort stories so your website displays the highest impact news first
     all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:15]
 
-    # Save database updates cleanly for the frontend terminal framework
+    # Save exactly as before so your website frontend works flawlessly
     with open("news.json", "w") as f:
         json.dump(all_stories, f, indent=4)
 
-    # Broadcast ONLY the highest-impact trending story to your Telegram channel during this cycle
+    # Grab the #1 highest impact story to send to Telegram
     top_story = all_stories[0]
-    # Filter boundary: Ensure it's important enough to broadcast alert notifications
     if top_story["importance"] >= 6:
         print(f"\nDeploying top market asset to Telegram broadcast feed...")
-        assigned_img = IMAGE_LIBRARY[0] # Matches visual indices
+        
+        # Pick a random stock image from the pool so your channel stays visually exciting
+        random_img = random.choice(IMAGE_LIBRARY) 
+        
         send_to_telegram_channel(
             title=top_story["title"],
             briefing=top_story["briefing"],
-            image_url=assigned_img,
+            image_url=random_img,
             importance=top_story["importance"]
         )
 
