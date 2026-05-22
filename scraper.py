@@ -2,7 +2,7 @@ import os
 import json
 import time
 import re
-import random  # <-- Added to randomize Telegram images!
+import random
 import feedparser
 import requests
 
@@ -19,29 +19,32 @@ IMAGE_LIBRARY = [
 ]
 
 def clean_html(raw_html):
+    """Safely strips out all HTML tags and leaves clean text strings."""
     if not raw_html:
         return ""
-    clean = re.sub(r'<script.*?>.*?</script>', '', raw_html, flags=re.DOTALL)
+    # Safe regex text cleaning strings
+    clean = re.sub(r'<script.*?>.*?</script>', '', str(raw_html), flags=re.DOTALL)
     clean = re.sub(r'<style.*?>.*?</style>', '', clean, flags=re.DOTALL)
     clean = re.sub(r'<[^>]+>', '', clean)
     clean = " ".join(clean.split())
     return clean.strip()
 
 def send_to_telegram_channel(title, briefing, image_url, importance):
+    """Dispatches a structured message layout directly to the target chat ID."""
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     
     if not bot_token or not chat_id:
-        print("Telegram credentials missing from environment. Skipping broadcast channel.")
+        print("Telegram Alert: Credentials missing from environment secrets.")
         return
 
     url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
     
     caption = (
         f"<b>⚡️ {title.upper()}</b>\n\n"
-        f"<b>Market Intelligence Briefing:</b>\n"
+        f"<b>Market Briefing:</b>\n"
         f"{briefing}\n\n"
-        f"<i>📊 Impact Priority Rating: {importance}/10</i>"
+        f"<i>📊 Importance: {importance}/10</i>"
     )
 
     payload = {
@@ -53,14 +56,14 @@ def send_to_telegram_channel(title, briefing, image_url, importance):
 
     try:
         response = requests.post(url, json=payload, timeout=12)
-        if response.status_code == 200:
-            print(f"-> Broadcast successfully deployed to Telegram!")
-        else:
-            print(f"-> Telegram Endpoint Alert: {response.text}")
+        print(f"Telegram API Server Response: Status {response.status_code}")
+        if response.status_code != 200:
+            print(f"Telegram Error Payload Details: {response.text}")
     except Exception as e:
-        print(f"-> Telegram connection exception: {e}")
+        print(f"Telegram Post Connection Exception: {e}")
 
 def ask_gemini_ai(title, description):
+    """Queries Gemini flash engine to calculate text metadata metrics."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return None
@@ -111,11 +114,15 @@ def run_scraper():
     for feed_url in RSS_FEEDS:
         try:
             feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:5]:
-                title = clean_html(entry.get("title", ""))
-                description = clean_html(entry.get("summary", ""))
+            # Only process up to 3 stories per feed to guarantee speed and script stability
+            for entry in feed.entries[:3]:
+                raw_title = entry.get("title", "")
+                raw_desc = entry.get("summary", "")
                 link = entry.get("link", "")
                 published = entry.get("published", "Recent Sync")
+
+                title = clean_html(raw_title)
+                description = clean_html(raw_desc)
 
                 print(f"Analyzing element: {title[:35]}...")
                 ai_analysis = ask_gemini_ai(title, description)
@@ -142,29 +149,29 @@ def run_scraper():
             print(f"Skipping stream conflict: {e}")
 
     if not all_stories:
+        print("CRITICAL EXCEPTION: Database empty. No stories successfully extracted.")
         return
 
     # Sort stories so your website displays the highest impact news first
     all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:15]
 
-    # Save exactly as before so your website frontend works flawlessly
+    # Save database file
     with open("news.json", "w") as f:
         json.dump(all_stories, f, indent=4)
+    print(f"Successfully wrote {len(all_stories)} records to news.json.")
 
-    # Grab the #1 highest impact story to send to Telegram
+    # Grab the top story and force it to broadcast
     top_story = all_stories[0]
-    if top_story["importance"] >= 6:
-        print(f"\nDeploying top market asset to Telegram broadcast feed...")
-        
-        # Pick a random stock image from the pool so your channel stays visually exciting
-        random_img = random.choice(IMAGE_LIBRARY) 
-        
-        send_to_telegram_channel(
-            title=top_story["title"],
-            briefing=top_story["briefing"],
-            image_url=random_img,
-            importance=top_story["importance"]
-        )
+    print(f"\nTop story identified: {top_story['title']} (Impact Score: {top_story['importance']}/10)")
+    
+    print(f"Deploying top market asset to Telegram broadcast feed...")
+    random_img = random.choice(IMAGE_LIBRARY) 
+    send_to_telegram_channel(
+        title=top_story["title"],
+        briefing=top_story["briefing"],
+        image_url=random_img,
+        importance=top_story["importance"]
+    )
 
 if __name__ == "__main__":
     run_scraper()
