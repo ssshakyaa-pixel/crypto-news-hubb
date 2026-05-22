@@ -33,7 +33,6 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scraper.py
-
     # 5. Save the updated news.json data back into your GitHub directory
     - name: Commit and push changes back to repository
       run: |
