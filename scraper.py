@@ -11,7 +11,7 @@ RSS_FEEDS = [
 ]
 
 def ask_gemini_ai(title, description):
-    """Sends headline to Gemini using a clean text query structure."""
+    """Sends headline to Gemini to generate Score, Summary, and a Unique Briefing."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return None
@@ -19,41 +19,45 @@ def ask_gemini_ai(title, description):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     headers = {'Content-Type': 'application/json'}
 
+    # Updated Prompt: Now explicitly asks for a 3-part response including the briefing
     prompt = (
         f"Analyze this crypto headline:\nTitle: {title}\nDescription: {description}\n\n"
         f"Provide your response in exactly this format, with no markdown, no code blocks, and no extra text:\n"
-        f"Score || Summary\n\n"
+        f"Score || Summary || Briefing\n\n"
         f"Example:\n"
-        f"7 || Bitcoin breaks key resistance level and targets new highs."
+        f"7 || Bitcoin breaks key resistance level. || This breakout was triggered by massive institutional buying pressure on major exchanges. Traders should watch the next resistance zone closely, as high volatility is expected over the next 4 hours."
     )
 
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
 
     try:
-        response = requests.post(url, headers=headers, json=payload, timeout=10)
+        response = requests.post(url, headers=headers, json=payload, timeout=15)
         result = response.json()
         
         if "candidates" in result:
             raw_text = result["candidates"][0]["content"]["parts"][0]["text"].strip()
+            # Parse the 3 parts separated by "||"
             if "||" in raw_text:
                 parts = raw_text.split("||")
-                importance = int(parts[0].strip())
-                summary = parts[1].strip()
-                return {"importance": importance, "summary": summary}
+                if len(parts) >= 3:
+                    importance = int(parts[0].strip())
+                    summary = parts[1].strip()
+                    briefing = parts[2].strip()
+                    return {"importance": importance, "summary": summary, "briefing": briefing}
     except Exception:
         pass
     return None
 
 def run_scraper():
-    print("Starting Safe Fallback Crypto Hub News Robot...")
+    print("Starting Premium Crypto News Robot...")
     all_stories = []
 
     for feed_url in RSS_FEEDS:
         print(f"Checking feed target: {feed_url}")
         try:
             feed = feedparser.parse(feed_url)
-            # Take the top 3 items per feed
-            for entry in feed.entries[:3]:
+            # Increased to take the top 5 items per feed instead of 3
+            for entry in feed.entries[:5]:
                 title = entry.get("title", "")
                 description = entry.get("summary", "")
                 link = entry.get("link", "")
@@ -61,17 +65,19 @@ def run_scraper():
 
                 print(f"Processing: {title[:50]}...")
                 
-                # Attempt to get AI analysis
+                # Ask AI for the 3-part breakdown
                 ai_analysis = ask_gemini_ai(title, description)
                 
-                # FAIL-SAFE: If AI works, use it. If it fails, save the story anyway!
+                # Check if AI successfully returned the dictionary with the briefing
                 if ai_analysis and isinstance(ai_analysis, dict):
                     importance = ai_analysis.get("importance", 5)
                     summary = ai_analysis.get("summary", title)
+                    briefing = ai_analysis.get("briefing", description)
                     print(f"-> AI Success! Score: {importance}")
                 else:
                     importance = 5
-                    summary = title  # Fallback to headline if summary fails
+                    summary = title 
+                    briefing = description  # Fallback to standard description
                     print("-> AI skipped/limited. Applying database fallback safety.")
 
                 all_stories.append({
@@ -79,7 +85,8 @@ def run_scraper():
                     "link": link,
                     "time": published,
                     "importance": int(importance),
-                    "summary": summary
+                    "summary": summary,
+                    "briefing": briefing
                 })
                 
                 # Wait 2 seconds to protect free API thresholds
@@ -88,12 +95,11 @@ def run_scraper():
         except Exception as e:
             print(f"Error checking stream: {e}")
 
-    # Ensure we save the stories regardless of count
     if len(all_stories) == 0:
         print("Warning: No stories found in RSS feeds at all.")
     else:
-        # Sort stories by highest importance score first
-        all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:10]
+        # Sort stories by highest importance score first and keep the top 15
+        all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:15]
 
     with open("news.json", "w") as f:
         json.dump(all_stories, f, indent=4)
