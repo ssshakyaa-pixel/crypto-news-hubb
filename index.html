@@ -3,101 +3,180 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crypto News Terminal</title>
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <style>
-        .brutal-shadow { box-shadow: 4px 4px 0px 0px #0f172a; }
-        .brutal-shadow-hover:hover {
-            box-shadow: 8px 8px 0px 0px #0f172a;
-            transform: translate(-2px, -2px);
-        }
-    </style>
+    <title>Crypto Intelligence Terminal</title>
+    <!-- Ultra-stable Production Tailwind CSS Engine -->
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-[#FACC15] text-slate-900 min-h-screen font-sans antialiased">
+<body class="bg-[#0B0F19] text-slate-100 min-h-screen font-sans antialiased">
 
-    <!-- Header -->
-    <header class="border-b-4 border-slate-900 bg-white sticky top-0 z-40">
-        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-            <h1 class="text-2xl font-black uppercase tracking-tight">
-                Crypto <span class="bg-green-500 text-white px-2 py-0.5 border-2 border-slate-900">News</span>
-            </h1>
-            <div class="font-mono text-xs font-bold bg-slate-900 text-white px-3 py-1.5 border-2 border-slate-900">
-                LIVE TERMINAL FEED
+    <!-- Top Glow Border Bar -->
+    <div class="h-1 w-full bg-gradient-to-r from-green-500 via-cyan-500 to-emerald-600"></div>
+
+    <!-- Navigation Header -->
+    <header class="border-b border-slate-800 bg-[#111827]/80 backdrop-blur-md sticky top-0 z-40">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-3">
+                <div class="bg-gradient-to-br from-green-500 to-emerald-600 text-slate-950 font-black px-3 py-1.5 rounded text-xl tracking-tighter">
+                    CIT
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold tracking-tight text-white uppercase">
+                        INTELLIGENCE <span class="text-green-400 font-mono">TERMINAL</span>
+                    </h1>
+                    <p class="text-[10px] text-slate-500 font-mono tracking-widest uppercase">Decentralized Live Data Nodes</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
+                <span class="text-xs font-mono text-slate-400 uppercase tracking-wider">Feed Sync Active</span>
             </div>
         </div>
     </header>
 
-    <!-- Grid Container -->
-    <main class="max-w-7xl mx-auto px-4 py-12">
-        <div id="loading" class="text-center py-20 font-mono font-bold uppercase">Loading live data stream...</div>
-        <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 hidden"></div>
+    <!-- Main View Frame -->
+    <main class="max-w-7xl mx-auto px-4 py-10">
+
+        <!-- Main Screen Loader -->
+        <div id="loading-state" class="flex flex-col items-center justify-center py-24 bg-[#111827] border border-slate-800 rounded-xl max-w-xl mx-auto shadow-xl">
+            <div class="w-10 h-10 border-4 border-green-500/20 border-t-green-400 rounded-full animate-spin mb-4"></div>
+            <p class="text-sm font-mono text-slate-300 uppercase tracking-wider">Synchronizing Node Database...</p>
+            <p class="text-xs font-mono text-slate-500 mt-1">Fetching news.json matrix...</p>
+        </div>
+
+        <!-- Custom Error & Debug Panel (Only appears if something is broken) -->
+        <div id="error-state" class="hidden max-w-2xl mx-auto p-6 bg-red-950/40 border border-red-900/60 rounded-xl shadow-2xl mb-8">
+            <div class="flex items-center gap-3 text-red-400 font-bold mb-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/></svg>
+                <span class="font-mono text-sm uppercase tracking-wide">Data Stream Connection Exception</span>
+            </div>
+            <p id="error-message" class="text-xs font-mono text-slate-400 bg-black/40 p-4 border border-slate-800 rounded whitespace-pre-wrap leading-relaxed"></p>
+        </div>
+
+        <!-- Core Feed Grid Output -->
+        <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 hidden">
+            <!-- JavaScript Injects Feed Cards Securely Here -->
+        </div>
+
     </main>
 
-    <!-- Popup Briefing Modal -->
-    <div id="briefing-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs z-50 flex items-center justify-center p-4 hidden" onclick="closeBriefing()">
-        <div class="bg-white w-full max-w-2xl border-4 border-slate-900 brutal-shadow overflow-hidden flex flex-col" onclick="event.stopPropagation()">
+    <!-- Popup Analytics Modal Frame Layout -->
+    <div id="briefing-modal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden" onclick="closeBriefing()">
+        <div class="bg-[#111827] w-full max-w-2xl border border-slate-800 rounded-2xl shadow-2xl overflow-hidden flex flex-col transform transition-all scale-95" onclick="event.stopPropagation()">
             
-            <div class="p-6 bg-slate-900 text-white border-b-4 border-slate-900 relative">
-                <button onclick="closeBriefing()" class="absolute top-4 right-4 bg-[#FACC15] text-slate-900 border-2 border-slate-900 w-8 h-8 font-black flex items-center justify-center cursor-pointer">&times;</button>
-                <span id="modal-time" class="text-xs font-mono text-green-400 font-bold block mb-1"></span>
-                <h2 id="modal-title" class="text-xl font-black uppercase tracking-tight pr-8"></h2>
+            <!-- Modal Header Panel -->
+            <div class="p-6 bg-[#1F2937]/50 border-b border-slate-800 relative">
+                <button onclick="closeBriefing()" class="absolute top-5 right-5 bg-slate-800 hover:bg-slate-700 text-slate-300 w-8 h-8 rounded-full flex items-center justify-center transition-colors cursor-pointer">&times;</button>
+                <div class="flex items-center gap-2 mb-1">
+                    <span id="modal-time" class="text-[10px] font-mono text-slate-400 bg-slate-800 px-2 py-0.5 rounded"></span>
+                    <span id="modal-impact" class="text-[10px] font-mono font-bold bg-green-500/10 text-green-400 border border-green-500/20 px-2 py-0.5 rounded"></span>
+                </div>
+                <h2 id="modal-title" class="text-xl font-bold text-white tracking-tight pr-6 mt-2 leading-snug"></h2>
             </div>
 
-            <!-- The Real Real-Time Briefing Text Box -->
-            <div class="p-6 space-y-4 bg-white overflow-y-auto max-h-[50vh]">
-                <div class="border-2 border-slate-900 p-4 bg-slate-50">
-                    <h3 class="text-xs font-mono uppercase font-black text-green-600 mb-2">⚡ Live Market Briefing</h3>
-                    <p id="modal-briefing" class="text-sm text-slate-800 font-medium leading-relaxed"></p>
+            <!-- Deep Briefing Core Text Canvas -->
+            <div class="p-6 space-y-4 bg-[#111827] overflow-y-auto max-h-[55vh]">
+                <div class="bg-slate-950/60 p-5 rounded-xl border border-slate-800/80">
+                    <h3 class="text-xs font-mono uppercase font-bold text-green-400 mb-2 flex items-center gap-1.5">
+                        <span class="w-1.5 h-1.5 bg-green-400 rounded-full"></span> Extended Market Intelligence Briefing
+                    </h3>
+                    <p id="modal-briefing" class="text-sm text-slate-300 font-normal leading-relaxed whitespace-pre-wrap"></p>
                 </div>
             </div>
 
-            <div class="p-4 bg-slate-50 border-t-2 border-slate-900 flex justify-end gap-3">
-                <button onclick="closeBriefing()" class="border-2 border-slate-900 font-mono font-bold text-xs px-4 py-2 bg-white cursor-pointer">CLOSE</button>
-                <a id="modal-link" href="" target="_blank" class="bg-green-500 border-2 border-slate-900 text-white font-mono font-black text-xs px-5 py-2.5 brutal-shadow">SOURCE LINK &rarr;</a>
+            <!-- Modal Bottom Control Row -->
+            <div class="p-4 bg-[#1F2937]/30 border-t border-slate-800 flex justify-end gap-3">
+                <button onclick="closeBriefing()" class="text-xs font-mono font-bold text-slate-400 hover:text-white bg-slate-800 px-4 py-2 rounded-lg transition-colors cursor-pointer">
+                    DISMISS
+                </button>
+                <a id="modal-link" href="" target="_blank" class="bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-slate-950 font-mono font-bold text-xs px-5 py-2.5 rounded-lg shadow-lg transition-all flex items-center gap-1">
+                    VERIFY ORIGINAL SOURCE &rarr;
+                </a>
             </div>
         </div>
     </div>
 
     <script>
         let cachedStories = [];
-        const stockImages = [
+        
+        // Dynamic stock matrix backdrops to ensure perfect rendering frames
+        const imageLibrary = [
             "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80",
             "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
         ];
 
-        async function initData() {
+        // Clean raw descriptions if markdown leakage or raw HTML tags hit frontend strings
+        function sanitizeText(str) {
+            if(!str) return "";
+            return str.replace(/<[^>]*>/g, '').replace(/[|#*`]/g, '').trim();
+        }
+
+        async function initTerminalPipeline() {
+            const loader = document.getElementById('loading-state');
+            const grid = document.getElementById('news-grid');
+            const errPanel = document.getElementById('error-state');
+            const errText = document.getElementById('error-message');
+
             try {
-                const response = await fetch('news.json?t=' + new Date().getTime());
+                // Fetch layout parameter with cache busting string tag
+                const response = await fetch('news.json?timestamp=' + new Date().getTime());
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP System Error! Status Code: ${response.status} - Database file could not be fetched.`);
+                }
+                
                 cachedStories = await response.json();
-                document.getElementById('loading').classList.add('hidden');
-                document.getElementById('news-grid').classList.remove('hidden');
-                renderGrid();
-            } catch (e) {
-                document.getElementById('loading').innerText = "FAILED TO FETCH LIVE FEED.";
+                
+                // If response parsed but contains completely empty array fields
+                if (!Array.isArray(cachedStories) || cachedStories.length === 0) {
+                    throw new Error("The news.json file was loaded, but it is completely empty [].\nYour background scraper script hasn't populated it or encountered an API error.");
+                }
+
+                loader.classList.add('hidden');
+                grid.classList.remove('hidden');
+                renderMatrixGrid();
+
+            } catch (error) {
+                loader.classList.add('hidden');
+                errPanel.classList.remove('hidden');
+                errText.innerText = `Diagnostic Code Output:\n${error.message}\n\nSteps to solve:\n1. Check your GitHub repository to ensure news.json exists.\n2. Open news.json directly on GitHub to check if it contains actual raw text lines.`;
             }
         }
 
-        function renderGrid() {
+        function renderMatrixGrid() {
             const grid = document.getElementById('news-grid');
             grid.innerHTML = '';
+
             cachedStories.forEach((story, idx) => {
+                const cleanTitle = sanitizeText(story.title);
+                const cleanSummary = sanitizeText(story.summary || story.title);
+                const assetImg = imageLibrary[idx % imageLibrary.length];
+
                 grid.innerHTML += `
-                    <article class="bg-white border-2 border-slate-900 rounded-none brutal-shadow brutal-shadow-hover flex flex-col justify-between overflow-hidden group">
-                        <div class="h-40 border-b-2 border-slate-900">
-                            <img src="${stockImages[idx % stockImages.length]}" class="w-full h-full object-cover">
-                        </div>
-                        <div class="p-5 space-y-3">
-                            <div class="flex justify-between text-[10px] font-mono font-bold text-slate-500">
-                                <span>${story.time}</span>
-                                <span>IMPACT: ${story.importance}/10</span>
+                    <article class="bg-[#111827] border border-slate-800 hover:border-slate-700/80 rounded-xl overflow-hidden shadow-xl hover:shadow-2xl transition-all flex flex-col justify-between group">
+                        <div>
+                            <div class="h-44 bg-slate-950 border-b border-slate-800 overflow-hidden relative">
+                                <img src="${assetImg}" class="w-full h-full object-cover group-hover:scale-102 transition-transform duration-500 opacity-80">
+                                <div class="absolute top-3 left-3 bg-slate-900/90 text-slate-400 font-mono text-[9px] px-2 py-0.5 rounded border border-slate-800">
+                                    NODE INDEX: #${idx + 1}
+                                </div>
                             </div>
-                            <h2 class="text-base font-black uppercase tracking-tight line-clamp-2">${story.title}</h2>
-                            <p class="text-xs text-slate-600 line-clamp-2">${story.summary}</p>
+                            <div class="p-5 space-y-3">
+                                <div class="flex justify-between text-[10px] font-mono text-slate-400">
+                                    <span>${story.time || 'Processed Recent'}</span>
+                                    <span class="text-green-400 font-bold">IMPACT: ${story.importance || 5}/10</span>
+                                </div>
+                                <h2 class="text-base font-bold text-white tracking-tight line-clamp-2 group-hover:text-green-400 transition-colors leading-snug">
+                                    ${cleanTitle}
+                                </h2>
+                                <p class="text-xs text-slate-400 line-clamp-2 leading-relaxed">
+                                    ${cleanSummary}
+                                </p>
+                            </div>
                         </div>
-                        <div class="px-5 pb-5 pt-2">
-                            <button onclick="openBriefing(${idx})" class="text-xs font-mono font-black border-b-2 border-slate-900 pb-0.5 hover:text-green-600 cursor-pointer">
-                                READ UNIQUE BRIEFING &rarr;
+                        <div class="px-5 pb-5 pt-2 border-t border-slate-800/40 bg-slate-950/20">
+                            <button onclick="openBriefing(${idx})" class="text-xs font-mono font-bold text-green-400 hover:text-green-300 flex items-center gap-1 cursor-pointer group/btn">
+                                ANALYZE FULL BRIEFING <span class="group-hover/btn:translate-x-1 transition-transform">&rarr;</span>
                             </button>
                         </div>
                     </article>
@@ -108,20 +187,26 @@
         window.openBriefing = function(index) {
             const story = cachedStories[index];
             if(!story) return;
-            document.getElementById('modal-time').innerText = story.time;
-            document.getElementById('modal-title').innerText = story.title;
-            document.getElementById('modal-link').href = story.link;
+
+            document.getElementById('modal-time').innerText = story.time || 'Recent Sync';
+            document.getElementById('modal-impact').innerText = `CRITICAL SCORE: ${story.importance || 5}/10`;
+            document.getElementById('modal-title').innerText = sanitizeText(story.title);
             
-            // Pulls directly from your updated JSON database fields
-            document.getElementById('modal-briefing').innerText = story.briefing || "No extended briefing compiled for this node yet. Wait for next sync cycle.";
+            // Core fallback chain to prevent empty panels if briefing property names miss matching characters
+            const coreBriefingText = story.briefing || story.summary || "Extended analytical digest compilation processing for this block node data stream.";
+            document.getElementById('modal-briefing').innerText = sanitizeText(coreBriefingText);
+            document.getElementById('modal-link').href = story.link || '#';
 
             document.getElementById('briefing-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
         }
 
         window.closeBriefing = function() {
             document.getElementById('briefing-modal').classList.add('hidden');
+            document.body.style.overflow = '';
         }
-        document.addEventListener("DOMContentLoaded", initData);
+
+        document.addEventListener("DOMContentLoaded", initTerminalPipeline);
     </script>
 </body>
 </html>
