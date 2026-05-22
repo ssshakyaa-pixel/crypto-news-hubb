@@ -3,328 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crypto News - Intelligence Briefing Hub</title>
-    <!-- Tailwind CSS Engine -->
+    <title>Crypto News Terminal</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
-        /* Neo-Brutalist Tactile Shadow tokens for high-end digital design */
-        .brutal-shadow {
-            box-shadow: 4px 4px 0px 0px #0f172a;
-        }
+        .brutal-shadow { box-shadow: 4px 4px 0px 0px #0f172a; }
         .brutal-shadow-hover:hover {
             box-shadow: 8px 8px 0px 0px #0f172a;
             transform: translate(-2px, -2px);
         }
-        .modal-shadow {
-            box-shadow: 12px 12px 0px 0px #0f172a;
-        }
     </style>
 </head>
-<body class="bg-[#FACC15] text-slate-900 min-h-screen font-sans antialiased selection:bg-green-300">
+<body class="bg-[#FACC15] text-slate-900 min-h-screen font-sans antialiased">
 
-    <!-- Premium Master Header -->
+    <!-- Header -->
     <header class="border-b-4 border-slate-900 bg-white sticky top-0 z-40">
-        <div class="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row justify-between items-center gap-4">
-            
-            <!-- Brand Mark -->
-            <div class="flex items-center gap-3">
-                <div class="bg-slate-900 text-[#FACC15] px-4 py-2 border-2 border-slate-900 font-black text-2xl tracking-tight uppercase">
-                    CN
-                </div>
-                <div>
-                    <h1 class="text-2xl font-black tracking-tighter uppercase text-slate-900 flex items-center gap-1.5">
-                        Crypto <span class="bg-green-500 text-white px-2 py-0.5 border-2 border-slate-900 transform -rotate-1">News</span>
-                    </h1>
-                    <p class="text-[10px] text-slate-600 font-mono tracking-widest uppercase font-bold mt-0.5">Real-Time Global Intelligence Matrix</p>
-                </div>
+        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+            <h1 class="text-2xl font-black uppercase tracking-tight">
+                Crypto <span class="bg-green-500 text-white px-2 py-0.5 border-2 border-slate-900">News</span>
+            </h1>
+            <div class="font-mono text-xs font-bold bg-slate-900 text-white px-3 py-1.5 border-2 border-slate-900">
+                LIVE TERMINAL FEED
             </div>
-            
-            <!-- Filter Actions System -->
-            <div class="flex bg-slate-50 p-1 border-2 border-slate-900 font-mono text-xs font-bold">
-                <button onclick="filterNews('all')" id="btn-all" class="px-5 py-2.5 bg-slate-900 text-white transition-all cursor-pointer">
-                    All Market Briefings
-                </button>
-                <button onclick="filterNews('high')" id="btn-high" class="px-5 py-2.5 text-slate-700 hover:text-slate-900 transition-all cursor-pointer flex items-center gap-1.5">
-                    <span class="w-2.5 h-2.5 bg-green-500 rounded-full border border-slate-900"></span> High Priority
-                </button>
-            </div>
-
         </div>
     </header>
 
-    <!-- Main Content Container -->
+    <!-- Grid Container -->
     <main class="max-w-7xl mx-auto px-4 py-12">
-        
-        <!-- Live Status Ticker Banner -->
-        <div class="bg-white border-2 border-slate-900 px-4 py-2.5 mb-10 brutal-shadow font-mono text-xs flex items-center gap-2 overflow-hidden">
-            <span class="bg-red-500 text-white px-1.5 py-0.5 font-bold animate-pulse shrink-0">LIVE FEED</span>
-            <div class="marquee whitespace-nowrap text-slate-700 font-bold">
-                • DECENTRALIZED DATASTREAM PIPELINE CONNECTION SECURE • AUTOMATED PARSING NODE ACTIVE • 2026 MARKET AUDIT ONLINE •
-            </div>
-        </div>
-
-        <!-- System Loader Element -->
-        <div id="loading" class="flex flex-col items-center justify-center py-24 gap-4 bg-white border-2 border-slate-900 brutal-shadow max-w-xl mx-auto">
-            <div class="w-10 h-10 border-4 border-slate-900 border-t-green-500 rounded-none animate-spin"></div>
-            <p class="text-xs font-mono font-black uppercase tracking-wider text-slate-900">Compiling asset documentation database...</p>
-        </div>
-
-        <!-- Master News Grid Frame -->
-        <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 hidden">
-            <!-- Dynamic Cards Load via JavaScript Loop Here -->
-        </div>
-        
-        <!-- Empty Database State Fallback -->
-        <div id="empty-state" class="hidden text-center py-20 bg-white border-2 border-slate-900 brutal-shadow max-w-2xl mx-auto">
-            <p class="text-slate-900 font-mono font-black text-base uppercase">No high priority briefings cataloged in this block period.</p>
-        </div>
-
+        <div id="loading" class="text-center py-20 font-mono font-bold uppercase">Loading live data stream...</div>
+        <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 hidden"></div>
     </main>
 
-    <!-- Interactive Comprehensive Briefing Screen Modal Frame Overlay -->
+    <!-- Popup Briefing Modal -->
     <div id="briefing-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs z-50 flex items-center justify-center p-4 hidden" onclick="closeBriefing()">
-        <div class="bg-white w-full max-w-3xl border-4 border-slate-900 modal-shadow overflow-hidden max-h-[92vh] flex flex-col transform transition-transform" onclick="event.stopPropagation()">
+        <div class="bg-white w-full max-w-2xl border-4 border-slate-900 brutal-shadow overflow-hidden flex flex-col" onclick="event.stopPropagation()">
             
-            <!-- Modal Header Media Block -->
-            <div class="relative h-64 bg-slate-200 shrink-0 border-b-4 border-slate-900">
-                <img id="modal-img" src="" alt="Premium Crypto Context Stock Art" class="w-full h-full object-cover">
-                <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent"></div>
-                <button onclick="closeBriefing()" class="absolute top-4 right-4 bg-[#FACC15] text-slate-900 border-2 border-slate-900 w-9 h-9 font-black text-xl flex items-center justify-center shadow-[2px_2px_0px_0px_#000] hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-none transition-all cursor-pointer">&times;</button>
-                
-                <!-- Bottom Header overlay items -->
-                <div class="absolute bottom-4 left-4 right-4">
-                    <div class="flex items-center gap-2 mb-2 text-xs font-mono font-bold text-[#FACC15]">
-                        <span id="modal-time" class="bg-slate-900 px-2 py-0.5 border border-slate-700"></span>
-                        <span id="modal-badge" class="bg-green-600 text-white px-2 py-0.5 border border-slate-800"></span>
-                    </div>
-                    <h2 id="modal-title" class="text-xl md:text-2xl font-black text-white uppercase tracking-tight line-clamp-2"></h2>
+            <div class="p-6 bg-slate-900 text-white border-b-4 border-slate-900 relative">
+                <button onclick="closeBriefing()" class="absolute top-4 right-4 bg-[#FACC15] text-slate-900 border-2 border-slate-900 w-8 h-8 font-black flex items-center justify-center cursor-pointer">&times;</button>
+                <span id="modal-time" class="text-xs font-mono text-green-400 font-bold block mb-1"></span>
+                <h2 id="modal-title" class="text-xl font-black uppercase tracking-tight pr-8"></h2>
+            </div>
+
+            <!-- The Real Real-Time Briefing Text Box -->
+            <div class="p-6 space-y-4 bg-white overflow-y-auto max-h-[50vh]">
+                <div class="border-2 border-slate-900 p-4 bg-slate-50">
+                    <h3 class="text-xs font-mono uppercase font-black text-green-600 mb-2">⚡ Live Market Briefing</h3>
+                    <p id="modal-briefing" class="text-sm text-slate-800 font-medium leading-relaxed"></p>
                 </div>
             </div>
 
-            <!-- Detailed Generated Briefing Matrix Core Frame -->
-            <div class="p-6 md:p-8 overflow-y-auto space-y-6 bg-white">
-                
-                <!-- Briefing Card Block 1: The Narrative Brief -->
-                <div class="border-2 border-slate-900 p-4 bg-slate-50 relative brutal-shadow">
-                    <span class="absolute -top-3 left-4 bg-[#FACC15] border-2 border-slate-900 text-[10px] font-mono font-black px-2 uppercase tracking-wide">
-                        01 / Executive Event Synthesis
-                    </span>
-                    <p id="briefing-core" class="text-sm md:text-base text-slate-800 font-medium leading-relaxed mt-1"></p>
-                </div>
-
-                <!-- Briefing Card Block 2: Generated Intelligence Analytics Framework -->
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <div class="border-2 border-slate-900 p-4 bg-green-50/50 relative">
-                        <span class="absolute -top-3 left-4 bg-green-500 text-white border-2 border-slate-900 text-[9px] font-mono font-black px-2 uppercase tracking-wide">
-                            02 / Volatility Diagnostics
-                        </span>
-                        <p id="briefing-volatility" class="text-xs text-slate-700 font-mono mt-1 leading-relaxed"></p>
-                    </div>
-                    <div class="border-2 border-slate-900 p-4 bg-blue-50/30 relative">
-                        <span class="absolute -top-3 left-4 bg-slate-900 text-white border-2 border-slate-900 text-[9px] font-mono font-black px-2 uppercase tracking-wide">
-                            03 / Sentiment Profile
-                        </span>
-                        <p id="briefing-sentiment" class="text-xs text-slate-700 font-mono mt-1 leading-relaxed"></p>
-                    </div>
-                </div>
-
-                <!-- Briefing Card Block 3: Tactical Execution Map -->
-                <div class="border-2 border-slate-900 p-4 bg-white relative">
-                    <span class="absolute -top-3 left-4 bg-white border-2 border-slate-900 text-[10px] font-mono font-black px-2 uppercase tracking-wide text-green-600">
-                        04 / Strategic Action Outlook
-                    </span>
-                    <ul id="briefing-actions" class="text-xs text-slate-800 font-sans font-bold space-y-2 mt-1.5 list-none pl-0">
-                        <!-- Items injected dynamically -->
-                    </ul>
-                </div>
-
-            </div>
-
-            <!-- Modal Action Footer Control Layout -->
-            <div class="p-4 bg-slate-50 border-t-2 border-slate-900 flex justify-end shrink-0 gap-3">
-                <button onclick="closeBriefing()" class="border-2 border-slate-900 text-slate-700 bg-white font-mono font-bold text-xs px-4 py-2 hover:bg-slate-100 transition-colors cursor-pointer">
-                    CLOSE
-                </button>
-                <a id="modal-link" href="" target="_blank" rel="noopener noreferrer" class="bg-green-500 border-2 border-slate-900 text-white font-mono font-black text-xs px-5 py-2.5 brutal-shadow hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-none transition-all">
-                    ORIGINAL FEED TERMINAL &rarr;
-                </a>
+            <div class="p-4 bg-slate-50 border-t-2 border-slate-900 flex justify-end gap-3">
+                <button onclick="closeBriefing()" class="border-2 border-slate-900 font-mono font-bold text-xs px-4 py-2 bg-white cursor-pointer">CLOSE</button>
+                <a id="modal-link" href="" target="_blank" class="bg-green-500 border-2 border-slate-900 text-white font-mono font-black text-xs px-5 py-2.5 brutal-shadow">SOURCE LINK &rarr;</a>
             </div>
         </div>
     </div>
 
-    <!-- Master Footer Block -->
-    <footer class="border-t-4 border-slate-900 bg-white text-center py-8 mt-24 text-xs text-slate-800 font-mono font-black uppercase tracking-wider">
-        &copy; 2026 Crypto News Network Terminal. Decentralized System Interface Architecture.
-    </footer>
-
-    <!-- Processing Pipeline Script Engine Core -->
     <script>
         let cachedStories = [];
-        
-        // Premium curated high-res crypto stock asset photos for full contextual visualization
         const stockImages = [
-            "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=800&auto=format&fit=crop&q=80",
-            "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=800&auto=format&fit=crop&q=80"
+            "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80",
+            "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
         ];
 
-        async function initDataPipeline() {
+        async function initData() {
             try {
                 const response = await fetch('news.json?t=' + new Date().getTime());
                 cachedStories = await response.json();
-                
                 document.getElementById('loading').classList.add('hidden');
                 document.getElementById('news-grid').classList.remove('hidden');
-                
-                renderNewsGrid(cachedStories);
-            } catch (error) {
-                console.error("Data ingestion execution link failure:", error);
-                document.getElementById('loading').innerHTML = `
-                    <p class="text-red-600 font-mono font-black text-sm uppercase p-4">System Interruption: Node Synchronizer Sync Deficit.</p>
-                `;
+                renderGrid();
+            } catch (e) {
+                document.getElementById('loading').innerText = "FAILED TO FETCH LIVE FEED.";
             }
         }
 
-        function renderNewsGrid(stories) {
+        function renderGrid() {
             const grid = document.getElementById('news-grid');
-            const empty = document.getElementById('empty-state');
             grid.innerHTML = '';
-
-            if (stories.length === 0) {
-                grid.classList.add('hidden');
-                empty.classList.remove('hidden');
-                return;
-            } else {
-                grid.classList.remove('hidden');
-                empty.classList.add('hidden');
-            }
-
-            stories.forEach((story, index) => {
-                const randomImg = stockImages[index % stockImages.length];
-                const highImpact = story.importance >= 7;
-                
-                const cardHtml = `
-                    <article class="bg-white border-2 border-slate-900 rounded-none brutal-shadow brutal-shadow-hover transition-all flex flex-col justify-between overflow-hidden group">
-                        <div>
-                            <!-- Visual Framing Engine -->
-                            <div class="h-48 bg-slate-100 border-b-2 border-slate-900 relative overflow-hidden">
-                                <img src="${randomImg}" alt="Crypto Market Intelligence Graphic" class="w-full h-full object-cover group-hover:scale-102 transition-transform duration-300">
-                                <div class="absolute top-3 left-3 bg-slate-900 text-white font-mono text-[9px] font-bold px-2 py-0.5 uppercase tracking-wider border border-slate-700">
-                                    DATA MATRIX BLOCK #${index + 1}
-                                </div>
-                            </div>
-
-                            <!-- Content Wrap Frame -->
-                            <div class="p-5 space-y-4">
-                                <div class="flex justify-between items-center text-[11px] font-mono font-bold">
-                                    <span class="text-slate-500">${story.time}</span>
-                                    <span class="px-2 py-0.5 border ${highImpact ? 'bg-green-500 text-white border-slate-900 font-black' : 'bg-slate-100 text-slate-800 border-slate-300'}">
-                                        IMPACT: ${story.importance}/10
-                                    </span>
-                                </div>
-                                
-                                <h2 class="text-lg font-black text-slate-900 uppercase tracking-tight leading-tight line-clamp-2 group-hover:text-green-600 transition-colors">
-                                    ${story.title}
-                                </h2>
-                                
-                                <p class="text-xs text-slate-600 font-medium leading-relaxed line-clamp-3">
-                                    ${story.summary}
-                                </p>
-                            </div>
+            cachedStories.forEach((story, idx) => {
+                grid.innerHTML += `
+                    <article class="bg-white border-2 border-slate-900 rounded-none brutal-shadow brutal-shadow-hover flex flex-col justify-between overflow-hidden group">
+                        <div class="h-40 border-b-2 border-slate-900">
+                            <img src="${stockImages[idx % stockImages.length]}" class="w-full h-full object-cover">
                         </div>
-                        
-                        <!-- Open Detailed Operational Panel -->
-                        <div class="px-5 pb-5 pt-3 border-t border-slate-100 bg-slate-50/50 flex justify-between items-center">
-                            <button onclick="openBriefing(${index})" class="text-xs font-mono font-black text-slate-900 hover:text-green-600 flex items-center gap-1 transition-transform group-hover:translate-x-0.5 cursor-pointer">
-                                EXPAND INTELLIGENCE BRIEFING &rarr;
+                        <div class="p-5 space-y-3">
+                            <div class="flex justify-between text-[10px] font-mono font-bold text-slate-500">
+                                <span>${story.time}</span>
+                                <span>IMPACT: ${story.importance}/10</span>
+                            </div>
+                            <h2 class="text-base font-black uppercase tracking-tight line-clamp-2">${story.title}</h2>
+                            <p class="text-xs text-slate-600 line-clamp-2">${story.summary}</p>
+                        </div>
+                        <div class="px-5 pb-5 pt-2">
+                            <button onclick="openBriefing(${idx})" class="text-xs font-mono font-black border-b-2 border-slate-900 pb-0.5 hover:text-green-600 cursor-pointer">
+                                READ UNIQUE BRIEFING &rarr;
                             </button>
                         </div>
                     </article>
                 `;
-                grid.innerHTML += cardHtml;
             });
         }
 
-        // The Smart Briefing Generator Engine
         window.openBriefing = function(index) {
             const story = cachedStories[index];
             if(!story) return;
-
-            // Injected text parameters mapping
-            document.getElementById('modal-img').src = stockImages[index % stockImages.length];
-            document.getElementById('modal-time').innerText = `LOGGED IN: ${story.time}`;
+            document.getElementById('modal-time').innerText = story.time;
             document.getElementById('modal-title').innerText = story.title;
             document.getElementById('modal-link').href = story.link;
-
-            // Compute dynamic impact badge elements
-            const badge = document.getElementById('modal-badge');
-            badge.innerText = `IMPACT METRIC SCORE: ${story.importance}/10`;
-            if(story.importance >= 7) {
-                badge.className = "bg-green-500 text-white font-black px-2 py-0.5 border-2 border-slate-900 uppercase text-[10px]";
-            } else {
-                badge.className = "bg-slate-900 text-white font-bold px-2 py-0.5 border border-slate-700 uppercase text-[10px]";
-            }
-
-            // --- DEEP BRIEFING SYNTHESIS GENERATOR MATRIX ---
-            // Overwrites raw summary duplication with structured analytics profiles
-            document.getElementById('briefing-core').innerText = story.summary;
-
-            // Volatility framework rendering
-            document.getElementById('briefing-volatility').innerText = 
-                `Automated standard liquidity evaluation suggests high systemic transaction volumes following the event. Current historical threshold markers point to localized token re-balancing across connected order books. Expected short-term variance factor: +/- ${((story.importance * 1.4) + 0.5).toFixed(1)}%.`;
-
-            // Sentiment profiling
-            document.getElementById('briefing-sentiment').innerText = 
-                `Algorithmic analysis metrics evaluate global chatter profile indices as primarily ${story.importance >= 7 ? 'HIGH ALIGNMENT / AGGRESSIVE MARKET REACTION' : 'NEUTRAL SPECTRUM / STEADY EQUILIBRIUM'}. Social platform tracking layers indicate programmatic trade orders have experienced an immediate spike.`;
-
-            // Strategic actions generation mapping loop
-            const actionsList = document.getElementById('briefing-actions');
-            actionsList.innerHTML = ''; // reset previous elements
             
-            const strategies = [
-                `Monitor asset consolidation boundaries closely over the next 4-hour technical candle close.`,
-                `Track corresponding multi-signature whale ledger addresses for immediate liquidity flows.`,
-                `Mitigate automated leverage positioning to prevent rapid cascading flash liquidations inside associated decentralized contracts.`
-            ];
-            
-            strategies.forEach(strategy => {
-                actionsList.innerHTML += `
-                    <li class="flex items-start gap-2 text-slate-700 font-medium">
-                        <span class="text-green-600 font-black shrink-0">✓</span>
-                        <span>${strategy}</span>
-                    </li>
-                `;
-            });
+            // Pulls directly from your updated JSON database fields
+            document.getElementById('modal-briefing').innerText = story.briefing || "No extended briefing compiled for this node yet. Wait for next sync cycle.";
 
-            // Make panel viewport visible
             document.getElementById('briefing-modal').classList.remove('hidden');
-            document.body.style.overflow = 'hidden';
         }
 
         window.closeBriefing = function() {
             document.getElementById('briefing-modal').classList.add('hidden');
-            document.body.style.overflow = '';
         }
-
-        function filterNews(mode) {
-            const btnAll = document.getElementById('btn-all');
-            const btnHigh = document.getElementById('btn-high');
-
-            if(mode === 'all') {
-                btnAll.className = "px-5 py-2.5 bg-slate-900 text-white transition-all cursor-pointer";
-                btnHigh.className = "px-5 py-2.5 text-slate-700 hover:text-slate-900 transition-all cursor-pointer";
-                renderNewsGrid(cachedStories);
-            } else if(mode === 'high') {
-                btnHigh.className = "px-5 py-2.5 bg-slate-900 text-white transition-all cursor-pointer";
-                btnAll.className = "px-5 py-2.5 text-slate-700 hover:text-slate-900 transition-all cursor-pointer";
-                const filtered = cachedStories.filter(s => s.importance >= 7);
-                renderNewsGrid(filtered);
-            }
-        }
-
-        document.addEventListener("DOMContentLoaded", initDataPipeline);
+        document.addEventListener("DOMContentLoaded", initData);
     </script>
 </body>
 </html>
