@@ -1,42 +1,39 @@
-name: Trigger Crypto Hub News Scraper
+name: scrape-and-update
 
 on:
   schedule:
-    # This tells GitHub to run your robot every 2 hours automatically
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
-    # This creates a button so you can manually test run it whenever you want!
+    - cron: '0 */3 * * *' # Runs automatically every 3 hours
+  workflow_dispatch:      # Allows you to trigger it manually with a button click
 
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
+
     steps:
-    
-    # 1. Download the code files from your repository
-    - name: Check out repository code
-      uses: actions/checkout@v4
+      - name: Check out repository code
+        uses: actions/checkout@v4
 
-    # 2. Set up the Python environment
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/configured-python@v3
+        with:
+          python-version: '3.10'
 
-    # 3. Install the minimal dependencies needed for scraping
-    - name: Install dependencies
-      run: |
-        pip install feedparser requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests
 
-    # 4. - name: Run news scraper script
+      - name: Run news scraper script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scraper.py
-    # 5. Save the updated news.json data back into your GitHub directory
-    - name: Commit and push changes back to repository
-      run: |
-        git config --global user.name "CryptoHubBot"
-        git config --global user.email "bot@cryptohubnews.local"
-        git add news.json
-        git diff-index --quiet HEAD || (git commit -m "Automated Sync: New crypto market updates pushed" && git push)
+
+      - name: Commit and push changes back to repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff-index --quiet HEAD || git commit -m "Automated feed refresh [skip ci]"
+          git push origin main
