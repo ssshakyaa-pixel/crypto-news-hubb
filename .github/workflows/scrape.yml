@@ -2,7 +2,7 @@ name: scrape-and-update
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Runs automatically every 3 hours
+    - cron: '0 * * * *' # Runs automatically every 3 hours
   workflow_dispatch:      # Allows you to trigger it manually with a button click
 
 jobs:
