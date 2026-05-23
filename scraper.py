@@ -13,11 +13,28 @@ RSS_FEEDS = [
     "https://decrypt.co/feed"
 ]
 
-# High-quality stock images for your Telegram and website cards
+# 20 Unique high-quality crypto stock images
 IMAGE_LIBRARY = [
     "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80",
-    "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
 ]
 
 def clean_html(raw_html):
@@ -51,7 +68,7 @@ def send_to_telegram_channel(title, briefing, image_url, importance):
     payload = {
         "chat_id": chat_id,
         "photo": image_url,
-        "caption": caption[:1000], # Prevents text from exceeding Telegram limits
+        "caption": caption[:1000], 
         "parse_mode": "HTML"
     }
 
@@ -96,7 +113,6 @@ def ask_gemini_ai(title, description):
             summary = title
             briefing = description
 
-            # Safely extract the AI's response components
             for line in raw_text.split('\n'):
                 if "SCORE:" in line.upper():
                     try: importance = int(re.findall(r'\d+', line)[0])
@@ -115,13 +131,16 @@ def ask_gemini_ai(title, description):
 def run_scraper():
     print("Initializing Core Feed Scraper...")
     all_stories = []
+    
+    # Shuffle the image library so the rotation is completely random every run
+    random.shuffle(IMAGE_LIBRARY)
 
     for feed_url in RSS_FEEDS:
         print(f"Fetching from: {feed_url}")
         try:
             feed = feedparser.parse(feed_url)
-            # Process top 3 stories per feed to keep the script fast and stable
-            for entry in feed.entries[:3]:
+            # Process up to 8 stories per feed to ensure we hit 20 total
+            for entry in feed.entries[:8]:
                 raw_title = entry.get("title", "")
                 raw_desc = entry.get("summary", "")
                 link = entry.get("link", "")
@@ -142,8 +161,8 @@ def run_scraper():
                     summary = title
                     briefing = description
 
-                # Store the assigned random image directly in the database for the frontend to use
-                assigned_image = random.choice(IMAGE_LIBRARY)
+                # Pulls a fresh image in order from the shuffled list
+                assigned_image = IMAGE_LIBRARY[len(all_stories) % len(IMAGE_LIBRARY)]
 
                 all_stories.append({
                     "title": title,
@@ -154,7 +173,7 @@ def run_scraper():
                     "briefing": briefing,
                     "image": assigned_image
                 })
-                time.sleep(1) # Pause to respect API rate limits
+                time.sleep(1) 
         except Exception as e:
             print(f"Skipping stream conflict: {e}")
 
@@ -162,15 +181,15 @@ def run_scraper():
         print("CRITICAL: No stories extracted. Database empty.")
         return
 
-    # Sort array strictly by highest importance score
-    all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:15]
+    # Sort strictly by highest importance score and pull EXACTLY 20 stories
+    all_stories = sorted(all_stories, key=lambda x: x["importance"], reverse=True)[:20]
 
-    # Overwrite the database file so GitHub Pages can instantly serve the new data
+    # Save to the database
     with open("news.json", "w") as f:
         json.dump(all_stories, f, indent=4)
     print(f"Successfully saved {len(all_stories)} records to news.json.")
 
-    # Execute Telegram broadcast for the highest impact story
+    # Grab the #1 story to blast to Telegram
     top_story = all_stories[0]
     print(f"\nTop Story: {top_story['title']} (Score: {top_story['importance']}/10)")
     
