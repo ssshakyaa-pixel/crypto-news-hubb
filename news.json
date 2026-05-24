@@ -1,12 +1,30 @@
 [
     {
+        "title": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
+        "link": "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 24 May 2026 09:02:25 +0000",
+        "importance": 5,
+        "summary": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
+        "briefing": "Rising short-term bond yields and Warsh's hawkish comments in the past are reviving fears of a December rate hike, which could slam the brakes on Bitcoin's recovery.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+        "link": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 24 May 2026 05:39:02 +0000",
+        "importance": 5,
+        "summary": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+        "briefing": "The suspected cause is a private key compromise of one owner in the minting multisig account, said Blockaid.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "70% of all crypto wrench attacks happen in France: Report",
         "link": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sat, 23 May 2026 23:07:19 +0000",
         "importance": 5,
         "summary": "70% of all crypto wrench attacks happen in France: Report",
         "briefing": "Centralized data collection is a honeypot for hackers and organized criminals looking to target crypto holders and their families, according to Bitcoiners.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
         "briefing": "The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% decrease from the all-time high of about $126,000 reached in October 2025.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
         "briefing": "The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
         "briefing": "Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
@@ -51,25 +69,7 @@
         "importance": 5,
         "summary": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
         "briefing": "The ECB warned EU finance ministers that expanding euro stablecoin issuance could weaken bank lending and complicate monetary policy.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-        "link": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 23 May 2026 09:05:53 +0000",
-        "importance": 5,
-        "summary": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-        "briefing": "The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "$1.26B Bitcoin ETF outflows spark \u2018contrarian\u2019 buy signal: Santiment",
-        "link": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 23 May 2026 06:55:08 +0000",
-        "importance": 5,
-        "summary": "$1.26B Bitcoin ETF outflows spark \u2018contrarian\u2019 buy signal: Santiment",
-        "briefing": "Ongoing Bitcoin ETF outflows have historically \u201ccorrelated with conditions favorable for patient accumulation rather than panic,\" according to Santiment.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
         "briefing": "Project Nova is coming later this year with a cleaner look, compact mode, and a toggle to make AI features disappear entirely.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
         "briefing": "Bitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo",
         "briefing": "Milei's government unveiled a social digital twin to overhaul public policy\u2014announced via a video full of AI slop, grammatical errors, and a deepfake of a minister.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "3 Wacky Hermes Skills You Should Try",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "3 Wacky Hermes Skills You Should Try",
         "briefing": "A real astrology engine disguised as a fortune teller. A scammer-punishment machine loaded with the Shrek screenplay. A tool that reads any book and maps every idea to your actual life. These are not normal skills.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware",
         "briefing": "User losses weren\u2019t immediately clear.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
         "briefing": "The SEC\u2019s expected regulatory framework would have provided clarity for companies looking to tokenize traditional assets like stocks.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
         "briefing": "Fara1.5 is a family of open-weight browser agents from Microsoft Research that outperforms OpenAI's Operator and Google's Gemini 2.5 Computer Use on the industry's toughest live-web benchmark.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi Debuts 'Fair Markets' Lobby Group as Congress Opens Insider Trading Probe",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Kalshi Debuts 'Fair Markets' Lobby Group as Congress Opens Insider Trading Probe",
         "briefing": "Kalshi unveiled Americans for Fair Markets, an advocacy group to help shape policymakers\u2019 perception of prediction markets.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
