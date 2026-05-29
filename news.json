@@ -1,75 +1,102 @@
 [
     {
-        "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
-        "link": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 22:39:43 +0000",
+        "title": "Strategy situation \u2018out of hand,\u2019 says Arca exec on $15B preferred stock burden",
+        "link": "https://cointelegraph.com/news/strategy-situation-out-of-hand-says-arca-cio-15-billion-prefs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 12:05:09 +0000",
         "importance": 5,
-        "summary": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
-        "briefing": "Bulls abandon ship as SOL futures open interest dropped 30% in May. With the price weakening near $80, Solana may be destined for new lows.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems",
-        "link": "https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 22:32:50 +0000",
-        "importance": 5,
-        "summary": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems",
-        "briefing": "The investment firm said nation-states and central banks are increasingly turning to assets like Bitcoin and gold as alternative settlement systems outside of US control.",
+        "summary": "Strategy situation \u2018out of hand,\u2019 says Arca exec on $15B preferred stock burden",
+        "briefing": "Strategy\u2019s capital structure may be under pressure as Arca\u2019s Jeff Dorman highlights $15 billion in preferred stock obligations and CEO comments on possible Bitcoin sales.",
         "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
-        "link": "https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 22:06:00 +0000",
+        "title": "Texas Bitcoin reserve plans shift from ETF to direct BTC custody",
+        "link": "https://cointelegraph.com/news/texas-plans-shift-bitcoin-reserve-from-etf-to-direct-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 11:39:38 +0000",
         "importance": 5,
-        "summary": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
-        "briefing": "Kalshi sued Minnesota while the CFTC filed against Rhode Island as legal wrangling with state-level authorities seems likely headed to the US Supreme Court.",
+        "summary": "Texas Bitcoin reserve plans shift from ETF to direct BTC custody",
+        "briefing": "Texas is hiring a crypto custodian to move its $10 million Strategic Bitcoin Reserve from BlackRock\u2019s IBIT ETF into directly held coins and build full state\u2011level BTC plumbing.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "DxSale drained for $7.3M in BNB Chain liquidity exploit",
+        "link": "https://cointelegraph.com/news/memecoin-platform-dxsale-drained-73m-1400-lps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 10:42:38 +0000",
+        "importance": 5,
+        "summary": "DxSale drained for $7.3M in BNB Chain liquidity exploit",
+        "briefing": "DxSale was drained for about $7.3 million from BNB Chain liquidity providers, raising fresh concerns over old DeFi locker contracts.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M",
+        "link": "https://cointelegraph.com/news/okx-ventures-korea-investment-securities-buy-196-stake-in-coinone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 08:31:00 +0000",
+        "importance": 5,
+        "summary": "OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M",
+        "briefing": "OKX Ventures and KIS to invest $53 million each for a 19.6% stake in Coinone, deepening ties between traditional finance and crypto in South Korea\u2019s tightly regulated market.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SEC approves Paxos as \u2018blockchain-native\u2019 clearing agency",
+        "link": "https://cointelegraph.com/news/paxos-becomes-first-crypto-firm-to-win-sec-clearing-agency-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 05:37:25 +0000",
+        "importance": 5,
+        "summary": "SEC approves Paxos as \u2018blockchain-native\u2019 clearing agency",
+        "briefing": "Paxos says its approval as a blockchain-focused clearing agency represents a \u201ccritical piece of financial market infrastructure\u201d as Wall Street becomes more interested in crypto.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin\u2019s major holders halt buys as demand slows: CryptoQuant",
+        "link": "https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 04:33:46 +0000",
+        "importance": 5,
+        "summary": "Bitcoin\u2019s major holders halt buys as demand slows: CryptoQuant",
+        "briefing": "CryptoQuant says that the holding structure for large Bitcoin holders is deteriorating, a trend that has historically preceded \u201csustained price weakness.\u201d",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Sui Network back online after \u2018crash bug\u2019 causes 6-hour outage",
+        "link": "https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 04:08:41 +0000",
+        "importance": 5,
+        "summary": "Sui Network back online after \u2018crash bug\u2019 causes 6-hour outage",
+        "briefing": "The Sui mainnet has resumed after a bug in a network update took it offline for 5 hours and 55 minutes.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH",
-        "link": "https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 21:32:40 +0000",
+        "title": "Bitcoin\u2019s trapped under $74K while $9B options expiry looms: Are bears back in control?",
+        "link": "https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 29 May 2026 03:44:40 +0000",
         "importance": 5,
-        "summary": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH",
-        "briefing": "The purchase pushed the Nasdaq-listed company ahead of Coinbase Global to become the fourth-largest public corporate holder of Ether, according to CoinGecko data.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "SEC Commissioner Peirce defends crypto privacy tools against surveillance push",
-        "link": "https://cointelegraph.com/news/sec-hester-peirce-defends-crypto-privacy-tools-surveillance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 20:49:32 +0000",
-        "importance": 5,
-        "summary": "SEC Commissioner Peirce defends crypto privacy tools against surveillance push",
-        "briefing": "The leader of the regulator's Crypto Task Force said privacy-enhancing technologies can strengthen investor protection and urged regulators not to treat them with suspicion.",
+        "summary": "Bitcoin\u2019s trapped under $74K while $9B options expiry looms: Are bears back in control?",
+        "briefing": "Bears hold the upper hand for Friday's $9 billion options expiry, keeping Bitcoin under pressure amid heavy ETF outflows and corporate selling",
         "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin enters cooldown phase under $75K as \u2018active distribution\u2019 rises",
-        "link": "https://cointelegraph.com/markets/bitcoin-enters-cooling-off-phase-under-75k-with-active-distribution-on-the-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 20:42:52 +0000",
+        "title": "Morning Minute: Hyperliquid Is 'Bigger Than Nasdaq'",
+        "link": "https://decrypt.co/369444/morning-minute-hyperliquid-is-bigger-than-nasdaq",
+        "time": "Fri, 29 May 2026 12:08:19 +0000",
         "importance": 5,
-        "summary": "Bitcoin enters cooldown phase under $75K as \u2018active distribution\u2019 rises",
-        "briefing": "Bitcoin\u2019s slide toward $73,000 triggered active distribution signals, but lowered realized losses and weak spot volumes point to easing sell pressure.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: Hyperliquid Is 'Bigger Than Nasdaq'",
+        "briefing": "The man who built the modern NYSE just said Hyperliquid is bigger than Nasdaq. JPMorgan says the debasement trade is unwinding.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Trump claims he can \u2018future proof\u2019 crypto regulation with CLARITY Act",
-        "link": "https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 20:35:00 +0000",
+        "title": "Ukrainian Police Officers Allegedly Kidnapped Crypto Entrepreneurs to Extort Millions",
+        "link": "https://decrypt.co/369443/ukrainian-police-officers-allegedly-kidnapped-crypto-entrepreneurs-to-extort-millions",
+        "time": "Fri, 29 May 2026 11:59:40 +0000",
         "importance": 5,
-        "summary": "Trump claims he can \u2018future proof\u2019 crypto regulation with CLARITY Act",
-        "briefing": "The future of a digital asset market structure bill in Congress is still uncertain amid concerns over ethics provisions, with the president, whose crypto ties are under scrutiny, weighing in on social media.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "summary": "Ukrainian Police Officers Allegedly Kidnapped Crypto Entrepreneurs to Extort Millions",
+        "briefing": "Prosecutors say two police colonels organized an extortion ring that allegedly tracked, abducted, and held crypto entrepreneurs at gunpoint.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "France's AMF regulator sets June 30 deadline for MiCA licensing",
-        "link": "https://cointelegraph.com/news/france-amf-regulator-june-deadline-mica-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 28 May 2026 20:19:52 +0000",
+        "title": "Paxos Secures SEC Registration as Clearing Agency",
+        "link": "https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency",
+        "time": "Fri, 29 May 2026 10:34:30 +0000",
         "importance": 5,
-        "summary": "France's AMF regulator sets June 30 deadline for MiCA licensing",
-        "briefing": "The European Union's Markets in Crypto Assets regulations first took effect in 2024, but gave crypto service providers time to fully comply with the framework.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Paxos Secures SEC Registration as Clearing Agency",
+        "briefing": "The approval makes Paxos the \u201conly blockchain-native firm\u201d approved by the SEC to operate as a registered clearing agency in the U.S.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
         "briefing": "Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agents Are Learning to Predict What Users Want\u2014Before They Ask for It",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "AI Agents Are Learning to Predict What Users Want\u2014Before They Ask for It",
         "briefing": "Researchers in China built a model that uses an AI\u2019s downtime to prepare for users\u2019 next question before they ask it.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sui Network Goes Down for Hours, Just Months After the Last Downtime",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Sui Network Goes Down for Hours, Just Months After the Last Downtime",
         "briefing": "Blockchain network Sui is suffering another period of significant downtime barely five months after the last \"network stall.\"",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Apple iOS 27 Leaks: Siri Is Being Remade to Be More Like ChatGPT",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Apple iOS 27 Leaks: Siri Is Being Remade to Be More Like ChatGPT",
         "briefing": "Rendered illustrations published ahead of WWDC 2026 reveal a dedicated Siri app, Dynamic Island integration, and a Google Gemini backbone\u2014the biggest overhaul to the assistant in nearly 15 years.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi Sues to Stop Minnesota From Enforcing America\u2019s First Prediction Market Ban",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Kalshi Sues to Stop Minnesota From Enforcing America\u2019s First Prediction Market Ban",
         "briefing": "Prediction market giant Kalshi has asked a federal judge to prevent Minnesota from allowing the ban to go into effect in August.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety\u2014Same Huge Price",
-        "link": "https://decrypt.co/369384/anthropic-claude-opus-4-8-better-ai-coding-smarter-safety-huge-price",
-        "time": "Thu, 28 May 2026 18:45:39 +0000",
-        "importance": 5,
-        "summary": "Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety\u2014Same Huge Price",
-        "briefing": "Anthropic's latest flagship AI model Claude Opus 4.8 arrives with sharper reasoning, tighter alignment, and a price tag that hasn't budged.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
-        "link": "https://decrypt.co/369383/anthropic-claude-mythos-ai-model-nearing-release-cybersecurity-alarms",
-        "time": "Thu, 28 May 2026 18:27:39 +0000",
-        "importance": 5,
-        "summary": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
-        "briefing": "Anthropic signaled that broader access to its controversial Claude Mythos AI models may arrive \"in the coming weeks\" after limited testing.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Whales Are Pulling Back as Activity 'Mirrors' 2022 Bear Market: Analysts",
-        "link": "https://decrypt.co/369378/bitcoin-whales-pulling-back-activity-mirrors-2022-bear-market",
-        "time": "Thu, 28 May 2026 17:58:54 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Whales Are Pulling Back as Activity 'Mirrors' 2022 Bear Market: Analysts",
-        "briefing": "Current Bitcoin whale activity is similar in nature to the last bear market in 2022 when BTC fell precipitously, according to on-chain data.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
