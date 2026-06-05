@@ -1,75 +1,93 @@
 [
     {
+        "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
+        "link": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 10:59:50 +0000",
+        "importance": 5,
+        "summary": "Forward Industries moves $32M in SOL amid $1B paper loss",
+        "briefing": "Forward Industries moved $31.9 million in SOL to Coinbase Prime as its Solana bet sits over 70% underwater, underscoring growing strain on corporate crypto treasuries.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "South Korea police probe Polymarket users over illegal gambling claims: Report",
+        "link": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 10:47:17 +0000",
+        "importance": 5,
+        "summary": "South Korea police probe Polymarket users over illegal gambling claims: Report",
+        "briefing": "South Korean police reportedly launched the country\u2019s first illegal gambling probe into local Polymarket users amid election-betting scrutiny.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
+        "link": "https://cointelegraph.com/news/crypto-billionaires-bankroll-reform-uk-more-than-other-parties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 07:02:59 +0000",
+        "importance": 5,
+        "summary": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
+        "briefing": "Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo donated $9.4 million to Nigel Farage\u2019s Reform UK in the first quarter.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Strategy\u2019s leveraged Bitcoin model has faced its first stress test: Grayscale",
+        "link": "https://cointelegraph.com/news/strategys-leveraged-bitcoin-model-faces-first-stress-test-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 07:00:55 +0000",
+        "importance": 5,
+        "summary": "Strategy\u2019s leveraged Bitcoin model has faced its first stress test: Grayscale",
+        "briefing": "\u201cLess Bitcoin on levered DAT balance sheets and more on diversified corporate balance sheets will be a positive,\u201d said Grayscale\u2019s head of research, Zach Pandl.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Anthropic says self-improving AI may be closer than expected",
+        "link": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 06:03:52 +0000",
+        "importance": 5,
+        "summary": "Anthropic says self-improving AI may be closer than expected",
+        "briefing": "Companies have been developing AI very quickly to stay ahead of the market, but Favaro and Clark argue that a slowdown would allow more time to deal with the technology\u2019s implications.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug",
+        "link": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 05:09:56 +0000",
+        "importance": 5,
+        "summary": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug",
+        "briefing": "ZEC market capitalization fell by almost $3 billion over the past 24 hours following the disclosure of a critical vulnerability, despite it being patched already.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+        "link": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 05 Jun 2026 04:26:57 +0000",
+        "importance": 5,
+        "summary": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+        "briefing": "Senator Cynthia Lummis has led a group of lawmakers urging financial regulators for \u201cfair capital treatment for on-balance sheet treatment of digital assets.\u201d",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Comptroller says only Democrats pressuring over crypto trust charter",
         "link": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 04 Jun 2026 21:54:37 +0000",
         "importance": 5,
         "summary": "Comptroller says only Democrats pressuring over crypto trust charter",
         "briefing": "US Comptroller of the Currency Jonathan Gould and New York Representative Gregory Meeks sparred over Donald Trump\u2019s influence on regulators he has nominated as president at a Thursday oversight hearing.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin fell 21% after Strategy\u2019s debt buyback news\u2014 Is a Terra Luna-style doom loop next?",
-        "link": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 20:37:58 +0000",
-        "importance": 5,
-        "summary": "Bitcoin fell 21% after Strategy\u2019s debt buyback news\u2014 Is a Terra Luna-style doom loop next?",
-        "briefing": "Bitcoin price collapsed as Strategy faced tighter liquidity conditions and paused its BTC buying. Is it time to jump ship, or buy the dip?",
         "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
-        "link": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 20:21:55 +0000",
+        "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
+        "link": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
+        "time": "Fri, 05 Jun 2026 11:33:50 +0000",
         "importance": 5,
-        "summary": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
-        "briefing": "Political activist Bill Browder, the teenager\u2019s father, said his son was \u201cthe first high school student in the world to be sanctioned by an authoritarian regime\u201d over a report on the ruble-pegged stablecoin A7A5.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "Pump.fun's Latest Experiment Is Already Getting Weird",
+        "briefing": "Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users \u201cPay ANYONE to do ANYTHING.\u201d",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
-        "link": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 19:53:33 +0000",
+        "title": "ZEC Crashes 38% as Zcash Discloses \u2018Critical Counterfeiting Vulnerability\u2019",
+        "link": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
+        "time": "Fri, 05 Jun 2026 10:41:59 +0000",
         "importance": 5,
-        "summary": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
-        "briefing": "US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds exited positions, while banks and long-term allocators continued building exposure.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase to launch token-backed mortgage down payments this summer",
-        "link": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 18:52:00 +0000",
-        "importance": 5,
-        "summary": "Coinbase to launch token-backed mortgage down payments this summer",
-        "briefing": "A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
-        "link": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 17:30:15 +0000",
-        "importance": 5,
-        "summary": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
-        "briefing": "Bitcoin continued \"incredible\" 2022 bear market repeat behavior as sellers kept control over BTC price rebound attempts.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bybit joins Western Union\u2019s new USDPT network as stablecoin expands distribution",
-        "link": "https://cointelegraph.com/news/seo-url-bybit-western-union-usdpt-stablecoin-exchange-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 17:21:27 +0000",
-        "importance": 5,
-        "summary": "Bybit joins Western Union\u2019s new USDPT network as stablecoin expands distribution",
-        "briefing": "The exchange integration gives Western Union\u2019s dollar-pegged token access to crypto market liquidity as payment providers accelerate their adoption of stablecoins.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 04 Jun 2026 15:02:00 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "ZEC Crashes 38% as Zcash Discloses \u2018Critical Counterfeiting Vulnerability\u2019",
+        "briefing": "An Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Is Already Developing AI, Says Anthropic\u2014And Humans May Be Slowing Things Down",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "AI Is Already Developing AI, Says Anthropic\u2014And Humans May Be Slowing Things Down",
         "briefing": "Anthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
         "briefing": "Rep. Bryan Steil said he'll add language to the House congressional stock ban bill to cover prediction markets like Polymarket and Kalshi.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
         "briefing": "Demand for peptides fueled by the \"looksmaxxing\" trend has spawned a $100 million gray market paid for primarily with crypto.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare'",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare'",
         "briefing": "The Nobel Prize-winning AI researcher says humanity is standing in the \"foothills of the singularity.\"",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
         "briefing": "With Bitcoin falling hard this week and down nearly 50% from peak. Strategy's Michael Saylor is pointing the finger at the AI boom.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Billionaires Donate $9.4M to Farage\u2019s Reform UK in Q1",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Crypto Billionaires Donate $9.4M to Farage\u2019s Reform UK in Q1",
         "briefing": "Tether investor Christopher Harborne and BitMEX co-founder Ben Delo\u2019s outspent Britain's traditional political donors.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Miners Emerge as 'Power Landlords' of AI Boom\u2014And Revenue Will Surge: Bernstein",
-        "link": "https://decrypt.co/370047/bitcoin-miners-power-landlords-ai-boom-revenue-surge-bernstein",
-        "time": "Thu, 04 Jun 2026 16:32:52 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Miners Emerge as 'Power Landlords' of AI Boom\u2014And Revenue Will Surge: Bernstein",
-        "briefing": "Bernstein is bullish on Bitcoin miners as they increasingly power the AI boom, assigning \u201cOutperform\u201d ratings to TeraWulf and Cipher Digital.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto\u2014With Help From Coinbase, SpaceX and Meta",
-        "link": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
-        "time": "Thu, 04 Jun 2026 15:44:31 +0000",
-        "importance": 5,
-        "summary": "DOJ Task Force Freezes $3.8M in Illicit Crypto\u2014With Help From Coinbase, SpaceX and Meta",
-        "briefing": "Some of America's biggest companies helped squash crypto fraud stemming from organized crime in Southeast Asia.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     }
 ]
