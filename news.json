@@ -1,74 +1,101 @@
 [
     {
+        "title": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
+        "link": "https://cointelegraph.com/news/botanix-says-it-didnt-work-as-bitcoin-scaling-platform-shuts-down-sets-withdrawal-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 11:45:36 +0000",
+        "importance": 5,
+        "summary": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
+        "briefing": "The Spiderchain developer told users to withdraw assets by July 9 after concluding demand for Bitcoin-native DeFi was not sufficient to support the network.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
+        "link": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 09:46:01 +0000",
+        "importance": 5,
+        "summary": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
+        "briefing": "The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
+        "link": "https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 07:29:05 +0000",
+        "importance": 5,
+        "summary": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
+        "briefing": "Tech stocks and crypto are selling off in a \u201cclassic pre-mega-IPO liquidity squeeze,\u201d say analysts.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Chainalysis, South Korean police link up to fight crypto crime",
+        "link": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 07:03:20 +0000",
+        "importance": 5,
+        "summary": "Chainalysis, South Korean police link up to fight crypto crime",
+        "briefing": "South Korea's national police has been battling crypto-enabled crimes from DPRK-state level threats to scams targeting retail investors.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule",
+        "link": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 06:40:53 +0000",
+        "importance": 5,
+        "summary": "Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule",
+        "briefing": "The Hyperliquid Policy Center and Paradigm say the Treasury\u2019s money-laundering rules for the GENIUS Act are too onerous for stablecoin issuers.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+        "link": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 05:55:19 +0000",
+        "importance": 5,
+        "summary": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+        "briefing": "\u201cThe same insider trade that improves the accuracy of the price today can reduce the participation that makes the price informative tomorrow,\u201d said Balbinder Singh Gill.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
+        "link": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 10 Jun 2026 04:04:52 +0000",
+        "importance": 5,
+        "summary": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
+        "briefing": "Venture capitalist Simon Dedic said Anthropic\u2019s latest AI models drop the cost and skill needed to find crypto exploits to \u201cbasically zero.\u201d",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
         "link": "https://cointelegraph.com/markets/ether-risks-revisit-of-1000-if-this-support-level-breaks-amid-leverage-reset-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 09 Jun 2026 21:21:47 +0000",
         "importance": 5,
         "summary": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
         "briefing": "Ether\u2019s futures open interest fell by 25%, putting pressure on the $1,500 support level. Is a drop to $1,000 next?",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
-        "link": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 20:05:52 +0000",
-        "importance": 5,
-        "summary": "Solana Institute CEO says CLARITY Act must shield open-source developers",
-        "briefing": "Kristin Smith urged the Senate to preserve developer protections in the CLARITY Act, arguing open-source builders should not be regulated as financial intermediaries.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin may act as a \u2018canary in the coal mine\u2019 as risk-off pressure spreads: Bitwise",
-        "link": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 17:48:44 +0000",
-        "importance": 5,
-        "summary": "Bitcoin may act as a \u2018canary in the coal mine\u2019 as risk-off pressure spreads: Bitwise",
-        "briefing": "Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated.",
         "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
-        "link": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 17:26:49 +0000",
+        "title": "\u2018Intense Capitulation\u2019 Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss",
+        "link": "https://decrypt.co/370620/intense-capitulation-hits-crypto-as-8m-btc-bulk-of-eth-supply-sit-at-loss",
+        "time": "Wed, 10 Jun 2026 11:26:31 +0000",
         "importance": 5,
-        "summary": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
-        "briefing": "A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "\u2018Intense Capitulation\u2019 Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss",
+        "briefing": "Millions of Bitcoin are underwater as experts say the 'scale of market reset' signals capitulation, but long-term opportunities remain.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 15:05:28 +0000",
+        "title": "Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets",
+        "link": "https://decrypt.co/370618/kalshi-rolls-out-new-safeguards-after-insider-trading-concerns-hit-prediction-markets",
+        "time": "Wed, 10 Jun 2026 11:05:37 +0000",
         "importance": 5,
-        "summary": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
-        "briefing": "Bitcoin bear market analysis showed copycat BTC price moves ongoing despite new hopes of a US-Iran peace deal.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets",
+        "briefing": "Kalshi's new rules force traders to disclose their employers before trading high-risk markets flagged for insider trading or manipulation.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
-        "link": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 14:33:53 +0000",
+        "title": "Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027",
+        "link": "https://decrypt.co/370615/japans-largest-banks-plan-joint-stablecoin-launch-by-march-2027",
+        "time": "Wed, 10 Jun 2026 09:19:08 +0000",
         "importance": 5,
-        "summary": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
-        "briefing": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
-        "link": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 14:22:11 +0000",
-        "importance": 5,
-        "summary": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
-        "briefing": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
-        "link": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 09 Jun 2026 14:01:11 +0000",
-        "importance": 5,
-        "summary": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
-        "briefing": "StarkWare and Sui roll out confidential transfer systems as Zama boosts compliance efforts and Zcash\u2019s Orchard bug highlights risks in shielded privacy models.",
+        "summary": "Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027",
+        "briefing": "Megabanks MUFG Bank, Mizuho Bank and SMBC have formed a council to develop frameworks for jointly issuing a stablecoin in fiscal year 2026.",
         "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Crypto Tax Bills Face Pushback in House Committee Hearing",
         "briefing": "Pro-crypto Democrats questioned staking and mining tax exemptions Tuesday, while party leadership said the bills may need to wait until after the midterms.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots\u2014Meta Calls It 'Regulatory Overreach'",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots\u2014Meta Calls It 'Regulatory Overreach'",
         "briefing": "The European Commission has issued interim measures forcing Meta to restore third-party AI access to the WhatsApp Business API within five days.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
         "briefing": "The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket",
         "briefing": "The insider trading case is the government's first to center on prediction markets.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "A Quantum Clock Is Ticking for Bitcoin and Crypto\u2014Here's How Stellar Is Preparing",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "A Quantum Clock Is Ticking for Bitcoin and Crypto\u2014Here's How Stellar Is Preparing",
         "briefing": "The Stellar Development Foundation unveiled a three-step roadmap to prepare the XLM network for the coming quantum computing threat.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
-        "link": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity",
-        "time": "Tue, 09 Jun 2026 19:03:05 +0000",
-        "importance": 5,
-        "summary": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
-        "briefing": "Researchers demonstrated an AI-powered worm that adapts to targets, generates attack strategies, and spreads across networks without cloud services.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic Rolls Out Claude Mythos 5 AI Model\u2014Along With the Safer Fable 5 for the Public",
-        "link": "https://decrypt.co/370556/anthropic-rolls-out-claude-mythos-5-ai-model-safer-fable-public",
-        "time": "Tue, 09 Jun 2026 18:38:37 +0000",
-        "importance": 5,
-        "summary": "Anthropic Rolls Out Claude Mythos 5 AI Model\u2014Along With the Safer Fable 5 for the Public",
-        "briefing": "Anthropic has released a full version of its cybersecurity-centric Claude Mythos model\u2014along with a safer version for the general public.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kraken Named Official Crypto Exchange of FIFA World Cup 2026",
-        "link": "https://decrypt.co/370536/kraken-named-official-crypto-exchange-fifa-world-cup-2026",
-        "time": "Tue, 09 Jun 2026 17:45:13 +0000",
-        "importance": 5,
-        "summary": "Kraken Named Official Crypto Exchange of FIFA World Cup 2026",
-        "briefing": "Crypto exchange Kraken is teaming up with FIFA to sponsor the World Cup, with plans for \"fan-focused\" experiences in the U.S. and Europe.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     }
 ]
