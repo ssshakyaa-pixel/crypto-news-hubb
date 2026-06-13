@@ -1,12 +1,39 @@
 [
     {
+        "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+        "link": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 13 Jun 2026 14:45:43 +0000",
+        "importance": 5,
+        "summary": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
+        "briefing": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+        "link": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 13 Jun 2026 13:58:24 +0000",
+        "importance": 5,
+        "summary": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+        "briefing": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+        "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 13 Jun 2026 11:52:41 +0000",
+        "importance": 5,
+        "summary": "Morpho's $175M raise shows where crypto VC money is flowing",
+        "briefing": "Morpho\u2019s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sat, 13 Jun 2026 05:47:00 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
         "briefing": "Demand for ETH leverage remains low, but corporate accumulation and stakers\u2019 dedication may prevent an Ether price crash to $1,500.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
         "briefing": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
         "briefing": "Elon Musk\u2019s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin\u2019s \u2018calm top\u2019 challenges most market bottom estimates: Research",
@@ -45,31 +72,22 @@
         "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders\u2019 confidence",
-        "link": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 12 Jun 2026 23:42:12 +0000",
+        "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+        "link": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+        "time": "Sat, 13 Jun 2026 16:01:04 +0000",
         "importance": 5,
-        "summary": "Bitcoin rally to $70K builds as orderbook structure highlights traders\u2019 confidence",
-        "briefing": "A positive bid-ask readings and a bullish RSI divergence support Bitcoin's recovery, with $70,000 emerging as a key target.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+        "briefing": "Google alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
-        "link": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 12 Jun 2026 16:39:16 +0000",
+        "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
+        "link": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
+        "time": "Sat, 13 Jun 2026 13:01:06 +0000",
         "importance": 5,
-        "summary": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
-        "briefing": "A federal appeals court upheld the former FTX chief\u2019s conviction, while his bid for clemency from President Donald Trump appears to face steep political odds.",
+        "summary": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
+        "briefing": "A hobbyist network handed an autonomous agent a masterclass in why you don't give AI a credit card and a deadline.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
-        "link": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 12 Jun 2026 16:17:33 +0000",
-        "importance": 5,
-        "summary": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
-        "briefing": "Bitcoin hit $64,000 as SpaceX launched a record-breaking IPO and US-Iran peace deal hopes continued to grow, but doubts over BTC price support remained.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
         "briefing": "President Trump\u2019s upcoming UFC fight will provide several crypto firms with an unprecedented opportunity for corporate branding.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
         "briefing": "A new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
         "briefing": "Kimi Work lets an AI agent loose on your local files, your browser, and your schedule\u2014without routing everything through the cloud.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer\u2019s Cures: Anthropic Survey",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer\u2019s Cures: Anthropic Survey",
         "briefing": "Anthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
         "briefing": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tennessee Man Indicted for Alleged Crypto Ponzi Scheme That Stole Millions From Investors",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Tennessee Man Indicted for Alleged Crypto Ponzi Scheme That Stole Millions From Investors",
         "briefing": "Feds indicted a Tennessee man for allegedly running a crypto Ponzi scheme from 2020-2024 and bilking investors out of millions.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Iran-Linked Group That Hacked Kash Patel's Email Threatens World Cup With Hijacked FBI Drones",
-        "link": "https://decrypt.co/370937/iran-group-hacked-kash-patel-email-threatens-world-cup-hijacked-drones",
-        "time": "Fri, 12 Jun 2026 17:12:36 +0000",
-        "importance": 5,
-        "summary": "Iran-Linked Group That Hacked Kash Patel's Email Threatens World Cup With Hijacked FBI Drones",
-        "briefing": "The Iran-linked hacking group said it accessed footage from FBI-controlled drones and warned World Cup teams that they could be targeted.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Americans Traded Up to $34 Billion on Offshore Prediction Markets: Study",
-        "link": "https://decrypt.co/370908/americans-traded-34-billion-offshore-prediction-markets-study",
-        "time": "Fri, 12 Jun 2026 16:44:39 +0000",
-        "importance": 5,
-        "summary": "Americans Traded Up to $34 Billion on Offshore Prediction Markets: Study",
-        "briefing": "The study estimated Americans could end up wagering up to $133 billion annually on offshore prediction markets by 2030.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
