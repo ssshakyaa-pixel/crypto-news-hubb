@@ -1,12 +1,39 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 14 Jun 2026 05:32:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+        "link": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 14 Jun 2026 05:07:31 +0000",
+        "importance": 5,
+        "summary": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+        "briefing": "Crypto analyst Micha\u00ebl van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+        "link": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 14 Jun 2026 03:36:49 +0000",
+        "importance": 5,
+        "summary": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+        "briefing": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic\u2019s Fable 5 and Mythos 5 AI models on Friday.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
         "link": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sat, 13 Jun 2026 14:45:43 +0000",
         "importance": 5,
         "summary": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
         "briefing": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
         "briefing": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morpho's $175M raise shows where crypto VC money is flowing",
@@ -24,16 +51,7 @@
         "importance": 5,
         "summary": "Morpho's $175M raise shows where crypto VC money is flowing",
         "briefing": "Morpho\u2019s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 13 Jun 2026 05:47:00 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
         "briefing": "Demand for ETH leverage remains low, but corporate accumulation and stakers\u2019 dedication may prevent an Ether price crash to $1,500.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
@@ -51,25 +69,7 @@
         "importance": 5,
         "summary": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
         "briefing": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-        "link": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 13 Jun 2026 02:17:55 +0000",
-        "importance": 5,
-        "summary": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-        "briefing": "Elon Musk\u2019s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin\u2019s \u2018calm top\u2019 challenges most market bottom estimates: Research",
-        "link": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 13 Jun 2026 00:51:36 +0000",
-        "importance": 5,
-        "summary": "Bitcoin\u2019s \u2018calm top\u2019 challenges most market bottom estimates: Research",
-        "briefing": "New data from Galaxy Research suggests that Bitcoin's floor price may not drop as low as previous bear markets, but the bottom-finding process is still playing out.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
         "briefing": "Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
         "briefing": "Google alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
         "briefing": "A hobbyist network handed an autonomous agent a masterclass in why you don't give AI a credit card and a deadline.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
         "briefing": "President Trump\u2019s upcoming UFC fight will provide several crypto firms with an unprecedented opportunity for corporate branding.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
         "briefing": "A new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
         "briefing": "Kimi Work lets an AI agent loose on your local files, your browser, and your schedule\u2014without routing everything through the cloud.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer\u2019s Cures: Anthropic Survey",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer\u2019s Cures: Anthropic Survey",
         "briefing": "Anthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
         "briefing": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
