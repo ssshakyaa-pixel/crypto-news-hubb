@@ -1,75 +1,138 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 22:39:18 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+        "link": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 22:10:00 +0000",
+        "importance": 5,
+        "summary": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+        "briefing": "A spokesperson for the Democratic National Committee decried the move as \u201can opportunity to use the power of the presidency to make [Trump] and his family even richer.\u201d",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Nvidia\u2019s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
+        "link": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 20:15:43 +0000",
+        "importance": 5,
+        "summary": "Nvidia\u2019s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
+        "briefing": "Nvidia\u2019s planned bond sale reinforces booming AI infrastructure demand, strengthening the case for Bitcoin miners pivoting toward AI data centers.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
+        "link": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 19:41:24 +0000",
+        "importance": 5,
+        "summary": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
+        "briefing": "The CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators\u2019 roles over digital assets with the CLARITY Act.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
+        "link": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 18:55:11 +0000",
+        "importance": 5,
+        "summary": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
+        "briefing": "BitMine continued buying Ether through the market downturn, growing its stake to nearly 5% of the circulating supply while generating staking yield amid mounting ecosystem challenges.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
+        "link": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 18:53:15 +0000",
+        "importance": 5,
+        "summary": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
+        "briefing": "The offering follows Kraken's acquisition of Bitnomial and comes amid a broader push to bring crypto derivatives trading onshore.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "These Bitcoin charts show how BTC price could hit $100K before October",
+        "link": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 15 Jun 2026 16:18:14 +0000",
+        "importance": 5,
+        "summary": "These Bitcoin charts show how BTC price could hit $100K before October",
+        "briefing": "Bitcoin\u2019s double-bottom setup, weekly RSI divergence and whale flows put traders on alert as BTC tests a key breakout zone.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
         "link": "https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 15 Jun 2026 15:22:18 +0000",
         "importance": 5,
         "summary": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
         "briefing": "Bitcoin snatched upside liquidity as the US trading session began, but traders warned over a failure to preserve BTC price gains.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Pudgy Penguins winds down Pudgy Party mobile game",
-        "link": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 15:05:14 +0000",
-        "importance": 5,
-        "summary": "Pudgy Penguins winds down Pudgy Party mobile game",
-        "briefing": "Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as another Web3 gaming project shuts down after failing to find a sustainable business model.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Saylor\u2019s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
-        "link": "https://cointelegraph.com/news/strategy-michael-saylor-1587-btc-buy-100-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 13:52:12 +0000",
-        "importance": 5,
-        "summary": "Saylor\u2019s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
-        "briefing": "Strategy acquired 1,587 Bitcoin for $100 million last week, lifting holdings to 846,842 BTC after raising $209 million through MSTR stock sales.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
-        "link": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 13:28:24 +0000",
-        "importance": 5,
-        "summary": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
-        "briefing": "Standard Chartered forecasts assets locked in decentralized finance will reach $2.7 trillion by 2030, driven by tokenization and crypto-native growth.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/can-btc-rebound-to-69k-as-oil-price-plunges-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 10:14:39 +0000",
-        "importance": 5,
-        "summary": "Can BTC rebound to $69K as oil price plunges? Five things to know in Bitcoin this week",
-        "briefing": "Bitcoin gained bullish short-term BTC price targets with $69,000 on the radar thanks to the US-Iran peace deal, due to be signed in the coming days.",
         "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Japan\u2019s Bitbank cracks down on Polymarket-linked transfers",
-        "link": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 10:05:29 +0000",
+        "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+        "link": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
+        "time": "Mon, 15 Jun 2026 21:05:00 +0000",
         "importance": 5,
-        "summary": "Japan\u2019s Bitbank cracks down on Polymarket-linked transfers",
-        "briefing": "Japanese crypto exchange Bitbank warns users of possible account suspensions for Polymarket-linked transactions, citing Japan\u2019s gambling laws.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+        "briefing": "A federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
-        "link": "https://cointelegraph.com/news/bitcoin-closes-in-on-66k-as-trump-signals-deal-with-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 06:47:49 +0000",
+        "title": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
+        "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
+        "time": "Mon, 15 Jun 2026 20:47:53 +0000",
         "importance": 5,
-        "summary": "Bitcoin nears $66K as Trump says US has peace deal with Iran",
-        "briefing": "US President Donald Trump says the US and Iran have a deal for a \u201ctoll-free opening of the Strait of Hormuz,\u201d sending Bitcoin to a two-week high.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
+        "briefing": "Pudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "CFTC sues New Mexico over prediction market jurisdiction",
-        "link": "https://cointelegraph.com/news/cftc-sues-new-mexico-over-prediction-market-jurisdiction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 15 Jun 2026 05:54:06 +0000",
+        "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
+        "link": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
+        "time": "Mon, 15 Jun 2026 20:06:36 +0000",
         "importance": 5,
-        "summary": "CFTC sues New Mexico over prediction market jurisdiction",
-        "briefing": "New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary Gensler doubted the regulators' claim of authority over sports event contracts.",
+        "summary": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
+        "briefing": "One trader lost $1 million betting Spain would win. Another bought \"No\" at 9\u00a2 and walked away with $4.3 million.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Rio de Janeiro Built an AI Model That Beat DeepSeek\u2014But Was Based on Someone Else's Work",
+        "link": "https://decrypt.co/371210/rio-ai-model-beat-deepseek-ownership-dispute-nex",
+        "time": "Mon, 15 Jun 2026 19:43:48 +0000",
+        "importance": 5,
+        "summary": "Rio de Janeiro Built an AI Model That Beat DeepSeek\u2014But Was Based on Someone Else's Work",
+        "briefing": "Rio de Janeiro released a frontier-class AI model that claimed to beat Alibaba's best. Then Nex showed up with receipts.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
+        "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
+        "time": "Mon, 15 Jun 2026 18:37:57 +0000",
+        "importance": 5,
+        "summary": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
+        "briefing": "Uniswap\u2019s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+        "link": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
+        "time": "Mon, 15 Jun 2026 17:57:48 +0000",
+        "importance": 5,
+        "summary": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+        "briefing": "A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals\u2014But Nobody's Biting",
+        "link": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
+        "time": "Mon, 15 Jun 2026 17:30:29 +0000",
+        "importance": 5,
+        "summary": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals\u2014But Nobody's Biting",
+        "briefing": "Forward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
@@ -78,69 +141,6 @@
         "importance": 5,
         "summary": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
         "briefing": "The U.S. move to pull Anthropic's top models offline shows the dangers of leaning on a few AI providers, Carney said.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC",
-        "link": "https://decrypt.co/371176/bitcoin-giant-strategy-pads-cash-cushion-second-week-buys-btc",
-        "time": "Mon, 15 Jun 2026 15:29:41 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC",
-        "briefing": "Strategy expanded its USD Reserve to $1.1 billion and increased its total Bitcoin holdings, after dipping into those funds last month.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "One Indicted Over Crypto \u2018Wrench Attack\u2019 in France",
-        "link": "https://decrypt.co/371143/one-indicted-over-crypto-wrench-attack-in-france",
-        "time": "Mon, 15 Jun 2026 14:40:46 +0000",
-        "importance": 5,
-        "summary": "One Indicted Over Crypto \u2018Wrench Attack\u2019 in France",
-        "briefing": "The crypto-related assault reportedly involved attackers posing as police officers, and follows a spate of attacks in the country.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start",
-        "link": "https://decrypt.co/371142/tom-lees-bitmine-139-million-ethereum-preferred-share-trading",
-        "time": "Mon, 15 Jun 2026 14:36:50 +0000",
-        "importance": 5,
-        "summary": "Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start",
-        "briefing": "BitMine Immersion Technologies expanded its leading Ethereum treasury to more than 5.6 million ETH valued at greater than $10 billion.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
-        "link": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
-        "time": "Mon, 15 Jun 2026 13:04:47 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
-        "briefing": "The three crypto market overhangs of the Iran War, SpaceX IPO and ETF outflows appear to be lifting. But can they be trusted?",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
-        "link": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins",
-        "time": "Mon, 15 Jun 2026 11:27:19 +0000",
-        "importance": 5,
-        "summary": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
-        "briefing": "The Philippines' central bank has tightened crypto oversight with new rules governing how exchanges assess and monitor digital assets.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
-        "link": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical",
-        "time": "Mon, 15 Jun 2026 11:03:14 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
-        "briefing": "A crypto relief rally has \u201cpartially arrived\u201d as Trump announces a deal with Iran, but prediction market traders remain unconvinced.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
-        "link": "https://decrypt.co/371033/reve-2-review-best-ai-image-generator-layout-control",
-        "time": "Sun, 14 Jun 2026 19:11:33 +0000",
-        "importance": 5,
-        "summary": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
-        "briefing": "The startup that beat Midjourney at a penny per image is back with a 4K model that plans pictures like code\u2014and refuses far less than its rivals",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     }
 ]
