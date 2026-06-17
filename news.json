@@ -1,74 +1,119 @@
 [
     {
+        "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+        "link": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 22:28:40 GMT",
+        "importance": 5,
+        "summary": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+        "briefing": "Despite Bitcoin derivatives data highlight traders\u2019 skepticism even though BTC briefly rallied above $67,000. Are bulls stepping into a trap?",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 21:26:55 GMT",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
+        "link": "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 20:55:09 GMT",
+        "importance": 5,
+        "summary": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
+        "briefing": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin metric near \u2018low-risk\u2019 zone after holders absorb 125K BTC in June: Time for a rebound?",
+        "link": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 19:54:21 GMT",
+        "importance": 5,
+        "summary": "Bitcoin metric near \u2018low-risk\u2019 zone after holders absorb 125K BTC in June: Time for a rebound?",
+        "briefing": "Bitcoin\u2019s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
+        "link": "https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 19:45:47 GMT",
+        "importance": 5,
+        "summary": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
+        "briefing": "Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 20 Alabama primary, and an additional $4.7 million before Tuesday\u2019s runoffs.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
+        "link": "https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 19:31:19 GMT",
+        "importance": 5,
+        "summary": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
+        "briefing": "The crypto exchange is deepening its push into traditional finance by enabling ACATS stock transfers and expanding trading products beyond digital assets.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
+        "link": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 16 Jun 2026 18:44:51 GMT",
+        "importance": 5,
+        "summary": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
+        "briefing": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
         "link": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "time": "Tue, 16 Jun 2026 17:28:40 GMT",
         "importance": 5,
         "summary": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
         "briefing": "The launch comes amid growing competition among financial institutions to manage assets backing dollar-pegged stablecoins.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ripple targets Africa\u2019s booming remittance market with Flutterwave investment",
-        "link": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 17:28:00 GMT",
-        "importance": 5,
-        "summary": "Ripple targets Africa\u2019s booming remittance market with Flutterwave investment",
-        "briefing": "Ripple\u2019s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa\u2019s largest fintechs as blockchain remittances gain traction.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Why US-regulated Bitcoin perpetuals could change crypto trading",
-        "link": "https://cointelegraph.com/learn/us-regulated-bitcoin-perpetual-futures?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 17:00:00 GMT",
-        "importance": 5,
-        "summary": "Why US-regulated Bitcoin perpetuals could change crypto trading",
-        "briefing": "US-regulated Bitcoin perpetual futures could give retail and institutional traders new ways to access crypto derivatives.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance says it considers EU license compliant amid reports of potential rejection",
-        "link": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 16:26:00 GMT",
-        "importance": 5,
-        "summary": "Binance says it considers EU license compliant amid reports of potential rejection",
-        "briefing": "Without specifically calling out a report on Binance\u2019s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could \u201cweaken liquidity\u201d and present other potential risks.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78",
-        "link": "https://cointelegraph.com/markets/bitcoin-stocks-divergence-returns-as-btc-drops-to-66k-while-nasdaq-adds-3?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 14:18:19 GMT",
-        "importance": 5,
-        "summary": "Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78",
-        "briefing": "Bitcoin joined oil in heading lower while stocks gained on US-Iran peace momentum, with traders seeing a quick end to the BTC price rebound.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "SpaceX\u2019s debut: A win for crypto price discovery, a fail for tokenized access",
-        "link": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 14:00:00 GMT",
-        "importance": 5,
-        "summary": "SpaceX\u2019s debut: A win for crypto price discovery, a fail for tokenized access",
-        "briefing": "SpaceX\u2019s blockbuster debut didn\u2019t just mint a trillionaire; it became a real-world stress test for crypto\u2019s promise of democratized market access.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Why a \u2018safe\u2019 AI can turn dangerous in the wrong company",
-        "link": "https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 13:58:15 GMT",
-        "importance": 5,
-        "summary": "Why a \u2018safe\u2019 AI can turn dangerous in the wrong company",
-        "briefing": "A 15-day AI agent simulation shows why short tests may miss long-term risks shaped by tools, rules and other agents.",
         "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 16 Jun 2026 12:54:41 GMT",
+        "title": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
+        "link": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
+        "time": "Tue, 16 Jun 2026 22:32:21 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "summary": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
+        "briefing": "The Chinese company is doubling down on its \"embodied AI\" bet.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters",
+        "link": "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
+        "time": "Tue, 16 Jun 2026 20:25:52 +0000",
+        "importance": 5,
+        "summary": "Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters",
+        "briefing": "Binance said it believes it is compliant as a regulatory deadline in the European Union nears\u2014and a report says it's likely to lose access.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
+        "link": "https://decrypt.co/371318/chatgpt-ai-market-share-claude-gemini-grok",
+        "time": "Tue, 16 Jun 2026 19:59:59 +0000",
+        "importance": 5,
+        "summary": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
+        "briefing": "Sensor Tower's State of AI 2026 report shows ChatGPT's audience share slipping below 50% for the first time, as Gemini's default-app advantage and Claude's Pentagon-fueled rally eat into OpenAI's lead.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "FBI Says It Foiled Drone Attack Plot Targeting White House UFC Event",
+        "link": "https://decrypt.co/371339/fbi-foiled-drone-attack-plot-targeting-white-house-ufc-event",
+        "time": "Tue, 16 Jun 2026 19:47:42 +0000",
+        "importance": 5,
+        "summary": "FBI Says It Foiled Drone Attack Plot Targeting White House UFC Event",
+        "briefing": "Federal prosecutors allege five men planned to use explosive-laden drones and sniper teams to take out \"high-value targets\" at the UFC event.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
+        "link": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
+        "time": "Tue, 16 Jun 2026 19:00:38 +0000",
+        "importance": 5,
+        "summary": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
+        "briefing": "Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it seeks to become the \"everything exchange.\"",
         "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
@@ -78,7 +123,7 @@
         "importance": 5,
         "summary": "Japan Rates Hit Three-Decade High, But No \u2018Meaningful Disruption\u2019 to Crypto Market",
         "briefing": "Japan's central bank lifted rates to a level unseen in decades, a move that once shook crypto markets\u2014yet prices barely stirred.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SpaceX Shares Hit New High as Elon Musk's Firm Agrees to Acquire AI Startup Cursor for $60 Billion",
@@ -87,7 +132,7 @@
         "importance": 5,
         "summary": "SpaceX Shares Hit New High as Elon Musk's Firm Agrees to Acquire AI Startup Cursor for $60 Billion",
         "briefing": "The all-stock deal would make Cursor a wholly owned SpaceX subsidiary and deepen the company's push into AI following its blockbuster IPO.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "7 Ways Businesses Are Using Crypto Swap APIs",
@@ -96,51 +141,6 @@
         "importance": 5,
         "summary": "7 Ways Businesses Are Using Crypto Swap APIs",
         "briefing": "Real-world case studies show how the best crypto swap APIs help wallets, aggregators, and protocols improve onboarding and retention.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch",
-        "link": "https://decrypt.co/371290/robinhood-trims-headcount-10-crypto-revenue-crunch",
-        "time": "Tue, 16 Jun 2026 15:17:03 +0000",
-        "importance": 5,
-        "summary": "Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch",
-        "briefing": "Robinhood is letting go of 10% of its employees, attempting to streamline operations amid a downturn in crypto-related revenue.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Scale of Stablecoin Adoption in Nigeria Makes Risks 'More Pronounced', Says IMF",
-        "link": "https://decrypt.co/371287/scale-stablecoin-adoption-nigeria-risks-more-pronounced-imf",
-        "time": "Tue, 16 Jun 2026 13:49:43 +0000",
-        "importance": 5,
-        "summary": "Scale of Stablecoin Adoption in Nigeria Makes Risks 'More Pronounced', Says IMF",
-        "briefing": "Efforts to suppress stablecoin use are \u201clikely to be only partly effective,\u201d the International Monetary Fund\u2019s researchers said.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High",
-        "link": "https://decrypt.co/371284/hyperliquid-etfs-draw-in-172m-since-launch-as-hype-hits-all-time-high",
-        "time": "Tue, 16 Jun 2026 12:32:08 +0000",
-        "importance": 5,
-        "summary": "Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High",
-        "briefing": "U.S. spot Bitcoin ETFs have shed nearly $5.6 billion since Hyperliquid ETFs launched, highlighting market divergence.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: HYPE Soars to ATH as SPCX Takes Off",
-        "link": "https://decrypt.co/371280/morning-minute-hype-soars-to-ath-as-spcx-takes-off",
-        "time": "Tue, 16 Jun 2026 12:03:38 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: HYPE Soars to ATH as SPCX Takes Off",
-        "briefing": "SPCX jumped 20%+ in after hours trading last night with all eyes on its Hyperliquid perp, leading to a 12% spike in HYPE.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield",
-        "link": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
-        "time": "Tue, 16 Jun 2026 12:01:04 +0000",
-        "importance": 5,
-        "summary": "BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield",
-        "briefing": "BlackRock launched an ETF that limits Bitcoin gains in exchange for double-digit payouts by selling call options on its holdings.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     }
 ]
