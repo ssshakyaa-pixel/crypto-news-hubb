@@ -1,5 +1,32 @@
 [
     {
+        "title": "CFTC chair says perp trading not suitable for all assets it regulates",
+        "link": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 16:54:38 GMT",
+        "importance": 5,
+        "summary": "CFTC chair says perp trading not suitable for all assets it regulates",
+        "briefing": "Michael Selig told US cotton producers that the agency\u2019s regulatory approach to crypto perpetual futures may not be a \u201cnatural fit for traditional commodity markets, like agriculture.\u201d",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
+        "link": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 16:23:56 GMT",
+        "importance": 5,
+        "summary": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
+        "briefing": "As US regulatory changes accelerate the adoption of crypto perpetual futures and rivals Coinbase and Kalshi expand their offerings, Cboe mulls a product overhaul.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
+        "link": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 15:45:00 GMT",
+        "importance": 5,
+        "summary": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
+        "briefing": "Banks across Europe and South Korea will study whether regulated euro and won stablecoins can enable real-time cross-border foreign exchange settlement.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
         "link": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "time": "Tue, 23 Jun 2026 15:15:41 GMT",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
         "briefing": "SpaceX\u2019s $600 billion wipeout rattles tech markets, putting Bitcoin\u2019s $60,000 support at risk as traders brace for a deeper BTC selloff.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Why tokenized SpaceX shares broke before retail investors could buy them",
         "briefing": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi adds India to growing list of restricted jurisdictions",
@@ -42,34 +69,25 @@
         "importance": 5,
         "summary": "Kalshi adds India to growing list of restricted jurisdictions",
         "briefing": "Kalshi has added India to its list of 55 restricted jurisdictions, months after Indian authorities warned VPN providers to stop facilitating access to these platforms.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "EU committee advances digital euro bill after key vote",
-        "link": "https://cointelegraph.com/news/eu-committee-digital-euro-cbdc-bill-key-vote?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 12:24:54 GMT",
+        "title": "A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race",
+        "link": "https://decrypt.co/371869/toqanclaw-openclaw-competitor-privacy-gdpr",
+        "time": "Tue, 23 Jun 2026 17:06:52 +0000",
         "importance": 5,
-        "summary": "EU committee advances digital euro bill after key vote",
-        "briefing": "EU lawmakers backed rules for an offline and online digital euro, with privacy safeguards, holding limits and no interest payments.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race",
+        "briefing": "Prosus launched ToqanClaw, a no-code AI platform positioned as an European alternative to AI agents like OpenClaw.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
-        "link": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 12:06:35 GMT",
+        "title": "Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street",
+        "link": "https://decrypt.co/371867/bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street",
+        "time": "Tue, 23 Jun 2026 15:54:07 +0000",
         "importance": 5,
-        "summary": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
-        "briefing": "Former BIS general manager Agust\u00edn Carstens said stablecoins can enhance financial inclusion and innovation but stressed the need for global regulatory frameworks to enable coexistence with fiat money.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance\u2019s Yi He warns of alleged impersonation scam, CoinUp denies ties",
-        "link": "https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 10:30:27 GMT",
-        "importance": 5,
-        "summary": "Binance\u2019s Yi He warns of alleged impersonation scam, CoinUp denies ties",
-        "briefing": "Binance co-founder Yi He warns of an alleged impersonator referred to as \u201cZhu Pan\u201d in Chinese-language posts as CoinUp distances itself from the individual.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street",
+        "briefing": "Investors are digesting a hawkish Fed, with risk-off sentiment driving a sell-off in AI and crypto",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
         "briefing": "The non-profit is cutting 54 jobs as it reorganizes into focused \"clusters,\" following a succession of leadership departures.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
         "briefing": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&#038;D with ETHLabs.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
         "briefing": "A bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
         "briefing": "The analysts underscored that Strategy's Stretch (STRC) can't technically lose its \u201cpeg.\u201d",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
         "briefing": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk",
-        "link": "https://decrypt.co/371807/trump-quantum-orders-accelerate-security-bitcoin-faces-risk",
-        "time": "Mon, 22 Jun 2026 19:57:54 +0000",
-        "importance": 5,
-        "summary": "Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk",
-        "briefing": "President Donald Trump signed two executive orders aimed at expanding U.S. quantum computing capabilities and speeding the transition to quantum-resistant encryption.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Google Warns AI Consciousness Debate Could Become a Political Battleground",
-        "link": "https://decrypt.co/371800/google-ai-consciousness-debate-political",
-        "time": "Mon, 22 Jun 2026 19:30:44 +0000",
-        "importance": 5,
-        "summary": "Google Warns AI Consciousness Debate Could Become a Political Battleground",
-        "briefing": "A new paper from Google DeepMind argues that disagreements over whether AI is conscious could spill into politics, law, and public institutions.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     }
 ]
