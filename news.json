@@ -1,75 +1,102 @@
 [
     {
+        "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
+        "link": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 15:15:41 GMT",
+        "importance": 5,
+        "summary": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
+        "briefing": "Bitcoin stayed volatile while bulls tried to preserve support at local lows while stocks prepared for Micron forward earnings and digested Asia losses.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+        "link": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 14:38:32 GMT",
+        "importance": 5,
+        "summary": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+        "briefing": "SpaceX\u2019s $600 billion wipeout rattles tech markets, putting Bitcoin\u2019s $60,000 support at risk as traders brace for a deeper BTC selloff.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
+        "link": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 14:30:00 GMT",
+        "importance": 5,
+        "summary": "Why tokenized SpaceX shares broke before retail investors could buy them",
+        "briefing": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 13:07:43 GMT",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Kalshi adds India to growing list of restricted jurisdictions",
+        "link": "https://cointelegraph.com/news/kalshi-adds-india-restricted-jurisdictions?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 12:40:13 GMT",
+        "importance": 5,
+        "summary": "Kalshi adds India to growing list of restricted jurisdictions",
+        "briefing": "Kalshi has added India to its list of 55 restricted jurisdictions, months after Indian authorities warned VPN providers to stop facilitating access to these platforms.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "EU committee advances digital euro bill after key vote",
+        "link": "https://cointelegraph.com/news/eu-committee-digital-euro-cbdc-bill-key-vote?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 12:24:54 GMT",
+        "importance": 5,
+        "summary": "EU committee advances digital euro bill after key vote",
+        "briefing": "EU lawmakers backed rules for an offline and online digital euro, with privacy safeguards, holding limits and no interest payments.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
+        "link": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Tue, 23 Jun 2026 12:06:35 GMT",
+        "importance": 5,
+        "summary": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
+        "briefing": "Former BIS general manager Agust\u00edn Carstens said stablecoins can enhance financial inclusion and innovation but stressed the need for global regulatory frameworks to enable coexistence with fiat money.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Binance\u2019s Yi He warns of alleged impersonation scam, CoinUp denies ties",
         "link": "https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "time": "Tue, 23 Jun 2026 10:30:27 GMT",
         "importance": 5,
         "summary": "Binance\u2019s Yi He warns of alleged impersonation scam, CoinUp denies ties",
         "briefing": "Binance co-founder Yi He warns of an alleged impersonator referred to as \u201cZhu Pan\u201d in Chinese-language posts as CoinUp distances itself from the individual.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
-        "link": "https://cointelegraph.com/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 10:23:19 GMT",
+        "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
+        "link": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
+        "time": "Tue, 23 Jun 2026 15:19:46 +0000",
         "importance": 5,
-        "summary": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
-        "briefing": "Bitcoin analysis warned of \"new lows\" as Asia markets dropped as much as 10% and BTC price action dipped below $62,000 for the first time in nearly two weeks.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
+        "briefing": "The non-profit is cutting 54 jobs as it reorganizes into focused \"clusters,\" following a succession of leadership departures.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "THORChain resumes trading more than month after $10M exploit",
-        "link": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 10:00:24 GMT",
+        "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
+        "link": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
+        "time": "Tue, 23 Jun 2026 13:40:47 +0000",
         "importance": 5,
-        "summary": "THORChain resumes trading more than month after $10M exploit",
-        "briefing": "THORChain resumed all network activity after implementing multiple security upgrades and a vault migration to fix the vulnerabilities that led to the $10.7 million exploit.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
+        "briefing": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
-        "link": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 08:47:59 GMT",
+        "title": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
+        "link": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
+        "time": "Tue, 23 Jun 2026 12:23:09 +0000",
         "importance": 5,
-        "summary": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
-        "briefing": "Ripple secures preliminary CASP approval in Luxembourg ahead of July 1 MiCA deadline as companies race for EU crypto licensing.",
+        "summary": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
+        "briefing": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&#038;D with ETHLabs.",
         "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 06:00:00 GMT",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US Senate passes housing bill with CBDC ban until 2030",
-        "link": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 05:58:20 GMT",
-        "importance": 5,
-        "summary": "US Senate passes housing bill with CBDC ban until 2030",
-        "briefing": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto lobby urges Congress to pass staking and mining tax bill as is",
-        "link": "https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-staking-mining-tax-bill-without-changes?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 05:01:13 GMT",
-        "importance": 5,
-        "summary": "Crypto lobby urges Congress to pass staking and mining tax bill as is",
-        "briefing": "A trio of crypto lobby groups says a bill allowing staking and mining rewards to be taxed when they\u2019re sold should be passed without further amendments.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trump signs orders for quantum computer, cryptography upgrades",
-        "link": "https://cointelegraph.com/news/trump-orders-quantum-computing-push-and-post-quantum-cryptography-upgrade?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Tue, 23 Jun 2026 04:57:21 GMT",
-        "importance": 5,
-        "summary": "Trump signs orders for quantum computer, cryptography upgrades",
-        "briefing": "\u201cWe\u2019re going to be investing in American quantum leadership like never before to stay ahead of the pack,\u201d says US President Donald Trump.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
         "briefing": "A bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
         "briefing": "The analysts underscored that Strategy's Stretch (STRC) can't technically lose its \u201cpeg.\u201d",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
         "briefing": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk",
         "briefing": "President Donald Trump signed two executive orders aimed at expanding U.S. quantum computing capabilities and speeding the transition to quantum-resistant encryption.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Warns AI Consciousness Debate Could Become a Political Battleground",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Google Warns AI Consciousness Debate Could Become a Political Battleground",
         "briefing": "A new paper from Google DeepMind argues that disagreements over whether AI is conscious could spill into politics, law, and public institutions.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Industry Urges Congress to Pass Tax Bill\u2014But Will It Happen This Year?",
-        "link": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill",
-        "time": "Mon, 22 Jun 2026 18:53:56 +0000",
-        "importance": 5,
-        "summary": "Crypto Industry Urges Congress to Pass Tax Bill\u2014But Will It Happen This Year?",
-        "briefing": "A bill that would make crypto mining and staking more attractive is a top priority for industry leaders\u2014and a growing concern for House Democrats.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
-        "link": "https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack",
-        "time": "Mon, 22 Jun 2026 18:12:33 +0000",
-        "importance": 5,
-        "summary": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
-        "briefing": "The well-known trading bot took a hit this weekend after it fell victim to a series of transactions that left its logic exposed.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street",
-        "link": "https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities",
-        "time": "Mon, 22 Jun 2026 18:00:03 +0000",
-        "importance": 5,
-        "summary": "ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street",
-        "briefing": "The pair will focus on advancing tokenization and digital asset infrastructure in a joint venture co-chaired by the former governor of New York.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
