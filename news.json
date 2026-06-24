@@ -1,75 +1,111 @@
 [
     {
+        "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
+        "link": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 15:49:54 GMT",
+        "importance": 5,
+        "summary": "Credit unions managing $25B in assets join stablecoin infrastructure program",
+        "briefing": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Binance withdraws Greece-filed MiCA application",
+        "link": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 15:47:05 GMT",
+        "importance": 5,
+        "summary": "Binance withdraws Greece-filed MiCA application",
+        "briefing": "Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump cancels signing of housing bill with CBDC ban",
+        "link": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 15:18:07 GMT",
+        "importance": 5,
+        "summary": "Trump cancels signing of housing bill with CBDC ban",
+        "briefing": "The 21st Century ROAD to Housing Act included a provision that the US Federal Reserve was barred from issuing or creating a CBDC until 2030, but exempted certain stablecoins.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "The Impossibility of Perfect Fairness in Transaction Ordering",
+        "link": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 15:00:00 GMT",
+        "importance": 5,
+        "summary": "The Impossibility of Perfect Fairness in Transaction Ordering",
+        "briefing": "Why perfect fairness cannot hold in asynchronous networks, and how different blockchains adopt different relaxations to fairness.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "How memecoin marketing moved from online speculation to real-world risk",
+        "link": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 14:30:00 GMT",
+        "importance": 5,
+        "summary": "How memecoin marketing moved from online speculation to real-world risk",
+        "briefing": "From alcohol dares to head-shaving challenges, memecoin campaigns are turning engagement into exploitation.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+        "link": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 14:14:39 GMT",
+        "importance": 5,
+        "summary": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+        "briefing": "DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major exploits, including the Kelp DAO hack, weighed on the sector.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "time": "Wed, 24 Jun 2026 13:54:31 GMT",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "SecondFi traces Cardano wallet exploit to address-level issue",
         "link": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "time": "Wed, 24 Jun 2026 12:38:43 GMT",
         "importance": 5,
         "summary": "SecondFi traces Cardano wallet exploit to address-level issue",
         "briefing": "Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CBOE debuts prediction market with S&P 500 contracts",
-        "link": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 12:01:43 GMT",
-        "importance": 5,
-        "summary": "CBOE debuts prediction market with S&P 500 contracts",
-        "briefing": "Cboe launched its first prediction market product tied to the S&amp;P 500 index, citing a growing investor demand for binary options contracts.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%",
-        "link": "https://cointelegraph.com/news/strategys-dividend-coverage-falls-14-months-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 11:34:40 GMT",
-        "importance": 5,
-        "summary": "CryptoQuant warns on Strategy's dividend coverage as cash reserve falls 38%",
-        "briefing": "Strategy's cash reserves are now enough to pay only 14 months of dividends from the previous seven-year level. CryptoQuant said the company should pause Bitcoin purchases and rebuild its reserves.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered",
-        "link": "https://cointelegraph.com/news/standard-chartered-aave-tokenized-assets-defi-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 11:21:01 GMT",
-        "importance": 5,
-        "summary": "Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered",
-        "briefing": "Standard Chartered said tokenized assets moving into DeFi could drive deposits into Aave and help the protocol rebuild its position as a dominant onchain lending platform.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal",
-        "link": "https://cointelegraph.com/markets/strategys-mstr-may-plunge-80-if-it-repeats-this-dot-com-era-fractal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 10:29:56 GMT",
-        "importance": 5,
-        "summary": "Strategy's MSTR may plunge 80% if it repeats this dot-com-era fractal",
-        "briefing": "Strategy\u2019s cash reserve is down 38% as dividend obligations near $1.2 billion, raising dilution risk for MSTR shareholders.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'",
-        "link": "https://cointelegraph.com/markets/bitcoin-four-year-trend-calls-for-76k-as-analysis-says-btc-price-not-broken?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 09:40:13 GMT",
-        "importance": 5,
-        "summary": "BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'",
-        "briefing": "Bitcoin research said that BTC price action remained in tune with previous cycles as the bear market produces a 20% discount to its four-year \"adoption structure\" trend line.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "South Korea adds token securities to capital market overhaul",
-        "link": "https://cointelegraph.com/news/south-korea-token-securities-capital-market-overhaul?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 08:56:14 GMT",
-        "importance": 5,
-        "summary": "South Korea adds token securities to capital market overhaul",
-        "briefing": "South Korea\u2019s Financial Services Commission has placed token securities infrastructure within a wider capital-market modernization plan covering faster settlement, longer trading hours and digital transformation.",
         "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
-        "link": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "time": "Wed, 24 Jun 2026 07:17:46 GMT",
+        "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
+        "link": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
+        "time": "Wed, 24 Jun 2026 16:11:15 +0000",
         "importance": 5,
-        "summary": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
-        "briefing": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
+        "briefing": "Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OpenAI Turns Up the Heat With Jalape\u00f1o, Its First Custom AI Chip",
+        "link": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
+        "time": "Wed, 24 Jun 2026 15:42:31 +0000",
+        "importance": 5,
+        "summary": "OpenAI Turns Up the Heat With Jalape\u00f1o, Its First Custom AI Chip",
+        "briefing": "Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'",
+        "link": "https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban",
+        "time": "Wed, 24 Jun 2026 15:34:50 +0000",
+        "importance": 5,
+        "summary": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'",
+        "briefing": "President Trump said he won\u2019t sign the popular bill until Congress passes a controversial bill restricting voting rights.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
+        "link": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k",
+        "time": "Wed, 24 Jun 2026 14:31:29 +0000",
+        "importance": 5,
+        "summary": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
+        "briefing": "Bitcoin fell to a two-week low price Wednesday as Strategy shares dove below the $100 mark for the first time since March 2024.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Meta Is Building a Prediction Market",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Morning Minute: Meta Is Building a Prediction Market",
         "briefing": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
         "briefing": "The seizure hits a cloud account that powered Huione Guarantee, a Telegram marketplace tied to billions in Southeast Asian scam proceeds.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Farage Says He Can Spend Tether Billionaire\u2019s $6.7M Gift \u2018On Ferraris\u2019 if He Wants",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "Farage Says He Can Spend Tether Billionaire\u2019s $6.7M Gift \u2018On Ferraris\u2019 if He Wants",
         "briefing": "Reform UK leader Nigel Farage called the gift from Christopher Harborne a \u201cprivate matter\u201d amid a standards investigation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
         "briefing": "Someone fine-tuned Fable 5's reasoning style into a local Qwen model. Then someone else removed its conscience.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
-        "link": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready",
-        "time": "Tue, 23 Jun 2026 21:31:03 +0000",
-        "importance": 5,
-        "summary": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
-        "briefing": "Industry leaders welcomed President Trump's quantum executive orders, while researchers said the accelerated timelines reflect growing urgency around post-quantum security and cryptocurrency infrastructure.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto\u2019s Clarity Act Has a New Enemy: Catholic Leaders",
-        "link": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders",
-        "time": "Tue, 23 Jun 2026 21:10:54 +0000",
-        "importance": 5,
-        "summary": "Crypto\u2019s Clarity Act Has a New Enemy: Catholic Leaders",
-        "briefing": "A group of 82 Catholic leaders warned a key provision of the crypto bill, protecting software developers from prosecution, could enable human trafficking.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
-        "link": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
-        "time": "Tue, 23 Jun 2026 20:13:35 +0000",
-        "importance": 5,
-        "summary": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
-        "briefing": "The initiative follows bets on stablecoins and the metaverse.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model\u2014And Nobody's Shutting It Down",
-        "link": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
-        "time": "Tue, 23 Jun 2026 18:59:26 +0000",
-        "importance": 5,
-        "summary": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model\u2014And Nobody's Shutting It Down",
-        "briefing": "GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offline under a Trump administration export ban.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
