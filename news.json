@@ -1,12 +1,21 @@
 [
     {
+        "title": "Senate leaders push for July passage of CLARITY Act",
+        "link": "https://cointelegraph.com/news/senate-leaders-july-passage-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 29 Jun 2026 19:59:31 +0000",
+        "importance": 5,
+        "summary": "Senate leaders push for July passage of CLARITY Act",
+        "briefing": "Lawmakers in the US Senate are on state work periods until July 13, giving them only four weeks to address a cryptocurrency market structure bill before another break and possible delays due to campaigning for elections.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K?",
         "link": "https://cointelegraph.com/markets/bitcoin-put-call-ratio-hits-1-year-high-are-bears-preparing-for-drop-to-55k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 29 Jun 2026 19:41:04 +0000",
         "importance": 5,
         "summary": "Bitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K?",
         "briefing": "Rising demand for put options and persistent ETF outflows highlight Bitcoin's weakness despite lower oil prices.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes",
         "briefing": "Bitcoin faced its own battle for support as US stocks headed higher and analysts warned of a lack of \"conviction\" among BTC buyers.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
         "briefing": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BNY adds USDC minting and redemption to institutional custody platform",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "BNY adds USDC minting and redemption to institutional custody platform",
         "briefing": "The move deepens BNY's partnership with Circle and builds on the bank's role as the primary custodian of USDC reserves.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
         "briefing": "Claude Mythos has raised concerns about AI-driven attacks on DeFi protocols. However, the same AI tools are also available to security teams, not just attackers.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips",
         "briefing": "If you can't beat 'em, join 'em. Here are five crypto skeptics who have reluctantly embraced the opportunity of making loads of money with blockchain.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy unveils capital framework to preserve Bitcoin exposure, pay dividends",
@@ -63,12 +72,12 @@
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Breez launches Bitcoin-to-stablecoin payments across more than 30 blockchains",
-        "link": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 29 Jun 2026 13:00:00 +0000",
+        "title": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
+        "link": "https://decrypt.co/372345/china-has-own-mythos-now-one-version-free",
+        "time": "Mon, 29 Jun 2026 20:16:48 +0000",
         "importance": 5,
-        "summary": "Breez launches Bitcoin-to-stablecoin payments across more than 30 blockchains",
-        "briefing": "The new SDK feature lets developers route payments from Bitcoin balances to recipients in USDC and USDT without requiring users to hold stablecoins.",
+        "summary": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
+        "briefing": "Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week\u2014and Z.ai went further, releasing comparable capabilities as open-weight code anyone can download.",
         "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
         "briefing": "The court overturned a 91-year precedent, allowing President Trump to fire key federal regulators whenever he wishes for almost any reason.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text\u2014Without Surgery",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text\u2014Without Surgery",
         "briefing": "Meta says its latest Brain2Qwerty system translates brain activity into sentences using non-invasive brain recordings, improving the accuracy of AI-powered neural decoding.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Is in a Fight at $60K\u2014Here's What the Charts Say",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Bitcoin Is in a Fight at $60K\u2014Here's What the Charts Say",
         "briefing": "BTC kissed $58,800 and bounced. The daily chart is deep in bear territory, and prediction markets are betting on further pain before a rebound.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
         "briefing": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
         "briefing": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
         "briefing": "Anthropic\u2019s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
         "briefing": "Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here\u2019s what you need to know.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
-        "link": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
-        "time": "Mon, 29 Jun 2026 15:13:16 +0000",
-        "importance": 5,
-        "summary": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
-        "briefing": "BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     }
 ]
