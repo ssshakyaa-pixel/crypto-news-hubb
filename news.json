@@ -1,12 +1,48 @@
 [
     {
+        "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
+        "link": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 19:31:41 +0000",
+        "importance": 5,
+        "summary": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
+        "briefing": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Tether\u2019s USDT and Circle\u2019s USDC, currently the two largest stablecoins by market capitalization.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Nasdaq brings proprietary market data onchain through Pyth",
+        "link": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 18:46:29 +0000",
+        "importance": 5,
+        "summary": "Nasdaq brings proprietary market data onchain through Pyth",
+        "briefing": "The partnership extends distribution of Nasdaq's TotalView market data to blockchain applications and other software platforms through Pyth's marketplace.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-slumps-to-near-58k-as-us-dollar-hits-40-year-high-against-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 18:17:56 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
+        "briefing": "Bitcoin faced downside pressure as the US dollar hit its highest levels against the Japanese yen since 1986, while BTC price analysis revealed \"capitulation\" by 2025 top-buyers.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI\u2019s power crunch turns Bitcoin miners\u2019 grid access into an asset",
+        "link": "https://cointelegraph.com/features/bitcoin-miners-ai-data-centers-power-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 17:44:31 +0000",
+        "importance": 5,
+        "summary": "AI\u2019s power crunch turns Bitcoin miners\u2019 grid access into an asset",
+        "briefing": "Bitcoin miners have the power sites AI companies need, but turning old mining campuses into real data center revenue is no easy pivot.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
         "link": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 30 Jun 2026 17:19:17 +0000",
         "importance": 5,
         "summary": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
         "briefing": "The crypto industry, big tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Business use of stablecoins set for growth surge: Cybrid report",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "Business use of stablecoins set for growth surge: Cybrid report",
         "briefing": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MetaMask launches stablecoin yield account with card spending",
@@ -32,44 +68,8 @@
         "time": "Tue, 30 Jun 2026 14:00:00 +0000",
         "importance": 5,
         "summary": "MetaMask launches stablecoin yield account with card spending",
-        "briefing": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OKX launches AI marketplace for autonomous agent economy",
-        "link": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 13:39:39 +0000",
-        "importance": 5,
-        "summary": "OKX launches AI marketplace for autonomous agent economy",
-        "briefing": "OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
-        "link": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 13:14:47 +0000",
-        "importance": 5,
-        "summary": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
-        "briefing": "Strategy\u2019s new Bitcoin capital framework draws Wall Street backing from Benchmark with a $570 per share target even as traders question long-term demand risk.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
-        "link": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 13:00:00 +0000",
-        "importance": 5,
-        "summary": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
-        "briefing": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.",
+        "briefing": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and sanctioned jurisdictions.",
         "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
-        "link": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 12:44:21 +0000",
-        "importance": 5,
-        "summary": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
-        "briefing": "The record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early, according to Swan\u2019s Cory Klippsten.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
         "briefing": "Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
         "briefing": "Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
         "briefing": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
         "briefing": "MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: A Change of Strategy",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Morning Minute: A Change of Strategy",
         "briefing": "Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward. And so far, the market likes it.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
         "briefing": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
         "briefing": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     }
 ]
