@@ -1,75 +1,102 @@
 [
     {
+        "title": "MetaMask launches stablecoin yield account with card spending",
+        "link": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 14:00:00 +0000",
+        "importance": 5,
+        "summary": "MetaMask launches stablecoin yield account with card spending",
+        "briefing": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OKX launches AI marketplace for autonomous agent economy",
+        "link": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 13:39:39 +0000",
+        "importance": 5,
+        "summary": "OKX launches AI marketplace for autonomous agent economy",
+        "briefing": "OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
+        "link": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 13:14:47 +0000",
+        "importance": 5,
+        "summary": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
+        "briefing": "Strategy\u2019s new Bitcoin capital framework draws Wall Street backing from Benchmark with a $570 per share target even as traders question long-term demand risk.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+        "link": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+        "briefing": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
+        "link": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 12:44:21 +0000",
+        "importance": 5,
+        "summary": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
+        "briefing": "The record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early, according to Swan\u2019s Cory Klippsten.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
+        "link": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 12:30:00 +0000",
+        "importance": 5,
+        "summary": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
+        "briefing": "\u201cThe crypto industry shouldn\u2019t need wake-up calls from the White House or anyone else,\u201d said StarkWare CEO Eli Ben-Sasson.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
+        "link": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 12:21:03 +0000",
+        "importance": 5,
+        "summary": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
+        "briefing": "Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscriptions and redemption payments through Base.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Solana Company to back Kazakhstan\u2019s $6B crypto megacity ambition",
         "link": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 30 Jun 2026 11:00:00 +0000",
         "importance": 5,
         "summary": "Solana Company to back Kazakhstan\u2019s $6B crypto megacity ambition",
         "briefing": "Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazakhstan's Alatau City, which seeks to become a key crypto hub in Central Asia.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
-        "link": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 10:25:48 +0000",
+        "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
+        "link": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness",
+        "time": "Tue, 30 Jun 2026 15:05:41 +0000",
         "importance": 5,
-        "summary": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
-        "briefing": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Michigan judge blocks Kalshi from allowing residents to place sports bets",
-        "link": "https://cointelegraph.com/news/michigan-judge-blocks-kalshi-sports-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 09:08:26 +0000",
-        "importance": 5,
-        "summary": "Michigan judge blocks Kalshi from allowing residents to place sports bets",
-        "briefing": "A Michigan Judge has temporarily blocked Kalshi from offering sports betting contracts to residents, escalating the state-federal fight over prediction markets and gambling laws.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
-        "link": "https://cointelegraph.com/news/ionic-digital-nasdaq-direct-listing-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 08:16:46 +0000",
-        "importance": 5,
-        "summary": "Celsius-linked Bitcoin miner Ionic Digital seeks Nasdaq direct listing amid AI pivot",
-        "briefing": "The Celsius-linked Bitcoin miner is seeking a Nasdaq direct listing as it repurposes mining infrastructure for AI and high-performance computing workloads.",
+        "summary": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
+        "briefing": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Australia\u2019s crypto travel rule is coming into effect: Here\u2019s what's changing",
-        "link": "https://cointelegraph.com/news/australias-crypto-travel-rule-takes-effect-on-july-1-whats-changing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 06:29:02 +0000",
+        "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
+        "link": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
+        "time": "Tue, 30 Jun 2026 14:01:03 +0000",
         "importance": 5,
-        "summary": "Australia\u2019s crypto travel rule is coming into effect: Here\u2019s what's changing",
-        "briefing": "From July, crypto exchanges operating in Australia will prompt for additional information on all outgoing and incoming transfers.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
+        "briefing": "MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 06:24:14 +0000",
+        "title": "Morning Minute: A Change of Strategy",
+        "link": "https://decrypt.co/372411/morning-minute-a-change-of-strategy",
+        "time": "Tue, 30 Jun 2026 12:13:27 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cathie Wood\u2019s ARK adds $43.5M in crypto stocks amid market dip",
-        "link": "https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 05:49:50 +0000",
-        "importance": 5,
-        "summary": "Cathie Wood\u2019s ARK adds $43.5M in crypto stocks amid market dip",
-        "briefing": "ARK Invest's biggest crypto stock purchases over the past three trading days were Coinbase and Circle, whose shares have fallen 17% and 27.6%, respectively, over the past month.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
-        "link": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 04:03:33 +0000",
-        "importance": 5,
-        "summary": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
-        "briefing": "Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH\u2019s supply.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: A Change of Strategy",
+        "briefing": "Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward. And so far, the market likes it.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
         "briefing": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
         "briefing": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
         "briefing": "A new model built by DeepReinforce is meant for developers who want AI that finishes the job, not just autocompletes the next line.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy Snaps 9-Day Losing Streak as Bitcoin Giant Adopts 'Robust' Capital Framework",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Strategy Snaps 9-Day Losing Streak as Bitcoin Giant Adopts 'Robust' Capital Framework",
         "briefing": "Strategy's shares remained 42% down from its market-rattling Bitcoin sale nearly a month ago.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
         "briefing": "Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week\u2014and Z.ai went further, releasing comparable capabilities as open-weight code anyone can download.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
-        "link": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto",
-        "time": "Mon, 29 Jun 2026 19:29:41 +0000",
-        "importance": 5,
-        "summary": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
-        "briefing": "The court overturned a 91-year precedent, allowing President Trump to fire key federal regulators whenever he wishes for almost any reason.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text\u2014Without Surgery",
-        "link": "https://decrypt.co/372338/meta-brain2qwerty-ai-brain-activity-text",
-        "time": "Mon, 29 Jun 2026 18:47:41 +0000",
-        "importance": 5,
-        "summary": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text\u2014Without Surgery",
-        "briefing": "Meta says its latest Brain2Qwerty system translates brain activity into sentences using non-invasive brain recordings, improving the accuracy of AI-powered neural decoding.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Is in a Fight at $60K\u2014Here's What the Charts Say",
-        "link": "https://decrypt.co/372321/bitcoin-price-fight-60k-what-the-charts-say",
-        "time": "Mon, 29 Jun 2026 18:40:24 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Is in a Fight at $60K\u2014Here's What the Charts Say",
-        "briefing": "BTC kissed $58,800 and bounced. The daily chart is deep in bear territory, and prediction markets are betting on further pain before a rebound.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     }
 ]
