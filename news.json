@@ -1,12 +1,21 @@
 [
     {
+        "title": "SEC seeks public comment on regulating next generation of ETFs",
+        "link": "https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 30 Jun 2026 20:38:51 +0000",
+        "importance": 5,
+        "summary": "SEC seeks public comment on regulating next generation of ETFs",
+        "briefing": "The request from the US agency seeks feedback on how emerging ETF structures and investment strategies should be regulated as issuers roll out increasingly specialized products.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
         "link": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 30 Jun 2026 19:31:41 +0000",
         "importance": 5,
         "summary": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
         "briefing": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Tether\u2019s USDT and Circle\u2019s USDC, currently the two largest stablecoins by market capitalization.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nasdaq brings proprietary market data onchain through Pyth",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Nasdaq brings proprietary market data onchain through Pyth",
         "briefing": "The partnership extends distribution of Nasdaq's TotalView market data to blockchain applications and other software platforms through Pyth's marketplace.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
         "briefing": "Bitcoin faced downside pressure as the US dollar hit its highest levels against the Japanese yen since 1986, while BTC price analysis revealed \"capitulation\" by 2025 top-buyers.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI\u2019s power crunch turns Bitcoin miners\u2019 grid access into an asset",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "AI\u2019s power crunch turns Bitcoin miners\u2019 grid access into an asset",
         "briefing": "Bitcoin miners have the power sites AI companies need, but turning old mining campuses into real data center revenue is no easy pivot.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
         "briefing": "The crypto industry, big tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Business use of stablecoins set for growth surge: Cybrid report",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Business use of stablecoins set for growth surge: Cybrid report",
         "briefing": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -60,16 +69,43 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "MetaMask launches stablecoin yield account with card spending",
-        "link": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 14:00:00 +0000",
+        "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+        "link": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
+        "time": "Tue, 30 Jun 2026 21:16:18 +0000",
         "importance": 5,
-        "summary": "MetaMask launches stablecoin yield account with card spending",
-        "briefing": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and sanctioned jurisdictions.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+        "briefing": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
+        "link": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
+        "time": "Tue, 30 Jun 2026 20:51:44 +0000",
+        "importance": 5,
+        "summary": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
+        "briefing": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "New York Life Investment Management Debuts First Tokenized Bond Fund",
+        "link": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
+        "time": "Tue, 30 Jun 2026 20:46:02 +0000",
+        "importance": 5,
+        "summary": "New York Life Investment Management Debuts First Tokenized Bond Fund",
+        "briefing": "The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
+        "link": "https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout",
+        "time": "Tue, 30 Jun 2026 20:30:15 +0000",
+        "importance": 5,
+        "summary": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
+        "briefing": "A Michigan judge granted a restraining order preventing the prediction market from offering sports-related wagers for the next 14 days.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
         "briefing": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase\u2014a key backer of Circle\u2019s USDC.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
         "briefing": "Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
         "briefing": "Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
         "briefing": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
-        "link": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
-        "time": "Tue, 30 Jun 2026 14:01:03 +0000",
-        "importance": 5,
-        "summary": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
-        "briefing": "MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: A Change of Strategy",
-        "link": "https://decrypt.co/372411/morning-minute-a-change-of-strategy",
-        "time": "Tue, 30 Jun 2026 12:13:27 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: A Change of Strategy",
-        "briefing": "Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward. And so far, the market likes it.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
-        "link": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub",
-        "time": "Tue, 30 Jun 2026 10:58:51 +0000",
-        "importance": 5,
-        "summary": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
-        "briefing": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
-        "link": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
-        "time": "Tue, 30 Jun 2026 09:20:00 +0000",
-        "importance": 5,
-        "summary": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
-        "briefing": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
