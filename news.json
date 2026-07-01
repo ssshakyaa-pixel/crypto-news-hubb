@@ -1,12 +1,48 @@
 [
     {
+        "title": "French banking giant Cr\u00e9dit Agricole launches EURXT euro stablecoin",
+        "link": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 01 Jul 2026 11:50:01 +0000",
+        "importance": 5,
+        "summary": "French banking giant Cr\u00e9dit Agricole launches EURXT euro stablecoin",
+        "briefing": "Cr\u00e9dit Agricole\u2019s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos",
+        "link": "https://cointelegraph.com/news/crypto-q3-less-leverage-thinner-liquidity-talos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 01 Jul 2026 10:59:41 +0000",
+        "importance": 5,
+        "summary": "Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos",
+        "briefing": "Bitcoin and Ether open interest fell sharply after $8.35 billion in long liquidations, while ETF outflows, weaker Strategy purchases and declining market depth reduced liquidity.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise",
+        "link": "https://cointelegraph.com/news/bitcoin-etf-4-5-billion-outflow-june-worst-on-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 01 Jul 2026 09:22:09 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs lose record $4.5B in June, eclipsing Strategy's $1.25B raise",
+        "briefing": "US spot Bitcoin ETFs logged a record $4.5 billion in June outflows, pushing year-to-date totals to $5.5 billion, signaling an unprecedented pace of withdrawals.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
+        "link": "https://cointelegraph.com/news/goliath-ceo-guilty-400m-crypto-ponzi-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 01 Jul 2026 08:20:49 +0000",
+        "importance": 5,
+        "summary": "Former Goliath Ventures CEO pleads guilty in $400M crypto Ponzi case",
+        "briefing": "Former Goliath Ventures CEO Christopher Delgado pleaded guilty to fraud and money laundering and agreed to forfeit properties, vehicles, luxury goods and crypto wallets.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Taiwan\u2019s legislature passes crypto, stablecoin regulations",
         "link": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 01 Jul 2026 06:15:48 +0000",
         "importance": 5,
         "summary": "Taiwan\u2019s legislature passes crypto, stablecoin regulations",
         "briefing": "Taiwan\u2019s legislative branch has passed the nation\u2019s first crypto and stablecoin rules, which aim to integrate the country with the global crypto market.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic to bring back Fable 5 as US lifts export controls",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "Anthropic to bring back Fable 5 as US lifts export controls",
         "briefing": "Claude Fable 5 will be redeployed with a new set of classifiers designed to identify and block a broader range of cybersecurity-related tasks.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump earned more from crypto than real estate in 2025, filings show",
@@ -33,43 +69,25 @@
         "importance": 5,
         "summary": "Trump earned more from crypto than real estate in 2025, filings show",
         "briefing": "Memecoin sales and royalties made the most money for Trump last year, more than all of his golf courses combined.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Director of \u201847 Ronin\u2019 who gambled Netflix funds on crypto gets 30 months",
-        "link": "https://cointelegraph.com/news/47-ronin-director-who-gambled-netflix-funds-on-crypto-gets-30-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 01 Jul 2026 03:47:30 +0000",
-        "importance": 5,
-        "summary": "Director of \u201847 Ronin\u2019 who gambled Netflix funds on crypto gets 30 months",
-        "briefing": "Carl Rinsch will serve two and a half years in prison for taking money meant for a Netflix show to buy Dogecoin, stocks and luxury goods.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
-        "link": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 01 Jul 2026 02:30:07 +0000",
-        "importance": 5,
-        "summary": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
-        "briefing": "One Binance customer said he lost the equivalent of more than $132,000 from the crypto exchange\u2019s derivatives offerings before restrictions were imposed on Binance.",
         "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Has Strategy\u2019s capital overhaul put an end to \u2018death spiral\u2019 fears?",
-        "link": "https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 23:11:09 +0000",
+        "title": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules",
+        "link": "https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules",
+        "time": "Wed, 01 Jul 2026 12:00:33 +0000",
         "importance": 5,
-        "summary": "Has Strategy\u2019s capital overhaul put an end to \u2018death spiral\u2019 fears?",
-        "briefing": "Strategy's latest plan includes MSTR and STRC buybacks, expanded cash reserves and even potential Bitcoin sales. Will it be enough to defuse the overheated \u201cdeath spiral\u201d fears?",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules",
+        "briefing": "The new law puts virtual asset firms under FSC oversight for the first time and sets reserve-and-trust rules for stablecoins.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin just $5K away from \u2018best investment opportunity\u2019 of bear market",
-        "link": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 30 Jun 2026 21:49:08 +0000",
+        "title": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
+        "link": "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
+        "time": "Wed, 01 Jul 2026 08:43:31 +0000",
         "importance": 5,
-        "summary": "Bitcoin just $5K away from \u2018best investment opportunity\u2019 of bear market",
-        "briefing": "Bitcoin's recent selloff brought it within 10% of its realized price \u2014 a line that has marked the bottoming zone in Bitcoin's previous bear markets.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
+        "briefing": "Christopher Delgado\u2019s \"liquidity pool\" fraud took in at least $400 million, with the proceeds spent on mansions, Lamborghinis, and Rolexes.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings",
         "briefing": "The president\u2019s annual financial disclosure report was released on Tuesday.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
         "briefing": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
         "briefing": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New York Life Investment Management Debuts First Tokenized Bond Fund",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "New York Life Investment Management Debuts First Tokenized Bond Fund",
         "briefing": "The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
         "briefing": "A Michigan judge granted a restraining order preventing the prediction market from offering sports-related wagers for the next 14 days.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
         "briefing": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase\u2014a key backer of Circle\u2019s USDC.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
-        "link": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
-        "time": "Tue, 30 Jun 2026 15:54:01 +0000",
-        "importance": 5,
-        "summary": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
-        "briefing": "Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
-        "link": "https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen",
-        "time": "Tue, 30 Jun 2026 15:50:32 +0000",
-        "importance": 5,
-        "summary": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
-        "briefing": "Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
