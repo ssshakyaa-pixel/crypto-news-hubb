@@ -1,12 +1,57 @@
 [
     {
+        "title": "Yield-bearing stablecoin slowdown ends three-year run for crypto-native products",
+        "link": "https://cointelegraph.com/news/yield-bearing-stablecoins-lose-3-5-billion-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 02 Jul 2026 10:23:33 +0000",
+        "importance": 5,
+        "summary": "Yield-bearing stablecoin slowdown ends three-year run for crypto-native products",
+        "briefing": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
+        "link": "https://cointelegraph.com/news/ofac-134-isis-k-crypto-wallets-tether-freezes-131?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 02 Jul 2026 10:23:29 +0000",
+        "importance": 5,
+        "summary": "OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
+        "briefing": "OFAC added 134 crypto wallet addresses linked to ISIS-K to its sanctions list, including 131 Tron addresses that received more than $1.4 million in crypto donations, according to Chainalysis.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Taiko reopens bridge after $1.7M exploit, says users made whole",
+        "link": "https://cointelegraph.com/news/taiko-reopens-bridge-1-7m-exploit-users-made-whole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 02 Jul 2026 09:28:21 +0000",
+        "importance": 5,
+        "summary": "Taiko reopens bridge after $1.7M exploit, says users made whole",
+        "briefing": "Taiko restored bridge transfers after replenishing asset backing and completing security fixes following an 11-day network disruption.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
+        "link": "https://cointelegraph.com/news/metaplanet-buys-2823-btc-surpasses-43000-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 02 Jul 2026 08:55:47 +0000",
+        "importance": 5,
+        "summary": "Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
+        "briefing": "Metaplanet bought 2,823 Bitcoin during the second quarter, reducing its average acquisition cost to $106,500 per BTC, and reported $10.9 million in revenue from its income generation strategy.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OpenAI weighs 5% stake for US government amid Trump talks: FT",
+        "link": "https://cointelegraph.com/news/openai-5-percent-stake-us-government-trump-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 02 Jul 2026 08:26:02 +0000",
+        "importance": 5,
+        "summary": "OpenAI weighs 5% stake for US government amid Trump talks: FT",
+        "briefing": "OpenAI has reportedly discussed giving the US government a 5% equity stake in early Trump administration talks as Washington tightens AI model oversight.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Robinhood links with dYdX Labs to launch new DEX Arcus",
         "link": "https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 02 Jul 2026 06:05:02 +0000",
         "importance": 5,
         "summary": "Robinhood links with dYdX Labs to launch new DEX Arcus",
         "briefing": "The crypto protocol dYdX has rebranded as Arcus and is joining Robinhood\u2019s new blockchain to bring perpetual and tokenized stock trading.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "France to strengthen response as crypto wrench attacks hit 77",
@@ -24,52 +69,16 @@
         "importance": 5,
         "summary": "France to strengthen response as crypto wrench attacks hit 77",
         "briefing": "French Interior Minister Laurent Nu\u00f1ez promised a \u201cmore ambitious\u201d three-part plan to reinforce security measures for the crypto sector.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Analyst warns BTC could drop further after worst June since 2022",
-        "link": "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 02 Jul 2026 03:42:24 +0000",
+        "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
+        "link": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
+        "time": "Thu, 02 Jul 2026 10:00:42 +0000",
         "importance": 5,
-        "summary": "Analyst warns BTC could drop further after worst June since 2022",
-        "briefing": "The June close above realized price but below the 200-week moving average \u201csignals the bear bottom is still ahead per prior cycles,\u201d one analyst said.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
-        "link": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 02 Jul 2026 03:31:39 +0000",
-        "importance": 5,
-        "summary": "Venice AI becomes unicorn after $65M Series A as AI privacy concerns grow",
-        "briefing": "The funding round is Venice AI\u2019s first external capital raise since it launched in May 2024.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trumps\u2019 American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
-        "link": "https://cointelegraph.com/news/trumps-american-bitcoin-sinks-ahead-of-reverse-stock-split-to-stay-listed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 02 Jul 2026 02:38:34 +0000",
-        "importance": 5,
-        "summary": "Trumps\u2019 American Bitcoin sinks 8.4% ahead of reverse stock split to stay listed",
-        "briefing": "The Trump sons' American Bitcoin hit a low on Wednesday ahead of the company\u2019s reverse stock split, which aims to buoy shares and keep it on the Nasdaq.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?",
-        "link": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 01 Jul 2026 22:02:40 +0000",
-        "importance": 5,
-        "summary": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?",
-        "briefing": "Bitcoin rallied above $60,000 despite Federal Reserve rate hike fears and steady outflows from the BTC spot ETFs. Is the rally a bull trap?",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Robinhood rolls out public blockchain, plans crypto trading for UK residents",
-        "link": "https://cointelegraph.com/news/robinhood-public-blockchain-mainnet-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 01 Jul 2026 21:38:49 +0000",
-        "importance": 5,
-        "summary": "Robinhood rolls out public blockchain, plans crypto trading for UK residents",
-        "briefing": "The company announced a suite of DeFi products, plans for launching crypto trading in the UK and its public mainnet after months of testing.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
+        "briefing": "The teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
         "briefing": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
         "briefing": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "LongCat-2.0: The Stealth AI Model That Was Quietly Topping OpenRouter All Along",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "LongCat-2.0: The Stealth AI Model That Was Quietly Topping OpenRouter All Along",
         "briefing": "The 1.6 trillion-parameter mixture-of-experts model spent two months disguised as \"Owl Alpha\" before Meituan claimed it\u2014and it undercuts GPT-5.5 and Claude Sonnet 5 on price by a wide margin.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm'",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm'",
         "briefing": "A 40-scientist panel found that AI capabilities are outrunning both scientific understanding and government oversight.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split",
         "briefing": "Bitcoin mining firm American Bitcoin fell to a new low price Wednesday, one day before executing a 1-for-15 reverse stock split.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch",
         "briefing": "Ethereum Institutional will serve as a point of contact for financial institutions seeking to get more involved with on-chain infrastructure.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CRCL Sell-Off 'Looks Overdone' Say Analysts as Circle CEO Addresses Open USD Threat",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "CRCL Sell-Off 'Looks Overdone' Say Analysts as Circle CEO Addresses Open USD Threat",
         "briefing": "Analysts don't think the threat of a new stablecoin launch was enough to warrant a major Circle (CRCL) sell-off on Tuesday.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
-        "link": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears",
-        "time": "Wed, 01 Jul 2026 16:40:31 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
-        "briefing": "BTC recovered from local lows to $60,000 after softer U.S. jobs and factory data revived hopes the Fed's hawkish turn could be easing.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     }
 ]
