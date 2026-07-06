@@ -1,12 +1,48 @@
 [
     {
+        "title": "Bitmine announces $74M Ether buys as chair says \u2018greater chances of Clarity Act passage\u2019",
+        "link": "https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 06 Jul 2026 17:27:21 +0000",
+        "importance": 5,
+        "summary": "Bitmine announces $74M Ether buys as chair says \u2018greater chances of Clarity Act passage\u2019",
+        "briefing": "Bitmine's big buy contrasts with crypto treasury peer Strategy, which reported selling millions of dollars worth of its Bitcoin holdings on Monday.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "UN agency moves Stellar blockchain payment initiative beyond pilot stage",
+        "link": "https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 06 Jul 2026 17:08:57 +0000",
+        "importance": 5,
+        "summary": "UN agency moves Stellar blockchain payment initiative beyond pilot stage",
+        "briefing": "The UN Development Programme said blockchain payment pilots in five countries cut costs, improved resilience and will now inform wider use across its humanitarian and development programs.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "TeraWulf shares rise after $19B Anthropic AI lease, JV sale",
+        "link": "https://cointelegraph.com/news/terawulf-shares-rise-after-19b-anthropic-ai-lease-jv-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 06 Jul 2026 16:43:21 +0000",
+        "importance": 5,
+        "summary": "TeraWulf shares rise after $19B Anthropic AI lease, JV sale",
+        "briefing": "The Bitcoin miner signed a 20-year AI infrastructure lease with Anthropic and sold its majority stake in a separate AI data center joint venture.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 06 Jul 2026 15:22:45 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+        "briefing": "Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 06 Jul 2026 14:06:57 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FCA warns of major shakeup as AI agents meet tokenized money",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "FCA warns of major shakeup as AI agents meet tokenized money",
         "briefing": "The FCA\u2019s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
@@ -33,43 +69,34 @@
         "importance": 5,
         "summary": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
         "briefing": "Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth manager Bernstein maintained its year-end Bitcoin price target of $150,000.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
+        "link": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
+        "time": "Mon, 06 Jul 2026 17:32:38 +0000",
+        "importance": 5,
+        "summary": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
+        "briefing": "Joi AI's search for 10 paid \"masturbation consultants\" drew more than 150,000 applicants. Here's what happened.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
+        "link": "https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic",
+        "time": "Mon, 06 Jul 2026 15:15:36 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
+        "briefing": "TeraWulf's 20-year lease deal with Anthropic is expected to generate $19 billion in revenue\u2014and major Bitcoin mining stocks are surging.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
-        "link": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 06 Jul 2026 12:15:20 +0000",
+        "title": "Tom Lee\u2019s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+        "link": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
+        "time": "Mon, 06 Jul 2026 14:41:45 +0000",
         "importance": 5,
-        "summary": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
-        "briefing": "Belgium\u2019s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU\u2019s MiCA transitional period expired.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 06 Jul 2026 10:25:20 +0000",
-        "importance": 5,
-        "summary": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
-        "briefing": "Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bulls needed a push beyond $65,000 for real trend inflection, said the latest BTC price analysis.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "South Korea weighs action against Polymarket over gambling concerns",
-        "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 06 Jul 2026 09:53:34 +0000",
-        "importance": 5,
-        "summary": "South Korea weighs action against Polymarket over gambling concerns",
-        "briefing": "South Korea\u2019s media and communications review body will hear from Polymarket before deciding whether to issue a corrective request against the prediction market platform.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
-        "link": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 06 Jul 2026 09:20:14 +0000",
-        "importance": 5,
-        "summary": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
-        "briefing": "A Bitcoin address dormant for nearly 15 years moved $1.9 million in BTC as a New York lawsuit seeks ownership of thousands of inactive holdings.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "Tom Lee\u2019s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+        "briefing": "BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
         "briefing": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'",
         "briefing": "The Bitcoin treasury giant sold $216 million worth of Bitcoin to cover preferred payouts, as an $8.3 billion quarterly loss piled up.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Crypto Surges Over Holiday Weekend",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
         "briefing": "The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
@@ -115,32 +142,5 @@
         "summary": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
         "briefing": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
         "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
-        "link": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
-        "time": "Sat, 04 Jul 2026 16:57:08 +0000",
-        "importance": 5,
-        "summary": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
-        "briefing": "Bitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
-        "link": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
-        "time": "Sat, 04 Jul 2026 16:07:19 +0000",
-        "importance": 5,
-        "summary": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
-        "briefing": "Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Inside the Trading Engine Behind ChangeNOW\u2019s \u2018Fast, Seamless Swaps\u2019",
-        "link": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
-        "time": "Sat, 04 Jul 2026 14:01:03 +0000",
-        "importance": 5,
-        "summary": "Inside the Trading Engine Behind ChangeNOW\u2019s \u2018Fast, Seamless Swaps\u2019",
-        "briefing": "ChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange\u2019s simple, streamlined frontend.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
