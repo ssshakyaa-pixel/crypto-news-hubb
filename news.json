@@ -1,12 +1,39 @@
 [
     {
+        "title": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
+        "link": "https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 07 Jul 2026 10:14:40 +0000",
+        "importance": 5,
+        "summary": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
+        "briefing": "Bitcoin NUPL metric data suggested that BTC price action should make new cycle lows in order to preserve historical patterns.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
+        "link": "https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 07 Jul 2026 09:23:39 +0000",
+        "importance": 5,
+        "summary": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
+        "briefing": "The Digital Chamber filed an amicus brief urging the dismissal of the New York lawsuit seeking ownership of 39,069 dormant Bitcoin wallets, arguing it would set a dangerous precedent for self-custodial wallets.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+        "link": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 07 Jul 2026 09:08:45 +0000",
+        "importance": 5,
+        "summary": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+        "briefing": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe\u2019s CASP transition period ended.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 07 Jul 2026 06:02:08 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trader loses $2M in \u2018same-block backrun extraction\u2019 exploit",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Trader loses $2M in \u2018same-block backrun extraction\u2019 exploit",
         "briefing": "One crypto trader noted the $2 million loss could have been prevented had the victim read the transaction route before signing the transaction.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
         "briefing": "Yield Guild Games said tough crypto and video game market conditions mean its YGG Play business is no longer commercially sustainable.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy\u2019s Bitcoin sale may give BTC a \u2018durable bottom,\u2019 Grayscale says",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Strategy\u2019s Bitcoin sale may give BTC a \u2018durable bottom,\u2019 Grayscale says",
         "briefing": "\u201cInvestors are now more confident about the instrument,\u201d said Grayscale\u2019s Zach Pandl regarding STRC, which reclaimed $90 for the first time in three weeks.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump says he became \u2018a big crypto guy\u2019 partly for politics",
@@ -42,34 +69,7 @@
         "importance": 5,
         "summary": "Trump says he became \u2018a big crypto guy\u2019 partly for politics",
         "briefing": "US President Donald Trump once called Bitcoin \u201ca scam,\u201d but admitted on Monday that he got involved in crypto \u201ca little bit for politics.\u201d",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO",
-        "link": "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 07 Jul 2026 03:28:23 +0000",
-        "importance": 5,
-        "summary": "L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO",
-        "briefing": "Blockchains will face increasing pressure to compromise on decentralization to meet user demand for speed and scalability, Injective CEO Eric Chen said.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-        "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 07 Jul 2026 02:17:58 +0000",
-        "importance": 5,
-        "summary": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-        "briefing": "The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
-        "link": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 07 Jul 2026 01:55:34 +0000",
-        "importance": 5,
-        "summary": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
-        "briefing": "Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy\u2019s selling.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
         "briefing": "Beijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don\u2019t Act",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don\u2019t Act",
         "briefing": "Yvette Cooper said governments must agree on AI safeguards before frontier systems transform warfare, crime, and society.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
         "briefing": "The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'We Cannot Vibe Code the Future of Humanity', UN Chief Warns at AI Summit",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "'We Cannot Vibe Code the Future of Humanity', UN Chief Warns at AI Summit",
         "briefing": "Ant\u00f3nio Guterres borrowed a Silicon Valley meme to make the starkest case yet for global AI oversight\u2014then called for an international ban on killer robots.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
         "briefing": "The financial firm admitted Bitcoin's retrace has been painful, but still holds a lofty year-end price prediction for the top crypto asset.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
         "briefing": "Yield Guild Games is shutting down its YGG Play division and games like LOL Land, blaming the crypto market downturn and other factors.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase's AI System Hallucinated a World Cup Result Before the Match Even Started",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
         "briefing": "Joi AI's search for 10 paid \"masturbation consultants\" drew more than 150,000 applicants. Here's what happened.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     }
 ]
