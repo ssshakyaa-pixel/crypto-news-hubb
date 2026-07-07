@@ -1,12 +1,21 @@
 [
     {
+        "title": "SEC crypto rule changes are high on its 2026 agenda",
+        "link": "https://cointelegraph.com/news/sec-crypto-rule-changes-2026-agenda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 07 Jul 2026 21:39:48 +0000",
+        "importance": 5,
+        "summary": "SEC crypto rule changes are high on its 2026 agenda",
+        "briefing": "The financial regulator\u2019s agenda included proposed rule changes related to crypto broker-dealers, digital assets on national securities exchanges and potential safe harbors.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
         "link": "https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 07 Jul 2026 21:14:37 +0000",
         "importance": 5,
         "summary": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
         "briefing": "ETH charts a path toward $2,000 as TradFi adoption, DAT buying and a long-awaited network upgrade boost investor interest.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Vanguard seeks digital assets chief after years of crypto skepticism",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Vanguard seeks digital assets chief after years of crypto skepticism",
         "briefing": "The asset manager is hiring a head of digital assets to lead its strategy for tokenization, stablecoins, blockchain infrastructure and client-facing products.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New Hampshire lawmakers to hold hearing on $100M Bitcoin bonds",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "New Hampshire lawmakers to hold hearing on $100M Bitcoin bonds",
         "briefing": "The proposed bonds to be backed by cryptocurrency still need approval from New Hampshire Governor Kelly Ayotte and the state\u2019s five-member executive council.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kraken wins $22M arbitration against former auditor Mazars",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "Kraken wins $22M arbitration against former auditor Mazars",
         "briefing": "The crypto exchange's parent company says Mazars' withdrawal from its 2022 audit caused millions in damages and tied the dispute to Operation Chokepoint 2.0.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
         "briefing": "Dune data shows Tether's USDT has become crypto\u2019s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
@@ -60,16 +69,34 @@
         "importance": 5,
         "summary": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
         "briefing": "Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Nigel Farage to resign from UK Parliament amid crypto \u201cgift\u201d scandal, will stand in by-election",
-        "link": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 07 Jul 2026 16:27:19 +0000",
+        "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
+        "link": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
+        "time": "Tue, 07 Jul 2026 22:31:03 +0000",
         "importance": 5,
-        "summary": "Nigel Farage to resign from UK Parliament amid crypto \u201cgift\u201d scandal, will stand in by-election",
-        "briefing": "The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called \u201cgifts\u201d from figures tied to cry pto ventures.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
+        "briefing": "The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
+        "link": "https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
+        "time": "Tue, 07 Jul 2026 22:01:32 +0000",
+        "importance": 5,
+        "summary": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
+        "briefing": "The SEC updated its agenda to indicate that a key crypto rulemaking is slated to be released for public comment in July.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+        "link": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
+        "time": "Tue, 07 Jul 2026 21:31:09 +0000",
+        "importance": 5,
+        "summary": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+        "briefing": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Is Changing the Workplace and Universities Aren\u2019t Keeping Up, Study Warns",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "AI Is Changing the Workplace and Universities Aren\u2019t Keeping Up, Study Warns",
         "briefing": "A University of Manchester researcher says schools should move beyond AI cheating concerns and prepare graduates for workplaces increasingly shaped by automation.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BIG3 NFT Buyers Sue Ice Cube's Basketball League Over Alleged Unfulfilled Promises",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "BIG3 NFT Buyers Sue Ice Cube's Basketball League Over Alleged Unfulfilled Promises",
         "briefing": "Investors who purchased BIG3 NFTs expected the perks of team ownership, but allege \"deceptive, fraudulent\" marketing was at play.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
         "briefing": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text",
         "briefing": "Built on Signal\u2019s open-source technology, Radar Chat combines encrypted messaging with self-custodial Bitcoin payments via Lightning Network.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
         "briefing": "The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
-        "link": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
-        "time": "Tue, 07 Jul 2026 17:16:27 +0000",
-        "importance": 5,
-        "summary": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
-        "briefing": "Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
-        "link": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
-        "time": "Tue, 07 Jul 2026 13:48:44 +0000",
-        "importance": 5,
-        "summary": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
-        "briefing": "The FCA authorization lets the exchange offer equities and derivatives to UK users, a step toward its \"everything exchange\" ambitions.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Strategy Turns Net Seller",
-        "link": "https://decrypt.co/372909/morning-minute-strategy-turns-net-seller",
-        "time": "Tue, 07 Jul 2026 12:27:58 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Strategy Turns Net Seller",
-        "briefing": "Michael Saylor becomes a major Bitcoin seller. A memecoin gets \"exploited\" via governance. And Bernstein doubles down on a $150k BTC call.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
