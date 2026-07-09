@@ -1,12 +1,21 @@
 [
     {
+        "title": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
+        "link": "https://cointelegraph.com/markets/bitcoin-traders-reveal-key-levels-as-btc-price-passes-63k-after-trump-iran-deal-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 09 Jul 2026 15:56:59 +0000",
+        "importance": 5,
+        "summary": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
+        "briefing": "Bitcoin gained new upside targets for the daily close and beyond after US president Donald Trump said that Iran \"wants to make a deal.\"",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin\u2019s quantum dilemma: Bigger blocks or STARK proofs?",
         "link": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 09 Jul 2026 13:30:00 +0000",
         "importance": 5,
         "summary": "Bitcoin\u2019s quantum dilemma: Bigger blocks or STARK proofs?",
         "briefing": "Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
         "briefing": "Hong Kong\u2019s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sony Bank gets US regulator nod to issue stablecoins",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "Sony Bank gets US regulator nod to issue stablecoins",
         "briefing": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
         "briefing": "Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "Revolut says USDT delisting is limited to EEA, Switzerland",
         "briefing": "Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hyperliquid shows how onchain perps could challenge Wall Street: Pantera",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Hyperliquid shows how onchain perps could challenge Wall Street: Pantera",
         "briefing": "Perpetual futures and Hyperliquid\u2019s blockchain infrastructure are expanding into traditional asset classes with around-the-clock trading, according to Pantera Capital.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow",
@@ -60,16 +69,34 @@
         "importance": 5,
         "summary": "Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow",
         "briefing": "Bitcoin spot ETFs posted a fresh net outflow on Wednesday as analysis said that their \"most overwhelming\" outflow streak had ended without a clear demand recovery.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
-        "link": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 09 Jul 2026 09:19:38 +0000",
+        "title": "Swift Readies Ledger for 24/7 Token Transfers\u2014Though True Settlement Is Stuck on Old Rails",
+        "link": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
+        "time": "Thu, 09 Jul 2026 16:23:00 +0000",
         "importance": 5,
-        "summary": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
-        "briefing": "The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea\u2019s digital asset bill.",
+        "summary": "Swift Readies Ledger for 24/7 Token Transfers\u2014Though True Settlement Is Stuck on Old Rails",
+        "briefing": "Swift\u2019s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot",
+        "link": "https://decrypt.co/373144/mara-stock-pops-bitcoin-miner-agrees-acquire-texas-land-plot",
+        "time": "Thu, 09 Jul 2026 15:44:31 +0000",
+        "importance": 5,
+        "summary": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot",
+        "briefing": "MARA Holdings has agreed to purchase a sizable plot of land in Texas to power its Bitcoin mining and growing AI compute ambitions.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Labour MPs Push to Make UK Crypto Donation Ban Permanent",
+        "link": "https://decrypt.co/373130/labour-mps-push-to-make-uk-crypto-donation-ban-permanent",
+        "time": "Thu, 09 Jul 2026 15:26:59 +0000",
+        "importance": 5,
+        "summary": "Labour MPs Push to Make UK Crypto Donation Ban Permanent",
+        "briefing": "The lawmakers have tabled amendments to make the current moratorium permanent, as the fallout over Reform UK's funding widens.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "MoonPay Brings Its AI Crypto Agents to Telegram",
         "briefing": "MoonAgents lets users analyze markets and prepare crypto transactions through Telegram while keeping keys on their own devices.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto\u2019s Top VC Pushes Into AI",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto\u2019s Top VC Pushes Into AI",
         "briefing": "BNB Chain rebuilds itself for a world run by AI agents. BTC ETFs flows flip negative. And prediction markets face a new hurdle.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
         "briefing": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
         "briefing": "The lender's new US subsidiary, Connectia Trust, would issue a dollar-pegged stablecoin once it clears the regulator's final conditions.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "A 20-Year-Old's Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "A 20-Year-Old's Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
         "briefing": "The two Thai arrests were part of Operation First Light, a 97-country sweep that logged 5,811 arrests and intercepted $293 million.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
-        "link": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
-        "time": "Wed, 08 Jul 2026 22:26:31 +0000",
-        "importance": 5,
-        "summary": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
-        "briefing": "SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships\u2014and by Musk's own account, at least one generation behind them.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
-        "link": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
-        "time": "Wed, 08 Jul 2026 20:40:38 +0000",
-        "importance": 5,
-        "summary": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
-        "briefing": "The investment firm said its fourth fund will back AI, robotics, and crypto startups as it broadens beyond digital assets.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-        "link": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
-        "time": "Wed, 08 Jul 2026 19:23:13 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-        "briefing": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     }
 ]
