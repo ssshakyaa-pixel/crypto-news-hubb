@@ -1,12 +1,39 @@
 [
     {
+        "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+        "link": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 11 Jul 2026 12:55:18 +0000",
+        "importance": 5,
+        "summary": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+        "briefing": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+        "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 11 Jul 2026 11:56:54 +0000",
+        "importance": 5,
+        "summary": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+        "briefing": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra\u2019s on-chain oracle verifier.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 11 Jul 2026 11:21:07 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+        "briefing": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
         "link": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sat, 11 Jul 2026 09:14:12 +0000",
         "importance": 5,
         "summary": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
         "briefing": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Robinhood says its AI agent feature will \u2018soon\u2019 be assisting crypto traders",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Robinhood says its AI agent feature will \u2018soon\u2019 be assisting crypto traders",
         "briefing": "More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
         "briefing": "Matthew Goettsche was set to face trial in October for conspiracy to commit wire fraud and selling unregistered securities.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kraken to overhaul app with AI investing assistant",
@@ -42,34 +69,16 @@
         "importance": 5,
         "summary": "Kraken to overhaul app with AI investing assistant",
         "briefing": "The redesigned app will use AI to recommend trades and tailor investing tools around users' financial goals as Kraken expands into broader financial services.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
-        "link": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 10 Jul 2026 21:03:57 +0000",
+        "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
+        "link": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
+        "time": "Sat, 11 Jul 2026 13:01:02 +0000",
         "importance": 5,
-        "summary": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
-        "briefing": "Five senators called for committee hearings to investigate US President Donald Trump\u2019s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
-        "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 10 Jul 2026 19:33:03 +0000",
-        "importance": 5,
-        "summary": "US CBDC ban to go into effect without Trump signoff on housing bill",
-        "briefing": "Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "New Hampshire council votes down $100M Bitcoin bonds",
-        "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 10 Jul 2026 17:23:10 +0000",
-        "importance": 5,
-        "summary": "New Hampshire council votes down $100M Bitcoin bonds",
-        "briefing": "State representative Keith Ammon said the New Hampshire executive council's vote against Bitcoin-backed bonds was \u201cshort-sighted,\u201d urging the body to reconsider the measure.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
+        "briefing": "Google's cheapest, fastest image model is a genuinely capable tool\u2014until you need it to be great.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
         "briefing": "Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
         "briefing": "Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
         "briefing": "Nasdaq-listed Empery Digital said it sold 1,400 Bitcoin since May to help fuel an AI data center deal, legal bills, and other expenses.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs",
         "briefing": "Asha Sharma will advise the Federal Reserve on AI\u2019s impact on jobs and productivity as Xbox undergoes the biggest restructuring in its history.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Won't Sign Housing Bill With CBDC Ban\u2014Will It Become Law Tonight Anyway?",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Trump Won't Sign Housing Bill With CBDC Ban\u2014Will It Become Law Tonight Anyway?",
         "briefing": "Unless President Trump vetoes the bill, it will become law at midnight, banning the Federal Reserve from developing a CBDC until 2031.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
         "briefing": "Circle secured final OCC approval to establish a national trust bank, shifting its $73.2 billion stablecoin to a unified federal framework.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
@@ -133,14 +142,5 @@
         "summary": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
         "briefing": "The bank argues that the treasury giant's Bitcoin sales are a short-term distraction, reiterating its $100,000 year-end price target.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene",
-        "link": "https://decrypt.co/373215/morning-minute-robinhood-chain-explodes-onto-the-crypto-scene",
-        "time": "Fri, 10 Jul 2026 12:12:55 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene",
-        "briefing": "Plus, Circle wins a national bank charter and pops 10%. And the Clarity Act gets a new draft while the clock is ticking\u2026",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     }
 ]
