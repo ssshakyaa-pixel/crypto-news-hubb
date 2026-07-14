@@ -1,21 +1,48 @@
 [
     {
+        "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
+        "link": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 14 Jul 2026 13:30:06 +0000",
+        "importance": 5,
+        "summary": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
+        "briefing": "OpenAI\u2019s ChatGPT now displays Kalshi\u2019s World Cup prediction market odds in search results, marking the AI firm\u2019s first reported deal with a prediction market platform.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
+        "link": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 14 Jul 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Strategy became a symbol of the dot-com crash: Could history repeat?",
+        "briefing": "MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Humanity Protocol to prioritize operational security following $36M hack",
+        "link": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 14 Jul 2026 13:08:00 +0000",
+        "importance": 5,
+        "summary": "Humanity Protocol to prioritize operational security following $36M hack",
+        "briefing": "Humanity Protocol\u2019s founder said they will refocus on operational security, as malicious actors are switching from smart contract vulnerabilities to exploiting human behavior.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
         "link": "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 14 Jul 2026 11:40:00 +0000",
         "importance": 5,
         "summary": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
-        "briefing": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act\u2019s stablecoin yield provisions, ahead of the bill\u2019s House hearing on July 17.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "briefing": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act\u2019s stablecoin yield provisions, ahead of the bill\u2019s House hearing on Friday.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana community lead enters UK by-election with onchain transparency pitch",
         "link": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 14 Jul 2026 11:34:13 +0000",
+        "time": "Tue, 14 Jul 2026 11:38:00 +0000",
         "importance": 5,
         "summary": "Solana community lead enters UK by-election with onchain transparency pitch",
         "briefing": "Superteam UK lead Stephen \u201cCap\u201d Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transparency.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
         "briefing": "The European Central Bank will beta test a digital euro with 36 providers, including Revolut, after the project drew more than 50 applications.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI has not triggered DeFi \u2018hackpocalypse,\u2019 Dragonfly partner says",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "AI has not triggered DeFi \u2018hackpocalypse,\u2019 Dragonfly partner says",
         "briefing": "Total value stolen and median hack size are declining compared to 2025, signaling that the AI hacking apocalypse was a false alarm, argued Dragonfly managing partner Haseeb Qureshi.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
@@ -42,34 +69,16 @@
         "importance": 5,
         "summary": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
         "briefing": "A solo Bitcoin miner secured a $200,000 block reward with a budget mining rig, pushing payouts to hobby-level miners to $4.7 million for the past year.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
-        "link": "https://cointelegraph.com/markets/bitcoin-bear-market-will-bottom-when-two-month-rsi-metric-hits-zero-trader-predicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 14 Jul 2026 09:54:58 +0000",
+        "title": "Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC",
+        "link": "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
+        "time": "Tue, 14 Jul 2026 12:13:05 +0000",
         "importance": 5,
-        "summary": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
-        "briefing": "Bitcoin RSI continued to copy previous bear markets as a trader predicted that historical BTC price bottom signals would \"happen again\" in 2026.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "South Korea to test tokenized government bonds with CBDC in 2027",
-        "link": "https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 14 Jul 2026 08:44:06 +0000",
-        "importance": 5,
-        "summary": "South Korea to test tokenized government bonds with CBDC in 2027",
-        "briefing": "South Korea will test tokenized government bonds linked to the Bank of Korea\u2019s wholesale CBDC system in 2027 as token securities rules take effect.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
-        "link": "https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 14 Jul 2026 08:24:31 +0000",
-        "importance": 5,
-        "summary": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
-        "briefing": "US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66 million leaving the funds, reversing a brief return to positive weekly flows.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC",
+        "briefing": "Strategy\u2019s Bitcoin-buying machine stayed in neutral, while BTC and crypto majors chop and oil spikes ahead of a key CPI print this morning.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
         "briefing": "The seized coins landed at the government's custodian, which stops short of a sale but has revived questions about Trump's no-sell pledge.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
         "briefing": "Forget the XML blocks and persistence scripts. OpenAI\u2019s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
         "briefing": "About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
         "briefing": "New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude's Personality Changes Depending on the Model\u2014And the Language You Speak",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Claude's Personality Changes Depending on the Model\u2014And the Language You Speak",
         "briefing": "According to new Anthropic research, Claude consistently expresses different values across models and languages.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Democratic Opposition to Clarity Act Grows in Crypto Bill's Do-or-Die Final Weeks",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Democratic Opposition to Clarity Act Grows in Crypto Bill's Do-or-Die Final Weeks",
         "briefing": "Democrats are mounting a final case against the Clarity Act centered on its lack of language restricting Trump's sprawling crypto fortune.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
         "briefing": "South American nation Bolivia is considering the use of the largest dollar-backed stablecoin, USDT, per a local report.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'",
-        "link": "https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
-        "time": "Mon, 13 Jul 2026 17:16:44 +0000",
-        "importance": 5,
-        "summary": "'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'",
-        "briefing": "The younger generation's judgment of AI has been \u201cimmediate and harsh,\u201d according to the Oscar-winning director.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
