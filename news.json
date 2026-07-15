@@ -1,12 +1,21 @@
 [
     {
+        "title": "Revolut receives in-principle approval from UAE authorities for crypto services",
+        "link": "https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 15 Jul 2026 19:34:39 +0000",
+        "importance": 5,
+        "summary": "Revolut receives in-principle approval from UAE authorities for crypto services",
+        "briefing": "Dubai\u2019s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, management and investment, and exchange services in the UAE.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "US Senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon",
         "link": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 15 Jul 2026 17:56:00 +0000",
         "importance": 5,
         "summary": "US Senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon",
         "briefing": "President Donald Trump\u2019s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
         "briefing": "Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent oracle-related exploit of its OLP liquidity vault, with estimated losses ranging from $18 million to $22 million.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
         "briefing": "The deployment marks Aave V4\u2019s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Securitize, Cantor target tokenized IPOs for public markets",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "Securitize, Cantor target tokenized IPOs for public markets",
         "briefing": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
         "briefing": "Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week\u2019s second surprise macro data drop.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Is Robinhood Chain\u2019s success bullish or bearish for ETH the asset?",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Is Robinhood Chain\u2019s success bullish or bearish for ETH the asset?",
         "briefing": "Surging volumes on Robinhood Chain could be very good for Ethereum, but only if the \u201cETH is money\u201d crowd turn out to be right.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -60,16 +69,34 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
-        "link": "https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 15 Jul 2026 13:08:43 +0000",
+        "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
+        "link": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
+        "time": "Wed, 15 Jul 2026 19:55:41 +0000",
         "importance": 5,
-        "summary": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
-        "briefing": "AMLA is expanding its crypto oversight as firms complete the transition to the EU\u2019s MiCA licensing regime.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
+        "briefing": "PrismML's Bonsai 27B runs full reasoning AI on an iPhone for free. We tested it, and it's as impressive as it sounds.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "What Is BIP-110 and Why Is It Dividing the Bitcoin Community?",
+        "link": "https://decrypt.co/373577/what-is-bip-110-why-dividing-bitcoin-community",
+        "time": "Wed, 15 Jul 2026 19:43:10 +0000",
+        "importance": 5,
+        "summary": "What Is BIP-110 and Why Is It Dividing the Bitcoin Community?",
+        "briefing": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
+        "link": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
+        "time": "Wed, 15 Jul 2026 18:50:55 +0000",
+        "importance": 5,
+        "summary": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
+        "briefing": "Pollak said he is handing the Base App back to Coinbase to focus on building Base into \"the blockchain for global finance\" after conceding the network's push into on-chain social missed the mark.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
         "briefing": "The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
         "briefing": "Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Breaks Heavy Resistance\u2014But Death Cross Looms: Analysis",
         "briefing": "BTC cleared a key resistance level Tuesday, giving bulls hope. Prediction market traders aren't convinced.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Giant Strategy Isn't Panicking\u2014Unless BTC Crashes to $10K: CEO",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Giant Strategy Isn't Panicking\u2014Unless BTC Crashes to $10K: CEO",
         "briefing": "The Bitcoin treasury giant will issue fresh preferred stock and resume buying once its Stretch shares climb back to par, CEO Phong Le said.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Crypto Rips on Cool CPI",
-        "link": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
-        "time": "Wed, 15 Jul 2026 12:26:45 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Crypto Rips on Cool CPI",
-        "briefing": "Circle has a rough day. Pump.fun pumps on first major unlock. And Robinhood Chain sees its first big rotation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
-        "link": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
-        "time": "Wed, 15 Jul 2026 12:15:31 +0000",
-        "importance": 5,
-        "summary": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
-        "briefing": "A government-backed review says magistrates and judges aren't ready for a coming surge in crypto money laundering and AI-enabled fraud cases.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
-        "link": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
-        "time": "Wed, 15 Jul 2026 11:12:45 +0000",
-        "importance": 5,
-        "summary": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
-        "briefing": "The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
