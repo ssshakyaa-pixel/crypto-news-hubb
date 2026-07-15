@@ -1,12 +1,30 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 15 Jul 2026 05:44:31 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Kalshi says CFTC, Michigan orders leave it in \u2018impossible position\u2019",
+        "link": "https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 15 Jul 2026 05:38:10 +0000",
+        "importance": 5,
+        "summary": "Kalshi says CFTC, Michigan orders leave it in \u2018impossible position\u2019",
+        "briefing": "\u201cWe are disappointed by this decision and believe it is unfair to Kalshi,\u201d the company\u2019s legal counsel said on X.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
         "link": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 15 Jul 2026 03:17:59 +0000",
         "importance": 5,
         "summary": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
         "briefing": "\u201cUS Treasury is committed to disrupting and degrading Iran\u2019s illicit financial activities, including its abuse of digital assets,\u201d US Treasury Secretary Scott Bessent said Tuesday.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitmine generated $46M from Ethereum staking last quarter",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Bitmine generated $46M from Ethereum staking last quarter",
         "briefing": "Ethereum staking generated 98% of Bitmine\u2019s revenue last quarter as the company\u2019s pivot from Bitcoin mining gained momentum following its March validator launch.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Over 95% of Coinbase\u2019s code is now written with help of AI",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Over 95% of Coinbase\u2019s code is now written with help of AI",
         "briefing": "Coinbase\u2019s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
         "briefing": "Senate Majority Leader John Thune reportedly said the chamber will consider a vote on the crypto market structure bill before Aug. 10, though it\u2019s unclear whether it has enough Democratic support to pass.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
@@ -42,16 +60,7 @@
         "importance": 5,
         "summary": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
         "briefing": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 14 Jul 2026 19:52:11 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
@@ -60,16 +69,7 @@
         "importance": 5,
         "summary": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
         "briefing": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK government defers capital gains on certain crypto with \u2018no gain, no loss\u2019 approach",
-        "link": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 14 Jul 2026 17:24:00 +0000",
-        "importance": 5,
-        "summary": "UK government defers capital gains on certain crypto with \u2018no gain, no loss\u2019 approach",
-        "briefing": "The change in tax policy, expected to effect about 700,000 people in the UK, is tied to the disposal of crypto in lending and liquidity pools.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
         "briefing": "Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
         "briefing": "Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
         "briefing": "Moving crypto into a lending protocol or liquidity pool won\u2019t count as a taxable disposal, deferring the charge until a real cash-out.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC",
         "briefing": "Strategy\u2019s Bitcoin-buying machine stayed in neutral, while BTC and crypto majors chop and oil spikes ahead of a key CPI print this morning.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
         "briefing": "Forget the XML blocks and persistence scripts. OpenAI\u2019s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
         "briefing": "About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
         "briefing": "New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
