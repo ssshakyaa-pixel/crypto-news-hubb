@@ -1,12 +1,48 @@
 [
     {
+        "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 16 Jul 2026 16:58:02 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
+        "briefing": "Bitcoin fell 1.5% from local highs amid a reversal in US stocks as markets moved from bullish US inflation cues to retail profit-taking.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ethics in crypto market structure \u2018really not our concern,\u2019 says Blockchain Association CEO",
+        "link": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 16 Jul 2026 16:47:09 +0000",
+        "importance": 5,
+        "summary": "Ethics in crypto market structure \u2018really not our concern,\u2019 says Blockchain Association CEO",
+        "briefing": "A former CFTC commissioner urged lawmakers not to \u201ckill all the hard work that we put in the rest of the bill\u201d by making ethics a make-or-break issue on crypto market structure.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Morgan Stanley\u2019s E*TRADE launches spot crypto trading through Zero Hash",
+        "link": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 16 Jul 2026 16:32:01 +0000",
+        "importance": 5,
+        "summary": "Morgan Stanley\u2019s E*TRADE launches spot crypto trading through Zero Hash",
+        "briefing": "Eligible E*TRADE retail clients can now buy, sell and hold Bitcoin, Ether and Solana through a partnership with crypto infrastructure provider Zero Hash.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom",
+        "link": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 16 Jul 2026 16:19:16 +0000",
+        "importance": 5,
+        "summary": "Tradable\u2019s $1B Stellar deal adds to institutional tokenization boom",
+        "briefing": "Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain\u2019s push into institutional finance and tokenized real-world assets.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
         "link": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 16 Jul 2026 13:34:19 +0000",
         "importance": 5,
         "summary": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
         "briefing": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Gambling on random Pok\u00e9mon cards: Onchain gagcha hits record high as crypto sinks",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "Gambling on random Pok\u00e9mon cards: Onchain gagcha hits record high as crypto sinks",
         "briefing": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
         "briefing": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives volume and stablecoin market cap declined.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MoonPay buys Glide to bolster crypto deposits infrastructure",
@@ -33,43 +69,25 @@
         "importance": 5,
         "summary": "MoonPay buys Glide to bolster crypto deposits infrastructure",
         "briefing": "MoonPay acquired Glide, a crypto infrastructure startup founded by former Robinhood Wallet engineers, to expand cross-chain crypto deposit infrastructure.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
+        "link": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
+        "time": "Thu, 16 Jul 2026 16:56:54 +0000",
+        "importance": 5,
+        "summary": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
+        "briefing": "The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.",
         "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Tokenized stocks market cap gains to record $2.3B",
-        "link": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 16 Jul 2026 12:35:52 +0000",
+        "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
+        "link": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
+        "time": "Thu, 16 Jul 2026 15:43:43 +0000",
         "importance": 5,
-        "summary": "Tokenized stocks market cap gains to record $2.3B",
-        "briefing": "The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the growing list of tokenized equity products launched by cryptocurrency exchanges.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
-        "link": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 16 Jul 2026 12:05:45 +0000",
-        "importance": 5,
-        "summary": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
-        "briefing": "The global task force said criminal networks are using stablecoins and developing proprietary tokens to evade asset freezes as countries struggle to enforce crypto AML rules.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "ARK pushes back against a16z\u2019s \u2018TradFi wants blockchain, not DeFi\u2019 claim",
-        "link": "https://cointelegraph.com/news/ark-sentora-a16zs-tradfi-blockchain-defi-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 16 Jul 2026 11:35:30 +0000",
-        "importance": 5,
-        "summary": "ARK pushes back against a16z\u2019s \u2018TradFi wants blockchain, not DeFi\u2019 claim",
-        "briefing": "ARK Invest\u2019s director of research disputed a16z crypto\u2019s thesis that traditional finance will adopt permissioned blockchain infrastructure instead of decentralized finance, saying institutions will increasingly rely on DeFi rails.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis",
-        "link": "https://cointelegraph.com/news/autonomous-ai-agent-economy-infrastructure-gaps-visa-artemis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 16 Jul 2026 10:33:34 +0000",
-        "importance": 5,
-        "summary": "Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis",
-        "briefing": "Visa and Artemis found that infrastructure bottlenecks are preventing broader commercial adoption of the autonomous AI agent economy.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
+        "briefing": "The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Base Hands Its App Over to Cobie",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Morning Minute: Base Hands Its App Over to Cobie",
         "briefing": "Plus, Stripe makes a $53 billion move that could crown a stablecoin king. And Ostium gets drained of $18M in the latest DeFi exploit.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto",
         "briefing": "Zyaire Wilkins allegedly procured malware hidden in video games that infected 8,000 devices and broke into 80 crypto wallets, the FBI says.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
         "briefing": "The nonbinding resolution said the disgraced FTX founder should 'under no circumstances' receive clemency.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why Analysts Aren\u2019t Worried About Coinbase\u2019s 30% Drop",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Why Analysts Aren\u2019t Worried About Coinbase\u2019s 30% Drop",
         "briefing": "William Blair slashed earnings estimates by 34% and held its Outperform call. But analysts think Bitcoin's chart may already be answering the bigger question.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
         "briefing": "OpenAI said its new automated red-teaming model, GPT-Red, uncovered vulnerabilities that were used to make GPT-5.6 more resistant to prompt injection attacks.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
@@ -124,23 +142,5 @@
         "summary": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
         "briefing": "PrismML's Bonsai 27B runs full reasoning AI on an iPhone for free. We tested it, and it's as impressive as it sounds.",
         "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "What Is BIP-110 and Why Is It Dividing the Bitcoin Community?",
-        "link": "https://decrypt.co/373577/what-is-bip-110-why-dividing-bitcoin-community",
-        "time": "Wed, 15 Jul 2026 19:43:10 +0000",
-        "importance": 5,
-        "summary": "What Is BIP-110 and Why Is It Dividing the Bitcoin Community?",
-        "briefing": "A proposal to restrict non-financial data on Bitcoin has split prominent developers, miners, and industry leaders ahead of a key activation deadline, reopening one of the network's biggest governance debates since the Blocksize Wars.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
-        "link": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
-        "time": "Wed, 15 Jul 2026 18:50:55 +0000",
-        "importance": 5,
-        "summary": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
-        "briefing": "Pollak said he is handing the Base App back to Coinbase to focus on building Base into \"the blockchain for global finance\" after conceding the network's push into on-chain social missed the mark.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     }
 ]
