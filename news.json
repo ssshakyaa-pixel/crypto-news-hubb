@@ -1,12 +1,48 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 17 Jul 2026 12:30:36 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
+        "link": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 17 Jul 2026 12:21:55 +0000",
+        "importance": 5,
+        "summary": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
+        "briefing": "The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Stablecoin growth will erode bank deposits, says ECB\u2019s Cipollone",
+        "link": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 17 Jul 2026 12:03:51 +0000",
+        "importance": 5,
+        "summary": "Stablecoin growth will erode bank deposits, says ECB\u2019s Cipollone",
+        "briefing": "ECB\u2019s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks at the center of payments.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "UK sentences 2 hackers tied to $115M crypto ransom scheme",
+        "link": "https://cointelegraph.com/news/london-police-sentence-hackers-crypto-ransom-public-transport?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 17 Jul 2026 11:22:55 +0000",
+        "importance": 5,
+        "summary": "UK sentences 2 hackers tied to $115M crypto ransom scheme",
+        "briefing": "The pair pleaded guilty after investigators linked them to the Scattered Spider cybercrime group, which US prosecutors say extorted dozens of companies.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "ESMA adds 14 new CASPs to MiCA register as licensing slows",
         "link": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 17 Jul 2026 10:29:35 +0000",
         "importance": 5,
         "summary": "ESMA adds 14 new CASPs to MiCA register as licensing slows",
         "briefing": "ESMA adds 14 CASPs to its MiCA register, with banks and Ripple Payments Europe among the new entries as total providers reach 294.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "Bitcoin bottom countdown nears 50 days after BTC supply in loss passed 50%",
         "briefing": "Bitcoin supply in loss hit 50% nearly 50 days ago, mimicking the countdown to BTC price bear-market bottoms.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US indicts crypto investor over alleged $20M fraud scheme",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "US indicts crypto investor over alleged $20M fraud scheme",
         "briefing": "Federal prosecutors allege the South Dakota investor used false promises to raise money, repaid earlier investors with new funds and laundered proceeds through crypto exchanges.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
@@ -33,43 +69,25 @@
         "importance": 5,
         "summary": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
         "briefing": "A macOS malware steals credentials to hijack Telegram sessions, decrypt cryptocurrency wallets or trick users into entering their wallet recovery phrases through fake applications.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin ETFs add $368M in three-day buying streak",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 17 Jul 2026 07:23:02 +0000",
+        "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
+        "link": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
+        "time": "Fri, 17 Jul 2026 12:09:14 +0000",
         "importance": 5,
-        "summary": "Bitcoin ETFs add $368M in three-day buying streak",
-        "briefing": "US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-day inflow total to about $368 million as Bitcoin attempted a price recovery.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
+        "briefing": "Wall Street and crypto's convergence snapped into focus, while crypto majors gave back most of the week's gains as broader markets sold off.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 17 Jul 2026 06:05:29 +0000",
+        "title": "Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss",
+        "link": "https://decrypt.co/373696/bitcoin-tests-63k-as-long-term-holders-keep-selling-at-a-loss",
+        "time": "Fri, 17 Jul 2026 11:21:16 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ordinals advocate Leonidas proposes new Bitcoin client: \u2018$DOG Mode\u2019",
-        "link": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 17 Jul 2026 05:54:04 +0000",
-        "importance": 5,
-        "summary": "Ordinals advocate Leonidas proposes new Bitcoin client: \u2018$DOG Mode\u2019",
-        "briefing": "\u201cOver time the economic incentives will drive $DOG Mode\u2019s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,\u201d said Leonidas.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
-        "link": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 17 Jul 2026 04:16:32 +0000",
-        "importance": 5,
-        "summary": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
-        "briefing": "The launch gives Bybit a locally operated platform in one of Asia\u2019s largest crypto markets, home to more than 21 million crypto exchange users.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Tests $63K as Long-Term Holders Keep Selling at a Loss",
+        "briefing": "Some two-thirds of the coins moving onto exchanges are long-term holders taking losses, as a macro risk-off drags on Bitcoin\u2019s price.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
         "briefing": "The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
         "briefing": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack",
         "briefing": "Project Eleven says a new post-quantum cryptographic proof could help Bitcoin users recover wallets after Q-Day by verifying ownership.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Visa Unveils Stablecoin Platform for Banks and Fintech Companies",
         "briefing": "The Visa Stablecoin Platform will let financial institutions integrate stablecoin payments and treasury operations into Visa's existing network.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
-        "link": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
-        "time": "Thu, 16 Jul 2026 16:56:54 +0000",
-        "importance": 5,
-        "summary": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
-        "briefing": "The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
-        "link": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
-        "time": "Thu, 16 Jul 2026 15:43:43 +0000",
-        "importance": 5,
-        "summary": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
-        "briefing": "The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     }
 ]
