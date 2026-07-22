@@ -1,75 +1,93 @@
 [
     {
+        "title": "The digital euro: Surveillance money, or a better alternative to cash?",
+        "link": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "The digital euro: Surveillance money, or a better alternative to cash?",
+        "briefing": "Proponents of the digital euro say its a better alternative to cash that\u2019s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Franklin Templeton calls agentic AI next \u2018killer\u2019 use case for blockchain",
+        "link": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 13:18:50 +0000",
+        "importance": 5,
+        "summary": "Franklin Templeton calls agentic AI next \u2018killer\u2019 use case for blockchain",
+        "briefing": "Franklin Templeton\u2019s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 12:54:29 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin analysis eyes \u2018serious volume\u2019 after Binance sees 9K BTC daily outflow",
+        "link": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 11:55:21 +0000",
+        "importance": 5,
+        "summary": "Bitcoin analysis eyes \u2018serious volume\u2019 after Binance sees 9K BTC daily outflow",
+        "briefing": "Binance set multimonth records for net BTC outflows on Tuesday, adding to an emerging trend of positive inflows to the US spot Bitcoin ETFs.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zilliqa Ledger app vulnerability lets attackers recover signer\u2019s private keys",
+        "link": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 11:49:53 +0000",
+        "importance": 5,
+        "summary": "Zilliqa Ledger app vulnerability lets attackers recover signer\u2019s private keys",
+        "briefing": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
+        "link": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 11:32:40 +0000",
+        "importance": 5,
+        "summary": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
+        "briefing": "US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Talos brings institutional trading tools to Kalshi prediction markets",
         "link": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 22 Jul 2026 11:00:00 +0000",
         "importance": 5,
         "summary": "Talos brings institutional trading tools to Kalshi prediction markets",
         "briefing": "The integration provides institutional clients with access to Kalshi\u2019s event contracts and crypto perpetuals via Talos\u2019 existing trading infrastructure.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
-        "link": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 10:47:09 +0000",
-        "importance": 5,
-        "summary": "South Korea crypto volumes shrink as retail investors shift to stocks",
-        "briefing": "Trading activity on South Korea\u2019s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Foundry asks Bitcoin miners to vote on BIP-110 support",
-        "link": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 10:29:42 +0000",
-        "importance": 5,
-        "summary": "Foundry asks Bitcoin miners to vote on BIP-110 support",
-        "briefing": "Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction.",
         "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
-        "link": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 09:42:00 +0000",
+        "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+        "link": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 11:00:00 +0000",
         "importance": 5,
-        "summary": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
-        "briefing": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit.",
+        "summary": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+        "briefing": "Institutional due diligence is shifting toward continuous monitoring, signer controls and incident readiness after operational failures accounted for most crypto losses.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
+        "link": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+        "time": "Wed, 22 Jul 2026 12:44:48 +0000",
+        "importance": 5,
+        "summary": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
+        "briefing": "TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
-        "link": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 09:30:05 +0000",
+        "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
+        "link": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
+        "time": "Wed, 22 Jul 2026 11:50:29 +0000",
         "importance": 5,
-        "summary": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
-        "briefing": "Galaxy pledged up to $5 million in grants for developers working on Bitcoin\u2019s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
-        "link": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 07:57:03 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
-        "briefing": "US spot Bitcoin ETFs extended their inflow streak to six sessions, bringing in about $930 million while remaining down $4.84 billion on a net basis year to date.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 05:43:51 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Balance Coin crashes 99% after reported $915K exploit",
-        "link": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 03:12:48 +0000",
-        "importance": 5,
-        "summary": "Balance Coin crashes 99% after reported $915K exploit",
-        "briefing": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
+        "briefing": "Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
         "briefing": "The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
         "briefing": "The UK Bitcoin treasury company raised $218 million less than a year ago. Now it's returning whatever is left.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
         "briefing": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
         "briefing": "The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
         "briefing": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model\u2014and quietly teases Gemini 4.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
         "briefing": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Google Is Building an AI Chip Just for Gemini\u2014And Investors Already Moved On It",
-        "link": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
-        "time": "Tue, 21 Jul 2026 17:24:37 +0000",
-        "importance": 5,
-        "summary": "Google Is Building an AI Chip Just for Gemini\u2014And Investors Already Moved On It",
-        "briefing": "Codenamed Frozen v2, Google's new server chip would bake part of Gemini's architecture directly into hardware for a projected 6\u201310x efficiency gain.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
-        "link": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
-        "time": "Tue, 21 Jul 2026 16:20:29 +0000",
-        "importance": 5,
-        "summary": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
-        "briefing": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
