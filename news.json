@@ -1,12 +1,57 @@
 [
     {
-        "title": "Bitcoin ETFs extend inflow streak to six days with $203M added",
+        "title": "Talos brings institutional trading tools to Kalshi prediction markets",
+        "link": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 11:00:00 +0000",
+        "importance": 5,
+        "summary": "Talos brings institutional trading tools to Kalshi prediction markets",
+        "briefing": "The integration provides institutional clients with access to Kalshi\u2019s event contracts and crypto perpetuals via Talos\u2019 existing trading infrastructure.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
+        "link": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 10:47:09 +0000",
+        "importance": 5,
+        "summary": "South Korea crypto volumes shrink as retail investors shift to stocks",
+        "briefing": "Trading activity on South Korea\u2019s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Foundry asks Bitcoin miners to vote on BIP-110 support",
+        "link": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 10:29:42 +0000",
+        "importance": 5,
+        "summary": "Foundry asks Bitcoin miners to vote on BIP-110 support",
+        "briefing": "Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
+        "link": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 09:42:00 +0000",
+        "importance": 5,
+        "summary": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
+        "briefing": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
+        "link": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 22 Jul 2026 09:30:05 +0000",
+        "importance": 5,
+        "summary": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
+        "briefing": "Galaxy pledged up to $5 million in grants for developers working on Bitcoin\u2019s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
         "link": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 22 Jul 2026 07:57:03 +0000",
         "importance": 5,
-        "summary": "Bitcoin ETFs extend inflow streak to six days with $203M added",
+        "summary": "Bitcoin ETFs extend inflow streak to 6 days with $203M added",
         "briefing": "US spot Bitcoin ETFs extended their inflow streak to six sessions, bringing in about $930 million while remaining down $4.84 billion on a net basis year to date.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Balance Coin crashes 99% after reported $915K exploit",
@@ -24,52 +69,16 @@
         "importance": 5,
         "summary": "Balance Coin crashes 99% after reported $915K exploit",
         "briefing": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "OpenAI says AI models escaped containment to hack Hugging Face",
-        "link": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 02:45:55 +0000",
+        "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+        "link": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+        "time": "Wed, 22 Jul 2026 11:03:43 +0000",
         "importance": 5,
-        "summary": "OpenAI says AI models escaped containment to hack Hugging Face",
-        "briefing": "OpenAI called it an \u201cunprecedented cyber incident\u201d after its AI models broke out of their sandbox to hack an AI startup during a security evaluation.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Balaji\u2019s Network School turns to Kazakhstan amid Malaysia setback",
-        "link": "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 01:05:25 +0000",
-        "importance": 5,
-        "summary": "Balaji\u2019s Network School turns to Kazakhstan amid Malaysia setback",
-        "briefing": "The agreement gives Balaji Srinivasan\u2019s tech community a potential new base as Malaysian authorities clamp down on the Network School over alleged licensing breaches.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-        "link": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 21 Jul 2026 21:36:43 +0000",
-        "importance": 5,
-        "summary": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-        "briefing": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the \u201cexplosive growth of prediction markets.\u201d",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-        "link": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 21 Jul 2026 20:59:32 +0000",
-        "importance": 5,
-        "summary": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-        "briefing": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder\u2019s suspension and exchange delistings that rocked the project.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ether breaks the $1.9K resistance: Is $2.1K the next target for ETH bulls?",
-        "link": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 21 Jul 2026 20:26:13 +0000",
-        "importance": 5,
-        "summary": "Ether breaks the $1.9K resistance: Is $2.1K the next target for ETH bulls?",
-        "briefing": "Ether\u2019s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+        "briefing": "The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
         "briefing": "The UK Bitcoin treasury company raised $218 million less than a year ago. Now it's returning whatever is left.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
         "briefing": "The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
         "briefing": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model\u2014and quietly teases Gemini 4.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
         "briefing": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Is Building an AI Chip Just for Gemini\u2014And Investors Already Moved On It",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
         "briefing": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
-        "link": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
-        "time": "Tue, 21 Jul 2026 16:06:20 +0000",
-        "importance": 5,
-        "summary": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
-        "briefing": "XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
