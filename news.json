@@ -1,12 +1,30 @@
 [
     {
-        "title": "AFX protocol reportedly loses $24M in bridge exploit",
+        "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
+        "link": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 23 Jul 2026 04:15:30 +0000",
+        "importance": 5,
+        "summary": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
+        "briefing": "US officials warn that Chinese firms conducting covert, industrial-scale AI distillation could face sanctions and export restrictions.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SEC settles Coinbase suit over \u2018text messages that disappeared\u2019",
+        "link": "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 23 Jul 2026 02:57:10 +0000",
+        "importance": 5,
+        "summary": "SEC settles Coinbase suit over \u2018text messages that disappeared\u2019",
+        "briefing": "The settlement follows a watchdog report last year that blamed \u201cavoidable errors\u201d for the loss of nearly a year\u2019s worth of Gary Gensler\u2019s text messages.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hackers steal $31.6M with 2 crypto bridge attacks within 7 hours",
         "link": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 23 Jul 2026 01:47:20 +0000",
         "importance": 5,
-        "summary": "AFX protocol reportedly loses $24M in bridge exploit",
-        "briefing": "Offchain Labs said the incident involved a third-party protocol and did not affect Arbitrum\u2019s native bridge infrastructure.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Hackers steal $31.6M with 2 crypto bridge attacks within 7 hours",
+        "briefing": "AFX, a decentralized perpetual exchange operating on Arbitrum, reportedly lost $24.15 million on Wednesday, while the Verus Ethereum bridge was attacked hours later.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "S&P launches blockchain fundamentals index for digital assets",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "S&P launches blockchain fundamentals index for digital assets",
         "briefing": "The benchmark tracks blockchain networks using protocol revenue, offering an alternative to traditional market capitalization-weighted crypto indexes.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Crypto PAC pours $1M into Michigan Democratic primary race",
         "briefing": "Donavan McKinney, running against Michigan incumbent Shri Thanedar, said that \u201cthe crypto lobby is paying my opponent back for helping Trump\u201c with the PAC-funded ads.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY\u2019s proposed ethics rules",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY\u2019s proposed ethics rules",
         "briefing": "According to Senator Cynthia Lummis, one of the bill\u2019s advocates, the ethics language would apply to US presidents\u2019 crypto ventures, including Donald Trump\u2019s.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic joins UK FCA\u2019s AI regulatory sandbox as second cohort launches",
@@ -51,25 +69,7 @@
         "importance": 5,
         "summary": "Anthropic joins UK FCA\u2019s AI regulatory sandbox as second cohort launches",
         "briefing": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority\u2019s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "SEC\u2019s Peirce says crypto vaults and onchain lending may fall under securities laws",
-        "link": "https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 17:39:57 +0000",
-        "importance": 5,
-        "summary": "SEC\u2019s Peirce says crypto vaults and onchain lending may fall under securities laws",
-        "briefing": "The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger US securities laws depending on how they are structured and operated.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
-        "link": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 22 Jul 2026 16:28:10 +0000",
-        "importance": 5,
-        "summary": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
-        "briefing": "The group alleged that the tax signed into law in June \u201cdiscriminates against people who transact in digital assets\u201c and should be blocked from implementation and enforcement.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
         "briefing": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
         "briefing": "Payward and fintech GTN are teaming up to bring xStocks\u2014blockchain-based copies of real company shares\u2014to Hong Kong, the UK, Europe, and South Korea.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
         "briefing": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
         "briefing": "The asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work\u2014and that most investors aren't positioned for it.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Is Bouncing: Here\u2019s the Bull and Bear Case for Its Next Move",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Bitcoin Is Bouncing: Here\u2019s the Bull and Bear Case for Its Next Move",
         "briefing": "The good news: Bitcoin is holding onto key support, and rising. The bad news: a \"death cross\" is still active, and prediction markets are still overwhelmingly bearish.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Clarity Act Latest Draft Bars Trump From Crypto Ventures\u2014But Only Until 2029",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Clarity Act Latest Draft Bars Trump From Crypto Ventures\u2014But Only Until 2029",
         "briefing": "The long-awaited market-structure bill would block officials and their spouses from issuing digital assets and shield non-custodial developers, but the ethics ban expires in 2029 and enforcement rests solely with the DOJ.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
         "briefing": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
         "briefing": "Prosecutors filed five forfeiture cases as Secret Service agents traced funds from thousands of victims to launderers in Southeast Asia.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
