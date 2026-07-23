@@ -6,7 +6,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Fears of AI-driven DeFi hack epidemic overstated for now \u2014 but not for long",
@@ -15,7 +15,7 @@
         "importance": 5,
         "summary": "Fears of AI-driven DeFi hack epidemic overstated for now \u2014 but not for long",
         "briefing": "Are the fears of an AI driven hacking epidemic totally overblown, or is this just the lull before the storm?",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
@@ -24,7 +24,7 @@
         "importance": 5,
         "summary": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
         "briefing": "A consortium led by Strategy and BlackRock has pledged $15 million to secure the Bitcoin network from the threat of a quantum computing breakthrough.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Binance joins STOP THE TRAFFIK in anti-human trafficking effort",
@@ -33,16 +33,7 @@
         "importance": 5,
         "summary": "Binance joins STOP THE TRAFFIK in anti-human trafficking effort",
         "briefing": "The partnership expands Binance\u2019s compliance efforts by providing intelligence and training to help detect cryptocurrency activity tied to human trafficking and child exploitation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BitMEX token crashes 90% as exchange announces shutdown",
-        "link": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 23 Jul 2026 12:47:27 +0000",
-        "importance": 5,
-        "summary": "BitMEX token crashes 90% as exchange announces shutdown",
-        "briefing": "BitMEX\u2019s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitget secures license for New Zealand expansion",
@@ -51,7 +42,16 @@
         "importance": 5,
         "summary": "Bitget secures license for New Zealand expansion",
         "briefing": "Crypto exchange Bitget said it was registered as a financial service provider with New Zealand\u2019s financial regulator, enabling it to expand its services in the country.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BitMEX token crashes 90% as exchange announces shutdown",
+        "link": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 23 Jul 2026 12:02:00 +0000",
+        "importance": 5,
+        "summary": "BitMEX token crashes 90% as exchange announces shutdown",
+        "briefing": "BitMEX\u2019s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bernstein says Bitcoin mining deals necessary for AI power crunch",
@@ -60,7 +60,7 @@
         "importance": 5,
         "summary": "Bernstein says Bitcoin mining deals necessary for AI power crunch",
         "briefing": "Bernstein analysts remain bullish on the Bitcoin mining sector, as deals with third-party providers will be necessary to address the computing power limits of AI data centers.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal",
@@ -69,7 +69,16 @@
         "importance": 5,
         "summary": "HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal",
         "briefing": "HYPE briefly fell 8% from its local highs as Multicoin Capital, Selini Capital and Galaxy Digital queued nearly $150 million of the token for withdrawals.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
+        "link": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
+        "time": "Thu, 23 Jul 2026 15:17:38 +0000",
+        "importance": 5,
+        "summary": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
+        "briefing": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure\u2014including from future quantum computers.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
         "briefing": "Once-fragmented syndicates have fused into a single, tech-driven criminal economy that increasingly runs on crypto, the UNODC warns.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
         "briefing": "At least that's what Bitwise's CIO believes. Plus Republicans publish new Clarity Act draft, and the SEC Commissioner has a warning for DeFi.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
         "briefing": "Physical attacks on crypto holders are increasingly happening at home, and France has become the epicenter, a new report finds.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
         "briefing": "The exploit hit a custody bridge AFX operates rather than the Arbitrum network itself, with the stolen funds quickly moved to Ethereum.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "BitMEX to Close on September 23, Halts New Sign-Ups",
         "briefing": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
         "briefing": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
         "briefing": "Payward and fintech GTN are teaming up to bring xStocks\u2014blockchain-based copies of real company shares\u2014to Hong Kong, the UK, Europe, and South Korea.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-        "link": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
-        "time": "Wed, 22 Jul 2026 19:46:59 +0000",
-        "importance": 5,
-        "summary": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-        "briefing": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     }
 ]
