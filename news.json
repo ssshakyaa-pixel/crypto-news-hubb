@@ -1,12 +1,39 @@
 [
     {
+        "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+        "link": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 27 Jul 2026 01:58:54 +0000",
+        "importance": 5,
+        "summary": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+        "briefing": "Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver\u2019s off-chain database and inserted fraudulent swap records.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Storj files for bankruptcy, explores equity path for tokenholders",
+        "link": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 27 Jul 2026 01:01:43 +0000",
+        "importance": 5,
+        "summary": "Storj files for bankruptcy, explores equity path for tokenholders",
+        "briefing": "The decentralized storage provider says its network will continue operating during Chapter 11 as it explores a court-approved ownership mechanism for STORJ holders.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler\u2019s Digest, July 26",
+        "link": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 27 Jul 2026 00:03:44 +0000",
+        "importance": 5,
+        "summary": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler\u2019s Digest, July 26",
+        "briefing": "Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act\u2019s chances dim. BitMEX to close as crypto consolidates into five big players.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "WEMIX says attacker moved about $724,000 after contract breach",
         "link": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sun, 26 Jul 2026 22:53:55 +0000",
         "importance": 5,
         "summary": "WEMIX says attacker moved about $724,000 after contract breach",
         "briefing": "WEMIX suspended bridges, liquidity-pool trading and several services after an attacker compromised a WEMIX$-linked contract and moved 724,198 USDC.e.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
         "briefing": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
         "briefing": "Russia\u2019s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
@@ -42,34 +69,7 @@
         "importance": 5,
         "summary": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
         "briefing": "Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "South Korea\u2019s largest bank to launch payment service on JPMorgan\u2019s Kinexys",
-        "link": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 26 Jul 2026 10:23:00 +0000",
-        "importance": 5,
-        "summary": "South Korea\u2019s largest bank to launch payment service on JPMorgan\u2019s Kinexys",
-        "briefing": "KB Kookmin Bank will use JPMorgan\u2019s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BitMart to wind down exchange, end trading by Aug. 26",
-        "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 26 Jul 2026 07:13:00 +0000",
-        "importance": 5,
-        "summary": "BitMart to wind down exchange, end trading by Aug. 26",
-        "briefing": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance \u2018red teams\u2019 its own staff every month to keep hackers out",
-        "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 26 Jul 2026 02:01:00 +0000",
-        "importance": 5,
-        "summary": "Binance \u2018red teams\u2019 its own staff every month to keep hackers out",
-        "briefing": "Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
         "briefing": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
         "briefing": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
         "briefing": "For the first time, real-world assets\u2014stocks, commodities, and market indices\u2014outpaced crypto on the world's biggest decentralized derivatives exchange.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
         "briefing": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks\u2014At Half the Price",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks\u2014At Half the Price",
         "briefing": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
         "briefing": "Senate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
         "briefing": "The Singapore-based pool never recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back 11,700 users still holding IOUs.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
         "briefing": "Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
