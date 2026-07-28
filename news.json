@@ -1,12 +1,57 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 13:42:17 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+        "link": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+        "briefing": "DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it\u2019s not a case of industry consolidation \u2014 but the opposite.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+        "link": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 13:11:28 +0000",
+        "importance": 5,
+        "summary": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+        "briefing": "Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+        "link": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+        "briefing": "Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the network with the second-highest losses, driven largely by key compromises.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
         "link": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 28 Jul 2026 12:07:51 +0000",
         "importance": 5,
         "summary": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
         "briefing": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
+        "link": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 11:00:00 +0000",
+        "importance": 5,
+        "summary": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
+        "briefing": "Decentralized exchange aggregator 1inch announced the launch of its Aqua protocol allowing users to provide liquidity to many protocols at once.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "IMF warns Brazil\u2019s stablecoin activity outpaces traditional capital flows",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "IMF warns Brazil\u2019s stablecoin activity outpaces traditional capital flows",
         "briefing": "The IMF said Brazil\u2019s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Lido upgrade aims to slash Ethereum\u2019s validator count by one-third",
@@ -27,58 +72,13 @@
         "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-        "link": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 09:12:14 +0000",
-        "importance": 5,
-        "summary": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-        "briefing": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-        "link": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 07:40:40 +0000",
-        "importance": 5,
-        "summary": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-        "briefing": "Three users allege a fake Sparrow Wallet app on Apple\u2019s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-        "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 06:00:54 +0000",
-        "importance": 5,
-        "summary": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-        "briefing": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US judge temporarily blocks Minnesota prediction market ban",
-        "link": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 04:28:10 +0000",
-        "importance": 5,
-        "summary": "US judge temporarily blocks Minnesota prediction market ban",
-        "briefing": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
-        "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 03:17:10 +0000",
-        "importance": 5,
-        "summary": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
-        "briefing": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
         "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
         "link": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
         "time": "Tue, 28 Jul 2026 11:57:58 +0000",
         "importance": 5,
         "summary": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
         "briefing": "Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "1inch's Shared Liquidity Layer Aqua Goes Live",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "1inch's Shared Liquidity Layer Aqua Goes Live",
         "briefing": "The shared liquidity layer opens to all users on 13 chains, letting one wallet balance stand behind several positions at once.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
         "briefing": "The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
         "briefing": "Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
         "briefing": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban\u2014For Now",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban\u2014For Now",
         "briefing": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
         "briefing": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI\u2019s GPT-6 Will Arrive by September, Markets Predict",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "OpenAI\u2019s GPT-6 Will Arrive by September, Markets Predict",
         "briefing": "Money is moving on a September bet for OpenAI\u2019s next major model on both Polymarket and Myriad prediction markets.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
