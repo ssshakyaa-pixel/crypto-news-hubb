@@ -1,12 +1,48 @@
 [
     {
+        "title": "IMF warns Brazil\u2019s stablecoin activity outpaces traditional capital flows",
+        "link": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 10:09:47 +0000",
+        "importance": 5,
+        "summary": "IMF warns Brazil\u2019s stablecoin activity outpaces traditional capital flows",
+        "briefing": "The IMF said Brazil\u2019s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Lido upgrade aims to slash Ethereum\u2019s validator count by one-third",
+        "link": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 09:14:45 +0000",
+        "importance": 5,
+        "summary": "Lido upgrade aims to slash Ethereum\u2019s validator count by one-third",
+        "briefing": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum\u2019s validator count by one-third by consolidating validators and introducing new operator rules.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+        "link": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 09:12:14 +0000",
+        "importance": 5,
+        "summary": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+        "briefing": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+        "link": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 28 Jul 2026 07:40:40 +0000",
+        "importance": 5,
+        "summary": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+        "briefing": "Three users allege a fake Sparrow Wallet app on Apple\u2019s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
         "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 28 Jul 2026 06:00:54 +0000",
         "importance": 5,
         "summary": "Binance co-founder CZ backs crypto license passporting across ASEAN",
         "briefing": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US judge temporarily blocks Minnesota prediction market ban",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "US judge temporarily blocks Minnesota prediction market ban",
         "briefing": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
         "briefing": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
@@ -33,42 +69,24 @@
         "importance": 5,
         "summary": "Hong Kong prepares banks for quantum threats amid tokenization push",
         "briefing": "The HKMA aims to make Hong Kong\u2019s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
-        "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 01:23:07 +0000",
+        "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
+        "link": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
+        "time": "Tue, 28 Jul 2026 10:08:09 +0000",
         "importance": 5,
-        "summary": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
-        "briefing": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% \u2014 plus all of the week\u2019s other crypto news from Asia.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "summary": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
+        "briefing": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-        "link": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 27 Jul 2026 22:55:44 +0000",
+        "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban\u2014For Now",
+        "link": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now",
+        "time": "Tue, 28 Jul 2026 09:04:19 +0000",
         "importance": 5,
-        "summary": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-        "briefing": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cross River to enable P2P payments, banking services for X Money",
-        "link": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 27 Jul 2026 21:05:05 +0000",
-        "importance": 5,
-        "summary": "Cross River to enable P2P payments, banking services for X Money",
-        "briefing": "The banking-as-a-service provider will power X Money\u2019s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
-        "link": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 27 Jul 2026 19:22:59 +0000",
-        "importance": 5,
-        "summary": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
-        "briefing": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
+        "summary": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban\u2014For Now",
+        "briefing": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
         "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
         "briefing": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI\u2019s GPT-6 Will Arrive by September, Markets Predict",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "OpenAI\u2019s GPT-6 Will Arrive by September, Markets Predict",
         "briefing": "Money is moving on a September bet for OpenAI\u2019s next major model on both Polymarket and Myriad prediction markets.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
         "briefing": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
         "briefing": "Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
         "briefing": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
         "briefing": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
-        "link": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
-        "time": "Mon, 27 Jul 2026 19:01:04 +0000",
-        "importance": 5,
-        "summary": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
-        "briefing": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
-        "link": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
-        "time": "Mon, 27 Jul 2026 18:24:29 +0000",
-        "importance": 5,
-        "summary": "Your Shared Claude Chats Were Being Quietly Published on Google",
-        "briefing": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing\u2014and someone already saved 11,241 of those messages to GitHub.",
         "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     }
 ]
