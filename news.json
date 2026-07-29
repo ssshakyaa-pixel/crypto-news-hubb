@@ -1,12 +1,57 @@
 [
     {
+        "title": "Hungary repeals crypto checks as first MiCA license is granted",
+        "link": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 29 Jul 2026 09:15:36 +0000",
+        "importance": 5,
+        "summary": "Hungary repeals crypto checks as first MiCA license is granted",
+        "briefing": "Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
+        "link": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 29 Jul 2026 08:12:11 +0000",
+        "importance": 5,
+        "summary": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
+        "briefing": "Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump\u2019s speeches, is no longer employed by the federal government.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 29 Jul 2026 07:16:47 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+        "briefing": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "UK policy sprint finds cross-border payments are stablecoins\u2019 top use case",
+        "link": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 29 Jul 2026 07:11:27 +0000",
+        "importance": 5,
+        "summary": "UK policy sprint finds cross-border payments are stablecoins\u2019 top use case",
+        "briefing": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Telegram founder Pavel Durov internationally wanted, Russia\u2019s FSB says",
+        "link": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 29 Jul 2026 06:32:25 +0000",
+        "importance": 5,
+        "summary": "Telegram founder Pavel Durov internationally wanted, Russia\u2019s FSB says",
+        "briefing": "Russia\u2019s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
         "link": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 29 Jul 2026 05:29:48 +0000",
         "importance": 5,
         "summary": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
         "briefing": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract\u2019s mark price to fall nearly 19%.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
@@ -24,52 +69,16 @@
         "importance": 5,
         "summary": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
         "briefing": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-        "link": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 29 Jul 2026 03:26:44 +0000",
-        "importance": 5,
-        "summary": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-        "briefing": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-        "link": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 29 Jul 2026 02:50:51 +0000",
-        "importance": 5,
-        "summary": "Tether signs tokenization deal with Nairobi Securities Exchange",
-        "briefing": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
-        "link": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 29 Jul 2026 01:05:15 +0000",
+        "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
+        "link": "https://decrypt.co/374625/russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
+        "time": "Wed, 29 Jul 2026 09:34:35 +0000",
         "importance": 5,
-        "summary": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
-        "briefing": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "European financial institutions launch RL1 cooperative blockchain network",
-        "link": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 29 Jul 2026 00:09:29 +0000",
-        "importance": 5,
-        "summary": "European financial institutions launch RL1 cooperative blockchain network",
-        "briefing": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Myanmar Parliament passes crypto scam bill with penalties up to life",
-        "link": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 28 Jul 2026 23:27:28 +0000",
-        "importance": 5,
-        "summary": "Myanmar Parliament passes crypto scam bill with penalties up to life",
-        "briefing": "Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
+        "briefing": "Durov has previously called Russia\u2019s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Markets Don\u2019t Buy the US Ceasefire Against Iran Will Last",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Markets Don\u2019t Buy the US Ceasefire Against Iran Will Last",
         "briefing": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Apple Overtakes Nvidia\u2014Which Will Be Bigger by End of July?",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Apple Overtakes Nvidia\u2014Which Will Be Bigger by End of July?",
         "briefing": "Apple\u2019s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
         "briefing": "Anthropic\u2019s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
         "briefing": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
         "briefing": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
         "briefing": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
         "briefing": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-        "link": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
-        "time": "Tue, 28 Jul 2026 18:24:19 +0000",
-        "importance": 5,
-        "summary": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-        "briefing": "The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     }
 ]
