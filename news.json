@@ -1,12 +1,21 @@
 [
     {
+        "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+        "link": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 30 Jul 2026 17:38:13 +0000",
+        "importance": 5,
+        "summary": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+        "briefing": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Canadian crypto ownership increases to 25%: Ontario survey",
         "link": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 30 Jul 2026 17:03:17 +0000",
         "importance": 5,
         "summary": "Canadian crypto ownership increases to 25%: Ontario survey",
         "briefing": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
         "briefing": "The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
         "briefing": "A RedStone report found tokenized bullion held up during gold\u2019s sharp sell-off, but DeFi lending adoption remains limited despite surging market growth and trading volumes.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "South Korean crypto trading surges amid stock market plunge",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "South Korean crypto trading surges amid stock market plunge",
         "briefing": "South Korean crypto exchanges saw a fresh spike in trading activity as the country\u2019s stock market had several days of significant downside.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BitRiver founder charged in Russia over alleged $8M fraud",
@@ -60,16 +69,25 @@
         "importance": 5,
         "summary": "BitRiver founder charged in Russia over alleged $8M fraud",
         "briefing": "Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire Oleg Deripaska.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Samsung unit explores stablecoin infrastructure with Upbit\u2019s operator",
-        "link": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 30 Jul 2026 11:49:00 +0000",
+        "title": "Researchers Tried Letting AI Do Science. It Failed",
+        "link": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
+        "time": "Thu, 30 Jul 2026 19:13:46 +0000",
         "importance": 5,
-        "summary": "Samsung unit explores stablecoin infrastructure with Upbit\u2019s operator",
-        "briefing": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Researchers Tried Letting AI Do Science. It Failed",
+        "briefing": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+        "link": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+        "time": "Thu, 30 Jul 2026 17:36:03 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+        "briefing": "The advance reflects IBM\u2019s continued progress toward machines powerful enough to challenge today's cryptography.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
         "briefing": "Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
         "briefing": "Ark Invest sold shares of Bitmine, Robinhood, Bullish, and Block during Wednesday's pullback in crypto equities, while continuing to add to Coinbase and Circle.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
         "briefing": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal\u2014and wants a federal court to stop it before Saturday.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Australia Sues Telegram for $38M Over \u2018Pro-Terror\u2019 Videos",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Australia Sues Telegram for $38M Over \u2018Pro-Terror\u2019 Videos",
         "briefing": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
         "briefing": "Activist Samuel Tunick said his prosecution is meant to set a precedent against privacy and \"intimidate people.\"",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
         "briefing": "Plus markets are rebounding after a slightly hawkish FOMC, BTC ETFs flip to inflows and MoonPay launches a new AI product + airdrop",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
-        "link": "https://decrypt.co/374699/crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
-        "time": "Thu, 30 Jul 2026 11:42:03 +0000",
-        "importance": 5,
-        "summary": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
-        "briefing": "CEO James Lanigan cited automation reshaping the business, as the exchange shifts from retail trading toward institutional infrastructure.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
-        "link": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
-        "time": "Thu, 30 Jul 2026 09:50:02 +0000",
-        "importance": 5,
-        "summary": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
-        "briefing": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     }
 ]
