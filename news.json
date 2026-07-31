@@ -1,12 +1,48 @@
 [
     {
+        "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+        "link": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 31 Jul 2026 16:25:47 +0000",
+        "importance": 5,
+        "summary": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+        "briefing": "Tether\u2019s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure across the crypto sector.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+        "link": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 31 Jul 2026 16:23:21 +0000",
+        "importance": 5,
+        "summary": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+        "briefing": "Eligible retail and institutional users can use tokenized shares of Nvidia, Apple, Tesla and three other US companies across Bybit\u2019s trading and lending products.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
+        "link": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 31 Jul 2026 16:14:19 +0000",
+        "importance": 5,
+        "summary": "US Treasury yields rise as TIPS challenge the inflation narrative",
+        "briefing": "TIPS data points to rising real yields, not inflation, a dynamic that weighs on non-yielding assets like Bitcoin.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+        "link": "https://cointelegraph.com/markets/bitcoin-two-week-lows-us-stocks-fail-copy-asia-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 31 Jul 2026 15:57:03 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+        "briefing": "Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "ECB says digital euro app will exceed EU accessibility standards",
         "link": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 31 Jul 2026 14:05:25 +0000",
         "importance": 5,
         "summary": "ECB says digital euro app will exceed EU accessibility standards",
         "briefing": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AMLBot launches AI Tracer for self-service blockchain investigations",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "AMLBot launches AI Tracer for self-service blockchain investigations",
         "briefing": "Crypto forensics company AMLBot launched an AI-enabled tool allowing users with no specialist knowledge to trace their digital assets, even after they are stolen.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle receives New York trust charter for subsidiary",
@@ -33,43 +69,34 @@
         "importance": 5,
         "summary": "Circle receives New York trust charter for subsidiary",
         "briefing": "The New York trust charter allows Circle\u2019s subsidiary to provide fiduciary and custody services under state banking law.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BOJ intervenes to defend yen near 160, holds rates steady",
-        "link": "https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 31 Jul 2026 13:13:46 +0000",
-        "importance": 5,
-        "summary": "BOJ intervenes to defend yen near 160, holds rates steady",
-        "briefing": "The Japanese yen crosses a key psychological level after the country\u2019s central bank reportedly conducted a major currency intervention.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports",
-        "link": "https://cointelegraph.com/markets/citadel-situational-awareness-stock-portfolio-ai-rout-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 31 Jul 2026 11:35:33 +0000",
-        "importance": 5,
-        "summary": "Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports",
-        "briefing": "Situational Awareness retained about $10 billion in assets, including its Anthropic stake, after reportedly selling leveraged public stock positions to Ken Griffin\u2019s Citadel.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BIS Project Agor\u00e1 settles $1 million in tokenized cross-border payment trials",
-        "link": "https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 31 Jul 2026 11:02:24 +0000",
-        "importance": 5,
-        "summary": "BIS Project Agor\u00e1 settles $1 million in tokenized cross-border payment trials",
-        "briefing": "Twenty-eight financial institutions and central banks completed real-value settlements across six currencies using tokenized central bank reserves and commercial bank deposits.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "New York sues Kalshi over alleged illegal gambling operation",
-        "link": "https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 31 Jul 2026 10:05:01 +0000",
+        "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
+        "link": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
+        "time": "Fri, 31 Jul 2026 15:32:02 +0000",
         "importance": 5,
-        "summary": "New York sues Kalshi over alleged illegal gambling operation",
-        "briefing": "The lawsuit adds to a growing clash between New York and the CFTC over whether federally regulated prediction markets are subject to state gambling laws.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
+        "briefing": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
+        "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
+        "time": "Fri, 31 Jul 2026 15:05:43 +0000",
+        "importance": 5,
+        "summary": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
+        "briefing": "OFAC sanctioned two Iranian firms including Hormuz Safe, which \u201caccepts payment in Bitcoin and other digital assets.\u201d",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
+        "link": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
+        "time": "Fri, 31 Jul 2026 15:01:04 +0000",
+        "importance": 5,
+        "summary": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
+        "briefing": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "AI Company Sues Town for Trying to Block Data Center Near National Park",
         "briefing": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Claude Hacked Three Companies in Internal Testing: Anthropic",
         "briefing": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
         "briefing": "Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
         "briefing": "Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
         "briefing": "The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-        "link": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-        "time": "Fri, 31 Jul 2026 09:02:01 +0000",
-        "importance": 5,
-        "summary": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-        "briefing": "Coinkite said it\u2019s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-        "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
-        "time": "Thu, 30 Jul 2026 21:19:12 +0000",
-        "importance": 5,
-        "summary": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-        "briefing": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
-        "link": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
-        "time": "Thu, 30 Jul 2026 19:32:19 +0000",
-        "importance": 5,
-        "summary": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
-        "briefing": "Scott Bessent urged the Senate to immediately vote on the crypto market structure bill, accusing Democrats of delaying the legislation for political reasons.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
