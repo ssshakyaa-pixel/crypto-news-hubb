@@ -1,12 +1,30 @@
 [
     {
+        "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+        "link": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 31 Jul 2026 20:10:21 +0000",
+        "importance": 5,
+        "summary": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+        "briefing": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+        "link": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 31 Jul 2026 19:16:19 +0000",
+        "importance": 5,
+        "summary": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+        "briefing": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 31 Jul 2026 18:09:51 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ex-FTX users report funds being released in $900M distribution round",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Ex-FTX users report funds being released in $900M distribution round",
         "briefing": "Several users of the long-defunct crypto exchange reported that distribution agents had begun releasing funds to reimburse creditors for some of their 2022 losses.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
         "briefing": "Tether\u2019s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure across the crypto sector.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
         "briefing": "Eligible retail and institutional users can use tokenized shares of Nvidia, Apple, Tesla and three other US companies across Bybit\u2019s trading and lending products.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "US Treasury yields rise as TIPS challenge the inflation narrative",
         "briefing": "TIPS data points to rising real yields, not inflation, a dynamic that weighs on non-yielding assets like Bitcoin.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
@@ -51,25 +69,25 @@
         "importance": 5,
         "summary": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
         "briefing": "Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI Music Company Suno Loses Copyright Case in Germany",
+        "link": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+        "time": "Fri, 31 Jul 2026 20:03:22 +0000",
+        "importance": 5,
+        "summary": "AI Music Company Suno Loses Copyright Case in Germany",
+        "briefing": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
         "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "ECB says digital euro app will exceed EU accessibility standards",
-        "link": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 31 Jul 2026 14:05:25 +0000",
+        "title": "US Is Banning Foreign Robots\u2014Even Roombas",
+        "link": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
+        "time": "Fri, 31 Jul 2026 19:43:24 +0000",
         "importance": 5,
-        "summary": "ECB says digital euro app will exceed EU accessibility standards",
-        "briefing": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "AMLBot launches AI Tracer for self-service blockchain investigations",
-        "link": "https://cointelegraph.com/news/crypto-forensics-firm-launches-ai-tracing-service-track-your-stolen-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 31 Jul 2026 13:59:56 +0000",
-        "importance": 5,
-        "summary": "AMLBot launches AI Tracer for self-service blockchain investigations",
-        "briefing": "Crypto forensics company AMLBot launched an AI-enabled tool allowing users with no specialist knowledge to trace their digital assets, even after they are stolen.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "US Is Banning Foreign Robots\u2014Even Roombas",
+        "briefing": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
         "briefing": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
         "briefing": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
         "briefing": "OFAC sanctioned two Iranian firms including Hormuz Safe, which \u201caccepts payment in Bitcoin and other digital assets.\u201d",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
         "briefing": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "AI Company Sues Town for Trying to Block Data Center Near National Park",
         "briefing": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Claude Hacked Three Companies in Internal Testing: Anthropic",
         "briefing": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
-        "link": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
-        "time": "Fri, 31 Jul 2026 12:11:17 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
-        "briefing": "Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
-        "link": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
-        "time": "Fri, 31 Jul 2026 11:13:58 +0000",
-        "importance": 5,
-        "summary": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
-        "briefing": "Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
