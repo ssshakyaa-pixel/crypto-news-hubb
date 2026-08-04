@@ -6,7 +6,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
@@ -15,7 +15,7 @@
         "importance": 5,
         "summary": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
         "briefing": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BNY to offer institutional crypto staking through Galaxy partnership",
@@ -33,7 +33,7 @@
         "importance": 5,
         "summary": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
         "briefing": "Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&amp;P 500 index to a record $70 trillion market cap.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
@@ -42,7 +42,7 @@
         "importance": 5,
         "summary": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
         "briefing": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
@@ -51,7 +51,7 @@
         "importance": 5,
         "summary": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
         "briefing": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly\u2019s managing partner.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
@@ -60,7 +60,7 @@
         "importance": 5,
         "summary": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
         "briefing": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Texas electric grid moratorium won\u2019t have big impact on BTC miners: Bernstein",
@@ -69,7 +69,43 @@
         "importance": 5,
         "summary": "Texas electric grid moratorium won\u2019t have big impact on BTC miners: Bernstein",
         "briefing": "Monday\u2019s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won\u2019t impact miners\u2019 approved electricity contracts.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+        "link": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+        "time": "Tue, 04 Aug 2026 21:46:03 +0000",
+        "importance": 5,
+        "summary": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+        "briefing": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
         "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+        "link": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+        "time": "Tue, 04 Aug 2026 21:16:03 +0000",
+        "importance": 5,
+        "summary": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+        "briefing": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
+        "link": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+        "time": "Tue, 04 Aug 2026 20:45:18 +0000",
+        "importance": 5,
+        "summary": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
+        "briefing": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+        "link": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+        "time": "Tue, 04 Aug 2026 20:30:52 +0000",
+        "importance": 5,
+        "summary": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+        "briefing": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
         "briefing": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million\u2014and reopened an old fight about whether you can trust dice.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
         "briefing": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
         "briefing": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
         "briefing": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-        "link": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-        "time": "Tue, 04 Aug 2026 13:36:06 +0000",
-        "importance": 5,
-        "summary": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-        "briefing": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Saylor Sells Bitcoin Again",
-        "link": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
-        "time": "Tue, 04 Aug 2026 12:33:21 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Saylor Sells Bitcoin Again",
-        "briefing": "Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to\u2026 help them buy more Bitcoin.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
-        "link": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-        "time": "Tue, 04 Aug 2026 11:40:44 +0000",
-        "importance": 5,
-        "summary": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
-        "briefing": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
-        "link": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
-        "time": "Tue, 04 Aug 2026 10:52:57 +0000",
-        "importance": 5,
-        "summary": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
-        "briefing": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     }
 ]
