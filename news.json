@@ -1,12 +1,66 @@
 [
     {
+        "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+        "link": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 15:02:16 +0000",
+        "importance": 5,
+        "summary": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+        "briefing": "Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain significantly beyond $64,000.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
+        "link": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 14:08:27 +0000",
+        "importance": 5,
+        "summary": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
+        "briefing": "Bitcoin, Ethereum and XRP whales increased balances during market weakness, as CryptoQuant said large holders are absorbing supply ahead of a possible bottom.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
+        "link": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
+        "briefing": "The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Here\u2019s the details you need to know before you entrust Ledger, Trezor or Foundation with your Bitcoin.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Galaxy reports $85M net loss amid Q2 crypto market slump",
+        "link": "https://cointelegraph.com/news/galaxy-85m-loss-q2-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 13:20:58 +0000",
+        "importance": 5,
+        "summary": "Galaxy reports $85M net loss amid Q2 crypto market slump",
+        "briefing": "Galaxy Digital reported an $85 million net loss driven by falling digital asset prices and $8.7 billion in revenue that missed Wall Street estimates.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 13:20:01 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
+        "link": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
+        "briefing": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers through the payment processing giant\u2019s Crypto Credential framework.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Binance sues RedotPay over alleged $473 million user losses: Report",
         "link": "https://cointelegraph.com/news/binance-redotpay-lawsuit-alleged-473-million-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 05 Aug 2026 12:01:31 +0000",
         "importance": 5,
         "summary": "Binance sues RedotPay over alleged $473 million user losses: Report",
         "briefing": "Binance-linked companies sued RedotPay, accusing it of diverting more than 470,000 Binance Card users under a commercial deal and seeking nearly $473 million in damages.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Q2 revenue falls short of Wall Street estimates",
@@ -15,61 +69,7 @@
         "importance": 5,
         "summary": "Circle Q2 revenue falls short of Wall Street estimates",
         "briefing": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 million.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 10:43:05 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
-        "briefing": "US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy\u2019s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
-        "link": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 10:40:43 +0000",
-        "importance": 5,
-        "summary": "S&P gives BlackRock tokenized reserve fund top stability rating",
-        "briefing": "The rating recognizes the fund\u2019s ability to maintain a stable net asset value, while S&amp;P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 09:40:00 +0000",
-        "importance": 5,
-        "summary": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
-        "briefing": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
-        "link": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 09:24:03 +0000",
-        "importance": 5,
-        "summary": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
-        "briefing": "JPMorgan\u2019s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
-        "link": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 09:10:04 +0000",
-        "importance": 5,
-        "summary": "Proof of Play to shut down after blockchain gaming thesis falls short",
-        "briefing": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
-        "link": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 09:00:00 +0000",
-        "importance": 5,
-        "summary": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
-        "briefing": "Forgd\u2019s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
         "briefing": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears",
         "briefing": "The last time he sold was in December 2022 with Bitcoin at $16,800. Will Jim's sales mark the bottom again?",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
         "briefing": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
         "briefing": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
         "briefing": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
         "briefing": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
         "briefing": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
         "briefing": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
