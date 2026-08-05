@@ -1,75 +1,84 @@
 [
     {
-        "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
-        "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 07:20:03 +0000",
+        "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 09:34:41 +0000",
         "importance": 5,
-        "summary": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
-        "briefing": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will launch in a future update.",
+        "summary": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+        "briefing": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+        "link": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 09:24:03 +0000",
+        "importance": 5,
+        "summary": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+        "briefing": "JPMorgan\u2019s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
+        "link": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 09:10:04 +0000",
+        "importance": 5,
+        "summary": "Proof of Play to shut down after blockchain gaming thesis falls short",
+        "briefing": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
+        "link": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 09:00:00 +0000",
+        "importance": 5,
+        "summary": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
+        "briefing": "Forgd\u2019s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Boerse Stuttgart Digital, Tradias close European crypto merger",
+        "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 08:47:24 +0000",
+        "importance": 5,
+        "summary": "Boerse Stuttgart Digital, Tradias close European crypto merger",
+        "briefing": "The completed tie-up combines Boerse Stuttgart Digital\u2019s custody business with Tradias\u2019 trading operations under a joint management team.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "MiCA list expands with 12 companies in fourth post-deadline update",
+        "link": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 08:25:34 +0000",
+        "importance": 5,
+        "summary": "MiCA list expands with 12 companies in fourth post-deadline update",
+        "briefing": "ESMA\u2019s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
+        "link": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 08:21:54 +0000",
+        "importance": 5,
+        "summary": "Taiwan plans Travel Rule for domestic crypto transfers from October",
+        "briefing": "Taiwan\u2019s regulator plans to apply the Travel Rule to domestic VASP transfers from October before extending it to overseas platforms by the end of 2027.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+        "link": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 07:34:12 +0000",
+        "importance": 5,
+        "summary": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+        "briefing": "The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitcoin holder and force him to transfer cryptocurrency before abandoning the plan.",
         "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "AI credit bubble could fuel Bitcoin \u2018crack-up boom\u2019 past $1M: Hayes",
-        "link": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 06:27:49 +0000",
+        "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
+        "link": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
+        "time": "Wed, 05 Aug 2026 09:52:42 +0000",
         "importance": 5,
-        "summary": "AI credit bubble could fuel Bitcoin \u2018crack-up boom\u2019 past $1M: Hayes",
-        "briefing": "Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, but evidence suggests financial strain is uneven across Big Tech.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 05:56:55 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CLARITY or not, crypto isn\u2019t going back in the bottle: Bitwise",
-        "link": "https://cointelegraph.com/news/clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 05:47:42 +0000",
-        "importance": 5,
-        "summary": "CLARITY or not, crypto isn\u2019t going back in the bottle: Bitwise",
-        "briefing": "Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the industry moving even if Congress fails to pass landmark market structure legislation this year.",
+        "summary": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
+        "briefing": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bybit\u2019s EU payments arm secures Austrian e-money license",
-        "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 04:03:16 +0000",
-        "importance": 5,
-        "summary": "Bybit\u2019s EU payments arm secures Austrian e-money license",
-        "briefing": "Bybit\u2019s Austrian payments subsidiary gained regulatory approval to develop card, merchant, open-banking and person-to-person payment services.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ethereum researchers want to rein in staking; critics say it could backfire",
-        "link": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 02:30:07 +0000",
-        "importance": 5,
-        "summary": "Ethereum researchers want to rein in staking; critics say it could backfire",
-        "briefing": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-        "link": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 19:58:48 +0000",
-        "importance": 5,
-        "summary": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-        "briefing": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BNY to offer institutional crypto staking through Galaxy partnership",
-        "link": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 17:10:04 +0000",
-        "importance": 5,
-        "summary": "BNY to offer institutional crypto staking through Galaxy partnership",
-        "briefing": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
         "briefing": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
         "briefing": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
         "briefing": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
         "briefing": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
         "briefing": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
         "briefing": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
         "briefing": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million\u2014and reopened an old fight about whether you can trust dice.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
-        "link": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
-        "time": "Tue, 04 Aug 2026 18:46:11 +0000",
-        "importance": 5,
-        "summary": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
-        "briefing": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     }
 ]
