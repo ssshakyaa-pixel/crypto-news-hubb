@@ -6,7 +6,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
@@ -15,7 +15,7 @@
         "importance": 5,
         "summary": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
         "briefing": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BNY to offer institutional crypto staking through Galaxy partnership",
@@ -24,7 +24,7 @@
         "importance": 5,
         "summary": "BNY to offer institutional crypto staking through Galaxy partnership",
         "briefing": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
@@ -33,7 +33,7 @@
         "importance": 5,
         "summary": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
         "briefing": "Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&amp;P 500 index to a record $70 trillion market cap.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
@@ -42,7 +42,7 @@
         "importance": 5,
         "summary": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
         "briefing": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
@@ -51,7 +51,7 @@
         "importance": 5,
         "summary": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
         "briefing": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly\u2019s managing partner.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
@@ -60,7 +60,7 @@
         "importance": 5,
         "summary": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
         "briefing": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Texas electric grid moratorium won\u2019t have big impact on BTC miners: Bernstein",
@@ -69,7 +69,25 @@
         "importance": 5,
         "summary": "Texas electric grid moratorium won\u2019t have big impact on BTC miners: Bernstein",
         "briefing": "Monday\u2019s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won\u2019t impact miners\u2019 approved electricity contracts.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+        "link": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+        "time": "Tue, 04 Aug 2026 22:46:03 +0000",
+        "importance": 5,
+        "summary": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+        "briefing": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
+        "link": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+        "time": "Tue, 04 Aug 2026 22:16:03 +0000",
+        "importance": 5,
+        "summary": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
+        "briefing": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
         "briefing": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
         "briefing": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
         "briefing": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
         "briefing": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million\u2014and reopened an old fight about whether you can trust dice.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
         "briefing": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-        "link": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
-        "time": "Tue, 04 Aug 2026 17:16:49 +0000",
-        "importance": 5,
-        "summary": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-        "briefing": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
-        "link": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
-        "time": "Tue, 04 Aug 2026 16:43:46 +0000",
-        "importance": 5,
-        "summary": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
-        "briefing": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
