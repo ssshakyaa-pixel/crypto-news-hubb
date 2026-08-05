@@ -1,21 +1,57 @@
 [
     {
-        "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
-        "link": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 05 Aug 2026 02:30:07 +0000",
+        "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+        "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 07:20:03 +0000",
         "importance": 5,
-        "summary": "Ethereum researchers want to rein in staking, critics say it could backfire",
-        "briefing": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
+        "summary": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+        "briefing": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will launch in a future update.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI credit bubble could fuel Bitcoin \u2018crack-up boom\u2019 past $1M: Hayes",
+        "link": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 06:27:49 +0000",
+        "importance": 5,
+        "summary": "AI credit bubble could fuel Bitcoin \u2018crack-up boom\u2019 past $1M: Hayes",
+        "briefing": "Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, but evidence suggests financial strain is uneven across Big Tech.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 19:59:26 +0000",
+        "time": "Wed, 05 Aug 2026 05:56:55 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CLARITY or not, crypto isn\u2019t going back in the bottle: Bitwise",
+        "link": "https://cointelegraph.com/news/clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 05:47:42 +0000",
+        "importance": 5,
+        "summary": "CLARITY or not, crypto isn\u2019t going back in the bottle: Bitwise",
+        "briefing": "Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the industry moving even if Congress fails to pass landmark market structure legislation this year.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bybit\u2019s EU payments arm secures Austrian e-money license",
+        "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 04:03:16 +0000",
+        "importance": 5,
+        "summary": "Bybit\u2019s EU payments arm secures Austrian e-money license",
+        "briefing": "Bybit\u2019s Austrian payments subsidiary gained regulatory approval to develop card, merchant, open-banking and person-to-person payment services.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ethereum researchers want to rein in staking; critics say it could backfire",
+        "link": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 05 Aug 2026 02:30:07 +0000",
+        "importance": 5,
+        "summary": "Ethereum researchers want to rein in staking; critics say it could backfire",
+        "briefing": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
         "briefing": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BNY to offer institutional crypto staking through Galaxy partnership",
@@ -33,43 +69,7 @@
         "importance": 5,
         "summary": "BNY to offer institutional crypto staking through Galaxy partnership",
         "briefing": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
-        "link": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 16:38:54 +0000",
-        "importance": 5,
-        "summary": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
-        "briefing": "Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&amp;P 500 index to a record $70 trillion market cap.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
-        "link": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 15:50:20 +0000",
-        "importance": 5,
-        "summary": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
-        "briefing": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
-        "link": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 14:38:49 +0000",
-        "importance": 5,
-        "summary": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
-        "briefing": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly\u2019s managing partner.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
-        "link": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 04 Aug 2026 13:30:00 +0000",
-        "importance": 5,
-        "summary": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
-        "briefing": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
         "briefing": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
         "briefing": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
         "briefing": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
         "briefing": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters\u2014and why AI is reshaping wallet security.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat\u2014Crypto Twitter Is Thrilled",
         "briefing": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
         "briefing": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
         "briefing": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million\u2014and reopened an old fight about whether you can trust dice.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
         "briefing": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
