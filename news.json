@@ -1,75 +1,111 @@
 [
     {
+        "title": "Step App winds down after four years as FITFI token sinks",
+        "link": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 13:52:36 +0000",
+        "importance": 5,
+        "summary": "Step App winds down after four years as FITFI token sinks",
+        "briefing": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "10 weirdest things ever tokenized... including farts",
+        "link": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "10 weirdest things ever tokenized... including farts",
+        "briefing": "Tokenized cows may have gone viral, but they\u2019re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 13:02:49 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+        "link": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+        "briefing": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+        "link": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 12:55:44 +0000",
+        "importance": 5,
+        "summary": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+        "briefing": "Tokenized real-world assets accounted for more than a third of Hyperliquid\u2019s quarterly trading volume, generating 6.6% of the protocol\u2019s $169 million quarterly revenue.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+        "link": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 12:11:49 +0000",
+        "importance": 5,
+        "summary": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+        "briefing": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
+        "link": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 06 Aug 2026 12:00:00 +0000",
+        "importance": 5,
+        "summary": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
+        "briefing": "While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are widening the physical risks facing crypto holders.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin treasury trade \u2018breaking\u2019 and fund holdings drop 10%: Analysis",
         "link": "https://cointelegraph.com/markets/bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 06 Aug 2026 11:48:37 +0000",
         "importance": 5,
         "summary": "Bitcoin treasury trade \u2018breaking\u2019 and fund holdings drop 10%: Analysis",
         "briefing": "Doubts emerge over the Bitcoin corporate treasury model as institutional BTC investment vehicles cut holdings.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers",
-        "link": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 11:26:00 +0000",
+        "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+        "time": "Thu, 06 Aug 2026 13:34:07 +0000",
         "importance": 5,
-        "summary": "Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers",
-        "briefing": "Hackers behind the Coldcard exploit transferred millions in digital assets to cryptocurrency mixers, while most stolen funds remained traceable in attacker-controlled wallets.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "briefing": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Situational Awareness returns with $400M investment after nearly collapsing: Report",
-        "link": "https://cointelegraph.com/markets/situational-awareness-400m-investment-nearly-collapsing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 10:41:49 +0000",
+        "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+        "link": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+        "time": "Thu, 06 Aug 2026 12:46:19 +0000",
         "importance": 5,
-        "summary": "Situational Awareness returns with $400M investment after nearly collapsing: Report",
-        "briefing": "Situational Awareness reportedly made a $400 million investment in an undisclosed company, days after the hedge fund nearly collapsed following July\u2019s AI stock crash.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+        "briefing": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Russian president signs crypto law, core rules take effect in 2026",
-        "link": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 09:38:54 +0000",
+        "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+        "link": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+        "time": "Thu, 06 Aug 2026 12:28:46 +0000",
         "importance": 5,
-        "summary": "Russian president signs crypto law, core rules take effect in 2026",
-        "briefing": "Russian President Vladimir Putin signed a crypto law establishing market rules for exchanges, custodians and investors, with core provisions taking effect in September 2026.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
-        "link": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 09:28:20 +0000",
-        "importance": 5,
-        "summary": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
-        "briefing": "Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Yen stablecoin issuer JPYC\u2019s Series B reaches $38M",
-        "link": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 08:44:43 +0000",
-        "importance": 5,
-        "summary": "Yen stablecoin issuer JPYC\u2019s Series B reaches $38M",
-        "briefing": "JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.",
+        "summary": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+        "briefing": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin-backed loan refinances PowerCompute\u2019s $18M debt at 2%",
-        "link": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 07:56:34 +0000",
+        "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
+        "link": "https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
+        "time": "Thu, 06 Aug 2026 12:01:04 +0000",
         "importance": 5,
-        "summary": "Bitcoin-backed loan refinances PowerCompute\u2019s $18M debt at 2%",
-        "briefing": "Nasdaq-listed PowerCompute refinanced $18 million of debt through a Bitcoin-backed facility carrying an initial interest rate of about 2%.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 06 Aug 2026 06:57:31 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
-        "briefing": "US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
+        "briefing": "The blockchain analytics firm says home invasions are becoming more common, France has emerged as the leading hotspot, and some attackers are using increasingly sophisticated laundering techniques.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
         "briefing": "A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meta Debuts AI Coding Agent Muse: Here\u2019s How It Compares to Claude Code and Codex",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Meta Debuts AI Coding Agent Muse: Here\u2019s How It Compares to Claude Code and Codex",
         "briefing": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes\u2014but on the benchmarks that matter, it lags behind.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Cloudflare OS: Here\u2019s What\u2019s Inside the Open-Source AI Agent Platform",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "Cloudflare OS: Here\u2019s What\u2019s Inside the Open-Source AI Agent Platform",
         "briefing": "The release targets developers building autonomous apps and workflows on Cloudflare's edge\u2014a clear bet on agent infrastructure.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
@@ -106,41 +142,5 @@
         "summary": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
         "briefing": "A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.",
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-        "link": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
-        "time": "Wed, 05 Aug 2026 19:42:48 +0000",
-        "importance": 5,
-        "summary": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-        "briefing": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-        "link": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
-        "time": "Wed, 05 Aug 2026 19:11:23 +0000",
-        "importance": 5,
-        "summary": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-        "briefing": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
-        "link": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
-        "time": "Wed, 05 Aug 2026 18:43:47 +0000",
-        "importance": 5,
-        "summary": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
-        "briefing": "Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Tests Market\u2019s Patience as Zcash Gives Holders Hope: Analysis",
-        "link": "https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross",
-        "time": "Wed, 05 Aug 2026 18:33:34 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Tests Market\u2019s Patience as Zcash Gives Holders Hope: Analysis",
-        "briefing": "Will Bitcoin breakout of its death cross? Can Zcash continue to make holders forget about that mid-June crash? Here\u2019s what the charts say.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     }
 ]
