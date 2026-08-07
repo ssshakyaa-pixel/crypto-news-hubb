@@ -1,12 +1,39 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 07 Aug 2026 13:49:35 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Fierce backlash to Ethereum\u2019s EIP-8363 staking proposal",
+        "link": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 07 Aug 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Fierce backlash to Ethereum\u2019s EIP-8363 staking proposal",
+        "briefing": "Ethereum\u2019s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+        "link": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 07 Aug 2026 13:00:01 +0000",
+        "importance": 5,
+        "summary": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+        "briefing": "Dice entropy may become the new gold standard after the Coldcard hack",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
         "link": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 07 Aug 2026 12:28:41 +0000",
         "importance": 5,
         "summary": "Russia cracks down on 9 crypto exchanges in Moscow City",
         "briefing": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
         "briefing": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
         "briefing": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "CleanSpark misses Wall Street revenue estimates as shares sink",
         "briefing": "CleanSpark\u2019s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street\u2019s consensus estimate.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
@@ -42,34 +69,16 @@
         "importance": 5,
         "summary": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
         "briefing": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc\u2019s crypto framework.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
-        "link": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 07 Aug 2026 09:01:14 +0000",
+        "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+        "link": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+        "time": "Fri, 07 Aug 2026 13:26:19 +0000",
         "importance": 5,
-        "summary": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
-        "briefing": "Industry figures warned that continued legislative limbo could slow institutional adoption, revive regulation by enforcement and push innovation offshore.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-        "link": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 07 Aug 2026 07:59:42 +0000",
-        "importance": 5,
-        "summary": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-        "briefing": "The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-        "link": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 07 Aug 2026 05:24:38 +0000",
-        "importance": 5,
-        "summary": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-        "briefing": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+        "briefing": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "China\u2019s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "China\u2019s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
         "briefing": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Morning Minute: MetaMask Hands AI Agents a Wallet",
         "briefing": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "SEC Bought a Billion Airline Records to Track Travelers\u2014Likely Without a Warrant",
         "briefing": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Tokyo Tells Trump to Stop Meme-ing Mario",
         "briefing": "Tokyo has asked Washington to stop meme-posting Mario, Pok\u00e9mon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
         "briefing": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-        "link": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
-        "time": "Thu, 06 Aug 2026 19:51:09 +0000",
-        "importance": 5,
-        "summary": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-        "briefing": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     }
 ]
