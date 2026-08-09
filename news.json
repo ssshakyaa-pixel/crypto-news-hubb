@@ -15,7 +15,7 @@
         "importance": 5,
         "summary": "Brazil targets crypto fraud with up to 24-hour transfer hold",
         "briefing": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BTCPay restricts remote Lightning access after attackers steal funds",
@@ -24,7 +24,7 @@
         "importance": 5,
         "summary": "BTCPay restricts remote Lightning access after attackers steal funds",
         "briefing": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
@@ -33,7 +33,7 @@
         "importance": 5,
         "summary": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
         "briefing": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -42,7 +42,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
@@ -60,7 +60,7 @@
         "importance": 5,
         "summary": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
         "briefing": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin will never fall below $60K again: Nansen founder",
@@ -69,7 +69,16 @@
         "importance": 5,
         "summary": "Bitcoin will never fall below $60K again: Nansen founder",
         "briefing": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+        "link": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
+        "time": "Sun, 09 Aug 2026 19:33:09 +0000",
+        "importance": 5,
+        "summary": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+        "briefing": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
         "briefing": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
         "briefing": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
         "briefing": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
         "briefing": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
         "briefing": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
         "briefing": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
         "briefing": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-        "link": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-        "time": "Fri, 07 Aug 2026 17:36:41 +0000",
-        "importance": 5,
-        "summary": "XRP at a Crossroads as Senate Punts on Clarity Act",
-        "briefing": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     }
 ]
