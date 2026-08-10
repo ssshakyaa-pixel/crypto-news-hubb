@@ -1,12 +1,21 @@
 [
     {
+        "title": "Crypto\u2019s first quantum attack will look like an unexplained breach: Quantus founder",
+        "link": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 10 Aug 2026 03:34:53 +0000",
+        "importance": 5,
+        "summary": "Crypto\u2019s first quantum attack will look like an unexplained breach: Quantus founder",
+        "briefing": "Bad actors with access to a cryptography-breaking quantum computer probably won\u2019t try to announce it to the world by hacking Satoshi Nakamoto\u2019s high-profile Bitcoin wallets, crypto executives say.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler\u2019s Digest, Aug. 9",
         "link": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 10 Aug 2026 00:32:21 +0000",
         "importance": 5,
         "summary": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler\u2019s Digest, Aug. 9",
         "briefing": "BIP-110 forks itself into oblivion with a \u201c2-block chain\u201d and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ex-US defense secretary calls CLARITY Act a \u2018national security bill\u2019",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Ex-US defense secretary calls CLARITY Act a \u2018national security bill\u2019",
         "briefing": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
         "briefing": "The enforcing fork remains stuck at Bitcoin\u2019s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "Brazil targets crypto fraud with up to 24-hour transfer hold",
         "briefing": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BTCPay restricts remote Lightning access after attackers steal funds",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "BTCPay restricts remote Lightning access after attackers steal funds",
         "briefing": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
@@ -60,16 +69,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-        "link": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 08 Aug 2026 16:20:17 +0000",
-        "importance": 5,
-        "summary": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-        "briefing": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
         "briefing": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
         "briefing": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
         "briefing": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
         "briefing": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
         "briefing": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
         "briefing": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
         "briefing": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
