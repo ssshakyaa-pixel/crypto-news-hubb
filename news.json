@@ -1,5 +1,41 @@
 [
     {
+        "title": "FlightAware sues Kalshi over flight cancellation data",
+        "link": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 11 Aug 2026 16:55:14 +0000",
+        "importance": 5,
+        "summary": "FlightAware sues Kalshi over flight cancellation data",
+        "briefing": "The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state authorities comparing the company\u2019s contracts to gambling.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+        "link": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 11 Aug 2026 16:39:17 +0000",
+        "importance": 5,
+        "summary": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+        "briefing": "Flowdesk\u2019s VARA approval follows its MiCA authorization in France as crypto firms build regulated operations across major global markets.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Nasdaq to acquire LeveL Markets in push toward \u2018always-on\u2019 markets",
+        "link": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 11 Aug 2026 16:34:40 +0000",
+        "importance": 5,
+        "summary": "Nasdaq to acquire LeveL Markets in push toward \u2018always-on\u2019 markets",
+        "briefing": "Nasdaq\u2019s acquisition of the third-largest US alternative trading system comes as the exchange operator expands into tokenized securities and longer trading hours.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 11 Aug 2026 16:24:48 +0000",
+        "importance": 5,
+        "summary": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
+        "briefing": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
         "link": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 11 Aug 2026 13:59:20 +0000",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
         "briefing": "SharpLink reported a net loss of $394 million in the second quarter of 2026, largely driven by Ether\u2019s 23% decline during the quarter.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
         "briefing": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether\u2019s USDT",
@@ -33,43 +69,25 @@
         "importance": 5,
         "summary": "Russia proposes exchange trading of Bitcoin, Ether and Tether\u2019s USDT",
         "briefing": "Russia\u2019s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin sell pressure \u2018closer to exhaustion\u2019 after $4B USDT market-cap drop: CryptoQuant",
-        "link": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 11 Aug 2026 10:55:00 +0000",
+        "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+        "link": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
+        "time": "Tue, 11 Aug 2026 17:02:36 +0000",
         "importance": 5,
-        "summary": "Bitcoin sell pressure \u2018closer to exhaustion\u2019 after $4B USDT market-cap drop: CryptoQuant",
-        "briefing": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+        "briefing": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block\u2014here's what a forced rollback would undo.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-        "link": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 11 Aug 2026 10:14:39 +0000",
+        "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+        "link": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
+        "time": "Tue, 11 Aug 2026 16:45:30 +0000",
         "importance": 5,
-        "summary": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-        "briefing": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-        "link": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 11 Aug 2026 09:26:00 +0000",
-        "importance": 5,
-        "summary": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-        "briefing": "Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-        "link": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 11 Aug 2026 08:00:26 +0000",
-        "importance": 5,
-        "summary": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-        "briefing": "Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner\u2019s Rockdale campus in Texas.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "summary": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+        "briefing": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
         "briefing": "Chlo\u00e9 Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
         "briefing": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
         "briefing": "Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
         "briefing": "Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
         "briefing": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
         "briefing": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
-        "link": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
-        "time": "Tue, 11 Aug 2026 08:41:17 +0000",
-        "importance": 5,
-        "summary": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
-        "briefing": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-        "link": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-        "time": "Mon, 10 Aug 2026 21:48:22 +0000",
-        "importance": 5,
-        "summary": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-        "briefing": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
