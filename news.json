@@ -1,5 +1,23 @@
 [
     {
+        "title": "SEC to address crypto regulations in absence of CLARITY passage",
+        "link": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 11 Aug 2026 20:59:07 +0000",
+        "importance": 5,
+        "summary": "SEC to address crypto regulations in absence of CLARITY passage",
+        "briefing": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ita\u00fa joins Brazil tokenization pilot with OpenAssets",
+        "link": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 11 Aug 2026 20:55:58 +0000",
+        "importance": 5,
+        "summary": "Ita\u00fa joins Brazil tokenization pilot with OpenAssets",
+        "briefing": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "MoneyGram expands crypto cash ramps to Solana",
         "link": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 11 Aug 2026 19:53:02 +0000",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Following Senate delay, crypto bill has a narrow window to become law",
         "briefing": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Strategy CEO says company will resume Bitcoin accumulation this year",
         "briefing": "The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ARP Digital secures Dubai VARA broker-dealer license",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "ARP Digital secures Dubai VARA broker-dealer license",
         "briefing": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FlightAware sues Kalshi over flight cancellation data",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "FlightAware sues Kalshi over flight cancellation data",
         "briefing": "The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state authorities comparing the company\u2019s contracts to gambling.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
@@ -51,25 +69,34 @@
         "importance": 5,
         "summary": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
         "briefing": "Flowdesk\u2019s VARA approval follows its MiCA authorization in France as crypto firms build regulated operations across major global markets.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
+        "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
+        "time": "Tue, 11 Aug 2026 21:16:03 +0000",
+        "importance": 5,
+        "summary": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
+        "briefing": "The reward aims to recover Bitcoin stolen after attackers gained access to connected LND wallets.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "The Bull and Bear Case for Solana\u2019s Next Price Move",
+        "link": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
+        "time": "Tue, 11 Aug 2026 20:46:04 +0000",
+        "importance": 5,
+        "summary": "The Bull and Bear Case for Solana\u2019s Next Price Move",
+        "briefing": "Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+        "link": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+        "time": "Tue, 11 Aug 2026 20:10:00 +0000",
+        "importance": 5,
+        "summary": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+        "briefing": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nasdaq to acquire LeveL Markets in push toward \u2018always-on\u2019 markets",
-        "link": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 11 Aug 2026 16:34:40 +0000",
-        "importance": 5,
-        "summary": "Nasdaq to acquire LeveL Markets in push toward \u2018always-on\u2019 markets",
-        "briefing": "Nasdaq\u2019s acquisition of the third-largest US alternative trading system comes as the exchange operator expands into tokenized securities and longer trading hours.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-        "link": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 11 Aug 2026 16:24:48 +0000",
-        "importance": 5,
-        "summary": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-        "briefing": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agent Hacks a Gym\u2014And the Tech World Wonders What's Next",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "AI Agent Hacks a Gym\u2014And the Tech World Wonders What's Next",
         "briefing": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Media\u2019s Crypto Bet Fuels Massive $238M Quarterly Loss",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Trump Media\u2019s Crypto Bet Fuels Massive $238M Quarterly Loss",
         "briefing": "Falling digital asset values battered the Truth Social parent\u2019s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
         "briefing": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
         "briefing": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block\u2014here's what a forced rollback would undo.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
         "briefing": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-        "link": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
-        "time": "Tue, 11 Aug 2026 15:05:35 +0000",
-        "importance": 5,
-        "summary": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-        "briefing": "Chlo\u00e9 Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-        "link": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
-        "time": "Tue, 11 Aug 2026 14:46:11 +0000",
-        "importance": 5,
-        "summary": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-        "briefing": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
-        "link": "https://decrypt.co/375310/luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls",
-        "time": "Tue, 11 Aug 2026 13:27:58 +0000",
-        "importance": 5,
-        "summary": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
-        "briefing": "Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     }
 ]
