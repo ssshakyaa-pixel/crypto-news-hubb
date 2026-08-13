@@ -1,12 +1,39 @@
 [
     {
+        "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+        "link": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 13 Aug 2026 18:18:50 +0000",
+        "importance": 5,
+        "summary": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+        "briefing": "The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, artificial intelligence and prediction markets.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+        "link": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 13 Aug 2026 17:36:09 +0000",
+        "importance": 5,
+        "summary": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+        "briefing": "The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+        "link": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 13 Aug 2026 17:28:54 +0000",
+        "importance": 5,
+        "summary": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+        "briefing": "Standard Chartered said Robinhood\u2019s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
         "link": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 13 Aug 2026 16:00:23 +0000",
         "importance": 5,
         "summary": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
         "briefing": "AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Trezor reports data from 14K users exposed through shipping provider",
         "briefing": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
         "briefing": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
@@ -42,34 +69,43 @@
         "importance": 5,
         "summary": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
         "briefing": "Bitmine\u2019s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether\u2019s price appreciation, analysts told Cointelegraph.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-        "link": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 13 Aug 2026 13:00:37 +0000",
+        "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
+        "link": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
+        "time": "Thu, 13 Aug 2026 18:39:11 +0000",
         "importance": 5,
-        "summary": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-        "briefing": "MUFG\u2019s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
+        "briefing": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-        "link": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 13 Aug 2026 11:48:37 +0000",
+        "title": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
+        "link": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
+        "time": "Thu, 13 Aug 2026 18:26:04 +0000",
         "importance": 5,
-        "summary": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-        "briefing": "The SEC said it will not pursue enforcement action if Franklin Templeton\u2019s funds start investing cash in the asset manager\u2019s own tokenized money market fund.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
+        "briefing": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
-        "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 13 Aug 2026 10:50:24 +0000",
+        "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
+        "link": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
+        "time": "Thu, 13 Aug 2026 17:47:12 +0000",
         "importance": 5,
-        "summary": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
-        "briefing": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of \u201conchain finance,\u201d but have sacrificed some of their inherent immutability and decentralization.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
+        "briefing": "The Blockchain Association is urging the Supreme Court to take up Custodia\u2019s case, saying that broad Fed power over \u201cmaster accounts\u201d could be used to push crypto firms out of the banking system.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
+        "link": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
+        "time": "Thu, 13 Aug 2026 17:11:04 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
+        "briefing": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
         "briefing": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
         "briefing": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
         "briefing": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
         "briefing": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
-        "link": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
-        "time": "Thu, 13 Aug 2026 13:10:43 +0000",
-        "importance": 5,
-        "summary": "Trezor Customer Data Exposed in Shipping Partner Breach",
-        "briefing": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
-        "link": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
-        "time": "Thu, 13 Aug 2026 13:01:05 +0000",
-        "importance": 5,
-        "summary": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
-        "briefing": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-        "link": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-        "time": "Thu, 13 Aug 2026 11:53:17 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-        "briefing": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-        "link": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-        "time": "Thu, 13 Aug 2026 11:42:27 +0000",
-        "importance": 5,
-        "summary": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-        "briefing": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     }
 ]
