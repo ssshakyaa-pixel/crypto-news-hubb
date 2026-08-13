@@ -1,21 +1,39 @@
 [
     {
+        "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+        "link": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 13 Aug 2026 13:00:37 +0000",
+        "importance": 5,
+        "summary": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+        "briefing": "MUFG\u2019s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+        "link": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 13 Aug 2026 11:48:37 +0000",
+        "importance": 5,
+        "summary": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+        "briefing": "The SEC said it will not pursue enforcement action if Franklin Templeton\u2019s funds start investing cash in the asset manager\u2019s own tokenized money market fund.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
         "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 13 Aug 2026 10:50:24 +0000",
         "importance": 5,
         "summary": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
-        "briefing": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of \u201conchain finance\u201d but have sacrificed some of their inherent immutability and decentralization.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "briefing": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of \u201conchain finance,\u201d but have sacrificed some of their inherent immutability and decentralization.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+        "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
         "link": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 13 Aug 2026 09:53:36 +0000",
         "importance": 5,
-        "summary": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+        "summary": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
         "briefing": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken\u2019s xStocks.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin speculators keep BTC price \u2018pinned\u2019 below $68.7K: Glassnode",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Bitcoin speculators keep BTC price \u2018pinned\u2019 below $68.7K: Glassnode",
         "briefing": "Bitcoin\u2019s weakness near range highs stems from short-term holders trying to break even on underwater BTC investments, Glassnode says.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Securitize falls 16% after earnings miss, tokenization revenue drops",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Securitize falls 16% after earnings miss, tokenization revenue drops",
         "briefing": "Securitize shares fell 16% from Wednesday\u2019s close after the tokenization platform\u2019s $14.4 million second-quarter revenue missed Wall Street estimates.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
         "briefing": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
@@ -51,25 +69,25 @@
         "importance": 5,
         "summary": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
         "briefing": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 13 Aug 2026 05:54:56 +0000",
+        "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
+        "link": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+        "time": "Thu, 13 Aug 2026 13:01:05 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "summary": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
+        "briefing": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-        "link": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 13 Aug 2026 05:01:42 +0000",
+        "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+        "link": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+        "time": "Thu, 13 Aug 2026 11:53:17 +0000",
         "importance": 5,
-        "summary": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-        "briefing": "Bitwise\u2019s Matt Hougan said he expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+        "briefing": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
         "briefing": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
         "briefing": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
         "briefing": "Researchers found every major AI provider encrypts reasoning tokens with a single global key\u2014and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "China\u2019s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "China\u2019s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
         "briefing": "The April preview got benchmarked to death and landed 18 points behind Anthropic\u2019s flagship. DeepSeek\u2019s own numbers for the finished model tell a very different story.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
@@ -124,23 +142,5 @@
         "summary": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
         "briefing": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
         "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
-        "link": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
-        "time": "Wed, 12 Aug 2026 18:58:26 +0000",
-        "importance": 5,
-        "summary": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
-        "briefing": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
-        "link": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
-        "time": "Wed, 12 Aug 2026 18:16:04 +0000",
-        "importance": 5,
-        "summary": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
-        "briefing": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system\u2014not its vulnerability.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     }
 ]
