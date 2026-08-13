@@ -1,12 +1,21 @@
 [
     {
+        "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+        "link": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 13 Aug 2026 16:00:23 +0000",
+        "importance": 5,
+        "summary": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+        "briefing": "AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
         "link": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 13 Aug 2026 15:36:45 +0000",
         "importance": 5,
         "summary": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
         "briefing": "The crypto exchange operator\u2019s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trezor reports data from 14K users exposed through shipping provider",
@@ -15,7 +24,7 @@
         "importance": 5,
         "summary": "Trezor reports data from 14K users exposed through shipping provider",
         "briefing": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
@@ -24,7 +33,7 @@
         "importance": 5,
         "summary": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
         "briefing": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
         "briefing": "Bitmine\u2019s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether\u2019s price appreciation, analysts told Cointelegraph.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "SEC allows Franklin Templeton funds to invest in onchain money fund",
         "briefing": "The SEC said it will not pursue enforcement action if Franklin Templeton\u2019s funds start investing cash in the asset manager\u2019s own tokenized money market fund.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
@@ -63,13 +72,22 @@
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
-        "link": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 13 Aug 2026 09:53:36 +0000",
+        "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+        "link": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
+        "time": "Thu, 13 Aug 2026 16:40:49 +0000",
         "importance": 5,
-        "summary": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
-        "briefing": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken\u2019s xStocks.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+        "briefing": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+        "link": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+        "time": "Thu, 13 Aug 2026 16:05:39 +0000",
+        "importance": 5,
+        "summary": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+        "briefing": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
         "briefing": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
         "briefing": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Trezor Customer Data Exposed in Shipping Partner Breach",
         "briefing": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
         "briefing": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
         "briefing": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
         "briefing": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
-        "link": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
-        "time": "Thu, 13 Aug 2026 10:16:50 +0000",
-        "importance": 5,
-        "summary": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
-        "briefing": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
-        "link": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
-        "time": "Wed, 12 Aug 2026 21:31:15 +0000",
-        "importance": 5,
-        "summary": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
-        "briefing": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
