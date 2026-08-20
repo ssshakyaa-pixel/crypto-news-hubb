@@ -6,7 +6,7 @@
         "importance": 5,
         "summary": "MiCA cracks down on USDT in Europe... but no one else cares",
         "briefing": "USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weakening global demand for Tether.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
@@ -15,7 +15,7 @@
         "importance": 5,
         "summary": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
         "briefing": "Bitdeer expects revenue from the five-year agreement to begin in early 2027 as it builds toward 350 megawatts of AI cloud capacity by 2028.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -24,7 +24,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
@@ -33,7 +33,7 @@
         "importance": 5,
         "summary": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
         "briefing": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors\u2019 holdings by redirecting them to fake wallet provider websites.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
@@ -42,7 +42,7 @@
         "importance": 5,
         "summary": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
         "briefing": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto generated about 1% of Webull\u2019s record $198M Q2 revenue",
@@ -51,7 +51,7 @@
         "importance": 5,
         "summary": "Crypto generated about 1% of Webull\u2019s record $198M Q2 revenue",
         "briefing": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter\u2019s revenue stream.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
@@ -60,7 +60,7 @@
         "importance": 5,
         "summary": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
         "briefing": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
@@ -69,7 +69,16 @@
         "importance": 5,
         "summary": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
         "briefing": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Morning Minute: Hyperliquid Is Coming to the US",
+        "link": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+        "time": "Thu, 20 Aug 2026 14:02:44 +0000",
+        "importance": 5,
+        "summary": "Morning Minute: Hyperliquid Is Coming to the US",
+        "briefing": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
         "briefing": "Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
         "briefing": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
         "briefing": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
         "briefing": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
         "briefing": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
         "briefing": "Trump touted his administration\u2019s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
         "briefing": "Strategy, Coinbase, Circle, and BitMine are riding Bitcoin's short squeeze toward $70K\u2014and two of them may be squeezing equity bears of their own.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
-        "link": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
-        "time": "Wed, 19 Aug 2026 19:16:04 +0000",
-        "importance": 5,
-        "summary": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
-        "briefing": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
