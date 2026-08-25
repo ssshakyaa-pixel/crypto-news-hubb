@@ -6,7 +6,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin enters \u2018initial phase\u2019 of new bull market, but $83K remains key: CryptoQuant",
@@ -24,7 +24,7 @@
         "importance": 5,
         "summary": "Solana transactions hit record 4.2B as SOL rallies 40%",
         "briefing": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy\u2019s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
@@ -33,7 +33,7 @@
         "importance": 5,
         "summary": "Strategy\u2019s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
         "briefing": "Strategy\u2019s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
@@ -42,7 +42,7 @@
         "importance": 5,
         "summary": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
         "briefing": "Bitwise\u2019s new portfolios automatically rebalance Coinbase tokenized stocks while allowing eligible non-US investors to keep the assets in their own wallets.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
@@ -60,7 +60,7 @@
         "importance": 5,
         "summary": "Bitcoin slips from $80K as gold cools with falling US bond yields",
         "briefing": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Arcus launches tokenized perp positions on Robinhood Chain",
@@ -72,13 +72,31 @@
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
+        "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+        "link": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
+        "time": "Tue, 25 Aug 2026 20:16:04 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+        "briefing": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+        "link": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+        "time": "Tue, 25 Aug 2026 19:46:03 +0000",
+        "importance": 5,
+        "summary": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+        "briefing": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
         "link": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
         "time": "Tue, 25 Aug 2026 19:11:04 +0000",
         "importance": 5,
         "summary": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
         "briefing": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
         "briefing": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region\u2014a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
         "briefing": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here\u2019s Why",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Bitcoin Rally Is Outrunning the Rest of the Market: Here\u2019s Why",
         "briefing": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
         "briefing": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would \u201ccripple the industry\u201d as regulators implement the GENIUS Act.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
         "briefing": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-        "link": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
-        "time": "Tue, 25 Aug 2026 14:10:05 +0000",
-        "importance": 5,
-        "summary": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-        "briefing": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-        "link": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
-        "time": "Tue, 25 Aug 2026 12:01:03 +0000",
-        "importance": 5,
-        "summary": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-        "briefing": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     }
 ]
