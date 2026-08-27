@@ -1,75 +1,111 @@
 [
     {
-        "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
-        "link": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 27 Aug 2026 01:26:54 +0000",
+        "title": "Bank of England set for new innovation mandate covering stablecoins",
+        "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 12:51:59 +0000",
         "importance": 5,
-        "summary": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
-        "briefing": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here\u2019s everything you need to know.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bank of England set for new innovation mandate covering stablecoins",
+        "briefing": "The UK plans to expand the Bank of England\u2019s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
-        "link": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 20:09:23 +0000",
+        "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
+        "link": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 10:34:12 +0000",
         "importance": 5,
-        "summary": "Better launches Bitcoin-backed mortgages powered by Coinbase",
-        "briefing": "Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
+        "briefing": "Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitfinex Securities completes record $50M tokenized capital raise",
+        "link": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 10:00:00 +0000",
+        "importance": 5,
+        "summary": "Bitfinex Securities completes record $50M tokenized capital raise",
+        "briefing": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 19:14:06 +0000",
+        "time": "Thu, 27 Aug 2026 09:40:34 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-        "link": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 17:48:34 +0000",
+        "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
+        "link": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 09:26:17 +0000",
         "importance": 5,
-        "summary": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-        "briefing": "The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD\u2019s international crypto tax-reporting framework.",
+        "summary": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
+        "briefing": "Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
+        "link": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 08:05:44 +0000",
+        "importance": 5,
+        "summary": "Core Lightning confirms multiple vulnerabilities, prepares security update",
+        "briefing": "Core Lightning advised operators to use offline mode if they do not install the forthcoming update, keeping their nodes active but disconnected.",
         "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "SEC sends crypto custody rule overhaul to White House for review",
-        "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 16:19:09 +0000",
+        "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 07:01:19 +0000",
         "importance": 5,
-        "summary": "SEC sends crypto custody rule overhaul to White House for review",
-        "briefing": "The securities regulator\u2019s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.",
+        "summary": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
+        "briefing": "US spot Bitcoin ETF inflows slowed to $232.1 million as an eight-day streak reached $2.8 billion, while XRP funds posted their biggest inflow since Jan. 5.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
+        "link": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 27 Aug 2026 06:39:02 +0000",
+        "importance": 5,
+        "summary": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
+        "briefing": "Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
+        "link": "https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar",
+        "time": "Thu, 27 Aug 2026 12:13:26 +0000",
+        "importance": 5,
+        "summary": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
+        "briefing": "The chain just put up its strongest day since mid-July, with $443 million in DEX volume and more than 3 million transactions.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
+        "link": "https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation",
+        "time": "Thu, 27 Aug 2026 11:10:31 +0000",
+        "importance": 5,
+        "summary": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
+        "briefing": "Financial stability stays the Bank's primary objective, with the new duty written into a bill due before the Lords in September.",
         "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "77% of Americans see crypto in retirement plans as risky: Survey",
-        "link": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 16:10:56 +0000",
+        "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
+        "link": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
+        "time": "Thu, 27 Aug 2026 10:39:10 +0000",
         "importance": 5,
-        "summary": "77% of Americans see crypto in retirement plans as risky: Survey",
-        "briefing": "A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
+        "briefing": "August is heading for its strongest month of inflows since October 2025 if the pace holds, one analyst noted.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
-        "link": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 15:58:55 +0000",
+        "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+        "link": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
+        "time": "Thu, 27 Aug 2026 09:46:19 +0000",
         "importance": 5,
-        "summary": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
-        "briefing": "Bitcoin stayed away from challenging $80,000 after July US PCE inflation data came in slightly higher than anticipated, pressuring gold and risk assets.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-        "link": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 26 Aug 2026 15:04:32 +0000",
-        "importance": 5,
-        "summary": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-        "briefing": "CTDG Dev Hub participant\u2019s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+        "briefing": "Coordinators pressed agents with little budget left into experiments they called \"permadeath,\" METR's investigation found.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
         "briefing": "The operation promoted a purported Israeli think tank that published copied scholarship under academics\u2019 names and circulated pro-Russian analysis across social media.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
         "briefing": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
         "briefing": "The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Traders Are Watching for Bitcoin's Next Move",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "What Traders Are Watching for Bitcoin's Next Move",
         "briefing": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-        "link": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-        "time": "Wed, 26 Aug 2026 19:56:03 +0000",
-        "importance": 5,
-        "summary": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-        "briefing": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-        "link": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
-        "time": "Wed, 26 Aug 2026 19:21:25 +0000",
-        "importance": 5,
-        "summary": "US Banks Join Forces to Build a Blockchain of Their Own",
-        "briefing": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-        "link": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
-        "time": "Wed, 26 Aug 2026 18:44:17 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-        "briefing": "Six wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
-        "link": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
-        "time": "Wed, 26 Aug 2026 17:52:22 +0000",
-        "importance": 5,
-        "summary": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
-        "briefing": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     }
 ]
