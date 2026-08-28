@@ -1,146 +1,146 @@
 [
     {
-        "title": "ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote",
-        "link": "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 09:27:30 +0000",
-        "importance": 5,
-        "summary": "ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote",
-        "briefing": "The Ethena Foundation proposed buying the token supply held by major early investors and revealed a fee switch to turn 95% of net protocol revenue into ENA buybacks.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BitGo buys NYDIG trading arm to deepen institutional crypto push",
-        "link": "https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 09:21:44 +0000",
-        "importance": 5,
-        "summary": "BitGo buys NYDIG trading arm to deepen institutional crypto push",
-        "briefing": "BitGo completed its acquisition of NYDIG\u2019s institutional trading business, adding about 30 employees and expanding its derivatives and financing capabilities.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
-        "link": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 08:21:16 +0000",
-        "importance": 5,
-        "summary": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
-        "briefing": "OneKey said it reproduced an exploit against an older version of the Ledger app in its lab environment, which Ledger fixed in its Ethereum app 1.22.2, with no user funds lost.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Visa works with Upbit parent on stablecoin payments, AI commerce",
-        "link": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 07:41:15 +0000",
-        "importance": 5,
-        "summary": "Visa works with Upbit parent on stablecoin payments, AI commerce",
-        "briefing": "Visa and Dunamu will explore stablecoin payments and remittances, with Open Standard\u2019s proposed OUSD among several projects under review.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 05:50:05 +0000",
+        "time": "Fri, 28 Aug 2026 20:42:54 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-        "link": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 05:40:48 +0000",
+        "title": "Solana validators approve proposal to accelerate SOL disinflation",
+        "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 19:53:12 +0000",
         "importance": 5,
-        "summary": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-        "briefing": "Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the project\u2019s treasury, with claims expected to open within two weeks.",
+        "summary": "Solana validators approve proposal to accelerate SOL disinflation",
+        "briefing": "The approved proposal doubles Solana\u2019s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 17:46:12 +0000",
+        "importance": 5,
+        "summary": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "briefing": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea\u2019s upcoming football season.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "link": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 16:17:09 +0000",
+        "importance": 5,
+        "summary": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "briefing": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
-        "link": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 28 Aug 2026 04:17:09 +0000",
+        "title": "Bitcoin dips to $78.4K as Fed\u2019s Warsh downplays softer inflation prints",
+        "link": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 15:31:25 +0000",
         "importance": 5,
-        "summary": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
-        "briefing": "Sheikh Tahnoon\u2019s group reportedly backs a 49% stake in the holding company behind World Liberty\u2019s conditionally approved US trust bank.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
-        "link": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 27 Aug 2026 20:39:40 +0000",
-        "importance": 5,
-        "summary": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
-        "briefing": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
-        "link": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
-        "time": "Thu, 27 Aug 2026 22:36:04 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
-        "briefing": "The transaction used Bitcoin\u2019s existing rules to protect funds from a future quantum attack without requiring a network upgrade.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Google\u2019s Android 17 Turns On New Privacy Feature\u2014But Your Browsing Isn\u2019t Fully Hidden",
-        "link": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
-        "time": "Thu, 27 Aug 2026 22:06:05 +0000",
-        "importance": 5,
-        "summary": "Google\u2019s Android 17 Turns On New Privacy Feature\u2014But Your Browsing Isn\u2019t Fully Hidden",
-        "briefing": "Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
-        "link": "https://decrypt.co/376755/bitcoin-sparrow-wallet-update-ai-fixes",
-        "time": "Thu, 27 Aug 2026 21:36:05 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
-        "briefing": "Developer Craig Raw said an AI-assisted review produced most of the fixes in version 2.5.4, though none appeared likely to put users\u2019 funds at risk.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
-        "link": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
-        "time": "Thu, 27 Aug 2026 21:00:57 +0000",
-        "importance": 5,
-        "summary": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
-        "briefing": "OpenAI says the model never sees your password\u2014but a signed-in session can persist across tasks, and you can step away while it works.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
-        "link": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
-        "time": "Thu, 27 Aug 2026 19:47:21 +0000",
-        "importance": 5,
-        "summary": "$6.4 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
-        "briefing": "Deribit's Friday settlement covers nearly a fifth of the exchange's Bitcoin open interest, and max pain sits well below where BTC is trading right now.",
+        "summary": "Bitcoin dips to $78.4K as Fed\u2019s Warsh downplays softer inflation prints",
+        "briefing": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh\u2019s Jackson Hole keynote speech, which remained wary of US inflation trends.",
         "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "No, Ledger Wasn\u2019t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
-        "link": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
-        "time": "Thu, 27 Aug 2026 18:16:03 +0000",
+        "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+        "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 14:53:40 +0000",
         "importance": 5,
-        "summary": "No, Ledger Wasn\u2019t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
-        "briefing": "OneKey demonstrated how an outdated Ethereum app could sign a transaction different from the one shown on a Ledger device, but the wallet maker says the vulnerability had already been fixed.",
+        "summary": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+        "briefing": "Bitcoin\u2019s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto\u2019s recovery.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Who is legally liable when an AI agent goes rogue?",
+        "link": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Who is legally liable when an AI agent goes rogue?",
+        "briefing": "If your personal AI agent goes rogue and causes harm or financial damage in the real world, can you be held liable?",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+        "link": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 28 Aug 2026 13:16:37 +0000",
+        "importance": 5,
+        "summary": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+        "briefing": "Polish Olympic Committee president Rados\u0142aw Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Meta Tests Robots to Handle Data Center Work",
+        "link": "https://decrypt.co/376843/meta-tests-robots-data-center",
+        "time": "Fri, 28 Aug 2026 20:19:44 +0000",
+        "importance": 5,
+        "summary": "Meta Tests Robots to Handle Data Center Work",
+        "briefing": "The company says it needs more skilled workers as its AI infrastructure expands, but employees fear automation could reduce or eliminate some roles.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+        "link": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+        "time": "Fri, 28 Aug 2026 19:46:03 +0000",
+        "importance": 5,
+        "summary": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+        "briefing": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
         "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
-        "link": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
-        "time": "Thu, 27 Aug 2026 17:36:04 +0000",
+        "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
+        "link": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
+        "time": "Fri, 28 Aug 2026 19:14:37 +0000",
         "importance": 5,
-        "summary": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
-        "briefing": "BTC is holding above $80,000 into a Fed symposium that, for the first time in 40 years, is built around crypto's own turf\u2014payments and financial infrastructure.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
+        "briefing": "Austin is the latest city to consider restrictions as communities challenge the water and electricity demands of AI infrastructure.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Why Nvidia\u2019s Acquisition of Hugging Face Would Reshape Open-Source AI",
-        "link": "https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai",
-        "time": "Thu, 27 Aug 2026 17:09:32 +0000",
+        "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+        "link": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
+        "time": "Fri, 28 Aug 2026 17:44:09 +0000",
         "importance": 5,
-        "summary": "Why Nvidia\u2019s Acquisition of Hugging Face Would Reshape Open-Source AI",
-        "briefing": "The chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution \u2014 with consequences for builders and users alike.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+        "briefing": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'\u20144 Key Things He Said",
+        "link": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
+        "time": "Fri, 28 Aug 2026 17:18:52 +0000",
+        "importance": 5,
+        "summary": "Fed Chair Warsh Calls AI a 'Hinge Point in History'\u20144 Key Things He Said",
+        "briefing": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+        "link": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+        "time": "Fri, 28 Aug 2026 16:39:02 +0000",
+        "importance": 5,
+        "summary": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+        "briefing": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+        "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+        "time": "Fri, 28 Aug 2026 16:08:02 +0000",
+        "importance": 5,
+        "summary": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+        "briefing": "Strategy\u2019s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here\u2019s what you need to know.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
+        "link": "https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
+        "time": "Fri, 28 Aug 2026 16:04:37 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
+        "briefing": "AI cloud revenue topped Bitcoin mining for the first time as IREN accelerated its data center conversion.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
