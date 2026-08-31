@@ -1,12 +1,30 @@
 [
     {
+        "title": "More Markets lending reserve drained for $9.3M: Blockaid",
+        "link": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 31 Aug 2026 08:57:10 +0000",
+        "importance": 5,
+        "summary": "More Markets lending reserve drained for $9.3M: Blockaid",
+        "briefing": "Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 31 Aug 2026 05:59:08 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
         "link": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 31 Aug 2026 03:25:48 +0000",
         "importance": 5,
         "summary": "Cronos halts network after Tectonic exploit involving estimated $75M",
         "briefing": "Crypto.com CEO Kris Marszalek said the company\u2019s app and exchange were unaffected by the Tectonic breach and continued operating normally.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest",
         "briefing": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
@@ -24,16 +42,7 @@
         "importance": 5,
         "summary": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
         "briefing": "Michael Saylor\u2019s \u201cWe\u2019re Back\u201d post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 30 Aug 2026 12:49:37 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Russia\u2019s Sber eyes USDT loans, questions digital ruble demand",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "Russia\u2019s Sber eyes USDT loans, questions digital ruble demand",
         "briefing": "Russia\u2019s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Real Trump Coins denies launching GOLD token, blames \u2018bad actors\u2019",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Real Trump Coins denies launching GOLD token, blames \u2018bad actors\u2019",
         "briefing": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Polygon discloses security flaws fixed in recent hard forks",
@@ -60,16 +69,16 @@
         "importance": 5,
         "summary": "Polygon discloses security flaws fixed in recent hard forks",
         "briefing": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-        "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 29 Aug 2026 19:12:42 +0000",
+        "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+        "link": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+        "time": "Mon, 31 Aug 2026 09:41:27 +0000",
         "importance": 5,
-        "summary": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-        "briefing": "Stellar\u2019s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+        "briefing": "Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
         "briefing": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
         "briefing": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploited.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
         "briefing": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy\u2019s Bitcoin Is $2.8 Billion in Profit\u2014Is Saylor Teeing Up a Buy?",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Strategy\u2019s Bitcoin Is $2.8 Billion in Profit\u2014Is Saylor Teeing Up a Buy?",
         "briefing": "A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
         "briefing": "More than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
         "briefing": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
         "briefing": "Galaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 10-day stretch this month.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-        "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
-        "time": "Sat, 29 Aug 2026 13:31:04 +0000",
-        "importance": 5,
-        "summary": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-        "briefing": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
