@@ -1,12 +1,30 @@
 [
     {
+        "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+        "link": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 01 Sep 2026 21:25:27 +0000",
+        "importance": 5,
+        "summary": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+        "briefing": "The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake\u2019s latest attempt to influence the 2026 elections with funds from the crypto industry.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+        "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 01 Sep 2026 20:42:29 +0000",
+        "importance": 5,
+        "summary": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+        "briefing": "The launch gives eligible non-US users access to physically settled options on more than 1,000 US stocks and ETFs through a single Binance account.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
         "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 01 Sep 2026 20:14:12 +0000",
         "importance": 5,
         "summary": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
         "briefing": "UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates\u2019 Court as part of an investigation into Sorare.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
         "briefing": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Kalshi issues first lifetime ban for Republican politician over insider bets",
         "briefing": "The prediction platform permanently banned George Santos and issued a three-year suspension for Laurie Buckhout after investigations into using insider information on event contracts.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
         "briefing": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethena launches USDe payments app, offers 6% rewards",
@@ -51,25 +69,34 @@
         "importance": 5,
         "summary": "Ethena launches USDe payments app, offers 6% rewards",
         "briefing": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+        "link": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+        "time": "Tue, 01 Sep 2026 22:16:04 +0000",
+        "importance": 5,
+        "summary": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+        "briefing": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
         "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
-        "link": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 01 Sep 2026 15:34:00 +0000",
+        "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+        "link": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
+        "time": "Tue, 01 Sep 2026 21:31:04 +0000",
         "importance": 5,
-        "summary": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
-        "briefing": "Global bond yields hit multi-decade highs today as Japan\u2019s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+        "briefing": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Fake Claude desktop app spreads crypto-stealing malware",
-        "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 01 Sep 2026 14:00:00 +0000",
+        "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+        "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+        "time": "Tue, 01 Sep 2026 21:01:04 +0000",
         "importance": 5,
-        "summary": "Fake Claude desktop app spreads crypto-stealing malware",
-        "briefing": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "summary": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+        "briefing": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
         "briefing": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next round.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
         "briefing": "Attackers reportedly registered Lenovo IDs using victims\u2019 email addresses, allowing them to sign into existing Dropbox accounts without their passwords.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
         "briefing": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
         "briefing": "Bitcoin just had one its best months in years amid a price rally that broke the crypto winter pattern. But the charts tell a complicated story.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
@@ -115,32 +142,5 @@
         "summary": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
         "briefing": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-        "link": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-        "time": "Tue, 01 Sep 2026 16:26:10 +0000",
-        "importance": 5,
-        "summary": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-        "briefing": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cathie Wood\u2019s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
-        "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
-        "time": "Tue, 01 Sep 2026 16:13:28 +0000",
-        "importance": 5,
-        "summary": "Cathie Wood\u2019s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
-        "briefing": "The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
-        "link": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-        "time": "Tue, 01 Sep 2026 14:39:55 +0000",
-        "importance": 5,
-        "summary": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
-        "briefing": "The actor\u2019s lawyers spent six months negotiating the contract for \u201cBitcoin: Killing Satoshi\u201d in order to \u201cprotect\u201d her performance.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     }
 ]
