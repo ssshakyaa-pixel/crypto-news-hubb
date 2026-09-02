@@ -1,12 +1,39 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 19:11:15 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "New Jersey officials petition US Supreme Court over prediction markets",
+        "link": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 18:55:41 +0000",
+        "importance": 5,
+        "summary": "New Jersey officials petition US Supreme Court over prediction markets",
+        "briefing": "New Jersey\u2019s Attorney General and gaming authorities filed a petition for a writ of certiorari to the US Supreme Court over Kalshi offering sporting event contracts to residents.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+        "link": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 18:38:18 +0000",
+        "importance": 5,
+        "summary": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+        "briefing": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
         "link": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 02 Sep 2026 16:39:22 +0000",
         "importance": 5,
         "summary": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
         "briefing": "Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
         "briefing": "One of Bitcoin\u2019s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
         "briefing": "Officials in the G20, under the US\u2019 presidency, recognized that digital assets could support \u201cbroad-based economic growth\u201d and called for improvements in cross-border transactions.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
         "briefing": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
@@ -42,34 +69,34 @@
         "importance": 5,
         "summary": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
         "briefing": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase \u201c3x to 5x pretty quickly.\u201d",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 13:30:00 +0000",
+        "title": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
+        "link": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
+        "time": "Wed, 02 Sep 2026 19:15:06 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "'The Right Trade': Strategy CEO Has No Regrets Selling Bitcoin at $60K Before Buying Back Higher",
+        "briefing": "Phong Le said Strategy\u2019s cost of capital\u2014not Bitcoin\u2019s price\u2014drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-        "link": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 13:11:25 +0000",
+        "title": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
+        "link": "https://decrypt.co/377185/bitcoin-flash-crash-real-bart-simpson-pattern",
+        "time": "Wed, 02 Sep 2026 18:30:06 +0000",
         "importance": 5,
-        "summary": "Hashkey joins DTCC working group as first Asian crypto service provider",
-        "briefing": "Hashkey joined the DTCC\u2019s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "Is Bitcoin About to Flash Crash? What a 'Bart Simpson' Pattern Would Actually Take",
+        "briefing": "Bitcoin traders are calling August's spike-and-fade a Bart Simpson hairline. Here's what separates an actual flash crash from an ordinary correction.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-        "link": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 12:00:00 +0000",
+        "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+        "link": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
+        "time": "Wed, 02 Sep 2026 17:41:04 +0000",
         "importance": 5,
-        "summary": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-        "briefing": "The plaintiffs didn\u2019t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+        "briefing": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
         "briefing": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
         "briefing": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
         "briefing": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Bitcoin Enters \u2018Rektember\u2019 After Best August Since 2017",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Morning Minute: Bitcoin Enters \u2018Rektember\u2019 After Best August Since 2017",
         "briefing": "So far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-        "link": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-        "time": "Wed, 02 Sep 2026 11:30:45 +0000",
-        "importance": 5,
-        "summary": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-        "briefing": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-        "link": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
-        "time": "Wed, 02 Sep 2026 10:25:02 +0000",
-        "importance": 5,
-        "summary": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-        "briefing": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-        "link": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
-        "time": "Wed, 02 Sep 2026 09:06:22 +0000",
-        "importance": 5,
-        "summary": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-        "briefing": "The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     }
 ]
