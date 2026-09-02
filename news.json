@@ -1,75 +1,111 @@
 [
     {
+        "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
+        "link": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 16:39:22 +0000",
+        "importance": 5,
+        "summary": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
+        "briefing": "Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
+        "link": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 16:35:56 +0000",
+        "importance": 5,
+        "summary": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
+        "briefing": "One of Bitcoin\u2019s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
+        "link": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 15:34:06 +0000",
+        "importance": 5,
+        "summary": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
+        "briefing": "Officials in the G20, under the US\u2019 presidency, recognized that digital assets could support \u201cbroad-based economic growth\u201d and called for improvements in cross-border transactions.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+        "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 13:40:03 +0000",
+        "importance": 5,
+        "summary": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+        "briefing": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
+        "link": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
+        "briefing": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase \u201c3x to 5x pretty quickly.\u201d",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
+        "link": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 02 Sep 2026 13:11:25 +0000",
+        "importance": 5,
+        "summary": "Hashkey joins DTCC working group as first Asian crypto service provider",
+        "briefing": "Hashkey joined the DTCC\u2019s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
         "link": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 02 Sep 2026 12:00:00 +0000",
         "importance": 5,
         "summary": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
         "briefing": "The plaintiffs didn\u2019t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Japan\u2019s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-        "link": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 12:00:00 +0000",
+        "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
+        "link": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
+        "time": "Wed, 02 Sep 2026 16:43:53 +0000",
         "importance": 5,
-        "summary": "Japan\u2019s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-        "briefing": "Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net gain as it narrowed its crypto strategy to focus on Bitcoin.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
+        "briefing": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-        "link": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 10:56:15 +0000",
+        "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+        "link": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
+        "time": "Wed, 02 Sep 2026 15:42:13 +0000",
         "importance": 5,
-        "summary": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-        "briefing": "Thailand adopted a crypto Travel Rule requiring digital asset operators to verify control of self-custodial wallets and retain transaction data for five years.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+        "briefing": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
-        "link": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 09:48:49 +0000",
+        "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
+        "link": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+        "time": "Wed, 02 Sep 2026 15:18:44 +0000",
         "importance": 5,
-        "summary": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
-        "briefing": "Grayscale, a16z, and the CCI asked the SEC to preserve existing classification rules and avoid treating novel exchange-traded products as a single category, while proposing different routes to clearer and faster reviews.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
+        "briefing": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 07:59:43 +0000",
+        "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+        "link": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+        "time": "Wed, 02 Sep 2026 14:16:44 +0000",
         "importance": 5,
-        "summary": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-        "briefing": "US spot Bitcoin ETFs reduced their year-to-date net outflows by 66% as Bitcoin gained about 25% in August, while Ether ETFs turned positive YTD at $732 million and XRP ETFs reached $502 million.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 05:54:06 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-        "link": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 05:48:21 +0000",
-        "importance": 5,
-        "summary": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-        "briefing": "The Nasdaq-listed company previously raised $647 million through the facility and accumulated about 29.3 million HYPE tokens.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
-        "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 02 Sep 2026 04:15:34 +0000",
-        "importance": 5,
-        "summary": "Core DAO plans emergency hard fork after validators drew excess rewards",
-        "briefing": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+        "briefing": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Bitcoin Enters \u2018Rektember\u2019 After Best August Since 2017",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Morning Minute: Bitcoin Enters \u2018Rektember\u2019 After Best August Since 2017",
         "briefing": "So far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
         "briefing": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
         "briefing": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
         "briefing": "The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
-        "link": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
-        "time": "Tue, 01 Sep 2026 22:16:04 +0000",
-        "importance": 5,
-        "summary": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
-        "briefing": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-        "link": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
-        "time": "Tue, 01 Sep 2026 21:31:04 +0000",
-        "importance": 5,
-        "summary": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-        "briefing": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-        "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
-        "time": "Tue, 01 Sep 2026 21:01:04 +0000",
-        "importance": 5,
-        "summary": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-        "briefing": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
-        "link": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
-        "time": "Tue, 01 Sep 2026 20:31:05 +0000",
-        "importance": 5,
-        "summary": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
-        "briefing": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next round.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
