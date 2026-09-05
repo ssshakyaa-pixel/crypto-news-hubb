@@ -1,12 +1,30 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 05 Sep 2026 11:16:19 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+        "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 05 Sep 2026 10:44:29 +0000",
+        "importance": 5,
+        "summary": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+        "briefing": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
         "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sat, 05 Sep 2026 08:03:06 +0000",
         "importance": 5,
         "summary": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
         "briefing": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
         "briefing": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Pineapple Financial puts $1B in mortgage records on Injective",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Pineapple Financial puts $1B in mortgage records on Injective",
         "briefing": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FinCEN ties $13B in crypto scams to non-US operations",
@@ -33,16 +51,7 @@
         "importance": 5,
         "summary": "FinCEN ties $13B in crypto scams to non-US operations",
         "briefing": "The agency reported that \u201ctransnational criminal organizations\u201d based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 04 Sep 2026 18:31:34 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
         "briefing": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
@@ -60,15 +69,15 @@
         "importance": 5,
         "summary": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
         "briefing": "QuFi\u2019s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
-        "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 04 Sep 2026 17:05:34 +0000",
+        "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+        "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+        "time": "Sat, 05 Sep 2026 13:01:03 +0000",
         "importance": 5,
-        "summary": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
-        "briefing": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs\u2019 Association says it will now \u201cstep back and allow the legislative process to proceed.\u201c",
+        "summary": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+        "briefing": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
         "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
         "briefing": "Nearly 30 banks backed the rare unsecured facility as TikTok\u2019s parent company spends heavily on AI chips, models, and overseas data centers.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
         "briefing": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today\u2019s encryption and digital signatures.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
         "briefing": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day\u2014though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood\u2014And It's Working (Sort Of)",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood\u2014And It's Working (Sort Of)",
         "briefing": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
         "briefing": "Lawyers question AMC\u2019s grounds for a securities-law challenge, but say the tokens\u2019 branding and marketing could leave room for a dispute.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
         "briefing": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
         "briefing": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-        "link": "https://decrypt.co/377412/openai-agents-hack-german-website",
-        "time": "Fri, 04 Sep 2026 15:36:04 +0000",
-        "importance": 5,
-        "summary": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-        "briefing": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     }
 ]
