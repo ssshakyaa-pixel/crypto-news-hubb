@@ -1,21 +1,66 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 07 Sep 2026 12:54:14 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zcash hits highest price since 2016 as market cap tops $20B",
+        "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 07 Sep 2026 12:31:23 +0000",
+        "importance": 5,
+        "summary": "Zcash hits highest price since 2016 as market cap tops $20B",
+        "briefing": "ZEC gained 45% over the past week, extending its rally since Grayscale converted its Zcash Trust into an ETF that began trading Aug. 25.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 07 Sep 2026 12:10:22 +0000",
+        "importance": 5,
+        "summary": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
+        "briefing": "This week\u2019s CPI and PPI prints, along with the Fed\u2019s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
+        "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 07 Sep 2026 10:34:47 +0000",
+        "importance": 5,
+        "summary": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
+        "briefing": "Citi and DBS completed their first tokenized cross-border transfer over the weekend, using Swift\u2019s blockchain-based ledger to circumvent the constraints of traditional banking hours.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
+        "link": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 07 Sep 2026 09:51:00 +0000",
+        "importance": 5,
+        "summary": "Philippines eyes payment operator registration freeze, tighter VASP checks",
+        "briefing": "A central bank proposal would pause new payment operator registrations while requiring enhanced monitoring and transaction limits for arrangements involving virtual asset firms.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
+        "link": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 07 Sep 2026 09:36:19 +0000",
+        "importance": 5,
+        "summary": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
+        "briefing": "Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
         "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 07 Sep 2026 07:45:39 +0000",
         "importance": 5,
         "summary": "Fomo overtakes Pump.fun in daily revenue on Solana",
         "briefing": "Fomo generated $1.76 million on Friday, beating Pump.fun\u2019s $1.1 million, though the memecoin launchpad remains ahead over 30 days.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 06:29:41 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin sidechain Liquid pauses after purported \u2018white hats\u2019 withdraw $320M in BTC",
@@ -24,52 +69,34 @@
         "importance": 5,
         "summary": "Bitcoin sidechain Liquid pauses after purported \u2018white hats\u2019 withdraw $320M in BTC",
         "briefing": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
-        "link": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 05:00:49 +0000",
+        "title": "Irish Gangs Are Renting Private Vaults to Hide Crypto Keys",
+        "link": "https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys",
+        "time": "Mon, 07 Sep 2026 12:43:50 +0000",
         "importance": 5,
-        "summary": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
-        "briefing": "Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum, weeks after an exploit led to plans to discard 109,000 transactions.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Irish Gangs Are Renting Private Vaults to Hide Crypto Keys",
+        "briefing": "Keys are going into rented boxes alongside cash, watches and passports, Ireland\u2019s Criminal Assets Bureau says.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "\u2018White hats\u2019 take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler\u2019s Digest",
-        "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 00:05:02 +0000",
+        "title": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
+        "link": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
+        "time": "Mon, 07 Sep 2026 11:09:27 +0000",
         "importance": 5,
-        "summary": "\u2018White hats\u2019 take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler\u2019s Digest",
-        "briefing": "Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major security breach. The Bitcoin ETFs see the best three weeks of inflows in 2026.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
+        "briefing": "The attacker built 293 separate vaults for the stolen Bitcoin and is emptying them in order of size, largest first.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-        "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 06 Sep 2026 13:03:00 +0000",
+        "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
+        "link": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
+        "time": "Mon, 07 Sep 2026 09:55:42 +0000",
         "importance": 5,
-        "summary": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-        "briefing": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-        "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 06 Sep 2026 09:07:08 +0000",
-        "importance": 5,
-        "summary": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-        "briefing": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-        "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 05 Sep 2026 10:46:00 +0000",
-        "importance": 5,
-        "summary": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-        "briefing": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
+        "briefing": "Blockstream and the hackers are engaging with each other through PGP-signed messages in Bitcoin transactions.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
         "briefing": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Stablecoins Won't Scale Without Banks",
         "briefing": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
         "briefing": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
         "briefing": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-        "link": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-        "time": "Sat, 05 Sep 2026 16:06:41 +0000",
-        "importance": 5,
-        "summary": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-        "briefing": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-        "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
-        "time": "Sat, 05 Sep 2026 15:01:04 +0000",
-        "importance": 5,
-        "summary": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-        "briefing": "The update fixes a high-severity flaw in Chrome\u2019s V8 engine, but Google has not revealed who is using it or whom they targeted.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
-        "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
-        "time": "Sat, 05 Sep 2026 13:01:03 +0000",
-        "importance": 5,
-        "summary": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
-        "briefing": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     }
 ]
