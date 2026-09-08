@@ -1,75 +1,84 @@
 [
     {
+        "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+        "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 10:07:10 +0000",
+        "importance": 5,
+        "summary": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+        "briefing": "Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and Uzbekistan\u2019s central bank.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ledger CTO urges AI bug hunter responsibility, warns against \u2018attention farming\u2019",
+        "link": "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 10:03:30 +0000",
+        "importance": 5,
+        "summary": "Ledger CTO urges AI bug hunter responsibility, warns against \u2018attention farming\u2019",
+        "briefing": "Ledger and Trezor said researchers have a responsibility to publish their findings if vendors fail to fix bugs within an agreed disclosure window.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
+        "link": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 09:54:40 +0000",
+        "importance": 5,
+        "summary": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
+        "briefing": "Growing demand for tokenized stock trading may drive the Robinhood chain\u2019s annual fees to $160 million by 2028, predicted analysts from Bernstein.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+        "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 09:40:26 +0000",
+        "importance": 5,
+        "summary": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+        "briefing": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+        "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 08:10:44 +0000",
+        "importance": 5,
+        "summary": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+        "briefing": "Cronos\u2019s post-mortem put the Tectonic exploit\u2019s affected borrowing at $120.4 million, with 7.6% transferred off-network before validators intervened.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+        "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 07:18:32 +0000",
+        "importance": 5,
+        "summary": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+        "briefing": "Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to develop a Swiss franc-based stablecoin.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 08 Sep 2026 05:52:38 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
         "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 08 Sep 2026 05:10:33 +0000",
         "importance": 5,
         "summary": "Australia says it removed 45 crypto, remittance registrations over the past year",
         "briefing": "AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Liquid \u2018white hats\u2019 return $270M in Bitcoin as network prepares restart",
-        "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 08 Sep 2026 03:46:17 +0000",
+        "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
+        "link": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
+        "time": "Tue, 08 Sep 2026 09:54:59 +0000",
         "importance": 5,
-        "summary": "Liquid \u2018white hats\u2019 return $270M in Bitcoin as network prepares restart",
-        "briefing": "The actors returned 85% of the Bitcoin withdrawn from Liquid\u2019s federation wallet following the security incident.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 21:10:37 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
-        "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 20:40:17 +0000",
-        "importance": 5,
-        "summary": "UK financial watchdog weighs lifting prediction markets ban: Report",
-        "briefing": "Companies offering binary options for retail investors have been barred from selling, marketing and distributing products in the UK since 2019 following a directive from the FCA.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ethereum Foundation names 2 \u2018must ship\u2019 EIPs for Hegot\u00e1 upgrade",
-        "link": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 20:21:31 +0000",
-        "importance": 5,
-        "summary": "Ethereum Foundation names 2 \u2018must ship\u2019 EIPs for Hegot\u00e1 upgrade",
-        "briefing": "Ethereum\u2019s Hegot\u00e1 upgrade will center on FOCIL and Frame Transactions as developers weigh dozens of other proposed changes for inclusion.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Joe Biden\u2019s son to launch memecoin, will send to TRUMP holders: WSJ",
-        "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 18:53:47 +0000",
-        "importance": 5,
-        "summary": "Joe Biden\u2019s son to launch memecoin, will send to TRUMP holders: WSJ",
-        "briefing": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump\u2019s memecoin.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
-        "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 17:58:00 +0000",
-        "importance": 5,
-        "summary": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
-        "briefing": "Polish prosecutors charged Romana \u017b. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
-        "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 07 Sep 2026 17:29:27 +0000",
-        "importance": 5,
-        "summary": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
-        "briefing": "Bitcoin\u2019s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
+        "briefing": "Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
         "briefing": "A Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
         "briefing": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models\u2019 reasoning.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
         "briefing": "Ita\u00fa, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
         "briefing": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
         "briefing": "Nearly 600 BTC remains outstanding after Blockstream told the actors in an on-chain message that Liquid\u2019s bridge nodes had been patched.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
         "briefing": "The Iran conflict has increased demand for digital assets to preserve and transfer wealth, while Gulf crypto businesses have kept operating through disruption, the Bitcoin Policy Institute says.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
         "briefing": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP\u2019s Biggest Losers",
-        "link": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
-        "time": "Mon, 07 Sep 2026 16:26:00 +0000",
-        "importance": 5,
-        "summary": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP\u2019s Biggest Losers",
-        "briefing": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     }
 ]
