@@ -1,12 +1,57 @@
 [
     {
+        "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+        "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 17:54:12 +0000",
+        "importance": 5,
+        "summary": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+        "briefing": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenized securities and digital financial infrastructure.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Liquid Network resumes block production after $320M exploit",
+        "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 16:38:16 +0000",
+        "importance": 5,
+        "summary": "Liquid Network resumes block production after $320M exploit",
+        "briefing": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+        "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 15:59:37 +0000",
+        "importance": 5,
+        "summary": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+        "briefing": "MoneyGram is following rival Western Union\u2019s lead, rolling out a Visa stablecoin debit card as it expands blockchain-based payments.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "EU finance groups push to remove tokenized securities cap",
+        "link": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 15:49:22 +0000",
+        "importance": 5,
+        "summary": "EU finance groups push to remove tokenized securities cap",
+        "briefing": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+        "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 14:52:15 +0000",
+        "importance": 5,
+        "summary": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+        "briefing": "Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
         "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 10 Sep 2026 13:35:23 +0000",
         "importance": 5,
         "summary": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
         "briefing": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana sees record 263K tokens issued in a single day",
@@ -24,52 +69,25 @@
         "importance": 5,
         "summary": "Solana sees record 263K tokens issued in a single day",
         "briefing": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+        "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+        "time": "Thu, 10 Sep 2026 17:07:50 +0000",
+        "importance": 5,
+        "summary": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+        "briefing": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
         "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
-        "link": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 12:02:16 +0000",
+        "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+        "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+        "time": "Thu, 10 Sep 2026 15:33:11 +0000",
         "importance": 5,
-        "summary": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
-        "briefing": "Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe\u2019s supervisory board as the company works to expand beyond its sterling payment system.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
-        "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 11:41:00 +0000",
-        "importance": 5,
-        "summary": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
-        "briefing": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-        "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 10:20:00 +0000",
-        "importance": 5,
-        "summary": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-        "briefing": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a \u201ctroubling signal\u201d about America\u2019s leadership in the digital asset industry.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
-        "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 10:08:46 +0000",
-        "importance": 5,
-        "summary": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
-        "briefing": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
-        "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 09:59:32 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
-        "briefing": "ARKB led Wednesday\u2019s Bitcoin ETF outflows as Ether and Solana funds returned to net inflows.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+        "briefing": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
         "briefing": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Hunter Biden\u2019s LAPTOP Crashes",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Morning Minute: Hunter Biden\u2019s LAPTOP Crashes",
         "briefing": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
         "briefing": "Deutsche B\u00f6rse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
         "briefing": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
         "briefing": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users\u2019 recovery phrases.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
         "briefing": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-        "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-        "time": "Wed, 09 Sep 2026 18:56:58 +0000",
-        "importance": 5,
-        "summary": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-        "briefing": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-        "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-        "time": "Wed, 09 Sep 2026 17:50:14 +0000",
-        "importance": 5,
-        "summary": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-        "briefing": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
