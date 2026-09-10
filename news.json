@@ -1,12 +1,57 @@
 [
     {
+        "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+        "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 13:35:23 +0000",
+        "importance": 5,
+        "summary": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+        "briefing": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 13:20:26 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Solana sees record 263K tokens issued in a single day",
+        "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "Solana sees record 263K tokens issued in a single day",
+        "briefing": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+        "link": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 12:02:16 +0000",
+        "importance": 5,
+        "summary": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+        "briefing": "Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe\u2019s supervisory board as the company works to expand beyond its sterling payment system.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+        "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 10 Sep 2026 11:41:00 +0000",
+        "importance": 5,
+        "summary": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+        "briefing": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
         "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 10 Sep 2026 10:20:00 +0000",
         "importance": 5,
         "summary": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
         "briefing": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a \u201ctroubling signal\u201d about America\u2019s leadership in the digital asset industry.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
         "briefing": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
@@ -24,52 +69,34 @@
         "importance": 5,
         "summary": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
         "briefing": "ARKB led Wednesday\u2019s Bitcoin ETF outflows as Ether and Solana funds returned to net inflows.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
-        "link": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 09:36:42 +0000",
+        "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+        "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+        "time": "Thu, 10 Sep 2026 13:04:27 +0000",
         "importance": 5,
-        "summary": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
-        "briefing": "Bitcoin investors showed little sign of panic selling as BTC held most of its August gains and sell-side risk fell to rare lows, data showed.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+        "briefing": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "India\u2019s Arya.ag to put grain ownership records on Avalanche",
-        "link": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 09:30:00 +0000",
+        "title": "Morning Minute: Hunter Biden\u2019s LAPTOP Crashes",
+        "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
+        "time": "Thu, 10 Sep 2026 12:10:48 +0000",
         "importance": 5,
-        "summary": "India\u2019s Arya.ag to put grain ownership records on Avalanche",
-        "briefing": "The system will combine farmer, grain, warehouse, insurance and loan data for lenders, though no launch date or initial deployment size was disclosed.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Unicoin sues Uniswap Labs, seeks to cancel UNI registration",
-        "link": "https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 08:55:11 +0000",
-        "importance": 5,
-        "summary": "Unicoin sues Uniswap Labs, seeks to cancel UNI registration",
-        "briefing": "The complaint says Uniswap\u2019s counsel sent three letters before Unicoin\u2019s Sept. 28 launch and seeks declarations on its marks and domains.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 05:59:21 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "summary": "Morning Minute: Hunter Biden\u2019s LAPTOP Crashes",
+        "briefing": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
         "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
-        "link": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 10 Sep 2026 05:34:21 +0000",
+        "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+        "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
+        "time": "Thu, 10 Sep 2026 11:28:55 +0000",
         "importance": 5,
-        "summary": "Trezor, BitBox warn users about fake hardware wallet security alerts",
-        "briefing": "BitBox said multiple Bitcoin companies appeared to have been targeted through a shared newsletter provider, while Trezor confirmed a breach at its email service.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+        "briefing": "Deutsche B\u00f6rse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
         "briefing": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
         "briefing": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users\u2019 recovery phrases.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
         "briefing": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
         "briefing": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
         "briefing": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-        "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-        "time": "Wed, 09 Sep 2026 17:16:08 +0000",
-        "importance": 5,
-        "summary": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-        "briefing": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi\u2014which ran $24 billion through a Telegram scam bazaar\u2014called the freeze unfair.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-        "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-        "time": "Wed, 09 Sep 2026 16:46:05 +0000",
-        "importance": 5,
-        "summary": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-        "briefing": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
         "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-        "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-        "time": "Wed, 09 Sep 2026 16:40:50 +0000",
-        "importance": 5,
-        "summary": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-        "briefing": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
