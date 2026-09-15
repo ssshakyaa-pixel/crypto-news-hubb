@@ -1,12 +1,57 @@
 [
     {
+        "title": "US House crypto tax package omits mining, staking reward deferral",
+        "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 15 Sep 2026 10:04:21 +0000",
+        "importance": 5,
+        "summary": "US House crypto tax package omits mining, staking reward deferral",
+        "briefing": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+        "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 15 Sep 2026 09:40:27 +0000",
+        "importance": 5,
+        "summary": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+        "briefing": "Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+        "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 15 Sep 2026 09:30:31 +0000",
+        "importance": 5,
+        "summary": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+        "briefing": "Bitcoin short-term holders approached a full month in partial profit as analysis saw improving odds of an enduring bullish BTC price reversal.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+        "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 15 Sep 2026 08:46:35 +0000",
+        "importance": 5,
+        "summary": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+        "briefing": "Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors allege were connected to black-market Iranian oil proceeds.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Solana more than triples transaction size limit with mainnet upgrade",
+        "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 15 Sep 2026 08:18:53 +0000",
+        "importance": 5,
+        "summary": "Solana more than triples transaction size limit with mainnet upgrade",
+        "briefing": "Solana raised its transaction size limit to 4,096 bytes, giving developers more room for zero-knowledge proofs and transactions with multiple signatures.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 15 Sep 2026 05:39:15 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP\u2019s \u2018final\u2019 offer",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "CLARITY Act odds fall to 16% as key Democrats resist GOP\u2019s \u2018final\u2019 offer",
         "briefing": "Banking groups also said the GOP\u2019s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CoinEx to cease operation after 9 years, citing \u2018significant\u2019 crypto contraction",
@@ -24,52 +69,25 @@
         "importance": 5,
         "summary": "CoinEx to cease operation after 9 years, citing \u2018significant\u2019 crypto contraction",
         "briefing": "CoinEx said falling trading volumes and liquidity, along with rising regulatory and compliance costs, had exceeded \u201creasonable boundaries,\u201d with withdrawals remaining open until Dec. 22.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-        "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 03:33:23 +0000",
-        "importance": 5,
-        "summary": "Balancer eyes wind-down after restructuring fails to revive revenue",
-        "briefing": "Balancer cut costs and shipped new products after restructuring, but Marcus Hardt says v3 failed to replace legacy revenue as November\u2019s $128 million exploit continued to weigh on adoption.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Democrats push back on GOP\u2019s \u2018final\u2019 CLARITY offer with counterproposal: Politico",
-        "link": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 00:46:15 +0000",
-        "importance": 5,
-        "summary": "Democrats push back on GOP\u2019s \u2018final\u2019 CLARITY offer with counterproposal: Politico",
-        "briefing": "Some Democrats remain dissatisfied with the bill\u2019s crypto ethics provisions and will be sending a counterproposal just hours before a key procedural vote.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-        "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 14 Sep 2026 20:54:10 +0000",
-        "importance": 5,
-        "summary": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-        "briefing": "Kraken\u2019s new xStocks vaults let investors earn yield on tokenized versions of Nvidia and major US stock market ETFs by lending the assets in DeFi markets.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-        "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 14 Sep 2026 18:56:28 +0000",
+        "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+        "link": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+        "time": "Tue, 15 Sep 2026 11:01:04 +0000",
         "importance": 5,
-        "summary": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-        "briefing": "Bitcoin\u2019s price rose toward $80,000 after US President Donald Trump hinted that the US-Iran war would end, pushing oil prices lower.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+        "briefing": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
-        "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 14 Sep 2026 17:50:12 +0000",
+        "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+        "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+        "time": "Tue, 15 Sep 2026 09:01:05 +0000",
         "importance": 5,
-        "summary": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
-        "briefing": "Strive\u2019s latest Bitcoin purchase was funded entirely through its SATA preferred stock as the company continues its rapid climb among corporate BTC holders.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+        "briefing": "The asset manager funded the entire purchase through preferred stock, pushing SATA's notional value past $1 billion for the first time.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
         "briefing": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
         "briefing": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
         "briefing": "Mustafa Suleyman's AI unit wants feedback for six weeks before the document guides model training in 2027.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Says He\u2019s the Only \u2018Guardrails\u2019 AI Needs, Attacks Anthropic and Defends Data Centers",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Trump Says He\u2019s the Only \u2018Guardrails\u2019 AI Needs, Attacks Anthropic and Defends Data Centers",
         "briefing": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
         "briefing": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
-        "link": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
-        "time": "Mon, 14 Sep 2026 17:25:06 +0000",
-        "importance": 5,
-        "summary": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
-        "briefing": "Ethics and banking concessions have improved the crypto bill\u2019s prospects, analysts say, but Democratic support remains uncertain.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-        "link": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-        "time": "Mon, 14 Sep 2026 16:02:25 +0000",
-        "importance": 5,
-        "summary": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-        "briefing": "The purchase brings the company closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards.",
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     }
 ]
