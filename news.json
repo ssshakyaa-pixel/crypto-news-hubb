@@ -1,12 +1,48 @@
 [
     {
+        "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+        "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 16:03:35 +0000",
+        "importance": 5,
+        "summary": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+        "briefing": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+        "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 15:52:17 +0000",
+        "importance": 5,
+        "summary": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+        "briefing": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts \u2018dovish surprise\u2019 odds",
+        "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 15:30:49 +0000",
+        "importance": 5,
+        "summary": "Bitcoin awaits Fed rate decision below $76K as analysis discounts \u2018dovish surprise\u2019 odds",
+        "briefing": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Revolut ID thefts highlight KYC\u2019s dangers: Here\u2019s how to fix it",
+        "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Revolut ID thefts highlight KYC\u2019s dangers: Here\u2019s how to fix it",
+        "briefing": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn\u2019t it already standard practice?",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bernstein expects \u2018aggressive\u2019 rulemaking from SEC, CFTC, following CLARITY Act failure",
         "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 16 Sep 2026 12:36:20 +0000",
         "importance": 5,
         "summary": "Bernstein expects \u2018aggressive\u2019 rulemaking from SEC, CFTC, following CLARITY Act failure",
         "briefing": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
         "briefing": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle launches Arc mainnet with USDC as native gas token",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Circle launches Arc mainnet with USDC as native gas token",
         "briefing": "Circle\u2019s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
@@ -33,43 +69,70 @@
         "importance": 5,
         "summary": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
         "briefing": "Germany\u2019s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ethiopia cuts Bitcoin miners\u2019 power by 77% amid hydropower shortage: Report",
-        "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 16 Sep 2026 10:11:39 +0000",
-        "importance": 5,
-        "summary": "Ethiopia cuts Bitcoin miners\u2019 power by 77% amid hydropower shortage: Report",
-        "briefing": "Bitcoin miners generated 35% of the state-owned power producer\u2019s revenue last year, but declining reservoir inflows led the utility to prioritize households and manufacturers.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Italy investigates government email breach linked to Revolut data leak",
-        "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 16 Sep 2026 09:58:48 +0000",
-        "importance": 5,
-        "summary": "Italy investigates government email breach linked to Revolut data leak",
-        "briefing": "Italy is probing the Revolut-linked breach after its cyber agency reported more than 650 cases involving abused or illicit certified email accounts.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-        "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 16 Sep 2026 09:55:16 +0000",
+        "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+        "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+        "time": "Wed, 16 Sep 2026 17:17:03 +0000",
         "importance": 5,
-        "summary": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-        "briefing": "Bitcoin exchange demand on Coinbase declined after the US Senate voted against the CLARITY Act, while traders sent BTC to exchanges at an unrealized loss.",
+        "summary": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+        "briefing": "Michael Selig and Paul Atkins pledged to use their agencies\u2019 existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.",
         "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "ECB seeks online merchants for 2027 digital euro pilot",
-        "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 16 Sep 2026 08:36:44 +0000",
+        "title": "Hackers Hijack HBO Max\u2019s Reddit Account to Spread Crypto-Stealing Malware",
+        "link": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
+        "time": "Wed, 16 Sep 2026 17:06:02 +0000",
         "importance": 5,
-        "summary": "ECB seeks online merchants for 2027 digital euro pilot",
-        "briefing": "Euro-area online and mobile merchants can apply until Oct. 27 to test beta digital euro payments in a 12-month pilot.",
+        "summary": "Hackers Hijack HBO Max\u2019s Reddit Account to Spread Crypto-Stealing Malware",
+        "briefing": "Attackers ran 108 malicious ads through the streaming service\u2019s verified account, directing users to fake software downloads.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+        "link": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
+        "time": "Wed, 16 Sep 2026 16:31:03 +0000",
+        "importance": 5,
+        "summary": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+        "briefing": "Meta\u2019s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company\u2019s decision to delay Muse.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+        "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+        "time": "Wed, 16 Sep 2026 15:50:07 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+        "briefing": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
         "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+        "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
+        "time": "Wed, 16 Sep 2026 14:56:02 +0000",
+        "importance": 5,
+        "summary": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+        "briefing": "The Layer 1 network\u2019s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns",
+        "link": "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
+        "time": "Wed, 16 Sep 2026 14:36:29 +0000",
+        "importance": 5,
+        "summary": "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns",
+        "briefing": "Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
+        "link": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
+        "time": "Wed, 16 Sep 2026 13:12:33 +0000",
+        "importance": 5,
+        "summary": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
+        "briefing": "Overseas firms serving UK retail customers need authorization too, and nobody trades under the new rules before October 2027.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote \u2018No\u2019",
@@ -78,69 +141,6 @@
         "importance": 5,
         "summary": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote \u2018No\u2019",
         "briefing": "It should not have come as a surprise given the odds, but crypto majors, alts and memes all sold off anyway in the wake.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
-        "link": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
-        "time": "Wed, 16 Sep 2026 12:12:21 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
-        "briefing": "With Bitcoin sitting around $76,000, the argument from analysts is that dollar liquidity, not Congress, sets the floor from here.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-        "link": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
-        "time": "Wed, 16 Sep 2026 09:41:53 +0000",
-        "importance": 5,
-        "summary": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-        "briefing": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at \u00a3100 billion a year in the UK.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-        "link": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-        "time": "Wed, 16 Sep 2026 09:01:03 +0000",
-        "importance": 5,
-        "summary": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-        "briefing": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
-        "link": "https://decrypt.co/378324/coinex-shutting-down",
-        "time": "Wed, 16 Sep 2026 08:01:03 +0000",
-        "importance": 5,
-        "summary": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
-        "briefing": "The Hong Kong-founded exchange blamed a prolonged crypto winter and rising compliance costs, closing the books on a run that began in December 2017.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
-        "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
-        "time": "Tue, 15 Sep 2026 21:46:03 +0000",
-        "importance": 5,
-        "summary": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
-        "briefing": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-        "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-        "time": "Tue, 15 Sep 2026 21:10:06 +0000",
-        "importance": 5,
-        "summary": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-        "briefing": "The Coinbase-backed Stand With Crypto will add senators\u2019 votes to its scorecards as it rallies crypto voters ahead of November\u2019s elections.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-        "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
-        "time": "Tue, 15 Sep 2026 20:09:19 +0000",
-        "importance": 5,
-        "summary": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-        "briefing": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
