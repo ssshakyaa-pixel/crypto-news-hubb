@@ -1,12 +1,57 @@
 [
     {
+        "title": "AI has been a \u2018net negative\u2019 for crypto: Phemex CEO",
+        "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 06:38:48 +0000",
+        "importance": 5,
+        "summary": "AI has been a \u2018net negative\u2019 for crypto: Phemex CEO",
+        "briefing": "Federico Variola says AI has diverted capital from crypto and is empowering attackers, while rising cybersecurity costs could push the industry toward greater centralization.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 05:52:31 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+        "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 04:48:20 +0000",
+        "importance": 5,
+        "summary": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+        "briefing": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+        "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 04:05:39 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs shed $450M in biggest outflow since June",
+        "briefing": "The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act failed to advance in the Senate, with Fidelity and BlackRock funds leading the outflows.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto industry turns to US regulators after CLARITY setback",
+        "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 16 Sep 2026 02:24:07 +0000",
+        "importance": 5,
+        "summary": "Crypto industry turns to US regulators after CLARITY setback",
+        "briefing": "The CLARITY Act still has a procedural path after Senator Thom Tillis moved to reconsider the failed cloture vote, though industry executives are divided over whether Congress has enough time left.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
         "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 15 Sep 2026 21:23:00 +0000",
         "importance": 5,
         "summary": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
         "briefing": "A BIS study found widely used crypto metrics can obscure economic activity, with measurement challenges spanning Bitcoin, Ethereum and stablecoins.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
@@ -15,16 +60,7 @@
         "importance": 5,
         "summary": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
         "briefing": "Circle and Coinbase shares fell about 10% as the failed Senate vote weighed on crypto-linked equities, with Bitcoin miners and treasury companies also declining.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 19:53:13 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Senate fails to advance CLARITY Act",
@@ -33,43 +69,7 @@
         "importance": 5,
         "summary": "US Senate fails to advance CLARITY Act",
         "briefing": "The failed procedural vote leaves the CLARITY Act facing an uncertain future after months of negotiations over crypto oversight and ethics provisions.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-        "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 17:53:04 +0000",
-        "importance": 5,
-        "summary": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-        "briefing": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stablecoin issuers into bigger buyers of government debt.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-        "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 17:22:04 +0000",
-        "importance": 5,
-        "summary": "Binance adds 11 US-listed ETFs to wealth management offering",
-        "briefing": "The crypto exchange is expanding its traditional finance offerings with 11 US-listed exchange-traded funds focused on US Treasurys and investment-grade bonds.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 16:02:01 +0000",
-        "importance": 5,
-        "summary": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-        "briefing": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-        "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 15 Sep 2026 15:50:49 +0000",
-        "importance": 5,
-        "summary": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-        "briefing": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum\u2019s economics and drive ARB sharply higher by 2030.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
         "briefing": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
         "briefing": "The Coinbase-backed Stand With Crypto will add senators\u2019 votes to its scorecards as it rallies crypto voters ahead of November\u2019s elections.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
         "briefing": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
         "briefing": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the move stopped well short of panic.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
         "briefing": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
         "briefing": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
         "briefing": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate holds a make-or-break cloture vote Tuesday afternoon.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
         "briefing": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran\u2019s government and military.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
