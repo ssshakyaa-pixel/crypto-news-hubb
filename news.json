@@ -1,75 +1,129 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 13:53:14 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+        "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 13:35:57 +0000",
+        "importance": 5,
+        "summary": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+        "briefing": "Crypto.com\u2019s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SEC grants temporary exemption for tokenized US stock trading",
+        "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 13:34:17 +0000",
+        "importance": 5,
+        "summary": "SEC grants temporary exemption for tokenized US stock trading",
+        "briefing": "The SEC\u2019s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+        "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+        "briefing": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
+        "link": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 12:56:23 +0000",
+        "importance": 5,
+        "summary": "S&P Global to acquire blockchain security platform OpenZeppelin",
+        "briefing": "S&amp;P Global agreed to buy OpenZeppelin, which says its smart contracts have facilitated more than $37 trillion in value transfers.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto adoption blooming in Germany, while UK is falling \u2018behind,\u2019 says CoinShares researcher",
+        "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 12:34:11 +0000",
+        "importance": 5,
+        "summary": "Crypto adoption blooming in Germany, while UK is falling \u2018behind,\u2019 says CoinShares researcher",
+        "briefing": "German crypto adoption is progressing through family offices and wealth managers, while the UK\u2019s retail-facing cryptocurrency market remains \u201cnascent,\u201d according to the researcher.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+        "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 17 Sep 2026 12:00:00 +0000",
+        "importance": 5,
+        "summary": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+        "briefing": "North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware infrastructure, while suspected Iran-linked actors embedded directions in Bitcoin transactions.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
         "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 17 Sep 2026 10:35:29 +0000",
         "importance": 5,
         "summary": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
         "briefing": "Zcash rose about 20% in 24 hours as Paradigm co-founder Matt Huang disclosed that the firm invested in ZEC amid a broader crypto market rally.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Revolut says no direct contact after $3 million public ransom demand",
-        "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 09:57:51 +0000",
-        "importance": 5,
-        "summary": "Revolut says no direct contact after $3 million public ransom demand",
-        "briefing": "Revolut says it received no direct contact despite separate ransom demands for $3 million in Monero and 10,000 Bitcoin from competing breach claimants.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Polymarket users referred to prosecutors in South Korea: Report",
-        "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 09:37:32 +0000",
-        "importance": 5,
-        "summary": "Polymarket users referred to prosecutors in South Korea: Report",
-        "briefing": "South Korean police reportedly referred 18 Polymarket users to prosecutors in a gambling probe involving 26 people and $12.7 million in bets.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
-        "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 09:00:31 +0000",
+        "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
+        "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
+        "time": "Thu, 17 Sep 2026 15:21:19 +0000",
         "importance": 5,
-        "summary": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
-        "briefing": "Bitcoin corporate treasuries remained at an unrealized loss on their holdings as the price fell below $80,000 and fresh capital inflows dwindled.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
+        "briefing": "\"Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,\" the FCA's enforcement chief said.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 06:01:31 +0000",
+        "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+        "link": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+        "time": "Thu, 17 Sep 2026 14:52:03 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+        "briefing": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges\u2014though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
-        "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 05:55:18 +0000",
+        "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+        "time": "Thu, 17 Sep 2026 14:40:07 +0000",
         "importance": 5,
-        "summary": "BitMEX faces Celsius lawsuit ahead of exchange closure",
-        "briefing": "The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "briefing": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "OpenAI discloses 6 new cases of \u2018misaligned\u2019 AI behavior",
-        "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 05:49:06 +0000",
+        "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+        "link": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
+        "time": "Thu, 17 Sep 2026 12:53:01 +0000",
         "importance": 5,
-        "summary": "OpenAI discloses 6 new cases of \u2018misaligned\u2019 AI behavior",
-        "briefing": "The six cases are separate from July\u2019s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "summary": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+        "briefing": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-        "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 02:52:08 +0000",
+        "title": "Morning Minute: Crypto Rebounds After The Fed\u2019s First Hike Since 2023",
+        "link": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
+        "time": "Thu, 17 Sep 2026 12:13:20 +0000",
         "importance": 5,
-        "summary": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-        "briefing": "Bitcoin showed little immediate reaction to the Fed\u2019s first rate increase since 2023, but 16 of 18 officials expect at least one more hike before the end of the year.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: Crypto Rebounds After The Fed\u2019s First Hike Since 2023",
+        "briefing": "The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
+        "link": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
+        "time": "Thu, 17 Sep 2026 12:05:13 +0000",
+        "importance": 5,
+        "summary": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
+        "briefing": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
@@ -78,7 +132,7 @@
         "importance": 5,
         "summary": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
         "briefing": "A substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
@@ -87,60 +141,6 @@
         "importance": 5,
         "summary": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
         "briefing": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
-        "link": "https://decrypt.co/378448/meta-fix-pervert-glasses",
-        "time": "Wed, 16 Sep 2026 21:16:03 +0000",
-        "importance": 5,
-        "summary": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
-        "briefing": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-        "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
-        "time": "Wed, 16 Sep 2026 20:31:03 +0000",
-        "importance": 5,
-        "summary": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
-        "briefing": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13\u2014activity OpenAI's own incident report never fully described.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
-        "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
-        "time": "Wed, 16 Sep 2026 19:43:24 +0000",
-        "importance": 5,
-        "summary": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
-        "briefing": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
-        "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
-        "time": "Wed, 16 Sep 2026 18:53:48 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Core Software Update Aims for Speed and Security Patches",
-        "briefing": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
-        "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
-        "time": "Wed, 16 Sep 2026 18:15:38 +0000",
-        "importance": 5,
-        "summary": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
-        "briefing": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
-        "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
-        "time": "Wed, 16 Sep 2026 17:17:03 +0000",
-        "importance": 5,
-        "summary": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
-        "briefing": "Michael Selig and Paul Atkins pledged to use their agencies\u2019 existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
