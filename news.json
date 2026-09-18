@@ -1,21 +1,57 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 18 Sep 2026 06:00:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+        "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 18 Sep 2026 04:51:29 +0000",
+        "importance": 5,
+        "summary": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+        "briefing": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Cardano\u2019s IOG warns users to avoid YouTube channel amid apparent hijack",
+        "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 18 Sep 2026 04:11:40 +0000",
+        "importance": 5,
+        "summary": "Cardano\u2019s IOG warns users to avoid YouTube channel amid apparent hijack",
+        "briefing": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to \u201cdouble your wealth.\u201d",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "World launches self-custodial \u2018super app\u2019 World Money",
+        "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 18 Sep 2026 03:40:28 +0000",
+        "importance": 5,
+        "summary": "World launches self-custodial \u2018super app\u2019 World Money",
+        "briefing": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US sanctions Iran\u2019s BitBank, saying it processes \u2018Hormuz Safe\u2019 Bitcoin payments",
+        "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 18 Sep 2026 01:33:54 +0000",
+        "importance": 5,
+        "summary": "US sanctions Iran\u2019s BitBank, saying it processes \u2018Hormuz Safe\u2019 Bitcoin payments",
+        "briefing": "US Treasury says the Iranian exchange processed payments received through Iran\u2019s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
         "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 17 Sep 2026 23:49:23 +0000",
         "importance": 5,
         "summary": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
         "briefing": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 20:44:00 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CFTC expands regulatory relief for passive trading software providers",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "CFTC expands regulatory relief for passive trading software providers",
         "briefing": "The US regulator\u2019s move could make it easier for crypto wallets and other apps to offer access to regulated derivatives and prediction markets without registering as introducing brokers.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
@@ -33,43 +69,7 @@
         "importance": 5,
         "summary": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
         "briefing": "MoonPay plans to use WisdomTree\u2019s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Is there any chance left to save the CLARITY Act?",
-        "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 17:00:00 +0000",
-        "importance": 5,
-        "summary": "Is there any chance left to save the CLARITY Act?",
-        "briefing": "CLARITY isn\u2019t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-        "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 16:22:23 +0000",
-        "importance": 5,
-        "summary": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-        "briefing": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve\u2019s first interest-rate hike since July 2023.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-        "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 15:58:33 +0000",
-        "importance": 5,
-        "summary": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-        "briefing": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing.",
         "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-        "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 17 Sep 2026 13:35:57 +0000",
-        "importance": 5,
-        "summary": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-        "briefing": "Crypto.com\u2019s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
         "briefing": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
         "briefing": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
         "briefing": "SpaceX's AI division has held internal talks about buying customer records from dead startups\u2014cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
         "briefing": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
         "briefing": "In a no-action letter, the CFTC said certain software providers can connect users to regulated derivatives markets without registering as brokers.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
         "briefing": "The Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
         "briefing": "The former presidential candidate said lawmakers should impose liability rules and waiting periods on frontier AI firms as autonomous agents raise new cyber and labor concerns.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     }
 ]
