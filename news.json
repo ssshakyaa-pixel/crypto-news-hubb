@@ -1,75 +1,102 @@
 [
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 21 Sep 2026 04:44:48 +0000",
+        "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
+        "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 13:30:00 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-        "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 21 Sep 2026 04:29:59 +0000",
-        "importance": 5,
-        "summary": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-        "briefing": "Bitcoin\u2019s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn\u2019t enough to confirm a new bull run.",
+        "summary": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
+        "briefing": "Multicoin Capital co-founder Samani expects SOL to surpass Ether\u2019s market capitalization \u201cthis market cycle\u201d and argues that \u201ctoday, no one really uses Ethereum.\u201d",
         "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-        "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 21 Sep 2026 04:27:32 +0000",
+        "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
+        "link": "https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 12:48:21 +0000",
         "importance": 5,
-        "summary": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-        "briefing": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear\u2019s blockchain infrastructure.",
+        "summary": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
+        "briefing": "Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and spent another $174 million repurchasing its STRC preferred stock.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+        "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 11:27:00 +0000",
+        "importance": 5,
+        "summary": "ECB launches Pontes to settle tokenized assets without stablecoins",
+        "briefing": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+        "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 10:52:35 +0000",
+        "importance": 5,
+        "summary": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+        "briefing": "Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 10:15:51 +0000",
+        "importance": 5,
+        "summary": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+        "briefing": "Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+        "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 09:35:25 +0000",
+        "importance": 5,
+        "summary": "X sues Bitcoin account operators over alleged $278K payout fraud",
+        "briefing": "X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+        "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 07:31:47 +0000",
+        "importance": 5,
+        "summary": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+        "briefing": "ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving away from standalone chains.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+        "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 06:41:23 +0000",
+        "importance": 5,
+        "summary": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+        "briefing": "The Bank of Korea\u2019s new network will let foreign investors settle won transactions during business hours in their home countries.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
+        "link": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
+        "time": "Mon, 21 Sep 2026 12:56:46 +0000",
+        "importance": 5,
+        "summary": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
+        "briefing": "The Bitcoin treasury firm\u2019s holdings bottomed at 840,447 BTC in August. They have since climbed 5,553 BTC, to within 0.2% of the high.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+        "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
+        "time": "Mon, 21 Sep 2026 12:22:00 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+        "briefing": "A short squeeze started the move, but spot buyers have sustained it, and one measure of selling pressure is near a record low.",
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-        "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 21 Sep 2026 01:42:53 +0000",
+        "title": "Crypto Worker's Children Held Hostage in Latest French \u2018Wrench Attack,\u2019 $46,000 Taken",
+        "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
+        "time": "Mon, 21 Sep 2026 09:51:24 +0000",
         "importance": 5,
-        "summary": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-        "briefing": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler\u2019s Digest",
-        "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 20 Sep 2026 23:37:39 +0000",
-        "importance": 5,
-        "summary": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler\u2019s Digest",
-        "briefing": "Crypto missed out on CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum\u2019s price could increase 70 times by 2030.",
+        "summary": "Crypto Worker's Children Held Hostage in Latest French \u2018Wrench Attack,\u2019 $46,000 Taken",
+        "briefing": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
-        "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 20 Sep 2026 12:00:52 +0000",
-        "importance": 5,
-        "summary": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
-        "briefing": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Grayscale\u2019s Zcash ETF files for 3-for-1 forward share split",
-        "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 20 Sep 2026 09:14:27 +0000",
-        "importance": 5,
-        "summary": "Grayscale\u2019s Zcash ETF files for 3-for-1 forward share split",
-        "briefing": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-        "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 20 Sep 2026 07:51:24 +0000",
-        "importance": 5,
-        "summary": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-        "briefing": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
         "briefing": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
         "briefing": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
         "briefing": "The Clarity Act failed to advance in the Senate, shifting the industry\u2019s focus to a new wave of action from the SEC and CFTC.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
         "briefing": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-        "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-        "time": "Sat, 19 Sep 2026 13:01:04 +0000",
-        "importance": 5,
-        "summary": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-        "briefing": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-        "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
-        "time": "Fri, 18 Sep 2026 21:01:30 +0000",
-        "importance": 5,
-        "summary": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-        "briefing": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
-        "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
-        "time": "Fri, 18 Sep 2026 19:16:03 +0000",
-        "importance": 5,
-        "summary": "Zcash Is Running\u2014Devs Want to Make It Faster",
-        "briefing": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
