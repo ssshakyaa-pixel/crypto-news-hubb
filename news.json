@@ -1,12 +1,48 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 04:44:48 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
+        "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 04:29:59 +0000",
+        "importance": 5,
+        "summary": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
+        "briefing": "Bitcoin\u2019s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn\u2019t enough to confirm a new bull run.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+        "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 04:27:32 +0000",
+        "importance": 5,
+        "summary": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+        "briefing": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear\u2019s blockchain infrastructure.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+        "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 21 Sep 2026 01:42:53 +0000",
+        "importance": 5,
+        "summary": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+        "briefing": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler\u2019s Digest",
         "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sun, 20 Sep 2026 23:37:39 +0000",
         "importance": 5,
         "summary": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler\u2019s Digest",
-        "briefing": "Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum\u2019s price could increase 70 times by 2030.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "briefing": "Crypto missed out on CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum\u2019s price could increase 70 times by 2030.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Grayscale\u2019s Zcash ETF files for 3-for-1 forward share split",
         "briefing": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
@@ -33,43 +69,7 @@
         "importance": 5,
         "summary": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
         "briefing": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
-        "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 19 Sep 2026 19:18:00 +0000",
-        "importance": 5,
-        "summary": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
-        "briefing": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
-        "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 19 Sep 2026 18:40:00 +0000",
-        "importance": 5,
-        "summary": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
-        "briefing": "Kalshi\u2019s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
-        "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 19 Sep 2026 16:20:00 +0000",
-        "importance": 5,
-        "summary": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
-        "briefing": "VanEck said Metaplanet\u2019s executive equity exposure remains well above its digital asset treasury peers, even after the company cut its potential share pool by 41%.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bastion wins conditional OCC approval for national trust bank charter",
-        "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 19 Sep 2026 11:51:00 +0000",
-        "importance": 5,
-        "summary": "Bastion wins conditional OCC approval for national trust bank charter",
-        "briefing": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
         "briefing": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
         "briefing": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
         "briefing": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
         "briefing": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
         "briefing": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
         "briefing": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Zcash Is Running\u2014Devs Want to Make It Faster",
         "briefing": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     }
 ]
