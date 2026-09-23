@@ -1,75 +1,111 @@
 [
     {
-        "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
-        "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 08:18:38 +0000",
+        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+        "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 14:28:50 +0000",
         "importance": 5,
-        "summary": "BitMEX ends crypto trading, keeps withdrawals open after closure",
-        "briefing": "BitMEX officially ended exchange operations after more than 11 years, while withdrawals remain open as the crypto derivatives platform urges users to remove their funds.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+        "briefing": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Zcash\u2019s November upgrade could freeze funds in legacy Sprout pool",
-        "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 08:07:10 +0000",
+        "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+        "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 13:40:00 +0000",
         "importance": 5,
-        "summary": "Zcash\u2019s November upgrade could freeze funds in legacy Sprout pool",
-        "briefing": "The proposed NU7 change would disable version 4 transactions, leaving ZEC in Zcash\u2019s legacy Sprout shielded pool unspendable.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 07:25:05 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
-        "briefing": "US spot Bitcoin ETFs recorded more than $1.7 billion in net inflows over two days as Bitcoin rose above investors\u2019 estimated average cost basis.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+        "briefing": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 05:43:01 +0000",
+        "time": "Wed, 23 Sep 2026 13:39:08 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+        "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+        "briefing": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+        "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+        "briefing": "MoonPay\u2019s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+        "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 13:00:00 +0000",
+        "importance": 5,
+        "summary": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+        "briefing": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "US Treasury secretary emerges as frontrunner for Trump\u2019s AI czar role: Report",
-        "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 05:34:49 +0000",
+        "title": "EU watchdogs warn quantum computers could pick crypto\u2019s locks",
+        "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 12:22:56 +0000",
         "importance": 5,
-        "summary": "US Treasury secretary emerges as frontrunner for Trump\u2019s AI czar role: Report",
-        "briefing": "US President Donald Trump previously tapped David Sacks as his AI and crypto czar before Sacks stepped down from the role earlier this year after reaching his service limit as a special government employee.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "EU watchdogs warn quantum computers could pick crypto\u2019s locks",
+        "briefing": "EU supervisors warn quantum computing could weaken blockchain security as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-        "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 05:22:21 +0000",
+        "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+        "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 10:06:55 +0000",
         "importance": 5,
-        "summary": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-        "briefing": "SlowMist said malicious FomoPeek versions distributed through Apple\u2019s App Store used iOS kernel exploits to escape the sandbox and access sensitive data from other apps.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+        "briefing": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "AI potential to drive crypto demand remains \u2018underappreciated\u2019: BlackRock",
-        "link": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 04:33:18 +0000",
+        "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+        "link": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
+        "time": "Wed, 23 Sep 2026 12:26:07 +0000",
         "importance": 5,
-        "summary": "AI potential to drive crypto demand remains \u2018underappreciated\u2019: BlackRock",
-        "briefing": "BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized computing capacity could create another opportunity for digital assets.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+        "briefing": "Crypto majors continue their climb while alt leaders hit new ATHs. What\u2019s driving the recent run up?",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-        "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 03:33:15 +0000",
+        "title": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
+        "link": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
+        "time": "Wed, 23 Sep 2026 12:15:18 +0000",
         "importance": 5,
-        "summary": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-        "briefing": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
+        "briefing": "A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote IT worker scheme to the same bureau.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
+        "link": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
+        "time": "Wed, 23 Sep 2026 10:43:46 +0000",
+        "importance": 5,
+        "summary": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
+        "briefing": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
+        "link": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
+        "time": "Wed, 23 Sep 2026 09:53:07 +0000",
+        "importance": 5,
+        "summary": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
+        "briefing": "Investigators are combing the site where the exchange's founder was last seen in 2022, using experts and forensic equipment.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
         "briefing": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei\u2014who has spent a year calling China's government the industry's biggest threat.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
         "briefing": "Four ancient wallets moved 1,971 BTC between Sept. 6 and Sept. 22, including a 600 BTC transfer worth $51.9 million just hours ago, with three of the four carrying \"Noah Doe\" lawsuit tags.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
         "briefing": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
         "briefing": "Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-        "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
-        "time": "Tue, 22 Sep 2026 19:31:03 +0000",
-        "importance": 5,
-        "summary": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-        "briefing": "Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a \"Crypto Recovery Trust,\" though the funds represent just 2.8% of the total haul.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-        "link": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-        "time": "Tue, 22 Sep 2026 19:00:38 +0000",
-        "importance": 5,
-        "summary": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-        "briefing": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-        "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
-        "time": "Tue, 22 Sep 2026 18:46:03 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-        "briefing": "A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035\u201410X Its Original Forecast",
-        "link": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
-        "time": "Tue, 22 Sep 2026 18:16:03 +0000",
-        "importance": 5,
-        "summary": "Bernstein Predicts $10 Trillion Prediction Market by 2035\u201410X Its Original Forecast",
-        "briefing": "Bernstein now projects prediction markets will handle $10 trillion a year by 2035, up from its own $1 trillion by 2030 forecast made just five months ago.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     }
 ]
