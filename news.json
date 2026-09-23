@@ -1,12 +1,48 @@
 [
     {
+        "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+        "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 18:17:48 +0000",
+        "importance": 5,
+        "summary": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+        "briefing": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+        "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 16:34:27 +0000",
+        "importance": 5,
+        "summary": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+        "briefing": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+        "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 15:56:20 +0000",
+        "importance": 5,
+        "summary": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+        "briefing": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE\u2019s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+        "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 23 Sep 2026 14:52:11 +0000",
+        "importance": 5,
+        "summary": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+        "briefing": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
         "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 23 Sep 2026 14:28:50 +0000",
         "importance": 5,
         "summary": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
         "briefing": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
@@ -15,7 +51,7 @@
         "importance": 5,
         "summary": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
         "briefing": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -24,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -33,114 +69,78 @@
         "importance": 5,
         "summary": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
         "briefing": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-        "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 13:00:00 +0000",
+        "title": "$15.6 Billion in Bitcoin Options Expire Friday\u2014Here's What It Means",
+        "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
+        "time": "Wed, 23 Sep 2026 18:46:03 +0000",
         "importance": 5,
-        "summary": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-        "briefing": "MoonPay\u2019s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
+        "summary": "$15.6 Billion in Bitcoin Options Expire Friday\u2014Here's What It Means",
+        "briefing": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
-        "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 13:00:00 +0000",
+        "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+        "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
+        "time": "Wed, 23 Sep 2026 18:15:06 +0000",
         "importance": 5,
-        "summary": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
-        "briefing": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "EU watchdogs warn quantum computers could pick crypto\u2019s locks",
-        "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 12:22:56 +0000",
-        "importance": 5,
-        "summary": "EU watchdogs warn quantum computers could pick crypto\u2019s locks",
-        "briefing": "EU supervisors warn quantum computing could weaken blockchain security as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-        "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 23 Sep 2026 10:06:55 +0000",
-        "importance": 5,
-        "summary": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-        "briefing": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
-        "link": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
-        "time": "Wed, 23 Sep 2026 12:26:07 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
-        "briefing": "Crypto majors continue their climb while alt leaders hit new ATHs. What\u2019s driving the recent run up?",
+        "summary": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+        "briefing": "The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain lending's variable-rate norm.",
         "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
-        "link": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
-        "time": "Wed, 23 Sep 2026 12:15:18 +0000",
+        "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here\u2019s What BitMEX Users Need to Know",
+        "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
+        "time": "Wed, 23 Sep 2026 17:31:03 +0000",
         "importance": 5,
-        "summary": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
-        "briefing": "A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote IT worker scheme to the same bureau.",
+        "summary": "Crypto Exchange That Invented 100x Leverage Is No More: Here\u2019s What BitMEX Users Need to Know",
+        "briefing": "BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+        "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+        "time": "Wed, 23 Sep 2026 17:01:03 +0000",
+        "importance": 5,
+        "summary": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+        "briefing": "RBC, TD, BMO, Scotiabank, CIBC and National Bank are jointly exploring a Canadian-dollar tokenized deposit system, starting with transfers between the banks themselves.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+        "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+        "time": "Wed, 23 Sep 2026 16:36:03 +0000",
+        "importance": 5,
+        "summary": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+        "briefing": "Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
-        "link": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
-        "time": "Wed, 23 Sep 2026 10:43:46 +0000",
+        "title": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
+        "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa",
+        "time": "Wed, 23 Sep 2026 16:26:03 +0000",
         "importance": 5,
-        "summary": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
-        "briefing": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
-        "link": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
-        "time": "Wed, 23 Sep 2026 09:53:07 +0000",
-        "importance": 5,
-        "summary": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
-        "briefing": "Investigators are combing the site where the exchange's founder was last seen in 2022, using experts and forensic equipment.",
+        "summary": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
+        "briefing": "A Visa survey found U.S. willingness to use stablecoins for cross-border transfers rises from 36% to 56% when paired with hypothetical bank-level fraud protection and deposit insurance.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-        "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-        "time": "Tue, 22 Sep 2026 22:16:03 +0000",
+        "title": "Bitcoin Dips, But Its Forks Are Flying Again",
+        "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+        "time": "Wed, 23 Sep 2026 15:56:03 +0000",
         "importance": 5,
-        "summary": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-        "briefing": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei\u2014who has spent a year calling China's government the industry's biggest threat.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Dips, But Its Forks Are Flying Again",
+        "briefing": "A CME futures listing and a fresh Grayscale ETF filing sent Bitcoin's two biggest forks soaring, even as the flagship coin cooled off its seven-month high.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-        "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
-        "time": "Tue, 22 Sep 2026 21:16:03 +0000",
+        "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+        "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+        "time": "Wed, 23 Sep 2026 15:41:46 +0000",
         "importance": 5,
-        "summary": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-        "briefing": "Four ancient wallets moved 1,971 BTC between Sept. 6 and Sept. 22, including a 600 BTC transfer worth $51.9 million just hours ago, with three of the four carrying \"Noah Doe\" lawsuit tags.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-        "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
-        "time": "Tue, 22 Sep 2026 20:46:03 +0000",
-        "importance": 5,
-        "summary": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-        "briefing": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-        "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
-        "time": "Tue, 22 Sep 2026 20:01:03 +0000",
-        "importance": 5,
-        "summary": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-        "briefing": "Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+        "briefing": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     }
 ]
