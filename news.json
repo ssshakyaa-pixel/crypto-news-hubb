@@ -1,12 +1,66 @@
 [
     {
+        "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+        "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 24 Sep 2026 17:14:35 +0000",
+        "importance": 5,
+        "summary": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+        "briefing": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+        "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 24 Sep 2026 17:13:38 +0000",
+        "importance": 5,
+        "summary": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+        "briefing": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+        "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 24 Sep 2026 15:57:00 +0000",
+        "importance": 5,
+        "summary": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+        "briefing": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "New York sues Polymarket over alleged illegal gambling business",
+        "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 24 Sep 2026 15:27:29 +0000",
+        "importance": 5,
+        "summary": "New York sues Polymarket over alleged illegal gambling business",
+        "briefing": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 24 Sep 2026 13:29:50 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+        "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 24 Sep 2026 13:29:06 +0000",
+        "importance": 5,
+        "summary": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+        "briefing": "IBM\u2019s beta link lets banks instruct tokenized deposit transfers on Swift\u2019s ledger using existing payment messages and compliance processes.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
         "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 24 Sep 2026 13:00:00 +0000",
         "importance": 5,
         "summary": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
         "briefing": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
@@ -15,61 +69,52 @@
         "importance": 5,
         "summary": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
         "briefing": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company\u2019s first priced funding round, though HIFI did not disclose its valuation.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
-        "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 11:24:07 +0000",
-        "importance": 5,
-        "summary": "Era of pure crypto exchanges is ending, Bybit CEO says",
-        "briefing": "Bybit\u2019s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "EU banking watchdog calls for crypto lending rules under MiCA",
-        "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 10:30:00 +0000",
+        "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+        "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+        "time": "Thu, 24 Sep 2026 17:51:31 +0000",
         "importance": 5,
-        "summary": "EU banking watchdog calls for crypto lending rules under MiCA",
-        "briefing": "The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission\u2019s MiCA review.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+        "briefing": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
-        "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 10:15:03 +0000",
+        "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
+        "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
+        "time": "Thu, 24 Sep 2026 17:31:03 +0000",
         "importance": 5,
-        "summary": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
-        "briefing": "Bitcoin traded near $83,200 as Fed hike odds reached about 75% and Treasury prepared a $6 billion buyback of long-dated bonds.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
+        "briefing": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect\u2014as recent KYC leaks expose crypto holders to phishing and physical attacks.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 09:32:44 +0000",
+        "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
+        "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
+        "time": "Thu, 24 Sep 2026 16:55:43 +0000",
         "importance": 5,
-        "summary": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
-        "briefing": "US spot Bitcoin ETF inflows slowed to $347 million on Wednesday as Bitcoin fell below $84,000, while five-day inflows reached $2.65 billion.",
+        "summary": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
+        "briefing": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
         "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-        "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 09:18:16 +0000",
+        "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
+        "link": "https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb",
+        "time": "Thu, 24 Sep 2026 16:01:01 +0000",
         "importance": 5,
-        "summary": "Institutions held crypto through 50% drawdown, Bitwise finds",
-        "briefing": "Every institution interviewed that owned crypto held Bitcoin, usually as its largest asset; some set exit conditions for Ether and Solana.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
+        "briefing": "Bitcoin has slipped back below $85,000 after tagging an eight-month high near $87,400 last week, with rising odds of an October Fed hike taking some air out of the rally.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Australia says OpenAI agent hacked government site before Altman warning",
-        "link": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 08:29:11 +0000",
+        "title": "\u00a310K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
+        "link": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
+        "time": "Thu, 24 Sep 2026 15:08:26 +0000",
         "importance": 5,
-        "summary": "Australia says OpenAI agent hacked government site before Altman warning",
-        "briefing": "OpenAI notified Australia nearly three months after its agent breached a government portal while gathering public medicine-spending data.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "summary": "\u00a310K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
+        "briefing": "Police believe the robbery was planned and targeted, with instructions relayed to the three attackers by a fourth man on a video call.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
@@ -78,7 +123,7 @@
         "importance": 5,
         "summary": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
         "briefing": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Decrypt Media and FOMO Hour\u2019s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
@@ -87,7 +132,7 @@
         "importance": 5,
         "summary": "Decrypt Media and FOMO Hour\u2019s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
         "briefing": "Premier Partnership will livestream the Main Stage through Decrypt Media and bring Rug Radio and FOMO HOUR programming onsite.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI",
@@ -96,51 +141,6 @@
         "importance": 5,
         "summary": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI",
         "briefing": "Elliptic\u2019s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Selig Says \u2018It\u2019s Go Time\u2019 for CFTC Crypto Rules",
-        "link": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
-        "time": "Thu, 24 Sep 2026 11:56:11 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Selig Says \u2018It\u2019s Go Time\u2019 for CFTC Crypto Rules",
-        "briefing": "The CFTC has been extremely busy ever since the Clarity Act failed its vote, and it appears they\u2019re ready to accelerate.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
-        "link": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
-        "time": "Thu, 24 Sep 2026 11:05:19 +0000",
-        "importance": 5,
-        "summary": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
-        "briefing": "The threat could arrive before quantum computers are commercially useful, and member states have until the end of 2026 to plan for it.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-        "link": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
-        "time": "Thu, 24 Sep 2026 09:00:46 +0000",
-        "importance": 5,
-        "summary": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-        "briefing": "He posed as support staff, emptied about 100 accounts, then lost $6 million of the proceeds gambling, according to his own messages.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-        "link": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-        "time": "Wed, 23 Sep 2026 22:56:03 +0000",
-        "importance": 5,
-        "summary": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-        "briefing": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-        "link": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
-        "time": "Wed, 23 Sep 2026 22:31:45 +0000",
-        "importance": 5,
-        "summary": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-        "briefing": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     }
 ]
