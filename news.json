@@ -1,12 +1,66 @@
 [
     {
+        "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+        "link": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 15:49:34 +0000",
+        "importance": 5,
+        "summary": "Crypto Biz: Wall Street and crypto fight for the same turf",
+        "briefing": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 13:32:49 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+        "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+        "briefing": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That\u2019s proving to be a big headache for some cryptocurrency investors.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+        "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 12:44:30 +0000",
+        "importance": 5,
+        "summary": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+        "briefing": "CoinGlass will retain its brand and team, while its website, app, free tools, API and pricing will remain unchanged following the acquisition.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+        "link": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 12:19:34 +0000",
+        "importance": 5,
+        "summary": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+        "briefing": "The analyzed Safari sample targets iOS 18.4\u201318.6.2 using previously patched flaws, while its effectiveness on iOS 26.5 remains unverified.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "IBIT options price trading more calmly after Bitcoin rebound",
+        "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 11:11:33 +0000",
+        "importance": 5,
+        "summary": "IBIT options price trading more calmly after Bitcoin rebound",
+        "briefing": "IBIT\u2019s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank\u2019s analysis of options data from Sept. 23.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
         "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 25 Sep 2026 09:48:53 +0000",
         "importance": 5,
         "summary": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
         "briefing": "Yuga Labs\u2019 0xQuit said the NFTs are safe and will be returned once the risk passes, while holders were urged to revoke NFT permissions.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
@@ -15,61 +69,61 @@
         "importance": 5,
         "summary": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
         "briefing": "KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Bryan Pellegrino has dismissed the lawsuit as meritless.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 25 Sep 2026 07:41:36 +0000",
+        "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+        "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+        "time": "Fri, 25 Sep 2026 16:17:19 +0000",
         "importance": 5,
-        "summary": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-        "briefing": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
+        "summary": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+        "briefing": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-        "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 25 Sep 2026 07:28:18 +0000",
+        "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+        "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+        "time": "Fri, 25 Sep 2026 16:06:23 +0000",
         "importance": 5,
-        "summary": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-        "briefing": "Keonne Rodriguez says he and 70 others face another move after their treatment program was deactivated. His previous transfer took 30 days.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+        "briefing": "Pullback or reversal? Here's what the charts suggest for BTC.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 25 Sep 2026 05:30:56 +0000",
+        "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
+        "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+        "time": "Fri, 25 Sep 2026 13:22:00 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
+        "briefing": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Australian PM warns of AI\u2019s \u2018furious pace\u2019 after agent breached government site",
-        "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 25 Sep 2026 05:06:22 +0000",
+        "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+        "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+        "time": "Fri, 25 Sep 2026 13:16:03 +0000",
         "importance": 5,
-        "summary": "Australian PM warns of AI\u2019s \u2018furious pace\u2019 after agent breached government site",
-        "briefing": "Anthony Albanese said governments must help shape AI\u2019s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
+        "summary": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+        "briefing": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-        "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 25 Sep 2026 04:41:06 +0000",
+        "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+        "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+        "time": "Fri, 25 Sep 2026 13:04:06 +0000",
         "importance": 5,
-        "summary": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-        "briefing": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+        "briefing": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-        "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 25 Sep 2026 02:00:54 +0000",
+        "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
+        "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
+        "time": "Fri, 25 Sep 2026 12:01:15 +0000",
         "importance": 5,
-        "summary": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-        "briefing": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
+        "briefing": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
@@ -78,7 +132,7 @@
         "importance": 5,
         "summary": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
         "briefing": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
@@ -87,60 +141,6 @@
         "importance": 5,
         "summary": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
         "briefing": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-        "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-        "time": "Thu, 24 Sep 2026 21:56:03 +0000",
-        "importance": 5,
-        "summary": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-        "briefing": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-        "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-        "time": "Thu, 24 Sep 2026 21:15:38 +0000",
-        "importance": 5,
-        "summary": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-        "briefing": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-        "link": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-        "time": "Thu, 24 Sep 2026 20:01:03 +0000",
-        "importance": 5,
-        "summary": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-        "briefing": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily\u2014without telling users first.",
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-        "link": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
-        "time": "Thu, 24 Sep 2026 19:16:03 +0000",
-        "importance": 5,
-        "summary": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-        "briefing": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
-        "link": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-        "time": "Thu, 24 Sep 2026 18:31:03 +0000",
-        "importance": 5,
-        "summary": "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
-        "briefing": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-        "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-        "time": "Thu, 24 Sep 2026 17:51:31 +0000",
-        "importance": 5,
-        "summary": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-        "briefing": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     }
 ]
