@@ -1,12 +1,57 @@
 [
     {
-        "title": "Asia dominates Crypto Adoption Index, Bitget\u2019s $351M hack: Asia Express",
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 05:30:56 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Australian PM warns of AI\u2019s \u2018furious pace\u2019 after agent breached government site",
+        "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 05:06:22 +0000",
+        "importance": 5,
+        "summary": "Australian PM warns of AI\u2019s \u2018furious pace\u2019 after agent breached government site",
+        "briefing": "Anthony Albanese said governments must help shape AI\u2019s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+        "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 04:41:06 +0000",
+        "importance": 5,
+        "summary": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+        "briefing": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+        "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 02:00:54 +0000",
+        "importance": 5,
+        "summary": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+        "briefing": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+        "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 25 Sep 2026 00:32:46 +0000",
+        "importance": 5,
+        "summary": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+        "briefing": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Asia dominates Crypto Adoption Index, Bitget\u2019s $352M hack: Asia Express",
         "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 24 Sep 2026 23:27:17 +0000",
         "importance": 5,
-        "summary": "Asia dominates Crypto Adoption Index, Bitget\u2019s $351M hack: Asia Express",
-        "briefing": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "Asia dominates Crypto Adoption Index, Bitget\u2019s $352M hack: Asia Express",
+        "briefing": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "Fed proposes new capital, redemption rules for stablecoin issuers",
         "briefing": "The Fed\u2019s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitget confirms $352M security breach, suspends withdrawals",
@@ -24,52 +69,7 @@
         "importance": 5,
         "summary": "Bitget confirms $352M security breach, suspends withdrawals",
         "briefing": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-        "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 21:42:51 +0000",
-        "importance": 5,
-        "summary": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-        "briefing": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was \u201cto provide regulatory clarity.\u201c",
         "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-        "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 20:32:16 +0000",
-        "importance": 5,
-        "summary": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-        "briefing": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-        "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 20:04:07 +0000",
-        "importance": 5,
-        "summary": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-        "briefing": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 19:50:39 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-        "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 24 Sep 2026 17:14:35 +0000",
-        "importance": 5,
-        "summary": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-        "briefing": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
         "briefing": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
         "briefing": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
         "briefing": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily\u2014without telling users first.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
         "briefing": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
         "briefing": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
         "briefing": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
         "briefing": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect\u2014as recent KYC leaks expose crypto holders to phishing and physical attacks.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
         "briefing": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     }
 ]
