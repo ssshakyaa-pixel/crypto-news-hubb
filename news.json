@@ -1,5 +1,68 @@
 [
     {
+        "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
+        "link": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 09:58:31 +0000",
+        "importance": 5,
+        "summary": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
+        "briefing": "The SFC and AFRC signed a new MoU extending financial reporting, audit and compliance cooperation to licensed virtual asset service providers.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+        "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 09:19:50 +0000",
+        "importance": 5,
+        "summary": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+        "briefing": "DYORSWAP said it paid more than 200 ETH in compensation, while Upbit operator Dunamu\u2019s GIWA warned that its mainnet had not launched.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
+        "link": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 09:03:20 +0000",
+        "importance": 5,
+        "summary": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
+        "briefing": "Bitcoin joined US stock futures in dropping on Monday after US president Donald Trump did not commit to permanently halting strikes on Iran.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 08:24:40 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+        "briefing": "Daily inflows slowed as Bitcoin pulled back from above $87,100, while Ether and XRP ETFs also attracted fresh capital during the week.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
+        "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 05:42:45 +0000",
+        "importance": 5,
+        "summary": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
+        "briefing": "Crypto market making is effectively restricted under South Korea\u2019s manipulation rules, but regulators are reconsidering the approach after a JPYC spiked on Upbit this month.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 04:57:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Vitalik Buterin says Hegot\u00e1 could be Ethereum\u2019s last \u2018normal\u2019 fork",
+        "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 28 Sep 2026 04:44:15 +0000",
+        "importance": 5,
+        "summary": "Vitalik Buterin says Hegot\u00e1 could be Ethereum\u2019s last \u2018normal\u2019 fork",
+        "briefing": "Ethereum\u2019s Vitalik Buterin said PeerDAS marked the start of Ethereum\u2019s transition \u201cfrom being just a blockchain to being something much more powerful.\u201d",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Newsom signs California ban on public officials issuing memecoins",
         "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 28 Sep 2026 02:23:42 +0000",
@@ -9,67 +72,13 @@
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Zano rolls blockchain back a month after Gateway Address exploit",
-        "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 01:09:22 +0000",
+        "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+        "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+        "time": "Mon, 28 Sep 2026 10:16:25 +0000",
         "importance": 5,
-        "summary": "Zano rolls blockchain back a month after Gateway Address exploit",
-        "briefing": "The Zano blockchain has been restarted at the block height that came immediately before Hard Fork 6, which introduced Gateway Addresses.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler\u2019s Digest",
-        "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 27 Sep 2026 23:43:18 +0000",
-        "importance": 5,
-        "summary": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler\u2019s Digest",
-        "briefing": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-        "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 27 Sep 2026 12:46:28 +0000",
-        "importance": 5,
-        "summary": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-        "briefing": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Riot Platforms repays $200M credit facility, releases collateral",
-        "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 27 Sep 2026 09:57:19 +0000",
-        "importance": 5,
-        "summary": "Riot Platforms repays $200M credit facility, releases collateral",
-        "briefing": "The Bitcoin miner has continued to expand its data-center business as well.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Saylor outlines \u2018bill of digital rights\u2019 to help build prosperity in future economy",
-        "link": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 27 Sep 2026 07:18:42 +0000",
-        "importance": 5,
-        "summary": "Saylor outlines \u2018bill of digital rights\u2019 to help build prosperity in future economy",
-        "briefing": "Our ambition should be to \u201cenable 10 million new companies to raise capital,\u201d Strategy\u2019s executive chairman Michael Saylor wrote in an essay.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kalshi loses appeal, setting up potential Supreme Court case",
-        "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 26 Sep 2026 13:21:12 +0000",
-        "importance": 5,
-        "summary": "Kalshi loses appeal, setting up potential Supreme Court case",
-        "briefing": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 26 Sep 2026 12:17:00 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+        "briefing": "Governor Gavin Newsom\u2019s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
         "briefing": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months\u2014and of how hard autonomous AI is to contain.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
         "briefing": "Three developments this week\u2014a cost breakthrough, a new privacy design, and a custody playbook\u2014show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
         "briefing": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
         "briefing": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
         "briefing": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
         "briefing": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
         "briefing": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-        "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
-        "time": "Fri, 25 Sep 2026 21:25:35 +0000",
-        "importance": 5,
-        "summary": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-        "briefing": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     }
 ]
