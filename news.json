@@ -1,12 +1,39 @@
 [
     {
+        "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+        "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 04:02:29 +0000",
+        "importance": 5,
+        "summary": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+        "briefing": "Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after Kraken\u2019s parent acquired Bitnomial and its CFTC-regulated exchange, clearinghouse and brokerage in May.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Nvidia unveils AI safety platform to rein in \u2018rogue\u2019 AI agents",
+        "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 02:32:36 +0000",
+        "importance": 5,
+        "summary": "Nvidia unveils AI safety platform to rein in \u2018rogue\u2019 AI agents",
+        "briefing": "The launch comes after several AI agents breached their testing environments this year, adding to calls for companies to slow the development of autonomous AI systems.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+        "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 01:17:49 +0000",
+        "importance": 5,
+        "summary": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+        "briefing": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain\u2019s position that it does not selectively censor transactions.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
         "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 28 Sep 2026 20:41:44 +0000",
         "importance": 5,
         "summary": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
         "briefing": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
         "briefing": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "US SEC follows CFTC in staff guidance for crypto",
         "briefing": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
@@ -42,34 +69,7 @@
         "importance": 5,
         "summary": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
         "briefing": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-        "link": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 16:48:00 +0000",
-        "importance": 5,
-        "summary": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-        "briefing": "Fairshake pledged an initial $30 million on media opposing the Democratic candidate in Ohio\u2019s Senate race in what some see as a repeat of spending by the crypto industry in 2024.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-        "link": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 14:46:21 +0000",
-        "importance": 5,
-        "summary": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-        "briefing": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-        "link": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 14:02:45 +0000",
-        "importance": 5,
-        "summary": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-        "briefing": "ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
         "briefing": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
         "briefing": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
         "briefing": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
         "briefing": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
         "briefing": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
         "briefing": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
         "briefing": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
         "briefing": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     }
 ]
