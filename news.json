@@ -1,75 +1,93 @@
 [
     {
+        "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+        "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 10:46:05 +0000",
+        "importance": 5,
+        "summary": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+        "briefing": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+        "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 10:15:19 +0000",
+        "importance": 5,
+        "summary": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+        "briefing": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+        "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 10:04:42 +0000",
+        "importance": 5,
+        "summary": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+        "briefing": "Bitcoin price action consolidated after early-week losses while protecting a \u201ctrend-defining\u201d support zone.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+        "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 09:50:22 +0000",
+        "importance": 5,
+        "summary": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+        "briefing": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BitMine could hit its 5% Ether supply target within weeks \u2014 then what?",
+        "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 08:51:25 +0000",
+        "importance": 5,
+        "summary": "BitMine could hit its 5% Ether supply target within weeks \u2014 then what?",
+        "briefing": "BitMine could reach 5% of Ether\u2019s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 05:37:56 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+        "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 05:29:28 +0000",
+        "importance": 5,
+        "summary": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+        "briefing": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran\u2019s shadow banking network.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
         "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 29 Sep 2026 04:02:29 +0000",
         "importance": 5,
         "summary": "Coinbase gets CFTC approval for US derivatives clearinghouse",
         "briefing": "Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after Kraken\u2019s parent acquired Bitnomial and its CFTC-regulated exchange, clearinghouse and brokerage in May.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Nvidia unveils AI safety platform to rein in \u2018rogue\u2019 AI agents",
-        "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 02:32:36 +0000",
+        "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+        "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
+        "time": "Tue, 29 Sep 2026 10:38:29 +0000",
         "importance": 5,
-        "summary": "Nvidia unveils AI safety platform to rein in \u2018rogue\u2019 AI agents",
-        "briefing": "The launch comes after several AI agents breached their testing environments this year, adding to calls for companies to slow the development of autonomous AI systems.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-        "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 01:17:49 +0000",
-        "importance": 5,
-        "summary": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-        "briefing": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain\u2019s position that it does not selectively censor transactions.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-        "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 20:41:44 +0000",
-        "importance": 5,
-        "summary": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-        "briefing": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
+        "summary": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+        "briefing": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
         "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-        "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 20:28:13 +0000",
+        "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+        "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+        "time": "Tue, 29 Sep 2026 09:38:57 +0000",
         "importance": 5,
-        "summary": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-        "briefing": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 19:02:45 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US SEC follows CFTC in staff guidance for crypto",
-        "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 18:39:09 +0000",
-        "importance": 5,
-        "summary": "US SEC follows CFTC in staff guidance for crypto",
-        "briefing": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-        "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 28 Sep 2026 18:02:54 +0000",
-        "importance": 5,
-        "summary": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-        "briefing": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+        "briefing": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
         "briefing": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
         "briefing": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
         "briefing": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
         "briefing": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
         "briefing": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
         "briefing": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-        "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
-        "time": "Mon, 28 Sep 2026 18:16:02 +0000",
-        "importance": 5,
-        "summary": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-        "briefing": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-        "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
-        "time": "Mon, 28 Sep 2026 17:51:14 +0000",
-        "importance": 5,
-        "summary": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-        "briefing": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     }
 ]
