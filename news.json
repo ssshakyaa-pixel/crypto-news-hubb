@@ -1,75 +1,111 @@
 [
     {
+        "title": "Bitwise launches first US spot NEAR ETF after token\u2019s recent surge",
+        "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 17:14:36 +0000",
+        "importance": 5,
+        "summary": "Bitwise launches first US spot NEAR ETF after token\u2019s recent surge",
+        "briefing": "Bitwise\u2019s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+        "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 16:26:11 +0000",
+        "importance": 5,
+        "summary": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+        "briefing": "Bitcoin failed to make another run at $85,000 as sellers held the line above current levels, while surging US bond yields weighed on stocks and precious metals.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitget CEO \u2018not very optimistic\u2019 on recovering funds from $388M breach",
+        "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 16:18:06 +0000",
+        "importance": 5,
+        "summary": "Bitget CEO \u2018not very optimistic\u2019 on recovering funds from $388M breach",
+        "briefing": "Gracy Chen said she saw the 2025 Bybit hack as a \u201cgood reference point\u201d for Bitget\u2019s security breach, noting that only a small percentage of funds had been frozen or recovered.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a \u2018fool coin\u2019",
+        "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 13:30:00 +0000",
+        "importance": 5,
+        "summary": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a \u2018fool coin\u2019",
+        "briefing": "An October pullback could offer a buying opportunity before Bitcoin\u2019s next cycle peak, which Brandt expects between $300,000 and $600,000. He\u2019s not sold on \u201cfool coin\u201d XRP.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 13:08:04 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 12:40:12 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+        "briefing": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "ECB puts AI agent payments on the digital euro drawing board",
+        "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 29 Sep 2026 12:00:45 +0000",
+        "importance": 5,
+        "summary": "ECB puts AI agent payments on the digital euro drawing board",
+        "briefing": "The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
         "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 29 Sep 2026 10:46:05 +0000",
         "importance": 5,
         "summary": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
         "briefing": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-        "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 10:15:19 +0000",
+        "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+        "link": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
+        "time": "Tue, 29 Sep 2026 17:31:04 +0000",
         "importance": 5,
-        "summary": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-        "briefing": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+        "briefing": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-        "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 10:04:42 +0000",
+        "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
+        "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
+        "time": "Tue, 29 Sep 2026 16:50:46 +0000",
         "importance": 5,
-        "summary": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-        "briefing": "Bitcoin price action consolidated after early-week losses while protecting a \u201ctrend-defining\u201d support zone.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
+        "briefing": "Bitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-        "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 09:50:22 +0000",
+        "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
+        "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
+        "time": "Tue, 29 Sep 2026 14:07:44 +0000",
         "importance": 5,
-        "summary": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
-        "briefing": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
+        "briefing": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "BitMine could hit its 5% Ether supply target within weeks \u2014 then what?",
-        "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 08:51:25 +0000",
+        "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+        "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+        "time": "Tue, 29 Sep 2026 12:05:18 +0000",
         "importance": 5,
-        "summary": "BitMine could hit its 5% Ether supply target within weeks \u2014 then what?",
-        "briefing": "BitMine could reach 5% of Ether\u2019s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.",
+        "summary": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+        "briefing": "Plus, crypto majors rebound as oil and yields fall and Saylor\u2019s Strategy returns to buying Bitcoin.",
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 05:37:56 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-        "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 05:29:28 +0000",
-        "importance": 5,
-        "summary": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-        "briefing": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran\u2019s shadow banking network.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
-        "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 29 Sep 2026 04:02:29 +0000",
-        "importance": 5,
-        "summary": "Coinbase gets CFTC approval for US derivatives clearinghouse",
-        "briefing": "Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after Kraken\u2019s parent acquired Bitnomial and its CFTC-regulated exchange, clearinghouse and brokerage in May.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
         "briefing": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
         "briefing": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
@@ -96,7 +132,7 @@
         "importance": 5,
         "summary": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
         "briefing": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
         "briefing": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
-        "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-        "time": "Mon, 28 Sep 2026 20:36:03 +0000",
-        "importance": 5,
-        "summary": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
-        "briefing": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-        "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
-        "time": "Mon, 28 Sep 2026 20:06:03 +0000",
-        "importance": 5,
-        "summary": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-        "briefing": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-        "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
-        "time": "Mon, 28 Sep 2026 19:36:21 +0000",
-        "importance": 5,
-        "summary": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-        "briefing": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-        "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
-        "time": "Mon, 28 Sep 2026 18:46:03 +0000",
-        "importance": 5,
-        "summary": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-        "briefing": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     }
 ]
