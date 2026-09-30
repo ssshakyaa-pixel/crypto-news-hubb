@@ -1,21 +1,66 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 30 Sep 2026 19:37:13 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+        "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 30 Sep 2026 19:11:23 +0000",
+        "importance": 5,
+        "summary": "Crypto advocacy group announces picks for US Congress as midterms loom",
+        "briefing": "The organization\u2019s endorsements in the House and Senate came as many polls showed Democrats favored to regain control of both chambers in 2027.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+        "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 30 Sep 2026 19:00:00 +0000",
+        "importance": 5,
+        "summary": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+        "briefing": "Base\u2019s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+        "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 30 Sep 2026 18:49:06 +0000",
+        "importance": 5,
+        "summary": "Bloomberg brings onchain stablecoin data to its Terminal",
+        "briefing": "Bloomberg\u2019s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Brazil\u2019s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+        "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 30 Sep 2026 17:17:54 +0000",
+        "importance": 5,
+        "summary": "Brazil\u2019s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+        "briefing": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitget \u2018gradually back to usual\u2019 as protection fund reaches $309M",
+        "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 30 Sep 2026 16:28:30 +0000",
+        "importance": 5,
+        "summary": "Bitget \u2018gradually back to usual\u2019 as protection fund reaches $309M",
+        "briefing": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 \u201cabsorbed the financial impact of the incident\u201c that resulted in $388 million in user losses.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Could THORChain face prosecution over stolen Bitget funds?",
         "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Wed, 30 Sep 2026 13:30:00 +0000",
         "importance": 5,
         "summary": "Could THORChain face prosecution over stolen Bitget funds?",
         "briefing": "THORChain will not \u2014 or can not \u2014 block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It\u2019s complicated, says crypto lawyer Yuriy Brisov.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 13:18:35 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Singapore crypto activity grows 55% as broader region contracts",
@@ -24,123 +69,78 @@
         "importance": 5,
         "summary": "Singapore crypto activity grows 55% as broader region contracts",
         "briefing": "Singapore\u2019s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
-        "link": "https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 12:06:04 +0000",
+        "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+        "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+        "time": "Wed, 30 Sep 2026 19:46:04 +0000",
         "importance": 5,
-        "summary": "FCA opens crypto authorization window ahead of 2027 UK regime",
-        "briefing": "Crypto businesses should apply by Feb. 28, 2027, while existing money laundering registrations will not convert into FCA authorization.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
-        "link": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 11:23:56 +0000",
-        "importance": 5,
-        "summary": "Altcoin exchange deposit count jumps 160% in 2 weeks",
-        "briefing": "CryptoQuant flagged potential selling pressure as deposit transactions and depositing addresses hit their highest counts since October 2025.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "A single market worth protecting: Getting the MiCA review right",
-        "link": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 11:00:00 +0000",
-        "importance": 5,
-        "summary": "A single market worth protecting: Getting the MiCA review right",
-        "briefing": "As the European Commission\u2019s MiCA review consultation closes, Europe must decide whether its crypto rulebook is protecting the market without making it too costly to build in.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 10:12:28 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-        "briefing": "Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 million outflow from Zcash funds at the start of the week.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto hardware wallets compared for 2026",
-        "link": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 10:11:12 +0000",
-        "importance": 5,
-        "summary": "Crypto hardware wallets compared for 2026",
-        "briefing": "From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this guide compares hardware wallets by security, connectivity, usability and recovery options to help users choose the right fit.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-        "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
-        "time": "Wed, 30 Sep 2026 11:54:22 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-        "briefing": "Robinhood is leaning deeper into crypto as they look to unlock their \u201ceverything app\u201d vision.",
+        "summary": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+        "briefing": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-        "link": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
-        "time": "Wed, 30 Sep 2026 11:46:16 +0000",
+        "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+        "link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+        "time": "Wed, 30 Sep 2026 19:16:02 +0000",
         "importance": 5,
-        "summary": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-        "briefing": "The former congressman says he made $823 on the trades, had no inside information, and had checked the platform's rules first.",
+        "summary": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+        "briefing": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+        "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+        "time": "Wed, 30 Sep 2026 18:39:21 +0000",
+        "importance": 5,
+        "summary": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+        "briefing": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"\u2014a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claims.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+        "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+        "time": "Wed, 30 Sep 2026 17:27:43 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+        "briefing": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+        "link": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+        "time": "Wed, 30 Sep 2026 16:36:10 +0000",
+        "importance": 5,
+        "summary": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+        "briefing": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+        "link": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+        "time": "Wed, 30 Sep 2026 16:06:03 +0000",
+        "importance": 5,
+        "summary": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+        "briefing": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight\u2014but carries no penalties and drew criticism for its thin detail.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+        "link": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
+        "time": "Wed, 30 Sep 2026 15:50:25 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+        "briefing": "The Fed's favorite inflation gauge came in cooler than expected, rate-hike odds fell and Bitcoin traders took the hint.",
         "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "McDonald's AI \u2018Pricing Engine\u2019 Gauges What Customers Will Pay for a Big Mac: Report",
-        "link": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
-        "time": "Wed, 30 Sep 2026 11:06:59 +0000",
+        "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
+        "link": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
+        "time": "Wed, 30 Sep 2026 15:17:45 +0000",
         "importance": 5,
-        "summary": "McDonald's AI \u2018Pricing Engine\u2019 Gauges What Customers Will Pay for a Big Mac: Report",
-        "briefing": "Machine-learning models set an 'optimal price' per item per restaurant, and have widened the gap between branches two miles apart.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-        "link": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
-        "time": "Wed, 30 Sep 2026 10:32:01 +0000",
-        "importance": 5,
-        "summary": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-        "briefing": "The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-        "link": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-        "time": "Tue, 29 Sep 2026 21:46:03 +0000",
-        "importance": 5,
-        "summary": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-        "briefing": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-        "link": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-        "time": "Tue, 29 Sep 2026 21:16:04 +0000",
-        "importance": 5,
-        "summary": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-        "briefing": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
+        "summary": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
+        "briefing": "Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have now valued the theft at more than 30 times that.",
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-        "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-        "time": "Tue, 29 Sep 2026 20:36:04 +0000",
-        "importance": 5,
-        "summary": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-        "briefing": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-        "link": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-        "time": "Tue, 29 Sep 2026 20:06:03 +0000",
-        "importance": 5,
-        "summary": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-        "briefing": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
