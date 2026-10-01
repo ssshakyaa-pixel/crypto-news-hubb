@@ -1,75 +1,93 @@
 [
     {
-        "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-        "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 01 Oct 2026 01:07:46 +0000",
+        "title": "Tokenized assets don\u2019t always mirror traditional markets, Dune finds",
+        "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 10:50:24 +0000",
         "importance": 5,
-        "summary": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-        "briefing": "The classification could assist the CFTC\u2019s claim that it has exclusive federal jurisdiction over event contracts offered on regulated prediction markets.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Tokenized assets don\u2019t always mirror traditional markets, Dune finds",
+        "briefing": "Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
-        "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 01 Oct 2026 00:15:55 +0000",
+        "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+        "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 10:30:18 +0000",
         "importance": 5,
-        "summary": "MetaMask exits Ethereum validators amid undisclosed security incident",
-        "briefing": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+        "briefing": "Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Standard Chartered sees Ethena\u2019s USDe reaching $40B, ENA hitting $2",
-        "link": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 20:57:32 +0000",
+        "title": "Binance\u2019s EU services face scrutiny over licensing exemption: Report",
+        "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 10:07:18 +0000",
         "importance": 5,
-        "summary": "Standard Chartered sees Ethena\u2019s USDe reaching $40B, ENA hitting $2",
-        "briefing": "The bank also expects Ethena\u2019s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and token buybacks increase.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "summary": "Binance\u2019s EU services face scrutiny over licensing exemption: Report",
+        "briefing": "EU regulators are reportedly examining Binance\u2019s use of a MiCA exemption to serve customers as ESMA seeks stronger enforcement powers.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Chainalysis beats most Celsius claims, but \u2018audit\u2019 lawsuit survives",
+        "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 09:09:46 +0000",
+        "importance": 5,
+        "summary": "Chainalysis beats most Celsius claims, but \u2018audit\u2019 lawsuit survives",
+        "briefing": "Chainalysis still faces an aiding-and-abetting claim over Celsius\u2019 disputed $3.3 billion audit after a judge dismissed 15 other claims.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 07:27:00 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+        "briefing": "Bitcoin gained 42.71% in Q3, its best third-quarter performance since 2017, as US spot ETFs attracted $6.34 billion in net inflows.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin think tank questions MSCI\u2019s \u2018invisible committee\u2019 over Strategy, Metaplanet rule",
+        "link": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 06:05:51 +0000",
+        "importance": 5,
+        "summary": "Bitcoin think tank questions MSCI\u2019s \u2018invisible committee\u2019 over Strategy, Metaplanet rule",
+        "briefing": "A Bitcoin Policy Institute paper says MSCI\u2019s proposed \u201cnon-operating company\u201d rule could remove Strategy and Metaplanet from its indexes and may have roots in an earlier crypto treasury review.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 19:37:13 +0000",
+        "time": "Thu, 01 Oct 2026 06:00:00 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-        "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 19:11:23 +0000",
-        "importance": 5,
-        "summary": "Crypto advocacy group announces picks for US Congress as midterms loom",
-        "briefing": "The organization\u2019s endorsements in the House and Senate came as many polls showed Democrats favored to regain control of both chambers in 2027.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-        "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 19:00:00 +0000",
-        "importance": 5,
-        "summary": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-        "briefing": "Base\u2019s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-        "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 18:49:06 +0000",
-        "importance": 5,
-        "summary": "Bloomberg brings onchain stablecoin data to its Terminal",
-        "briefing": "Bloomberg\u2019s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Brazil\u2019s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-        "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 30 Sep 2026 17:17:54 +0000",
+        "title": "Crypto hacks top $768M in September, worst month of 2026",
+        "link": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 01 Oct 2026 04:44:33 +0000",
         "importance": 5,
-        "summary": "Brazil\u2019s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-        "briefing": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "Crypto hacks top $768M in September, worst month of 2026",
+        "briefing": "The $388 million Bitget breach and $320 million Liquid Network exploit accounted for most of September\u2019s losses, though more than $270 million from the latter was later returned.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "MetaMask Exits Lido Validators Amid Infrastructure \u2018Security Incident\u2019",
+        "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+        "time": "Thu, 01 Oct 2026 09:38:06 +0000",
+        "importance": 5,
+        "summary": "MetaMask Exits Lido Validators Amid Infrastructure \u2018Security Incident\u2019",
+        "briefing": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "EU Presses Binance Over \u2018Reverse Solicitation\u2019 Exemption for Users: Report",
+        "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+        "time": "Thu, 01 Oct 2026 08:56:02 +0000",
+        "importance": 5,
+        "summary": "EU Presses Binance Over \u2018Reverse Solicitation\u2019 Exemption for Users: Report",
+        "briefing": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Gemini 4 Is Here, and Google\u2019s Flagship Tops All Other AI Models on Cybersecurity",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Gemini 4 Is Here, and Google\u2019s Flagship Tops All Other AI Models on Cybersecurity",
         "briefing": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
         "briefing": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
         "briefing": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
         "briefing": "The Coinbase-backed group's first Senate endorsements\u2014Republicans Jon Husted and Ashley Hinson and Democrat Chris Pappas\u2014come two weeks after the Clarity Act's collapse, as the industry's fight shifts to the campaign trail.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
         "briefing": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
         "briefing": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-        "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-        "time": "Wed, 30 Sep 2026 18:39:21 +0000",
-        "importance": 5,
-        "summary": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-        "briefing": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"\u2014a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claims.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-        "time": "Wed, 30 Sep 2026 17:27:43 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "briefing": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     }
 ]
