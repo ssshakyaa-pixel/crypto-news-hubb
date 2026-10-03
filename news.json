@@ -1,12 +1,30 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 03 Oct 2026 12:20:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+        "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sat, 03 Oct 2026 11:59:10 +0000",
+        "importance": 5,
+        "summary": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+        "briefing": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Community banks sue OCC over trust bank charters of crypto firms",
         "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sat, 03 Oct 2026 09:25:01 +0000",
         "importance": 5,
         "summary": "Community banks sue OCC over trust bank charters of crypto firms",
         "briefing": "Community banking group\u2019s lawsuit claims OCC has overstepped its mandate from Congress.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
@@ -15,16 +33,7 @@
         "importance": 5,
         "summary": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
         "briefing": "US intel chief Clayton may be asked to also oversee AI innovation and development along with \u201cself policing\u201d tech CEOs.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 02 Oct 2026 20:46:58 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
@@ -33,7 +42,7 @@
         "importance": 5,
         "summary": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
         "briefing": "Speaking on Cointelegraph\u2019s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
         "briefing": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
@@ -51,7 +60,7 @@
         "importance": 5,
         "summary": "Blast to wind down Ethereum L2 after costs outpace revenue",
         "briefing": "Once among Ethereum\u2019s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
@@ -60,16 +69,34 @@
         "importance": 5,
         "summary": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
         "briefing": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+        "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+        "time": "Sat, 03 Oct 2026 16:01:03 +0000",
+        "importance": 5,
+        "summary": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+        "briefing": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Crypto\u2019s billions are back, but the premiums aren\u2019t",
-        "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 02 Oct 2026 15:32:53 +0000",
+        "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+        "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+        "time": "Sat, 03 Oct 2026 15:01:03 +0000",
         "importance": 5,
-        "summary": "Crypto\u2019s billions are back, but the premiums aren\u2019t",
-        "briefing": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+        "briefing": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering",
+        "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+        "time": "Sat, 03 Oct 2026 13:01:04 +0000",
+        "importance": 5,
+        "summary": "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering",
+        "briefing": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
         "briefing": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face\u2014and whether the company can be held legally accountable.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
         "briefing": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
         "briefing": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter\u2014siding with the ECB in calling for more flexible rules.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
         "briefing": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
         "briefing": "Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet before Oct. 26.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-        "link": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
-        "time": "Fri, 02 Oct 2026 17:30:40 +0000",
-        "importance": 5,
-        "summary": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-        "briefing": "The AI chipmaker's stock topped its May peak on Friday, helped by a record $150 billion buyback and a weak jobs report that cooled bets on Fed rate hikes.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
-        "link": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
-        "time": "Fri, 02 Oct 2026 16:45:52 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
-        "briefing": "A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
-        "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
-        "time": "Fri, 02 Oct 2026 12:58:25 +0000",
-        "importance": 5,
-        "summary": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
-        "briefing": "Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     }
 ]
