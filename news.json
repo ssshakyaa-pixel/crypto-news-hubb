@@ -1,12 +1,48 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 14 Oct 2026 05:35:52 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Starknet introduces wallet privacy feature for DeFi activity",
+        "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 14 Oct 2026 05:32:14 +0000",
+        "importance": 5,
+        "summary": "Starknet introduces wallet privacy feature for DeFi activity",
+        "briefing": "Starknet\u2019s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Fed\u2019s Williams sees AI supply squeeze lasting beyond 2 years",
+        "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 14 Oct 2026 05:30:10 +0000",
+        "importance": 5,
+        "summary": "Fed\u2019s Williams sees AI supply squeeze lasting beyond 2 years",
+        "briefing": "New York Fed President John Williams\u2019 comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitwise\u2019s Hougan says Q3 charts point to \u2018crypto spring\u2019",
+        "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 14 Oct 2026 02:19:56 +0000",
+        "importance": 5,
+        "summary": "Bitwise\u2019s Hougan says Q3 charts point to \u2018crypto spring\u2019",
+        "briefing": "Bitwise\u2019s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
         "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 13 Oct 2026 23:28:19 +0000",
         "importance": 5,
         "summary": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
         "briefing": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -15,16 +51,7 @@
         "importance": 5,
         "summary": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
         "briefing": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 13 Oct 2026 19:33:57 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports",
         "briefing": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor\u2019s list of authorized entities starting Jan. 1.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
@@ -42,34 +69,7 @@
         "importance": 5,
         "summary": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
         "briefing": "A recent change in the SEC\u2019s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-        "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 13 Oct 2026 15:57:55 +0000",
-        "importance": 5,
-        "summary": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-        "briefing": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-        "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 13 Oct 2026 15:27:32 +0000",
-        "importance": 5,
-        "summary": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-        "briefing": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea\u2019s tech-stock rout.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic warns \u2018AI worms\u2019 may autonomously spread across devices like a virus",
-        "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 13 Oct 2026 13:55:09 +0000",
-        "importance": 5,
-        "summary": "Anthropic warns \u2018AI worms\u2019 may autonomously spread across devices like a virus",
-        "briefing": "Anthropic warned that rogue \u201cAI worms\u201d are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
         "briefing": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources",
         "briefing": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
         "briefing": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
         "briefing": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
         "briefing": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
         "briefing": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
         "briefing": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
         "briefing": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
