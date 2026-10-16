@@ -1,12 +1,30 @@
 [
     {
+        "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+        "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 15 Oct 2026 23:34:19 +0000",
+        "importance": 5,
+        "summary": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+        "briefing": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+        "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 15 Oct 2026 22:42:58 +0000",
+        "importance": 5,
+        "summary": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+        "briefing": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
         "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 15 Oct 2026 20:21:11 +0000",
         "importance": 5,
         "summary": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
         "briefing": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance\u2019s 2023 settlement with US authorities.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
@@ -24,7 +42,7 @@
         "importance": 5,
         "summary": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
         "briefing": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Sweden revisits digital krona as ECB advances digital euro plans",
@@ -33,7 +51,7 @@
         "importance": 5,
         "summary": "Sweden revisits digital krona as ECB advances digital euro plans",
         "briefing": "Sweden\u2019s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
@@ -42,7 +60,7 @@
         "importance": 5,
         "summary": "Mastercard brings stablecoin balances into traditional banking and card payments",
         "briefing": "The launch of Global Money Platform marks Mastercard\u2019s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin slips under $80K after US PPI gains most in four years",
@@ -51,25 +69,16 @@
         "importance": 5,
         "summary": "Bitcoin slips under $80K after US PPI gains most in four years",
         "briefing": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+        "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+        "time": "Thu, 15 Oct 2026 22:16:03 +0000",
+        "importance": 5,
+        "summary": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+        "briefing": "Researchers added hidden text to contact AI agents probing Alibaba\u2019s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
         "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-        "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 15 Oct 2026 14:22:43 +0000",
-        "importance": 5,
-        "summary": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-        "briefing": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-        "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 15 Oct 2026 14:16:55 +0000",
-        "importance": 5,
-        "summary": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-        "briefing": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
         "briefing": "Google's Willow chip cut errors 40x on the scarce \u201cmagic states\u201d quantum computers burn through, a step toward smaller, useful machines\u2014and toward ones that could threaten today's encryption.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
         "briefing": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
         "briefing": "In a note to investors, Matt Hougan used a \u201cChoose Your Own Adventure\u201d framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
         "briefing": "Speaking after BlackRock\u2019s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous\u2014calling the backlash \u201cmisinformation\u201d as data centers become a midterm flashpoint.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
         "briefing": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
         "briefing": "The first major integration since Mastercard\u2019s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
         "briefing": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-        "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-        "time": "Thu, 15 Oct 2026 14:27:18 +0000",
-        "importance": 5,
-        "summary": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-        "briefing": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
