@@ -1,75 +1,111 @@
 [
     {
-        "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-        "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 19 Oct 2026 05:14:06 +0000",
+        "title": "World Liberty\u2019s USD1 stablecoin sheds $400M in market cap in two weeks",
+        "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 11:57:58 +0000",
         "importance": 5,
-        "summary": "South Korea to meet crypto exchanges amid calls for tax delay",
-        "briefing": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax\u2019s start date back two years.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "World Liberty\u2019s USD1 stablecoin sheds $400M in market cap in two weeks",
+        "briefing": "World Liberty Financial\u2019s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-        "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 19 Oct 2026 01:03:27 +0000",
+        "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+        "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 11:32:00 +0000",
         "importance": 5,
-        "summary": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-        "briefing": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "BingX, YouHodler added to ESMA MiCA register in latest update",
+        "briefing": "ESMA\u2019s latest MiCA register update includes BingX, YouHodler and Banco Santander\u2019s Openbank, bringing the total to 375 unique CASPs.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
-        "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 18 Oct 2026 22:58:17 +0000",
+        "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+        "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 10:22:30 +0000",
         "importance": 5,
-        "summary": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
-        "briefing": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+        "briefing": "France\u2019s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 10:20:00 +0000",
+        "importance": 5,
+        "summary": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+        "briefing": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week\u2019s losses.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+        "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 08:58:45 +0000",
+        "importance": 5,
+        "summary": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+        "briefing": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 07:54:13 +0000",
+        "importance": 5,
+        "summary": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+        "briefing": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
+        "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 19 Oct 2026 05:55:44 +0000",
+        "importance": 5,
+        "summary": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
+        "briefing": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 18 Oct 2026 13:54:00 +0000",
+        "time": "Mon, 19 Oct 2026 05:48:07 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
         "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Most Americans polled oppose betting on elections: Reuters",
-        "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 18 Oct 2026 13:48:00 +0000",
+        "title": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
+        "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server",
+        "time": "Mon, 19 Oct 2026 12:07:46 +0000",
         "importance": 5,
-        "summary": "Most Americans polled oppose betting on elections: Reuters",
-        "briefing": "The prediction market industry enables people to bet on US \u200celections and sporting events.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
+        "briefing": "Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group \u201cglobal terrorists.\u201d",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-        "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 18 Oct 2026 10:46:00 +0000",
+        "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+        "link": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
+        "time": "Mon, 19 Oct 2026 11:40:40 +0000",
         "importance": 5,
-        "summary": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-        "briefing": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+        "summary": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+        "briefing": "Bain Capital, VanEck and Pantera Capital are among design partners for the offering, which also lets users delegate proofs to AI agents.",
         "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-        "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 18 Oct 2026 09:14:26 +0000",
+        "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+        "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
+        "time": "Mon, 19 Oct 2026 10:31:09 +0000",
         "importance": 5,
-        "summary": "Chinese suspect in $75M international crime network arrested in Bangkok",
-        "briefing": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+        "briefing": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-        "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sun, 18 Oct 2026 06:29:00 +0000",
+        "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+        "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+        "time": "Mon, 19 Oct 2026 10:11:21 +0000",
         "importance": 5,
-        "summary": "Tether backs AIsa as strategic investor, completing seed extension round",
-        "briefing": "The round brings AIsa\u2019s total funding to more than $9 million.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+        "briefing": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
@@ -78,7 +114,7 @@
         "importance": 5,
         "summary": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
         "briefing": "MapQuest\u2019s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
@@ -87,7 +123,7 @@
         "importance": 5,
         "summary": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
         "briefing": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
@@ -105,42 +141,6 @@
         "importance": 5,
         "summary": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
         "briefing": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million\u2014days after the PAC expanded its map to 32 House races.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-        "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-        "time": "Sat, 17 Oct 2026 16:01:03 +0000",
-        "importance": 5,
-        "summary": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-        "briefing": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-        "link": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
-        "time": "Sat, 17 Oct 2026 15:01:03 +0000",
-        "importance": 5,
-        "summary": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-        "briefing": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-        "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-        "time": "Sat, 17 Oct 2026 13:01:04 +0000",
-        "importance": 5,
-        "summary": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-        "briefing": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
-        "link": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-        "time": "Fri, 16 Oct 2026 20:16:04 +0000",
-        "importance": 5,
-        "summary": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
-        "briefing": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     }
 ]
