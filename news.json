@@ -1,75 +1,138 @@
 [
     {
-        "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-        "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 12:26:58 +0000",
+        "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+        "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 17:57:39 +0000",
         "importance": 5,
-        "summary": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-        "briefing": "The Office of the Comptroller of the Currency\u2019s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
+        "summary": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+        "briefing": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+        "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 17:25:00 +0000",
+        "importance": 5,
+        "summary": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+        "briefing": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+        "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 17:10:54 +0000",
+        "importance": 5,
+        "summary": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+        "briefing": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a \u201cwatershed moment for American finance.\u201d",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+        "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 16:09:26 +0000",
+        "importance": 5,
+        "summary": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+        "briefing": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 15:13:17 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+        "briefing": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
-        "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 12:06:23 +0000",
+        "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+        "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 13:57:14 +0000",
         "importance": 5,
-        "summary": "Standard Chartered signs definitive deal to acquire Zodia Custody",
-        "briefing": "The signing follows shareholders\u2019 acceptance of Standard Chartered\u2019s non-binding offer in May, with regulatory approvals still pending.",
+        "summary": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+        "briefing": "Solana\u2019s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 13:34:54 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
         "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-        "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 10:50:52 +0000",
+        "title": "Big Tech\u2019s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+        "link": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 21 Oct 2026 13:31:39 +0000",
         "importance": 5,
-        "summary": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-        "briefing": "PancakeSwap\u2019s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain\u2019s DeFi activity expands.",
+        "summary": "Big Tech\u2019s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+        "briefing": "CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
+        "link": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+        "time": "Wed, 21 Oct 2026 18:16:03 +0000",
+        "importance": 5,
+        "summary": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
+        "briefing": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof\u2014and under one man's control.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+        "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+        "time": "Wed, 21 Oct 2026 17:31:03 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+        "briefing": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
         "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "France proposes liability for crypto exchanges offering DeFi access",
-        "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 10:46:00 +0000",
+        "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+        "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+        "time": "Wed, 21 Oct 2026 16:46:04 +0000",
         "importance": 5,
-        "summary": "France proposes liability for crypto exchanges offering DeFi access",
-        "briefing": "French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability for certain customer losses under proposed changes to EU crypto rules.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+        "briefing": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin \u2018top buyers\u2019 halt BTC price upside with $87.7K now key: Glassnode",
-        "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 10:39:13 +0000",
+        "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+        "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+        "time": "Wed, 21 Oct 2026 16:16:05 +0000",
         "importance": 5,
-        "summary": "Bitcoin \u2018top buyers\u2019 halt BTC price upside with $87.7K now key: Glassnode",
-        "briefing": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-        "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 10:22:44 +0000",
-        "importance": 5,
-        "summary": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-        "briefing": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.",
+        "summary": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+        "briefing": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla\u2019s 11,509 BTC and SpaceX\u2019s 18,712 BTC\u2014roughly $2.5 billion worth\u2014onto a single balance sheet.",
         "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-        "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 10:15:00 +0000",
+        "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+        "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+        "time": "Wed, 21 Oct 2026 15:43:32 +0000",
         "importance": 5,
-        "summary": "Zcash rallies 12% as developers finalize NU7 activation height",
-        "briefing": "Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization work still pending.",
+        "summary": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+        "briefing": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
         "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-        "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 10:13:52 +0000",
+        "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+        "link": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+        "time": "Wed, 21 Oct 2026 15:35:16 +0000",
         "importance": 5,
-        "summary": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-        "briefing": "Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+        "briefing": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+        "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+        "time": "Wed, 21 Oct 2026 14:24:25 +0000",
+        "importance": 5,
+        "summary": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+        "briefing": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do",
@@ -78,69 +141,6 @@
         "importance": 5,
         "summary": "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do",
         "briefing": "Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are speculating on how prominently Rockstar will integrate it.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Bitcoin Tops JPMorgan\u2019s Ten-Year Forecast for All Assets",
-        "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-        "time": "Wed, 21 Oct 2026 12:16:38 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Bitcoin Tops JPMorgan\u2019s Ten-Year Forecast for All Assets",
-        "briefing": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-        "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-        "time": "Wed, 21 Oct 2026 11:52:23 +0000",
-        "importance": 5,
-        "summary": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-        "briefing": "The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
-        "link": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
-        "time": "Wed, 21 Oct 2026 11:19:34 +0000",
-        "importance": 5,
-        "summary": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
-        "briefing": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
-        "link": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
-        "time": "Wed, 21 Oct 2026 10:29:41 +0000",
-        "importance": 5,
-        "summary": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
-        "briefing": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-        "link": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-        "time": "Tue, 20 Oct 2026 22:16:04 +0000",
-        "importance": 5,
-        "summary": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-        "briefing": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-        "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-        "time": "Tue, 20 Oct 2026 21:46:04 +0000",
-        "importance": 5,
-        "summary": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-        "briefing": "The ChatGPT maker is folding Orchestra\u2019s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-        "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-        "time": "Tue, 20 Oct 2026 21:16:04 +0000",
-        "importance": 5,
-        "summary": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-        "briefing": "J.P. Morgan Asset Management\u2019s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn\u2019t adding it to its main portfolio models.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     }
 ]
