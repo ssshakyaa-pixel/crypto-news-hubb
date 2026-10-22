@@ -1,75 +1,102 @@
 [
     {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 05:56:18 +0000",
+        "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+        "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 13:13:45 +0000",
         "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+        "briefing": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Move over memecoins: Crypto \u2018meme games\u2019 coming, bagholders and all",
-        "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 05:35:38 +0000",
+        "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+        "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 13:00:00 +0000",
         "importance": 5,
-        "summary": "Move over memecoins: Crypto \u2018meme games\u2019 coming, bagholders and all",
-        "briefing": "\u201cPlenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,\u201d says Illuvium co-founder Kieran Warwick.",
+        "summary": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+        "briefing": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "The UK needs a workable route to regulated DeFi access",
+        "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 12:00:00 +0000",
+        "importance": 5,
+        "summary": "The UK needs a workable route to regulated DeFi access",
+        "briefing": "The UK\u2019s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase\u2019s European policy head Katie Harries.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CoinDCX admits \u2018operational losses\u2019 after $16M wallet transfers draw scrutiny",
+        "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 10:53:10 +0000",
+        "importance": 5,
+        "summary": "CoinDCX admits \u2018operational losses\u2019 after $16M wallet transfers draw scrutiny",
+        "briefing": "CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+        "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 10:38:51 +0000",
+        "importance": 5,
+        "summary": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+        "briefing": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
-        "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 00:44:00 +0000",
+        "title": "Starknet voters back research into life beyond Ethereum",
+        "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 09:37:54 +0000",
         "importance": 5,
-        "summary": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
-        "briefing": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
-        "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 21:53:48 +0000",
-        "importance": 5,
-        "summary": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
-        "briefing": "Banking advocacy organizations are pushing back against the OCC\u2019s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-        "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 20:26:07 +0000",
-        "importance": 5,
-        "summary": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-        "briefing": "The investment will support Peso\u2019s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable",
-        "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 20:19:39 +0000",
-        "importance": 5,
-        "summary": "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable",
-        "briefing": "The US President detailed many schemes defrauding Americans, but referred only to \u201ccybercurrency\u201c related to scams.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-        "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 17:57:39 +0000",
-        "importance": 5,
-        "summary": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-        "briefing": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
+        "summary": "Starknet voters back research into life beyond Ethereum",
+        "briefing": "StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-        "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 21 Oct 2026 17:25:00 +0000",
+        "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+        "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 09:06:02 +0000",
         "importance": 5,
-        "summary": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-        "briefing": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+        "briefing": "Cloudflare\u2019s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 22 Oct 2026 07:37:32 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+        "briefing": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+        "link": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+        "time": "Thu, 22 Oct 2026 12:01:03 +0000",
+        "importance": 5,
+        "summary": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+        "briefing": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance\u2014a yield-and-protection combination ordinary stablecoins lack.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+        "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+        "time": "Thu, 22 Oct 2026 10:45:13 +0000",
+        "importance": 5,
+        "summary": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+        "briefing": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+        "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+        "time": "Thu, 22 Oct 2026 10:09:42 +0000",
+        "importance": 5,
+        "summary": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+        "briefing": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
         "briefing": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
         "briefing": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
         "briefing": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
         "briefing": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof\u2014and under one man's control.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
         "briefing": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-        "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-        "time": "Wed, 21 Oct 2026 16:46:04 +0000",
-        "importance": 5,
-        "summary": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-        "briefing": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-        "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-        "time": "Wed, 21 Oct 2026 16:16:05 +0000",
-        "importance": 5,
-        "summary": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-        "briefing": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla\u2019s 11,509 BTC and SpaceX\u2019s 18,712 BTC\u2014roughly $2.5 billion worth\u2014onto a single balance sheet.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-        "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-        "time": "Wed, 21 Oct 2026 15:43:32 +0000",
-        "importance": 5,
-        "summary": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-        "briefing": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     }
 ]
