@@ -1,12 +1,66 @@
 [
     {
+        "title": "Was crypto self-custody ever designed for beginners?",
+        "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 23 Oct 2026 11:47:47 +0000",
+        "importance": 5,
+        "summary": "Was crypto self-custody ever designed for beginners?",
+        "briefing": "Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+        "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 23 Oct 2026 10:13:06 +0000",
+        "importance": 5,
+        "summary": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+        "briefing": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic\u2019s bridge to mint 10 million tokens on BNB Smart Chain.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bybit secures first full Dubai license for spot trading services",
+        "link": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 23 Oct 2026 09:50:04 +0000",
+        "importance": 5,
+        "summary": "Bybit secures first full Dubai license for spot trading services",
+        "briefing": "Bybit\u2019s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+        "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 23 Oct 2026 08:47:34 +0000",
+        "importance": 5,
+        "summary": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+        "briefing": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
+        "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 23 Oct 2026 07:15:53 +0000",
+        "importance": 5,
+        "summary": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
+        "briefing": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+        "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 23 Oct 2026 07:09:39 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETFs bleed $635M as October slides back into the red",
+        "briefing": "Thursday\u2019s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 23 Oct 2026 05:15:14 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
@@ -15,61 +69,34 @@
         "importance": 5,
         "summary": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
         "briefing": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam\u2019s gas changes and is coordinating responsible disclosure with affected projects.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-        "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 23 Oct 2026 04:34:14 +0000",
+        "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+        "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+        "time": "Fri, 23 Oct 2026 11:49:37 +0000",
         "importance": 5,
-        "summary": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-        "briefing": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+        "briefing": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Switzerland\u2019s first retail spot Bitcoin ETF targets November launch",
-        "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 23 Oct 2026 00:59:35 +0000",
+        "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+        "link": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+        "time": "Fri, 23 Oct 2026 10:54:35 +0000",
         "importance": 5,
-        "summary": "Switzerland\u2019s first retail spot Bitcoin ETF targets November launch",
-        "briefing": "BIT Asset Management\u2019s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "summary": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+        "briefing": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Pentagon bans US forces from using military info to bet in prediction markets",
-        "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 23:50:42 +0000",
+        "title": "Bitcoin in 'Wait and See Mode'\u2014And That Might Be a Good Thing",
+        "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+        "time": "Fri, 23 Oct 2026 08:55:35 +0000",
         "importance": 5,
-        "summary": "Pentagon bans US forces from using military info to bet in prediction markets",
-        "briefing": "Hegseth warned that prediction market wagers could expose military operations to adversaries.",
+        "summary": "Bitcoin in 'Wait and See Mode'\u2014And That Might Be a Good Thing",
+        "briefing": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
         "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-        "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 22:50:22 +0000",
-        "importance": 5,
-        "summary": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-        "briefing": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe\u2019s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-        "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 21:39:18 +0000",
-        "importance": 5,
-        "summary": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-        "briefing": "According to a Circle shareholder, the US president\u2019s \u201ccorruption\u201d through USD1 left the company unable to compete with stablecoins, harming USDC.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-        "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 22 Oct 2026 20:36:00 +0000",
-        "importance": 5,
-        "summary": "Dune launches real-time data feeds covering 200 onchain trading venues",
-        "briefing": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
         "briefing": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
         "briefing": "Lionel Messi\u2019s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
         "briefing": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
         "briefing": "Meta will hand shareholders a free non-voting share for every share they own in January, giving it a way to raise equity for AI spending without diluting Zuckerberg's 60.6% vote.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
         "briefing": "The Central Bank of Ireland penalized Coinbase Ireland \u20ac3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded\u2014its second hit to the exchange\u2019s European arm in the last year.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-        "link": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
-        "time": "Thu, 22 Oct 2026 18:06:02 +0000",
-        "importance": 5,
-        "summary": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-        "briefing": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
-        "link": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
-        "time": "Thu, 22 Oct 2026 17:33:38 +0000",
-        "importance": 5,
-        "summary": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
-        "briefing": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-        "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-        "time": "Thu, 22 Oct 2026 16:31:07 +0000",
-        "importance": 5,
-        "summary": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-        "briefing": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     }
 ]
