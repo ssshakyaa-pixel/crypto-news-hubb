@@ -1,12 +1,39 @@
 [
     {
+        "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+        "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 26 Oct 2026 19:47:40 +0000",
+        "importance": 5,
+        "summary": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+        "briefing": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI company Anthropic announces IPO, expected as early as November",
+        "link": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 26 Oct 2026 18:42:41 +0000",
+        "importance": 5,
+        "summary": "AI company Anthropic announces IPO, expected as early as November",
+        "briefing": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+        "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 26 Oct 2026 17:46:09 +0000",
+        "importance": 5,
+        "summary": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+        "briefing": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
         "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 26 Oct 2026 16:18:09 +0000",
         "importance": 5,
         "summary": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
         "briefing": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
         "briefing": "The agreement adds S&amp;P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
         "briefing": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
         "briefing": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -42,105 +69,78 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-        "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 26 Oct 2026 13:12:41 +0000",
-        "importance": 5,
-        "summary": "HOOD\u2019s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-        "briefing": "Bernstein analysts raised Robinhood\u2019s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-        "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 26 Oct 2026 11:39:27 +0000",
-        "importance": 5,
-        "summary": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-        "briefing": "The move marks Aviva\u2019s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-        "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 26 Oct 2026 10:49:55 +0000",
-        "importance": 5,
-        "summary": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-        "briefing": "Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
-        "link": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-        "time": "Mon, 26 Oct 2026 16:04:51 +0000",
-        "importance": 5,
-        "summary": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
-        "briefing": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Fl\u00e1vio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-        "link": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-        "time": "Mon, 26 Oct 2026 15:36:03 +0000",
-        "importance": 5,
-        "summary": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-        "briefing": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares\u2014part of what it calls the largest equity buyback any crypto treasury company has run.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "'Privacy Horror\u2019: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-        "link": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
-        "time": "Mon, 26 Oct 2026 15:00:02 +0000",
-        "importance": 5,
-        "summary": "'Privacy Horror\u2019: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-        "briefing": "AI-powered reverse engineering could make it \"easier and faster\" for researchers to uncover and explain how devices collect and share data.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under \u2018ANT\u2019",
-        "link": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-        "time": "Mon, 26 Oct 2026 13:50:22 +0000",
-        "importance": 5,
-        "summary": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under \u2018ANT\u2019",
-        "briefing": "The S-1 shows revenue up from $1.2 billion a year earlier, and a share structure that leaves a trust and the co-founders in control.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-        "link": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-        "time": "Mon, 26 Oct 2026 13:24:38 +0000",
-        "importance": 5,
-        "summary": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-        "briefing": "The Bitcoin treasury firm's USD Cash balance fell to $242.4 million after its biggest weekly STRC buyback in more than a month.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-        "link": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
-        "time": "Mon, 26 Oct 2026 13:02:43 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-        "briefing": "Analysts point to a sell-off in AI stocks and ETF outflows, with HashKey's Tim Sun flagging $75,000 as the next key support level.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin\u2019s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-        "link": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
-        "time": "Mon, 26 Oct 2026 13:01:02 +0000",
-        "importance": 5,
-        "summary": "Bitcoin\u2019s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-        "briefing": "Galaxy Research says Bitcoin\u2019s bear market ended in June, pointing to a reclaimed 50-week moving average, fading selling pressure, and a strengthening debasement case.",
         "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-        "link": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
-        "time": "Mon, 26 Oct 2026 12:16:12 +0000",
+        "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+        "link": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
+        "time": "Mon, 26 Oct 2026 21:16:03 +0000",
         "importance": 5,
-        "summary": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-        "briefing": "Some relief is appearing this morning as oil and rates fall, with a big macro week ahead featuring major earnings, FOMC and key data drops.",
+        "summary": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+        "briefing": "Unitree's shares have jumped about 60% in under two weeks as investors bet OpenAI's GPT-6 Astra will give robots the brains they lack, turning the stock into an AI proxy.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+        "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+        "time": "Mon, 26 Oct 2026 20:36:03 +0000",
+        "importance": 5,
+        "summary": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+        "briefing": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+        "link": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
+        "time": "Mon, 26 Oct 2026 20:06:02 +0000",
+        "importance": 5,
+        "summary": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+        "briefing": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+        "link": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
+        "time": "Mon, 26 Oct 2026 19:31:02 +0000",
+        "importance": 5,
+        "summary": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+        "briefing": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
+        "link": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
+        "time": "Mon, 26 Oct 2026 18:46:03 +0000",
+        "importance": 5,
+        "summary": "Why Prediction Markets Got the Brazilian Election So Wrong",
+        "briefing": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+        "link": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
+        "time": "Mon, 26 Oct 2026 18:16:02 +0000",
+        "importance": 5,
+        "summary": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+        "briefing": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+        "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+        "time": "Mon, 26 Oct 2026 17:41:21 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+        "briefing": "A confirmed exploit let rogue servers replace Electrum\u2019s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "India\u2019s CoinDCX Confirms $16 Million Loss Days After CEO Called It a \u2018False Alarm\u2019",
+        "link": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+        "time": "Mon, 26 Oct 2026 16:36:03 +0000",
+        "importance": 5,
+        "summary": "India\u2019s CoinDCX Confirms $16 Million Loss Days After CEO Called It a \u2018False Alarm\u2019",
+        "briefing": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year\u2019s $44 million hack, bringing its combined losses to nearly $60 million\u2014and it\u2019s absorbing the hit.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     }
 ]
