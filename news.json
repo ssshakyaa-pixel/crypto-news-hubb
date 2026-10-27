@@ -1,12 +1,39 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 27 Oct 2026 06:08:28 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+        "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 27 Oct 2026 04:26:51 +0000",
+        "importance": 5,
+        "summary": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+        "briefing": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+        "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 27 Oct 2026 01:55:03 +0000",
+        "importance": 5,
+        "summary": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+        "briefing": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Ripple wins final US approval for national trust bank",
         "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 27 Oct 2026 00:06:41 +0000",
         "importance": 5,
         "summary": "Ripple wins final US approval for national trust bank",
         "briefing": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US OCC calls on community banks to become payment stablecoin issuers",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "US OCC calls on community banks to become payment stablecoin issuers",
         "briefing": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
         "briefing": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Canada opens consultation on stablecoins, citing US GENIUS Act",
         "briefing": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI company Anthropic announces IPO, expected as early as November",
@@ -42,34 +69,7 @@
         "importance": 5,
         "summary": "AI company Anthropic announces IPO, expected as early as November",
         "briefing": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-        "link": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 26 Oct 2026 17:46:09 +0000",
-        "importance": 5,
-        "summary": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-        "briefing": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-        "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 26 Oct 2026 16:18:09 +0000",
-        "importance": 5,
-        "summary": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-        "briefing": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-        "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 26 Oct 2026 15:54:15 +0000",
-        "importance": 5,
-        "summary": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-        "briefing": "The agreement adds S&amp;P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
         "briefing": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
         "briefing": "OpenAI's mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
         "briefing": "Unitree's shares have jumped about 60% in under two weeks as investors bet OpenAI's GPT-6 Astra will give robots the brains they lack, turning the stock into an AI proxy.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
         "briefing": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
         "briefing": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
         "briefing": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Why Prediction Markets Got the Brazilian Election So Wrong",
         "briefing": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
         "briefing": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     }
 ]
