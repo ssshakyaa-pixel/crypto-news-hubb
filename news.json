@@ -1,12 +1,39 @@
 [
     {
-        "title": "Binance investigates potential multibillion-dollar hack",
+        "title": "Binance hack may involve private key \u2018misuse,\u2019 not theft: Blockaid CEO",
+        "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 00:11:26 +0000",
+        "importance": 5,
+        "summary": "Binance hack may involve private key \u2018misuse,\u2019 not theft: Blockaid CEO",
+        "briefing": "Blockaid\u2019s Ido Ben-Natan suspects attackers manipulated Binance\u2019s transaction-signing infrastructure, drawing parallels with the Bybit hack.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+        "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 29 Oct 2026 23:24:21 +0000",
+        "importance": 5,
+        "summary": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+        "briefing": "Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+        "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 29 Oct 2026 22:31:07 +0000",
+        "importance": 5,
+        "summary": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+        "briefing": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
         "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 29 Oct 2026 21:24:36 +0000",
         "importance": 5,
-        "summary": "Binance investigates potential multibillion-dollar hack",
-        "briefing": "Binance said it is investigating a potential security breach after suspicious wallet transfers, while co-founder CZ reported nearly $1.8 billion in frozen stablecoins.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+        "briefing": "Follow live updates as Binance says $3 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +42,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Public companies double share of blockchain revenue since 2022: Report",
@@ -24,7 +51,7 @@
         "importance": 5,
         "summary": "Public companies double share of blockchain revenue since 2022: Report",
         "briefing": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Polymarket suspended trading amid reports of user funds being drained",
@@ -33,7 +60,7 @@
         "importance": 5,
         "summary": "Polymarket suspended trading amid reports of user funds being drained",
         "briefing": "The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
@@ -42,34 +69,25 @@
         "importance": 5,
         "summary": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
         "briefing": "Hyperliquid\u2019s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "KuCoin suspends services in Russia and Belarus",
-        "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 29 Oct 2026 17:08:41 +0000",
+        "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+        "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+        "time": "Thu, 29 Oct 2026 22:57:48 +0000",
         "importance": 5,
-        "summary": "KuCoin suspends services in Russia and Belarus",
-        "briefing": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "summary": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+        "briefing": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-        "link": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 29 Oct 2026 16:27:39 +0000",
+        "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+        "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+        "time": "Thu, 29 Oct 2026 21:36:24 +0000",
         "importance": 5,
-        "summary": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-        "briefing": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC\u2019s innovation exemption.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
-        "link": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 29 Oct 2026 15:52:43 +0000",
-        "importance": 5,
-        "summary": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
-        "briefing": "The funding round comes as Kalshi expands its partnerships with the NBA and S&amp;P Dow Jones Indices while facing legal challenges over its sports contracts.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+        "briefing": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
         "briefing": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
         "briefing": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
         "briefing": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
         "briefing": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
         "briefing": "Only 13% of Americans say a candidate\u2019s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week\u2019s elections.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "$11 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "$11 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
         "briefing": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-        "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-        "time": "Thu, 29 Oct 2026 16:32:47 +0000",
-        "importance": 5,
-        "summary": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-        "briefing": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-        "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-        "time": "Thu, 29 Oct 2026 15:59:48 +0000",
-        "importance": 5,
-        "summary": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-        "briefing": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     }
 ]
