@@ -1,12 +1,57 @@
 [
     {
-        "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
-        "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 30 Oct 2026 14:12:26 +0000",
+        "title": "Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+        "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 19:01:58 +0000",
         "importance": 5,
-        "summary": "Live updates: Binance says $6.34B set aside to cover hack losses",
-        "briefing": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
+        "summary": "Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+        "briefing": "The stablecoin issuer\u2019s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+        "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 17:48:27 +0000",
+        "importance": 5,
+        "summary": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+        "briefing": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto Biz: Bitcoin\u2019s quantum threat is becoming an economic problem",
+        "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 17:09:31 +0000",
+        "importance": 5,
+        "summary": "Crypto Biz: Bitcoin\u2019s quantum threat is becoming an economic problem",
+        "briefing": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Recap: How Binance\u2019s record $6.3B hack unfolded",
+        "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 16:53:46 +0000",
+        "importance": 5,
+        "summary": "Recap: How Binance\u2019s record $6.3B hack unfolded",
+        "briefing": "A recap of Cointelegraph\u2019s live coverage of the Binance hack, including early breach reports and the exchange\u2019s full reimbursement pledge.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "As it happened: Binance\u2019s record $6.3B crypto hack",
+        "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 16:49:50 +0000",
+        "importance": 5,
+        "summary": "As it happened: Binance\u2019s record $6.3B crypto hack",
+        "briefing": "How Binance\u2019s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+        "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 30 Oct 2026 16:06:28 +0000",
+        "importance": 5,
+        "summary": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+        "briefing": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Will gold\u2019s \u2018infinite mint bug\u2019 make Bitcoin more valuable?",
@@ -24,52 +69,70 @@
         "importance": 5,
         "summary": "Will gold\u2019s \u2018infinite mint bug\u2019 make Bitcoin more valuable?",
         "briefing": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin\u2019s claim to be a better form of digital gold?",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance working with FBI to recover assets following $6.3B hack",
-        "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 30 Oct 2026 13:11:10 +0000",
+        "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+        "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+        "time": "Fri, 30 Oct 2026 20:06:03 +0000",
         "importance": 5,
-        "summary": "Binance working with FBI to recover assets following $6.3B hack",
-        "briefing": "Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company\u2019s funds to cover the shortfall.",
+        "summary": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+        "briefing": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
         "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-        "link": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 30 Oct 2026 12:41:43 +0000",
+        "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+        "link": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
+        "time": "Fri, 30 Oct 2026 19:31:02 +0000",
         "importance": 5,
-        "summary": "Binance says it holds $5B in matching tokens to cover hack losses",
-        "briefing": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
+        "summary": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+        "briefing": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance added to investor concerns.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+        "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+        "time": "Fri, 30 Oct 2026 18:45:03 +0000",
+        "importance": 5,
+        "summary": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+        "briefing": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
         "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Zcash grants group offers $124M compromise as governance backlash grows",
-        "link": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 30 Oct 2026 11:36:23 +0000",
+        "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+        "link": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+        "time": "Fri, 30 Oct 2026 18:16:02 +0000",
         "importance": 5,
-        "summary": "Zcash grants group offers $124M compromise as governance backlash grows",
-        "briefing": "Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+        "briefing": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest \u201cwrench attack\u201d prosecutions yet.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 30 Oct 2026 11:29:23 +0000",
+        "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+        "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+        "time": "Fri, 30 Oct 2026 17:50:26 +0000",
         "importance": 5,
-        "summary": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-        "briefing": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+        "briefing": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "EIP-7702 didn\u2019t cause Binance hack, but may have amplified losses",
-        "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 30 Oct 2026 11:00:10 +0000",
+        "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+        "link": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+        "time": "Fri, 30 Oct 2026 16:34:21 +0000",
         "importance": 5,
-        "summary": "EIP-7702 didn\u2019t cause Binance hack, but may have amplified losses",
-        "briefing": "Security experts said attackers could have drained Binance\u2019s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "summary": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+        "briefing": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+        "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+        "time": "Fri, 30 Oct 2026 16:25:06 +0000",
+        "importance": 5,
+        "summary": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+        "briefing": "After Musk appeared to mock Binance\u2019s $6.3 billion hack, CZ reminded him that the exchange\u2019s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
@@ -78,69 +141,6 @@
         "importance": 5,
         "summary": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
         "briefing": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
-        "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
-        "time": "Fri, 30 Oct 2026 13:00:09 +0000",
-        "importance": 5,
-        "summary": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
-        "briefing": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Binance\u2019s $6.4B Hack Overshadows Hyperliquid\u2019s Biggest Day",
-        "link": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
-        "time": "Fri, 30 Oct 2026 12:31:30 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Binance\u2019s $6.4B Hack Overshadows Hyperliquid\u2019s Biggest Day",
-        "briefing": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-        "link": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
-        "time": "Fri, 30 Oct 2026 12:22:04 +0000",
-        "importance": 5,
-        "summary": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-        "briefing": "Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-        "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-        "time": "Fri, 30 Oct 2026 10:07:29 +0000",
-        "importance": 5,
-        "summary": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-        "briefing": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-        "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-        "time": "Fri, 30 Oct 2026 09:31:59 +0000",
-        "importance": 5,
-        "summary": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-        "briefing": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-        "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-        "time": "Thu, 29 Oct 2026 22:57:48 +0000",
-        "importance": 5,
-        "summary": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-        "briefing": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-        "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-        "time": "Thu, 29 Oct 2026 21:36:24 +0000",
-        "importance": 5,
-        "summary": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-        "briefing": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     }
 ]
