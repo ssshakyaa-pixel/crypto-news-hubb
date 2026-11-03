@@ -1,75 +1,138 @@
 [
     {
-        "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-        "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 13:48:28 +0000",
+        "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+        "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 23:07:07 +0000",
         "importance": 5,
-        "summary": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-        "briefing": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "AI agent disputes head to \u2018Internet Court\u2019 \u2014 and a jury of AI agents",
-        "link": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 13:30:00 +0000",
-        "importance": 5,
-        "summary": "AI agent disputes head to \u2018Internet Court\u2019 \u2014 and a jury of AI agents",
-        "briefing": "Who better to judge a dispute between AI agents than a jury of different AI models? That\u2019s the idea behind GenLayer, which is already issuing thousands of judgements each day.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "North Korea denies role in $6.3B Binance hack, points finger at US",
+        "briefing": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 13:29:29 +0000",
+        "time": "Mon, 02 Nov 2026 22:36:09 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-        "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 13:21:47 +0000",
+        "title": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
+        "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 22:22:30 +0000",
         "importance": 5,
-        "summary": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-        "briefing": "Binance\u2019s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
+        "briefing": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "FATF targets crypto hubs in review of money laundering controls",
-        "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 12:56:07 +0000",
+        "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+        "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 21:54:41 +0000",
         "importance": 5,
-        "summary": "FATF targets crypto hubs in review of money laundering controls",
-        "briefing": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.",
+        "summary": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+        "briefing": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+        "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 21:16:24 +0000",
+        "importance": 5,
+        "summary": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+        "briefing": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.",
         "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-        "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 12:40:45 +0000",
+        "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+        "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 20:22:23 +0000",
         "importance": 5,
-        "summary": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-        "briefing": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+        "briefing": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase\u2019s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?",
-        "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 11:19:18 +0000",
+        "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+        "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 19:27:58 +0000",
         "importance": 5,
-        "summary": "From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?",
-        "briefing": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month\u2019s historically strong returns, as analysts reassess seasonal signals.",
+        "summary": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+        "briefing": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+        "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 02 Nov 2026 19:05:35 +0000",
+        "importance": 5,
+        "summary": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+        "briefing": "Brazil\u2019s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+        "link": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+        "time": "Mon, 02 Nov 2026 23:10:25 +0000",
+        "importance": 5,
+        "summary": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+        "briefing": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic\u2019s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+        "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+        "time": "Mon, 02 Nov 2026 22:16:02 +0000",
+        "importance": 5,
+        "summary": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+        "briefing": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+        "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+        "time": "Mon, 02 Nov 2026 21:16:03 +0000",
+        "importance": 5,
+        "summary": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+        "briefing": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+        "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+        "time": "Mon, 02 Nov 2026 20:36:03 +0000",
+        "importance": 5,
+        "summary": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+        "briefing": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
         "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Trezor lifts password ceiling after Coldcard\u2019s $100M wallet thefts",
-        "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 10:46:59 +0000",
+        "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+        "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+        "time": "Mon, 02 Nov 2026 19:46:02 +0000",
         "importance": 5,
-        "summary": "Trezor lifts password ceiling after Coldcard\u2019s $100M wallet thefts",
-        "briefing": "Trezor cited July\u2019s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "summary": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+        "briefing": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto\u2019s response to the Binance hack suggests sellers may already be exhausted.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+        "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+        "time": "Mon, 02 Nov 2026 18:46:03 +0000",
+        "importance": 5,
+        "summary": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+        "briefing": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea\u2019s automated laundering spans 12,000 wallets.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+        "link": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+        "time": "Mon, 02 Nov 2026 18:16:02 +0000",
+        "importance": 5,
+        "summary": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+        "briefing": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
@@ -78,69 +141,6 @@
         "importance": 5,
         "summary": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
         "briefing": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-        "link": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
-        "time": "Mon, 02 Nov 2026 17:07:28 +0000",
-        "importance": 5,
-        "summary": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-        "briefing": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-        "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-        "time": "Mon, 02 Nov 2026 16:46:03 +0000",
-        "importance": 5,
-        "summary": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-        "briefing": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-        "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-        "time": "Mon, 02 Nov 2026 16:23:24 +0000",
-        "importance": 5,
-        "summary": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-        "briefing": "The chairman laid out six reasons the market\u2019s \u201cmuted\u201d 4% ETH drop after the record Binance theft shows crypto is \u201cincreasingly resilient,\u201d as the firm\u2019s stash neared its 5% supply goal.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-        "link": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
-        "time": "Mon, 02 Nov 2026 15:01:03 +0000",
-        "importance": 5,
-        "summary": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-        "briefing": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
-        "link": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
-        "time": "Mon, 02 Nov 2026 13:34:02 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
-        "briefing": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-        "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
-        "time": "Mon, 02 Nov 2026 13:19:36 +0000",
-        "importance": 5,
-        "summary": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-        "briefing": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-        "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
-        "time": "Mon, 02 Nov 2026 12:24:18 +0000",
-        "importance": 5,
-        "summary": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-        "briefing": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     }
 ]
