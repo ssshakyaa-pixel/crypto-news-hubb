@@ -1,21 +1,66 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+        "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 05:10:19 +0000",
+        "importance": 5,
+        "summary": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+        "briefing": "Crypto.com will discontinue its consumer app services in Hong Kong in February next year.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+        "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 04:14:32 +0000",
+        "importance": 5,
+        "summary": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+        "briefing": "The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "UK warns AI ransomware attack on infrastructure \u2018highly likely\u2019 by 2028",
+        "link": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 03:58:45 +0000",
+        "importance": 5,
+        "summary": "UK warns AI ransomware attack on infrastructure \u2018highly likely\u2019 by 2028",
+        "briefing": "The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Binance begins second withdrawal phase, exchange outflows slow",
+        "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 03:03:44 +0000",
+        "importance": 5,
+        "summary": "Binance begins second withdrawal phase, exchange outflows slow",
+        "briefing": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+        "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 01:32:39 +0000",
+        "importance": 5,
+        "summary": "South Korea urges exchanges to boost cold storage after Binance hack",
+        "briefing": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
         "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 02 Nov 2026 23:07:07 +0000",
         "importance": 5,
         "summary": "North Korea denies role in $6.3B Binance hack, points finger at US",
         "briefing": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 22:36:09 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
@@ -24,52 +69,7 @@
         "importance": 5,
         "summary": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
         "briefing": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-        "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 21:54:41 +0000",
-        "importance": 5,
-        "summary": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-        "briefing": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
         "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-        "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 21:16:24 +0000",
-        "importance": 5,
-        "summary": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-        "briefing": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-        "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 20:22:23 +0000",
-        "importance": 5,
-        "summary": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-        "briefing": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase\u2019s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-        "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 19:27:58 +0000",
-        "importance": 5,
-        "summary": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-        "briefing": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-        "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 02 Nov 2026 19:05:35 +0000",
-        "importance": 5,
-        "summary": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-        "briefing": "Brazil\u2019s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
         "briefing": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic\u2019s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
         "briefing": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
         "briefing": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
         "briefing": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
         "briefing": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto\u2019s response to the Binance hack suggests sellers may already be exhausted.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
         "briefing": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea\u2019s automated laundering spans 12,000 wallets.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
         "briefing": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
