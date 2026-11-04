@@ -1,12 +1,57 @@
 [
     {
+        "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
+        "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 04 Nov 2026 01:33:21 +0000",
+        "importance": 5,
+        "summary": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
+        "briefing": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+        "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 04 Nov 2026 00:45:16 +0000",
+        "importance": 5,
+        "summary": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+        "briefing": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+        "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 23:56:09 +0000",
+        "importance": 5,
+        "summary": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+        "briefing": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 22:39:18 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+        "link": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 03 Nov 2026 21:47:20 +0000",
+        "importance": 5,
+        "summary": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+        "briefing": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "CFTC clears stock perpetual futures for trading on US exchanges",
         "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 03 Nov 2026 20:24:55 +0000",
         "importance": 5,
         "summary": "CFTC clears stock perpetual futures for trading on US exchanges",
         "briefing": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US midterms: Prediction markets favor Democrats in key crypto races",
@@ -15,7 +60,7 @@
         "importance": 5,
         "summary": "US midterms: Prediction markets favor Democrats in key crypto races",
         "briefing": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil\u2019s runoff.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen",
@@ -24,52 +69,34 @@
         "importance": 5,
         "summary": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen",
         "briefing": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
-        "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 03 Nov 2026 16:44:06 +0000",
+        "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+        "link": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+        "time": "Tue, 03 Nov 2026 23:48:32 +0000",
         "importance": 5,
-        "summary": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
-        "briefing": "Hackers exploited compromised employee computers and stolen credentials to breach Binance\u2019s wallet infrastructure, according to the exchange\u2019s investigation.",
+        "summary": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+        "briefing": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
+        "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+        "time": "Tue, 03 Nov 2026 22:46:02 +0000",
+        "importance": 5,
+        "summary": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
+        "briefing": "Paolo Ardoino told the Plan \u20bf Forum in Lugano the company owns \u201cgive or take 150,000 Bitcoin,\u201d but its Q3 reserve report implies just 100,060.",
         "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 03 Nov 2026 15:44:42 +0000",
+        "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+        "link": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+        "time": "Tue, 03 Nov 2026 21:50:17 +0000",
         "importance": 5,
-        "summary": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
-        "briefing": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "What\u2019s at stake for crypto as the US votes in the 2026 midterms?",
-        "link": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 03 Nov 2026 13:53:07 +0000",
-        "importance": 5,
-        "summary": "What\u2019s at stake for crypto as the US votes in the 2026 midterms?",
-        "briefing": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 03 Nov 2026 13:50:51 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-        "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 03 Nov 2026 13:15:47 +0000",
-        "importance": 5,
-        "summary": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-        "briefing": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia\u2019s new law, with annual purchase limits for non-qualified investors.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+        "briefing": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter\u2014a tricky equation ahead of its IPO.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
         "briefing": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
@@ -87,7 +114,7 @@
         "importance": 5,
         "summary": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
         "briefing": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
         "briefing": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
         "briefing": "Chairman Michael Selig said \u201cequity perpetual futures\u201d can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
         "briefing": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
-        "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
-        "time": "Tue, 03 Nov 2026 17:46:15 +0000",
-        "importance": 5,
-        "summary": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
-        "briefing": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Five Ways North Korea Breaks Into Crypto Firms\u2014and How Binance Was Hacked",
-        "link": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
-        "time": "Tue, 03 Nov 2026 17:30:54 +0000",
-        "importance": 5,
-        "summary": "Five Ways North Korea Breaks Into Crypto Firms\u2014and How Binance Was Hacked",
-        "briefing": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Epidemic of Hacked Freezers Spreads Across Europe",
-        "link": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
-        "time": "Tue, 03 Nov 2026 17:04:46 +0000",
-        "importance": 5,
-        "summary": "Epidemic of Hacked Freezers Spreads Across Europe",
-        "briefing": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50\u00b0C. Nobody knows who's behind it or why it spread.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     }
 ]
