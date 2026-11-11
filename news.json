@@ -1,12 +1,57 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 11 Nov 2026 06:00:00 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+        "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 11 Nov 2026 05:52:14 +0000",
+        "importance": 5,
+        "summary": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+        "briefing": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Across Protocol restores website after hackers hijack domain",
+        "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 11 Nov 2026 04:42:30 +0000",
+        "importance": 5,
+        "summary": "Across Protocol restores website after hackers hijack domain",
+        "briefing": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+        "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 11 Nov 2026 03:07:45 +0000",
+        "importance": 5,
+        "summary": "Crypto ally Tom Emmer elected House GOP minority whip",
+        "briefing": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+        "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Wed, 11 Nov 2026 01:16:58 +0000",
+        "importance": 5,
+        "summary": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+        "briefing": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
         "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Tue, 10 Nov 2026 23:49:51 +0000",
         "importance": 5,
         "summary": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
         "briefing": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren\u2019t live, according to Politico.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
@@ -15,16 +60,7 @@
         "importance": 5,
         "summary": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
         "briefing": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 10 Nov 2026 22:04:47 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
@@ -33,43 +69,7 @@
         "importance": 5,
         "summary": "Can crypto trust firms compete with banks in US derivatives settlements?",
         "briefing": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-        "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 10 Nov 2026 21:24:36 +0000",
-        "importance": 5,
-        "summary": "Across Protocol warns users to avoid app amid reports of drained wallets",
-        "briefing": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
-        "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 10 Nov 2026 21:07:44 +0000",
-        "importance": 5,
-        "summary": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
-        "briefing": "Ava Labs\u2019 John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-        "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 10 Nov 2026 20:26:02 +0000",
-        "importance": 5,
-        "summary": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-        "briefing": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-        "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Tue, 10 Nov 2026 18:12:07 +0000",
-        "importance": 5,
-        "summary": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-        "briefing": "Starting next week, customers can deposit and withdraw money through Brazil\u2019s instant payment system. Crypto transfers remain suspended.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
@@ -78,7 +78,7 @@
         "importance": 5,
         "summary": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
         "briefing": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
@@ -87,7 +87,7 @@
         "importance": 5,
         "summary": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
         "briefing": "Truth Social\u2019s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
@@ -96,7 +96,7 @@
         "importance": 5,
         "summary": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
         "briefing": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
@@ -105,7 +105,7 @@
         "importance": 5,
         "summary": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
         "briefing": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
@@ -114,7 +114,7 @@
         "importance": 5,
         "summary": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
         "briefing": "Elon Musk says the incoming Grok 4.8 will trail Anthropic\u2019s Claude Opus 5.5, praising his rival\u2019s model while predicting Grok 5 could surpass it in two or three months.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
@@ -123,7 +123,7 @@
         "importance": 5,
         "summary": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
         "briefing": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto\u2019s Stablecoin Giants",
@@ -132,7 +132,7 @@
         "importance": 5,
         "summary": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto\u2019s Stablecoin Giants",
         "briefing": "The funding, backing a U.S.-incorporated issuer codenamed \u201cProject Faro,\u201d covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
@@ -141,6 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
         "briefing": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
