@@ -1,21 +1,66 @@
 [
     {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 13 Nov 2026 22:08:37 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+        "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 13 Nov 2026 22:01:03 +0000",
+        "importance": 5,
+        "summary": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+        "briefing": "OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+        "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 13 Nov 2026 21:49:27 +0000",
+        "importance": 5,
+        "summary": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+        "briefing": "Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+        "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 13 Nov 2026 21:01:39 +0000",
+        "importance": 5,
+        "summary": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+        "briefing": "Payward\u2019s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+        "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 13 Nov 2026 20:53:20 +0000",
+        "importance": 5,
+        "summary": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+        "briefing": "Coinbase\u2019s trust company received final clearance as lawmakers seek records on crypto firms\u2019 compliance and potential conflicts of interest.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+        "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 13 Nov 2026 18:28:29 +0000",
+        "importance": 5,
+        "summary": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+        "briefing": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company\u2019s earnings despite higher revenue and operating profit.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
         "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Fri, 13 Nov 2026 16:39:11 +0000",
         "importance": 5,
         "summary": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
         "briefing": "Bitcoin was down about 4% on the day amid a tepid market reaction to October\u2019s US PPI reading, which came in below expected levels.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 13 Nov 2026 13:49:44 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
@@ -24,52 +69,70 @@
         "importance": 5,
         "summary": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
         "briefing": "Arthur Hayes said he was \u201cflattered\u201d by Coinbase\u2019s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-        "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 13 Nov 2026 13:04:19 +0000",
+        "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm\u2019s Rene Haas Emerges as Candidate",
+        "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+        "time": "Fri, 13 Nov 2026 22:16:03 +0000",
         "importance": 5,
-        "summary": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-        "briefing": "A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "summary": "Could a Former Nvidia Executive Replace Jensen Huang? Arm\u2019s Rene Haas Emerges as Candidate",
+        "briefing": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-        "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 13 Nov 2026 12:19:01 +0000",
+        "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+        "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+        "time": "Fri, 13 Nov 2026 21:36:03 +0000",
         "importance": 5,
-        "summary": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-        "briefing": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
+        "summary": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+        "briefing": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "China\u2019s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+        "link": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+        "time": "Fri, 13 Nov 2026 20:45:03 +0000",
+        "importance": 5,
+        "summary": "China\u2019s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+        "briefing": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
         "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-        "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 13 Nov 2026 09:58:21 +0000",
+        "title": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+        "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+        "time": "Fri, 13 Nov 2026 20:16:03 +0000",
         "importance": 5,
-        "summary": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-        "briefing": "Unocoin said the transfers were signed and broadcast outside BitGo\u2019s platform, and BitGo said the account freeze worked as intended.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "summary": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+        "briefing": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-        "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 13 Nov 2026 09:39:05 +0000",
+        "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+        "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+        "time": "Fri, 13 Nov 2026 19:36:03 +0000",
         "importance": 5,
-        "summary": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-        "briefing": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "summary": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+        "briefing": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-        "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 13 Nov 2026 09:27:14 +0000",
+        "title": "Fed Chair Warsh Wants Answers on AI Inflation\u2014and Bitcoin May Feel the Impact",
+        "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+        "time": "Fri, 13 Nov 2026 18:36:02 +0000",
         "importance": 5,
-        "summary": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-        "briefing": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "summary": "Fed Chair Warsh Wants Answers on AI Inflation\u2014and Bitcoin May Feel the Impact",
+        "briefing": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Trump\u2019s First Democratic Picks for SEC and CFTC Could Reshape Crypto\u2019s Regulators",
+        "link": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
+        "time": "Fri, 13 Nov 2026 17:56:03 +0000",
+        "importance": 5,
+        "summary": "Trump\u2019s First Democratic Picks for SEC and CFTC Could Reshape Crypto\u2019s Regulators",
+        "briefing": "The bipartisan slate\u2014two Republicans and two Democrats, Trump\u2019s first Democratic picks for either agency\u2014would refill commissions that have driven crypto policy since the Clarity Act\u2019s collapse.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
@@ -78,69 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
         "briefing": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
-        "link": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
-        "time": "Fri, 13 Nov 2026 13:55:25 +0000",
-        "importance": 5,
-        "summary": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
-        "briefing": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "\u2018Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-        "link": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-        "time": "Fri, 13 Nov 2026 13:36:29 +0000",
-        "importance": 5,
-        "summary": "\u2018Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-        "briefing": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-        "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
-        "time": "Fri, 13 Nov 2026 13:03:40 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-        "briefing": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?",
         "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
-        "link": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
-        "time": "Fri, 13 Nov 2026 11:58:47 +0000",
-        "importance": 5,
-        "summary": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
-        "briefing": "An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-        "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
-        "time": "Fri, 13 Nov 2026 11:20:44 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-        "briefing": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-        "link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
-        "time": "Fri, 13 Nov 2026 10:55:54 +0000",
-        "importance": 5,
-        "summary": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-        "briefing": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-        "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
-        "time": "Thu, 12 Nov 2026 22:36:02 +0000",
-        "importance": 5,
-        "summary": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-        "briefing": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
