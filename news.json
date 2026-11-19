@@ -1,75 +1,84 @@
 [
     {
-        "title": "Trump administration unveils new center to choke off scam payments",
-        "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 19 Nov 2026 01:45:33 +0000",
+        "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+        "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 10:32:05 +0000",
         "importance": 5,
-        "summary": "Trump administration unveils new center to choke off scam payments",
-        "briefing": "Americans reported more than $17.7 billion in online fraud losses in 2025.",
+        "summary": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+        "briefing": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+        "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 08:54:58 +0000",
+        "importance": 5,
+        "summary": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+        "briefing": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 08:26:19 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+        "briefing": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
         "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Fed officials saw October rate hold as a \u2018close call,\u2019 minutes show",
-        "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 19 Nov 2026 00:35:49 +0000",
+        "title": "BTCPay Server issues emergency update for 5 security flaws",
+        "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 08:04:37 +0000",
         "importance": 5,
-        "summary": "Fed officials saw October rate hold as a \u2018close call,\u2019 minutes show",
-        "briefing": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed\u2019s 10\u20132 vote indicated, with markets now pricing in a December hike.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "BTCPay Server issues emergency update for 5 security flaws",
+        "briefing": "The EU\u2019s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+        "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 07:55:56 +0000",
+        "importance": 5,
+        "summary": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+        "briefing": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+        "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 06:00:00 +0000",
+        "importance": 5,
+        "summary": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+        "briefing": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 18 Nov 2026 22:09:15 +0000",
+        "time": "Thu, 19 Nov 2026 06:00:00 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-        "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 18 Nov 2026 21:57:35 +0000",
-        "importance": 5,
-        "summary": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-        "briefing": "S&amp;P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-        "link": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 18 Nov 2026 21:13:58 +0000",
-        "importance": 5,
-        "summary": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-        "briefing": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-        "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 18 Nov 2026 20:32:06 +0000",
-        "importance": 5,
-        "summary": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-        "briefing": "Variational raised $110 million at a $1.5 billion valuation to expand Omni\u2019s derivatives markets and increase trading limits.",
         "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-        "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 18 Nov 2026 20:20:37 +0000",
+        "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+        "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 19 Nov 2026 05:27:45 +0000",
         "importance": 5,
-        "summary": "Binance says it obtained $6.5B worldwide freezing order after hack",
-        "briefing": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance\u2019s lawyers said.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+        "briefing": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-        "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 18 Nov 2026 18:27:52 +0000",
+        "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+        "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+        "time": "Thu, 19 Nov 2026 10:25:05 +0000",
         "importance": 5,
-        "summary": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-        "briefing": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+        "briefing": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
         "briefing": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
         "briefing": "Federal investigators bypassed safeguards on four popular chatbots, producing viable attack plans within hours.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Palmer Luckey Says He\u2019s Building an Offshore Haven for Industry\u2014And 'Illegal' Medicine",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Palmer Luckey Says He\u2019s Building an Offshore Haven for Industry\u2014And 'Illegal' Medicine",
         "briefing": "The Oculus founder says his decade-old SLAB project aims to escape state restrictions on manufacturing and medical treatment.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
         "briefing": "Google's Genie 4 lets Ultra subscribers reshape interactive scenes while exploring them, complete with sound and dialogue, as Project Genie adds longer sessions and new community creation and sharing tools.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
         "briefing": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Tanks Ahead of Anthropic\u2019s IPO. Should We Really Blame AI?",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Tanks Ahead of Anthropic\u2019s IPO. Should We Really Blame AI?",
         "briefing": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
         "briefing": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
-        "link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
-        "time": "Wed, 18 Nov 2026 18:16:02 +0000",
-        "importance": 5,
-        "summary": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
-        "briefing": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     }
 ]
