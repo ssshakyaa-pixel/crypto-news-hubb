@@ -1,12 +1,30 @@
 [
     {
+        "title": "The future of onchain FX could start with users, not institutional liquidity",
+        "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 22 Nov 2026 14:30:00 +0000",
+        "importance": 5,
+        "summary": "The future of onchain FX could start with users, not institutional liquidity",
+        "briefing": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Sun, 22 Nov 2026 11:25:27 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
         "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Sun, 22 Nov 2026 09:33:06 +0000",
         "importance": 5,
         "summary": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
         "briefing": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
@@ -15,7 +33,7 @@
         "importance": 5,
         "summary": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
         "briefing": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
@@ -24,16 +42,7 @@
         "importance": 5,
         "summary": "Chainflip confirms $12M hack, offers attacker 10% bounty",
         "briefing": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Sat, 21 Nov 2026 11:18:52 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
@@ -42,7 +51,7 @@
         "importance": 5,
         "summary": "ECB seeks industry partners for tokenized deposits, securities experiments",
         "briefing": "Industry groups have until Dec. 11 to apply for the ECB\u2019s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
@@ -60,16 +69,16 @@
         "importance": 5,
         "summary": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
         "briefing": "Hong Kong\u2019s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-        "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 20 Nov 2026 19:37:27 +0000",
+        "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+        "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+        "time": "Sun, 22 Nov 2026 14:01:02 +0000",
         "importance": 5,
-        "summary": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-        "briefing": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+        "briefing": "Google\u2019s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -78,7 +87,7 @@
         "importance": 5,
         "summary": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
         "briefing": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
@@ -87,7 +96,7 @@
         "importance": 5,
         "summary": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
         "briefing": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms\u2014even faking SEC certificates and filings\u2014to defraud U.S. investors of more than $37 million.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
@@ -96,7 +105,7 @@
         "importance": 5,
         "summary": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
         "briefing": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
@@ -105,7 +114,7 @@
         "importance": 5,
         "summary": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
         "briefing": "Tech stocks are buckling after Anthropic\u2019s historic IPO and Nvidia\u2019s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
@@ -114,7 +123,7 @@
         "importance": 5,
         "summary": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
         "briefing": "Levent Alp\u00f6ge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic\u2019s IPO has prompted questions about its unusual publication timing.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
@@ -123,7 +132,7 @@
         "importance": 5,
         "summary": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
         "briefing": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang\u2019s resignation.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "SBF\u2019s 'The Altruists' Plot Twist: FTX\u2019s Anthropic Shares Would Be Worth $43 Billion",
@@ -132,15 +141,6 @@
         "importance": 5,
         "summary": "SBF\u2019s 'The Altruists' Plot Twist: FTX\u2019s Anthropic Shares Would Be Worth $43 Billion",
         "briefing": "Anthropic\u2019s IPO made FTX\u2019s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-        "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-        "time": "Fri, 20 Nov 2026 18:46:03 +0000",
-        "importance": 5,
-        "summary": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-        "briefing": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker\u2019s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     }
 ]
