@@ -1,12 +1,66 @@
 [
     {
+        "title": "Google wants to make you the star of your own AI slop movies",
+        "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 24 Nov 2026 03:13:22 +0000",
+        "importance": 5,
+        "summary": "Google wants to make you the star of your own AI slop movies",
+        "briefing": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+        "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Tue, 24 Nov 2026 00:36:26 +0000",
+        "importance": 5,
+        "summary": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+        "briefing": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+        "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 23 Nov 2026 23:43:34 +0000",
+        "importance": 5,
+        "summary": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+        "briefing": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 23 Nov 2026 21:40:44 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+        "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 23 Nov 2026 21:04:03 +0000",
+        "importance": 5,
+        "summary": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+        "briefing": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Kalshi secures temporary win in New York gambling law dispute",
+        "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Mon, 23 Nov 2026 20:38:43 +0000",
+        "importance": 5,
+        "summary": "Kalshi secures temporary win in New York gambling law dispute",
+        "briefing": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
         "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Mon, 23 Nov 2026 19:35:06 +0000",
         "importance": 5,
         "summary": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
         "briefing": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
@@ -15,61 +69,52 @@
         "importance": 5,
         "summary": "Base makes quantum security a 2027 priority as regulators warn of risks",
         "briefing": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-        "link": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 23 Nov 2026 17:42:18 +0000",
+        "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+        "link": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+        "time": "Mon, 23 Nov 2026 23:06:02 +0000",
         "importance": 5,
-        "summary": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-        "briefing": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE\u2019s rollout, while some issuers simply wanted more time.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+        "summary": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+        "briefing": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-        "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 23 Nov 2026 16:51:17 +0000",
+        "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+        "link": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+        "time": "Mon, 23 Nov 2026 21:46:03 +0000",
         "importance": 5,
-        "summary": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-        "briefing": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang\u2019s reinstatement, while crypto liquidations topped $500 million four hours.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+        "briefing": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-        "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 23 Nov 2026 16:23:37 +0000",
+        "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+        "link": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
+        "time": "Mon, 23 Nov 2026 21:16:03 +0000",
         "importance": 5,
-        "summary": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-        "briefing": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "summary": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+        "briefing": "Alexandr Wang says Claude\u2019s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "How market depth shapes the price of a weekend Bitcoin sale",
-        "link": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 23 Nov 2026 15:57:55 +0000",
+        "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+        "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+        "time": "Mon, 23 Nov 2026 20:36:02 +0000",
         "importance": 5,
-        "summary": "How market depth shapes the price of a weekend Bitcoin sale",
-        "briefing": "Over 14 hours, Bitcoin traded on Kraken\u2019s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange\u2019s US dollar trades.",
+        "summary": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+        "briefing": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who \u201crefuses to block funds such as these.\"",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Why Nvidia Needed Jensen Huang Back\u2014And What His Return Really Changes",
+        "link": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+        "time": "Mon, 23 Nov 2026 19:57:21 +0000",
+        "importance": 5,
+        "summary": "Why Nvidia Needed Jensen Huang Back\u2014And What His Return Really Changes",
+        "briefing": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
         "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
-        "link": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 23 Nov 2026 14:47:00 +0000",
-        "importance": 5,
-        "summary": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
-        "briefing": "Nvidia shares surged nearly 29% after the company\u2019s board reinstated Jensen Huang as CEO following consultations with the US government.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Mon, 23 Nov 2026 14:06:36 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "GPU Jesus Has Risen: Jensen Huang\u2019s Nvidia Comeback Gets a Meme Parade",
@@ -78,7 +123,7 @@
         "importance": 5,
         "summary": "GPU Jesus Has Risen: Jensen Huang\u2019s Nvidia Comeback Gets a Meme Parade",
         "briefing": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
@@ -96,51 +141,6 @@
         "importance": 5,
         "summary": "Perps and Swaps: How to Trade the News on Decrypt",
         "briefing": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Jensen Huang\u2019s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-        "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
-        "time": "Mon, 23 Nov 2026 17:28:08 +0000",
-        "importance": 5,
-        "summary": "Jensen Huang\u2019s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-        "briefing": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
-        "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-        "time": "Mon, 23 Nov 2026 16:46:03 +0000",
-        "importance": 5,
-        "summary": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
-        "briefing": "Chairman Tom Lee argued ETH\u2019s supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82% and far below Solana, XRP and Cardano.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang\u2019s Return",
-        "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-        "time": "Mon, 23 Nov 2026 16:32:04 +0000",
-        "importance": 5,
-        "summary": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang\u2019s Return",
-        "briefing": "Nvidia\u2019s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-        "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-        "time": "Mon, 23 Nov 2026 14:07:21 +0000",
-        "importance": 5,
-        "summary": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-        "briefing": "The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-        "link": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
-        "time": "Mon, 23 Nov 2026 13:34:13 +0000",
-        "importance": 5,
-        "summary": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-        "briefing": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     }
 ]
