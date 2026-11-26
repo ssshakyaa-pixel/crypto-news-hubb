@@ -1,75 +1,93 @@
 [
     {
-        "title": "AI labs likely sitting on cryptography \u2018bombshells,\u2019 computer scientist says",
-        "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 01:33:20 +0000",
+        "title": "Standard Chartered\u2019s Zodia Custody suffers data breach: Report",
+        "link": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 11:37:06 +0000",
         "importance": 5,
-        "summary": "AI labs likely sitting on cryptography \u2018bombshells,\u2019 computer scientist says",
-        "briefing": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "summary": "Standard Chartered\u2019s Zodia Custody suffers data breach: Report",
+        "briefing": "Zodia Custody\u2019s CEO said the breach exposed names and email addresses of some clients and employees and was detected by the company Monday.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+        "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 11:22:59 +0000",
+        "importance": 5,
+        "summary": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+        "briefing": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+        "link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 10:15:28 +0000",
+        "importance": 5,
+        "summary": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+        "briefing": "Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+        "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 09:42:34 +0000",
+        "importance": 5,
+        "summary": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+        "briefing": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Switzerland\u2019s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+        "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 09:18:15 +0000",
+        "importance": 5,
+        "summary": "Switzerland\u2019s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+        "briefing": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 22:33:13 +0000",
+        "time": "Thu, 26 Nov 2026 06:00:00 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-        "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 21:53:38 +0000",
-        "importance": 5,
-        "summary": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-        "briefing": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-        "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 21:22:19 +0000",
-        "importance": 5,
-        "summary": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-        "briefing": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners\u2019 computing power and potentially steal rewards.",
         "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
-        "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 21:11:39 +0000",
+        "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 05:53:08 +0000",
         "importance": 5,
-        "summary": "Why ECB collateral eligibility could boost demand for tokenized bonds",
-        "briefing": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.",
+        "summary": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "briefing": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+        "link": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 05:29:26 +0000",
+        "importance": 5,
+        "summary": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+        "briefing": "Sky\u2019s Core Facilitator invoked the protocol\u2019s emergency response process to expedite a vote rather than wait until the next scheduled vote on Dec. 3.",
         "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-        "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 18:54:51 +0000",
+        "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+        "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+        "time": "Thu, 26 Nov 2026 11:50:23 +0000",
         "importance": 5,
-        "summary": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-        "briefing": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "summary": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+        "briefing": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-        "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 17:53:10 +0000",
+        "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+        "link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
+        "time": "Thu, 26 Nov 2026 11:25:58 +0000",
         "importance": 5,
-        "summary": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-        "briefing": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-        "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Wed, 25 Nov 2026 17:33:22 +0000",
-        "importance": 5,
-        "summary": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-        "briefing": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "summary": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+        "briefing": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "China's Google Just Released Its Fast New AI Model for Free",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "China's Google Just Released Its Fast New AI Model for Free",
         "briefing": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
-        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
         "briefing": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia\u2019s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
         "briefing": "An attacker compromised an employee\u2019s GitHub account to reach 1Password\u2019s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
         "briefing": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
         "briefing": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
         "briefing": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-        "link": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-        "time": "Wed, 25 Nov 2026 18:18:10 +0000",
-        "importance": 5,
-        "summary": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-        "briefing": "The FCC authorized SpaceX\u2019s solar-powered Starmind constellation, backing Elon Musk\u2019s plans to move AI computing into orbit and reduce the industry\u2019s dependence on increasingly strained power grids here on Earth.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI\u2019s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-        "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-        "time": "Wed, 25 Nov 2026 17:46:02 +0000",
-        "importance": 5,
-        "summary": "OpenAI\u2019s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-        "briefing": "OpenAI is merging ChatGPT\u2019s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
-        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     }
 ]
