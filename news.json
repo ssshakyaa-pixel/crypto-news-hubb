@@ -1,75 +1,102 @@
 [
     {
-        "title": "AI is driving a flood of crypto bug reports. Now it\u2019s helping sort them",
-        "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 27 Nov 2026 01:47:38 +0000",
+        "title": "Brazil\u2019s stock exchange pushes stablecoin launch back to 2027",
+        "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 12:39:54 +0000",
         "importance": 5,
-        "summary": "AI is driving a flood of crypto bug reports. Now it\u2019s helping sort them",
-        "briefing": "Bug bounty platform HackerOne said it\u2019s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+        "summary": "Brazil\u2019s stock exchange pushes stablecoin launch back to 2027",
+        "briefing": "Brazil\u2019s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
-        "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Fri, 27 Nov 2026 00:35:39 +0000",
+        "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+        "link": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 12:20:00 +0000",
         "importance": 5,
-        "summary": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
-        "briefing": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash\u2019s privacy design sets it apart.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+        "summary": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+        "briefing": "About 74% of accounts were based in other EEA countries, highlighting the market\u2019s cross-border nature and putting Europe\u2019s supervisory framework in focus, FMA said.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "\u2018Very racist\u2019 Netflix SBF series, BitMart\u2019s $319M shortfall: Asia Express",
-        "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 22:39:46 +0000",
+        "title": "Bitcoin supply metric hits 11-year low as new \u2018capitulation\u2019 signal arrives",
+        "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 11:14:28 +0000",
         "importance": 5,
-        "summary": "\u2018Very racist\u2019 Netflix SBF series, BitMart\u2019s $319M shortfall: Asia Express",
-        "briefing": "Netflix\u2019s The Altruist has been slammed for its \u2018very racist\u2019 portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "Bitcoin supply metric hits 11-year low as new \u2018capitulation\u2019 signal arrives",
+        "briefing": "The seven-day moving average of Bitcoin\u2019s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%.",
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+        "link": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 10:26:06 +0000",
+        "importance": 5,
+        "summary": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+        "briefing": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades.",
+        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "ESMA to overhaul EU\u2019s MiCA crypto register in 2027",
+        "link": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 08:04:39 +0000",
+        "importance": 5,
+        "summary": "ESMA to overhaul EU\u2019s MiCA crypto register in 2027",
+        "briefing": "ESMA\u2019s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+        "link": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 07:19:44 +0000",
+        "importance": 5,
+        "summary": "New York AG secures $1.37B court judgment against NovaTech founders",
+        "briefing": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Here\u2019s what happened in crypto today",
         "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 22:12:06 +0000",
+        "time": "Fri, 27 Nov 2026 06:00:00 +0000",
         "importance": 5,
         "summary": "Here\u2019s what happened in crypto today",
         "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-        "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 21:42:43 +0000",
+        "title": "Japan\u2019s crypto security group taps SEAL to speed up hack response",
+        "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 05:22:36 +0000",
         "importance": 5,
-        "summary": "BNB Chain details new layer-1 for trading, private finance and AI",
-        "briefing": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+        "summary": "Japan\u2019s crypto security group taps SEAL to speed up hack response",
+        "briefing": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email addresses belonging to two Japanese crypto exchanges.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-        "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 21:33:47 +0000",
+        "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+        "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+        "time": "Fri, 27 Nov 2026 13:24:17 +0000",
         "importance": 5,
-        "summary": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-        "briefing": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "summary": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+        "briefing": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
+        "image": "https://images.unsplash.com/photo-1621504450181-5d156658e94a?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
-        "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 21:13:53 +0000",
+        "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+        "link": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+        "time": "Fri, 27 Nov 2026 11:19:47 +0000",
         "importance": 5,
-        "summary": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
-        "briefing": "Coinbase and Stand With Crypto argue that the FCA\u2019s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+        "summary": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+        "briefing": "Kalshi says about 500 businesses have used it to hedge risks such as tariffs and bad weather, as legal fights weigh on its sports markets.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-        "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 20:05:18 +0000",
+        "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+        "link": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+        "time": "Fri, 27 Nov 2026 10:15:51 +0000",
         "importance": 5,
-        "summary": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-        "briefing": "Japan\u2019s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "summary": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+        "briefing": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
@@ -78,7 +105,7 @@
         "importance": 5,
         "summary": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
         "briefing": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
@@ -96,7 +123,7 @@
         "importance": 5,
         "summary": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
         "briefing": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
@@ -105,7 +132,7 @@
         "importance": 5,
         "summary": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
         "briefing": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
-        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
@@ -114,33 +141,6 @@
         "importance": 5,
         "summary": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
         "briefing": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
-        "link": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
-        "time": "Thu, 26 Nov 2026 15:11:14 +0000",
-        "importance": 5,
-        "summary": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
-        "briefing": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
-        "link": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
-        "time": "Thu, 26 Nov 2026 14:38:55 +0000",
-        "importance": 5,
-        "summary": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
-        "briefing": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-        "link": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
-        "time": "Thu, 26 Nov 2026 14:26:22 +0000",
-        "importance": 5,
-        "summary": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-        "briefing": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
-        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
     }
 ]
