@@ -1,75 +1,93 @@
 [
     {
+        "title": "AI is driving a flood of crypto bug reports. Now it\u2019s helping sort them",
+        "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 01:47:38 +0000",
+        "importance": 5,
+        "summary": "AI is driving a flood of crypto bug reports. Now it\u2019s helping sort them",
+        "briefing": "Bug bounty platform HackerOne said it\u2019s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.",
+        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+        "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Fri, 27 Nov 2026 00:35:39 +0000",
+        "importance": 5,
+        "summary": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+        "briefing": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash\u2019s privacy design sets it apart.",
+        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "\u2018Very racist\u2019 Netflix SBF series, BitMart\u2019s $319M shortfall: Asia Express",
+        "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 22:39:46 +0000",
+        "importance": 5,
+        "summary": "\u2018Very racist\u2019 Netflix SBF series, BitMart\u2019s $319M shortfall: Asia Express",
+        "briefing": "Netflix\u2019s The Altruist has been slammed for its \u2018very racist\u2019 portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.",
+        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Here\u2019s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 22:12:06 +0000",
+        "importance": 5,
+        "summary": "Here\u2019s what happened in crypto today",
+        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+        "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 21:42:43 +0000",
+        "importance": 5,
+        "summary": "BNB Chain details new layer-1 for trading, private finance and AI",
+        "briefing": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
+        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+        "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 21:33:47 +0000",
+        "importance": 5,
+        "summary": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+        "briefing": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+        "title": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
+        "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "time": "Thu, 26 Nov 2026 21:13:53 +0000",
+        "importance": 5,
+        "summary": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
+        "briefing": "Coinbase and Stand With Crypto argue that the FCA\u2019s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
+    },
+    {
         "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
         "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "time": "Thu, 26 Nov 2026 20:05:18 +0000",
         "importance": 5,
         "summary": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
         "briefing": "Japan\u2019s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
-        "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-        "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 18:26:31 +0000",
+        "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+        "link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+        "time": "Thu, 26 Nov 2026 22:01:02 +0000",
         "importance": 5,
-        "summary": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-        "briefing": "A new decree would allow Spain\u2019s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
-        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
+        "summary": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+        "briefing": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
     },
     {
-        "title": "Crypto on notice as hawkish Fed risks December \u2018meltdown\u2019",
-        "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 17:39:53 +0000",
+        "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+        "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+        "time": "Thu, 26 Nov 2026 21:01:03 +0000",
         "importance": 5,
-        "summary": "Crypto on notice as hawkish Fed risks December \u2018meltdown\u2019",
-        "briefing": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
-        "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "BIS chief Pablo Hern\u00e1ndez de Cos set to become next ECB president: FT",
-        "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 16:40:44 +0000",
-        "importance": 5,
-        "summary": "BIS chief Pablo Hern\u00e1ndez de Cos set to become next ECB president: FT",
-        "briefing": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
-        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-        "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 15:45:07 +0000",
-        "importance": 5,
-        "summary": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-        "briefing": "A vote on Kyrgyzstan could make an exchange\u2019s home country the deciding factor in whether a European broker can use it to settle a trade.",
-        "image": "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-        "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 13:47:56 +0000",
-        "importance": 5,
-        "summary": "Nasdaq exec pushes for common EU rules on tokenized securities",
-        "briefing": "Nasdaq\u2019s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.",
-        "image": "https://images.unsplash.com/photo-1621504450081-3f191f635677?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Here\u2019s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 13:45:04 +0000",
-        "importance": 5,
-        "summary": "Here\u2019s what happened in crypto today",
-        "briefing": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "image": "https://images.unsplash.com/photo-1644361566696-3d442b5b482a?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "7 bizarre things crypto whales spent a fortune on",
-        "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "time": "Thu, 26 Nov 2026 13:30:00 +0000",
-        "importance": 5,
-        "summary": "7 bizarre things crypto whales spent a fortune on",
-        "briefing": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief.",
-        "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?w=600&auto=format&fit=crop&q=80"
+        "summary": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+        "briefing": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+        "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
@@ -78,7 +96,7 @@
         "importance": 5,
         "summary": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
         "briefing": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
-        "image": "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
@@ -87,7 +105,7 @@
         "importance": 5,
         "summary": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
         "briefing": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
-        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1609554496796-c345a5335ceb?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
@@ -96,7 +114,7 @@
         "importance": 5,
         "summary": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
         "briefing": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
-        "image": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
@@ -105,7 +123,7 @@
         "importance": 5,
         "summary": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
         "briefing": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
-        "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1624996379697-f01d168b1a52?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
@@ -114,7 +132,7 @@
         "importance": 5,
         "summary": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
         "briefing": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
-        "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=600&auto=format&fit=crop&q=80"
     },
     {
         "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
@@ -123,24 +141,6 @@
         "importance": 5,
         "summary": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
         "briefing": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
-        "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-        "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-        "time": "Thu, 26 Nov 2026 13:13:19 +0000",
-        "importance": 5,
-        "summary": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-        "briefing": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
-        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80"
-    },
-    {
-        "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-        "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
-        "time": "Thu, 26 Nov 2026 12:26:08 +0000",
-        "importance": 5,
-        "summary": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-        "briefing": "A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low.",
-        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&auto=format&fit=crop&q=80"
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&auto=format&fit=crop&q=80"
     }
 ]
